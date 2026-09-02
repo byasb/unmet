@@ -126,6 +126,21 @@ export default defineSchema({
     category: v.string(),
     location: v.string(),
     peers: v.array(v.string()),
+    // The street: coordinates + counters for you and every peer, from the
+    // google_maps result that discovered them (no other geo source).
+    geo: v.optional(
+      v.array(
+        v.object({
+          title: v.string(),
+          dataId: v.string(),
+          lat: v.number(),
+          lng: v.number(),
+          rating: v.optional(v.number()),
+          reviews: v.optional(v.number()),
+          isYou: v.boolean(),
+        }),
+      ),
+    ),
     timezone: v.string(),
     createdAt: v.number(),
   }).index("by_user", ["userId"]),

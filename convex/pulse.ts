@@ -104,7 +104,7 @@ function decodePeer(s: string): { title: string; dataId: string } {
 // other city.
 const DEFAULT_LL = "@30.3178,-97.7318,12z";
 
-async function discoverPlaces(
+export async function discoverPlaces(
   callFn: CallFn,
   name: string,
   category: string,
@@ -239,11 +239,41 @@ export const createBusiness = internalMutation({
 });
 
 export const setDiscoveredPeers = internalMutation({
-  args: { businessId: v.id("businesses"), placeId: v.string(), peers: v.array(v.string()) },
-  handler: async (ctx, { businessId, placeId, peers }) => {
-    await ctx.db.patch(businessId, { placeId, peers });
+  args: {
+    businessId: v.id("businesses"),
+    placeId: v.string(),
+    peers: v.array(v.string()),
+    geo: v.optional(v.array(
+      v.object({
+        title: v.string(),
+        dataId: v.string(),
+        lat: v.number(),
+        lng: v.number(),
+        rating: v.optional(v.number()),
+        reviews: v.optional(v.number()),
+        isYou: v.boolean(),
+      }),
+    )),
+  },
+  handler: async (ctx, { businessId, placeId, peers, geo }) => {
+    await ctx.db.patch(businessId, geo ? { placeId, peers, geo } : { placeId, peers });
   },
 });
+
+/** Coordinates for the street map, straight from the google_maps rows. */
+export function toGeo(you: MapsPlace, peers: MapsPlace[]) {
+  return [you, ...peers]
+    .filter((p) => typeof p.lat === "number" && typeof p.lng === "number")
+    .map((p) => ({
+      title: p.title,
+      dataId: p.dataId,
+      lat: p.lat as number,
+      lng: p.lng as number,
+      rating: p.rating,
+      reviews: p.reviews,
+      isYou: p === you,
+    }));
+}
 
 /** Idempotent by (businessId, day) -- BUILD-PLAN.md Rules #6. `runs` has no
  * businessId column, so pulse runs key `term` = the businessId string,
@@ -482,6 +512,7 @@ export async function executePulse(
         businessId: business._id,
         placeId: you.dataId,
         peers: peers.map((p) => encodePeer(p.title, p.dataId)),
+        geo: toGeo(discovered.you, discovered.peers),
       });
     }
 

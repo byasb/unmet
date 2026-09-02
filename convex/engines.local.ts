@@ -19,6 +19,8 @@ export type MapsPlace = {
   rating?: number;
   reviews?: number;
   address?: string;
+  lat?: number;
+  lng?: number;
 };
 
 /** google_maps: q + ll, type=search -> local_results[]. 20 results/call,
@@ -43,6 +45,8 @@ export async function googleMaps(
     rating: r.rating,
     reviews: r.reviews,
     address: r.address,
+    lat: r.gps_coordinates?.latitude,
+    lng: r.gps_coordinates?.longitude,
   }));
 }
 

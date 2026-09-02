@@ -4,7 +4,9 @@ import { v } from "convex/values";
 import { internalAction, internalMutation, internalQuery } from "./_generated/server";
 import { internal } from "./_generated/api";
 import { executeBuild } from "./pipeline";
-import { executePulse } from "./pulse";
+import { discoverPlaces, executePulse, toGeo } from "./pulse";
+import { call as serpCall } from "./serp";
+import type { SerpParams } from "./cacheKey";
 
 export const setRole = internalMutation({
   args: {
@@ -98,5 +100,33 @@ export const wipePulse = internalMutation({
       }
     }
     return { deleted: n };
+  },
+});
+
+/** Fill businesses.geo for businesses discovered before the street map
+ * existed. Re-runs discovery from the cached google_maps row (zero live
+ * calls when the category+city is cached) and matches on title. */
+export const backfillGeo = internalAction({
+  args: {},
+  handler: async (ctx): Promise<any> => {
+    const ids: any[] = await ctx.runQuery(internal.pulse.listBusinessIds, {});
+    const out: any[] = [];
+    for (const businessId of ids) {
+      const b = await ctx.runQuery(internal.pulse.getBusiness, { businessId });
+      if (!b) continue;
+      // Needs a runId to attribute the (cached) call; reuse the latest run.
+      const latest: any = await ctx.runQuery(internal.pulse.getLatestDoneRun, { businessId });
+      if (!latest) continue;
+      const callFn = (engine: string, params: Record<string, unknown>) =>
+        serpCall(ctx, latest._id, { engine, ...params } as SerpParams);
+      const d = await discoverPlaces(callFn, b.name, b.category, undefined, b.peers.length || 6);
+      const wanted = new Set([b.name, ...b.peers.map((s: string) => s.split("::")[0])]);
+      const all = [d.you, ...d.peers].filter((p) => wanted.has(p.title));
+      const you = all.find((p) => p.title === b.name) ?? d.you;
+      const geo = toGeo(you, all.filter((p) => p !== you));
+      await ctx.runMutation(internal.pulse.setDiscoveredPeers, { businessId, placeId: b.placeId, peers: b.peers, geo });
+      out.push({ business: b.name, places: geo.length });
+    }
+    return out;
   },
 });

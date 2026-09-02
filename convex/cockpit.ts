@@ -107,6 +107,53 @@ export const pulseGaps = query({
   },
 });
 
+/** The street map: every place with coordinates, how many of the top-5 gaps
+ * hit it, its reviews read this week, and its worst quote. */
+export const street = query({
+  args: { businessId: v.id("businesses") },
+  handler: async (ctx, { businessId }) => {
+    await requireUser(ctx);
+    const business = await ctx.db.get(businessId);
+    if (!business) return null;
+    const latest = await latestDonePulseRun(ctx, businessId);
+    const gaps = latest
+      ? (
+          await ctx.db
+            .query("gaps")
+            .withIndex("by_run", (q) => q.eq("runId", latest._id))
+            .collect()
+        ).sort((a, b) => b.score - a.score)
+      : [];
+    const top5 = gaps.slice(0, 5);
+    const reviews = latest
+      ? await ctx.db
+          .query("reviews")
+          .withIndex("by_run", (q) => q.eq("runId", latest._id))
+          .collect()
+      : [];
+    const places = (business.geo ?? []).map((p) => {
+      const hits = top5.filter((g) => g.apps.includes(p.title)).map((g) => ({ theme: g.theme, label: g.label }));
+      const own = reviews.filter((r) => r.placeId === p.title);
+      const worst = [...own]
+        .filter((r) => (r.text ?? "").length > 40)
+        .sort((a, b) => (a.rating ?? 5) - (b.rating ?? 5) || (b.text?.length ?? 0) - (a.text?.length ?? 0))[0];
+      return {
+        ...p,
+        hits,
+        hitCount: hits.length,
+        readThisWeek: own.length,
+        worstQuote: worst ? { text: worst.text ?? "", rating: worst.rating ?? null, source: worst.source } : null,
+      };
+    });
+    return {
+      business: { _id: business._id, name: business.name, category: business.category, location: business.location },
+      topGaps: top5.map((g) => ({ theme: g.theme, label: g.label })),
+      places,
+      run: latest ? { _id: latest._id, liveCalls: latest.liveCalls ?? 0, cachedCalls: latest.cachedCalls ?? 0, startedAt: latest.startedAt, reviewCount: latest.reviewCount ?? 0 } : null,
+    };
+  },
+});
+
 export const pulseHome = query({
   args: { businessId: v.id("businesses") },
   handler: async (ctx, { businessId }) => {
