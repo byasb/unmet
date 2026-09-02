@@ -33,6 +33,7 @@ export function DemoPilot() {
   const [progress, setProgress] = useState(0);
   const waiting = useRef<RegExp | null>(null);
   const timer = useRef<number | null>(null);
+  const paceRef = useRef(1);
 
   const stop = () => {
     if (timer.current) window.clearTimeout(timer.current);
@@ -43,6 +44,10 @@ export function DemoPilot() {
 
   useEffect(() => {
     const start = () => {
+      // ?pace=2 doubles every dwell -- used when recording the video over the
+      // narration; judges get the normal pace.
+      const pace = Number(new URLSearchParams(window.location.search).get("pace") ?? "1");
+      paceRef.current = Number.isFinite(pace) && pace > 0 ? pace : 1;
       window.dispatchEvent(new Event("unmet:show-guide"));
       setStep(0);
     };
@@ -76,7 +81,7 @@ export function DemoPilot() {
     };
     if ("to" in s) {
       if (pathname !== s.to) navigate(s.to);
-      return dwellThen(s.dwell);
+      return dwellThen(s.dwell * paceRef.current);
     }
     // action steps: fire the run, then wait for the board route before dwelling
     waiting.current = s.waitFor;
@@ -105,13 +110,14 @@ export function DemoPilot() {
     if (!waiting.current.test(pathname)) return;
     waiting.current = null;
     const s = STEPS[step];
+    const dwell = s.dwell * paceRef.current;
     setProgress(0);
     const t0 = Date.now();
-    const tick = window.setInterval(() => setProgress(Math.min(1, (Date.now() - t0) / s.dwell)), 100);
+    const tick = window.setInterval(() => setProgress(Math.min(1, (Date.now() - t0) / dwell)), 100);
     timer.current = window.setTimeout(() => {
       window.clearInterval(tick);
       setStep((n) => (n === null ? null : n + 1));
-    }, s.dwell);
+    }, dwell);
     return () => window.clearInterval(tick);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pathname, step]);
