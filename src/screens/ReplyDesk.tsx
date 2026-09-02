@@ -69,7 +69,6 @@ export function ReplyDesk() {
           </>
         }
       >
-        <span className="tag warm">live</span>
       </Topbar>
 
       {drafts.length === 0 ? (

@@ -17,7 +17,7 @@ Built for the DevNetwork [API + Cloud + AI] Hackathon 2026, SerpApi track. Solo 
 
 ## The demo set
 
-"You" is **Stiles Switch BBQ** — 6610 N Lamar, one mile up the street from SerpApi's office. Peers:
+"You" is **Stiles Switch BBQ** — 6610 N Lamar, half a mile up the street from SerpApi's office. Peers:
 Franklin, Terry Black's, Cooper's, Micklethwait, Iron Works, Brotherton's. 491 real reviews across three
 platforms, pulled on Sep 2 2026.
 

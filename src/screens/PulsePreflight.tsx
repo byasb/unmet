@@ -138,11 +138,11 @@ export function PulsePreflight() {
             </div>
             <div className="line">
               <span>taxonomy</span>
-              <span>local · 10 themes</span>
+              <span>local · 12 themes</span>
             </div>
             <div className="line">
               <span>mode</span>
-              <span style={{ color: "var(--orange)" }}>live</span>
+              <span style={{ color: "var(--green)" }}>cache-first</span>
             </div>
             {error && (
               <div className="line" style={{ color: "var(--orange)" }}>

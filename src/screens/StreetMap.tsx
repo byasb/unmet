@@ -7,7 +7,7 @@ import { Provenance } from "../components/Provenance";
 import { PulseTabs } from "../components/PulseTabs";
 import { useBusiness, useStreet } from "../data/api";
 
-// design-unmet-v2/StreetMap.dc.html — real Leaflet + CARTO dark tiles over
+// design-unmet-v2/StreetMap.dc.html — real Leaflet + Esri dark gray tiles over
 // business.geo coordinates, instead of the artboard's fixed pixel pins.
 const SERPAPI_HQ = { lat: 30.3268, lng: -97.7226, label: "SERPAPI HQ · 5540 N LAMAR" };
 const LABEL_ORDER = ["below", "above", "right", "left"] as const;
@@ -53,9 +53,8 @@ export function StreetMap() {
   useEffect(() => {
     if (!mapElRef.current || mapRef.current) return;
     const map = L.map(mapElRef.current, { zoomControl: false }).setView([30.27, -97.74], 12);
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
-      attribution: "&copy; OpenStreetMap contributors &copy; CARTO",
-      subdomains: "abcd",
+    L.tileLayer("https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}", {
+      attribution: "Tiles &copy; Esri &mdash; Esri, DeLorme, NAVTEQ",
       maxZoom: 19,
     }).addTo(map);
     mapRef.current = map;
@@ -250,7 +249,7 @@ export function StreetMap() {
         items={[
           { content: <Provenance compact liveCalls={street?.run?.liveCalls} cachedCalls={street?.run?.cachedCalls} at={street?.run?.startedAt} /> },
           { content: <>COORDS <b>google_maps · gps_coordinates</b></> },
-          { content: <>BASEMAP <b>CARTO DARK · NO KEY</b></> },
+          { content: <>BASEMAP <b>ESRI DARK GRAY · NO KEY</b></> },
           {
             content: street ? (
               <>{street.places.length} PLACES · {street.run?.reviewCount ?? 0} REVIEWS</>

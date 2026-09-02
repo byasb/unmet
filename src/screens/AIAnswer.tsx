@@ -50,7 +50,6 @@ export function AIAnswer() {
         }
       >
         <PulseTabs active="ai" />
-        <span className="tag warm">live</span>
       </Topbar>
 
       <div className="body2">

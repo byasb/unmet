@@ -2283,7 +2283,7 @@ a:hover {
   background: radial-gradient(ellipse at 60% 55%, transparent 55%, rgba(10, 12, 15, 0.55) 100%);
 }
 .sm-panel {
-  position: absolute; left: 0; top: 0; bottom: 0; width: 360px; z-index: 3;
+  position: absolute; left: 0; top: 0; bottom: 0; width: 360px; z-index: 650;
   background: rgba(13, 16, 20, 0.94); border-right: 1px solid var(--hairline);
   padding: 22px 22px 20px; display: flex; flex-direction: column; gap: 16px;
   overflow-y: auto; backdrop-filter: blur(6px);
@@ -2344,3 +2344,8 @@ a:hover {
 @media (prefers-reduced-motion: reduce) {
   .sm-ring { animation: none; opacity: 0; }
 }
+
+/* Esri dark gray sits a shade lighter than the cockpit ground */
+.leaflet-tile { filter: brightness(0.62) contrast(1.15) saturate(0.6); }
+
+.mapstage .topbar, .mapstage .status, .mapstage .sm-status { position: relative; z-index: 900; }

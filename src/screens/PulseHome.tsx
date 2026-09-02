@@ -69,7 +69,6 @@ export function PulseHome() {
           </>
         }
       >
-        <span className="tag warm">live</span>
       </Topbar>
 
       <div className="body2">
@@ -77,7 +76,7 @@ export function PulseHome() {
           <div className="head">
             <div>
               <div className="lab">This morning · read {new Date().toLocaleTimeString()}</div>
-              <div className="title">{headline?.headline ?? `${home.today.length} actions today. ${home.gapsHitting} of ${home.gapsTotal} gaps hitting you.`}</div>
+              <div className="title">{headline?.headline?.replace(/\*\*/g, "") ?? `${home.today.length} actions today. ${home.gapsHitting} of ${home.gapsTotal} gaps hitting you.`}</div>
             </div>
             <div className="mono" style={{ fontSize: 11.5, color: "var(--mute)", textAlign: "right", lineHeight: 1.6 }}>
               this week <b style={{ color: "var(--ink)" }}>{home.done.length}</b> actions done

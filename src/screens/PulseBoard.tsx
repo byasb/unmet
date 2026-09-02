@@ -56,7 +56,7 @@ export function PulseBoard() {
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
             <path d="M9 6l6 6-6 6" />
           </svg>
-          <span style={{ flexGrow: 1 }}>{you?.name ?? "Pulse"} · {run.location ?? ""}</span>
+          <span style={{ flexGrow: 1, whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>{you?.name ?? "Pulse"} · {run.location ?? ""}</span>
           <span className="chip">{places.length} places</span>
           <span className="chip">this week</span>
         </div>

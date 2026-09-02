@@ -162,7 +162,7 @@ function PulseVisual() {
       </div>
       <div className="hq">
         <i />
-        SERPAPI HQ · 1.0 MI
+        SERPAPI HQ · 0.5 MI
       </div>
     </>
   );

@@ -31,6 +31,16 @@ export function Experiments() {
 
   const moved = experiments.filter((e) => e.verdict === "moved").length;
   const measuring = experiments.filter((e) => e.verdict === "measuring").length;
+  const removed = experiments
+    .filter((e) => e.verdict === "moved" && e.reads.length)
+    .reduce((n, e) => n + (e.baselineMentions - e.reads[e.reads.length - 1].mentions), 0);
+  const nextMonday = (() => {
+    const d = new Date();
+    d.setDate(d.getDate() + ((8 - d.getDay()) % 7 || 7));
+    return d;
+  })();
+  const nextLabel = nextMonday.toLocaleDateString("en-US", { weekday: "short", day: "numeric", month: "short" });
+  const firstMeasuring = experiments.find((e) => e.verdict === "measuring");
   const flat = experiments.filter((e) => e.verdict === "flat").length;
 
   return (
@@ -47,7 +57,6 @@ export function Experiments() {
           </>
         }
       >
-        <span className="tag warm">sample · shows the three states</span>
       </Topbar>
 
       <div className="body2">
@@ -72,18 +81,18 @@ export function Experiments() {
             </div>
             <div className="tile">
               <span className="lab">Complaints removed · 30d</span>
-              <b style={{ color: "var(--green)" }}>−6</b>
-              <span className="sub">per week · from the one moved experiment</span>
+              <b style={{ color: removed > 0 ? "var(--green)" : "var(--mute)" }}>{removed > 0 ? `−${removed}` : "—"}</b>
+              <span className="sub">{moved ? `per week · from ${moved} moved` : "no experiment has moved yet"}</span>
             </div>
             <div className="tile">
               <span className="lab">Next result</span>
-              <b style={{ fontSize: 18, paddingTop: 4 }}>Mon 9 Sep</b>
-              <span className="sub">lines &amp; wait · started today</span>
+              <b style={{ fontSize: 18, paddingTop: 4 }}>{measuring ? nextLabel : "—"}</b>
+              <span className="sub">{firstMeasuring ? `${firstMeasuring.theme.replace(/_/g, " ")} · first read` : "mark an action done to start one"}</span>
             </div>
             <div className="tile">
               <span className="lab">Measurement cost</span>
-              <b style={{ fontSize: 18, paddingTop: 4 }}>4 / wk</b>
-              <span className="sub">searches · inside the Monday pulse</span>
+              <b style={{ fontSize: 18, paddingTop: 4 }}>0 extra</b>
+              <span className="sub">searches · read inside the Monday pulse</span>
             </div>
           </div>
 
@@ -115,7 +124,7 @@ export function Experiments() {
               </div>
               <div>
                 <span>window</span>
-                <span>7 days, 4 platforms</span>
+                <span>7 days, 3 platforms</span>
               </div>
               <div>
                 <span>moved</span>
@@ -171,8 +180,8 @@ export function Experiments() {
       <StatusBar
         items={[
           { content: <>EXPERIMENTS <b>{experiments.length}</b></> },
-          { content: <>NEXT READ <b>Mon 9 Sep 05:00 CT</b></> },
-          { content: <>RESULTS <b>measured</b> · VALUE <b>estimated</b></>, push: true },
+          { content: <>NEXT READ <b>{nextLabel} 05:00 CT</b></> },
+          { content: <>RESULTS <b>measured</b> · never modelled</>, push: true },
         ]}
       />
     </div>
