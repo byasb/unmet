@@ -3,6 +3,7 @@
   "name": "unmet",
   "compatibility_date": "2026-09-01",
   "account_id": "be422a596ab3cb9916e1d2f749523537",
+  "routes": [{ "pattern": "unmet.byasb.com", "custom_domain": true }],
   "assets": {
     "directory": "./dist",
     "not_found_handling": "single-page-application"
