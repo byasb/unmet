@@ -6,7 +6,7 @@
 // logged in) reads the files and calls `seedAll` once per batch via
 // `npx convex run seed:seedAll <json>`.
 import { v } from "convex/values";
-import { internalMutation } from "./serverApi";
+import { internalMutation } from "./_generated/server";
 
 const fixtureRow = v.object({
   key: v.string(),

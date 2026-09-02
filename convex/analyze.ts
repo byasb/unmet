@@ -95,24 +95,6 @@ export const THEMES: Record<string, [string, string]> = {
   ],
 };
 
-// Local (Pulse) taxonomy -- new, not in the Python reference. The ten keys
-// are fixed by BUILD-PLAN; the regexes are left empty on purpose.
-// FABLE: fill after Austin pull -- these have to be checked against real
-// local-business reviews, not guessed (see analyze.py THEMES.privacy's
-// comment for why a guessed regex bites you later).
-export const LOCAL_THEMES: Record<string, [string, string]> = {
-  lines_wait: ["Lines and wait times", ""],
-  sold_out: ["Sells out early", ""],
-  price_portion: ["Price and portion size", ""],
-  staff: ["Staff and service", ""],
-  consistency: ["Consistency", ""],
-  cleanliness: ["Cleanliness", ""],
-  parking: ["Parking", ""],
-  delivery: ["Delivery", ""],
-  noise: ["Noise", ""],
-  used_to_be_better: ["Used to be better", ""],
-};
-
 // Deliberately narrow. Earlier versions matched "can't" and "missing", which
 // swept ordinary complaints into the request bucket and made the "explicit
 // requests" number meaningless. A request has to actually ask for something.
@@ -225,7 +207,6 @@ export function rankGaps(
       theme,
       label:
         THEMES[theme]?.[0] ??
-        LOCAL_THEMES[theme]?.[0] ??
         theme.replace(/_/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()),
       mentions: rows.length,
       requests: requests.length,

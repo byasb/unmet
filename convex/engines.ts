@@ -3,7 +3,8 @@
 // (searchApps, appReviews, trendQueries, autocomplete) are fully ported;
 // Pulse-path engines are typed stubs Fable fills in after the Austin pull
 // (SerpApi quota is real, subagents never call it live).
-import type { ActionCtx, Id } from "./serverApi";
+import type { ActionCtx } from "./_generated/server";
+import type { Id } from "./_generated/dataModel";
 import { call, SerpError } from "./serp";
 
 export type AppResult = {
@@ -176,114 +177,3 @@ export async function autocomplete(
 // Typed signatures only. Fable fills these in after the Austin pull once
 // the real response shapes are known; subagents never call these engines
 // live (no quota, no key in this environment).
-
-export type PlaceResult = {
-  place_id?: string;
-  data_id?: string;
-  title?: string;
-  rating?: number;
-  reviews?: number;
-};
-
-/** engine=google_maps -- q + (ll | location) -> places with data_id/place_id. */
-export async function googleMaps(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _q: string,
-  _location: string,
-): Promise<PlaceResult[]> {
-  throw new Error("TODO(Fable): googleMaps -- wire up after the Austin pull");
-}
-
-export type PlaceReview = {
-  id: string;
-  place_id: string;
-  text: string;
-  rating?: number;
-  author?: string;
-  date?: string;
-};
-
-/** engine=google_maps_reviews -- data_id, sort_by. */
-export async function googleMapsReviews(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _dataId: string,
-  _sortBy: string,
-): Promise<PlaceReview[]> {
-  throw new Error(
-    "TODO(Fable): googleMapsReviews -- wire up after the Austin pull",
-  );
-}
-
-/** engine=yelp -- search for a Yelp business id (no dedicated find-id
- * engine exists; skip Yelp for a business if this can't resolve one). */
-export async function yelpSearch(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _q: string,
-  _location: string,
-): Promise<PlaceResult[]> {
-  throw new Error("TODO(Fable): yelpSearch -- wire up after the Austin pull");
-}
-
-/** engine=yelp_reviews -- place_id. */
-export async function yelpReviews(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _placeId: string,
-): Promise<PlaceReview[]> {
-  throw new Error("TODO(Fable): yelpReviews -- wire up after the Austin pull");
-}
-
-/** TripAdvisor search -> location id. */
-export async function tripadvisorSearch(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _q: string,
-  _location: string,
-): Promise<PlaceResult[]> {
-  throw new Error(
-    "TODO(Fable): tripadvisorSearch -- wire up after the Austin pull",
-  );
-}
-
-/** engine=tripadvisor_reviews. */
-export async function tripadvisorReviews(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _locationId: string,
-): Promise<PlaceReview[]> {
-  throw new Error(
-    "TODO(Fable): tripadvisorReviews -- wire up after the Austin pull",
-  );
-}
-
-/** engine=opentable_reviews -- restaurant id. If a source has no search
- * engine to find the id, skip that source and log it; do not fake one. */
-export async function openTableReviews(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _restaurantId: string,
-): Promise<PlaceReview[]> {
-  throw new Error(
-    "TODO(Fable): openTableReviews -- wire up after the Austin pull",
-  );
-}
-
-export type AiOverview = {
-  cited: boolean;
-  position?: number;
-  sources: { name: string; count: number }[];
-  excerpt: string;
-};
-
-/** engine=google, ai_overview page_token -- or the inline ai_overview on the
- * originating `google` search when SerpApi returns it directly. */
-export async function aiOverview(
-  _ctx: ActionCtx,
-  _runId: Id<"runs">,
-  _query: string,
-): Promise<AiOverview> {
-  throw new Error("TODO(Fable): aiOverview -- wire up after the Austin pull");
-}

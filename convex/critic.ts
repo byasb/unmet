@@ -1,14 +1,12 @@
 // Three deterministic checks on a reply draft, per BUILD-PLAN §Critic. Pure
 // functions -- no Convex imports, no model calls. llm.ts (Subagent B) drafts
 // the text; this only ever grades it.
-import { THEMES, LOCAL_THEMES } from "./analyze";
+import { THEMES } from "./analyze";
+import { LOCAL_THEMES } from "./analyze.local";
 
 export type CriticCheck = { rule: string; pass: boolean; note: string };
 
 function themeRegex(theme: string): RegExp | undefined {
-  // LOCAL_THEMES entries are empty-bodied until Fable fills them in (see
-  // analyze.ts) -- an empty pattern would match everything, so treat it as
-  // "no regex" rather than "matches anything".
   const source = THEMES[theme]?.[1] || LOCAL_THEMES[theme]?.[1];
   return source ? new RegExp(source, "i") : undefined;
 }

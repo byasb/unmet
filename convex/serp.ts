@@ -2,13 +2,19 @@
 // engine wrapper in engines.ts goes through here so a re-run of a category
 // that's already been pulled costs zero live searches.
 import { v } from "convex/values";
-import { internal, internalMutation, internalQuery } from "./serverApi";
-import type { ActionCtx, Id } from "./serverApi";
+import { internalMutation, internalQuery } from "./_generated/server";
+import type { ActionCtx } from "./_generated/server";
+import { internal } from "./_generated/api";
+import type { Id } from "./_generated/dataModel";
+import type { Role } from "./usageRules";
 import { cacheKey, type SerpParams } from "./cacheKey";
 
 const ENDPOINT = "https://serpapi.com/search.json";
 
 export class SerpError extends Error {}
+/** Thrown instead of a live fetch when the run's owner is over their daily
+ * live-search cap (BUILD-PLAN Rule 3). Cache hits are always free. */
+export class QuotaExceeded extends Error {}
 
 function offline(): boolean {
   return process.env.OFFLINE === "1";
@@ -73,6 +79,14 @@ export async function call(
     return cached.response;
   }
 
+  const owner: { userId: Id<"users">; role: Role } | null = await ctx.runQuery(
+    internal.serp.runOwner,
+    { runId },
+  );
+  if (!owner) throw new SerpError("run has no owner");
+  const canGo: boolean = await ctx.runQuery(internal.usage.canSpendLive, owner);
+  if (!canGo) throw new QuotaExceeded(`${engine}: over daily live-search cap for role ${owner.role}`);
+
   if (offline()) {
     const subject = params.term ?? params.product_id ?? params.q ?? "";
     throw new SerpError(`OFFLINE=1 and no fixture for ${engine} ${subject}`);
@@ -109,8 +123,21 @@ export async function call(
     live: true,
     ms,
   });
+  await ctx.runMutation(internal.usage.recordLive, { userId: owner.userId });
   return data;
 }
+
+/** Who pays for a run's live searches. */
+export const runOwner = internalQuery({
+  args: { runId: v.id("runs") },
+  handler: async (ctx, { runId }) => {
+    const run = await ctx.db.get(runId);
+    if (!run) return null;
+    const user = await ctx.db.get(run.userId);
+    if (!user) return null;
+    return { userId: run.userId, role: user.role };
+  },
+});
 
 // -- calls bookkeeping --------------------------------------------------
 

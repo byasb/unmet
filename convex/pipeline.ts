@@ -2,8 +2,9 @@
 // Ported from api.py's `run_category`. Actions stay thin -- all DB access
 // goes through the internal mutations/query below.
 import { v } from "convex/values";
-import { action, internal, internalMutation, internalQuery } from "./serverApi";
-import type { Id } from "./serverApi";
+import { action, internalMutation, internalQuery } from "./_generated/server";
+import { internal } from "./_generated/api";
+import type { Id } from "./_generated/dataModel";
 import { getAuthUserId } from "@convex-dev/auth/server";
 import * as engines from "./engines";
 import { classifyLocal, rankGaps, writeBrief } from "./analyze";
