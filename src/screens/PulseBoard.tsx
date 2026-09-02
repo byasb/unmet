@@ -5,7 +5,7 @@ import { Gauge } from "../components/Gauge";
 import { Pips } from "../components/Pips";
 import { SourceSquare } from "../components/SourceSquare";
 import { CallLogLine } from "../components/CallLogLine";
-import { useCalls, useGaps, usePlacesRead, useRun } from "../data/api";
+import { useAiAnswers, useCalls, useGaps, usePlacesRead, useRun, toSourceCode } from "../data/api";
 import type { SourceCode } from "../data/types";
 
 const PLATFORMS: SourceCode[] = ["G", "Y", "T", "O"];
@@ -15,11 +15,35 @@ export function PulseBoard() {
   const { runId } = useParams<{ runId: string }>();
   const navigate = useNavigate();
   const run = useRun(runId);
-  const gaps = useGaps("pulse");
+  // Pulse runs key `term` = the businessId (see pulse.ts's createRun).
+  const businessId = run && "term" in run ? run.term : undefined;
+  const gaps = useGaps("pulse", businessId);
   const calls = useCalls(runId);
-  const places = usePlacesRead();
+  const places = usePlacesRead(businessId);
+  const aiAnswers = useAiAnswers(businessId);
+
+  if (run === undefined || gaps === undefined || calls === undefined || places === undefined) {
+    return (
+      <div className="root">
+        <Topbar activeSeg="pulse">
+          <span className="lab">Loading gap board…</span>
+        </Topbar>
+      </div>
+    );
+  }
+  if (run === null || places === null) {
+    return (
+      <div className="root">
+        <Topbar activeSeg="pulse">
+          <span className="lab">Run not found.</span>
+        </Topbar>
+      </div>
+    );
+  }
+
   const top = gaps[0]?.score ?? 1;
   const hitting = gaps.filter((g) => g.inYourReviews);
+  const topAnswer = aiAnswers?.[0];
 
   return (
     <div className="root">
@@ -28,8 +52,7 @@ export function PulseBoard() {
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
             <path d="M9 6l6 6-6 6" />
           </svg>
-          <span style={{ flexGrow: 1 }}>{run.term} near SerpApi, Austin TX</span>
-          <span className="chip">3 km</span>
+          <span style={{ flexGrow: 1 }}>{run.term} · {run.location ?? ""}</span>
           <span className="chip">{places.length} places</span>
           <span className="chip">this week</span>
         </div>
@@ -47,14 +70,14 @@ export function PulseBoard() {
           <div className="head">
             <div>
               <div className="lab">Gap board · Pulse</div>
-              <div className="title">{run.term} · Austin, TX</div>
+              <div className="title">{run.location ?? run.term}</div>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 8 }}>
               <span className="chip" style={{ color: "var(--orange)", borderColor: "var(--orange-soft)" }}>
-                Sample data · Austin pull pending
+                {run.mode}
               </span>
               <div className="mono" style={{ fontSize: 11.5, color: "var(--mute)", textAlign: "right", lineHeight: 1.6 }}>
-                {run.reviewCount} reviews · {places.length} places · 4 platforms · this week vs last
+                {run.reviewCount} reviews · {places.length} places · this week
               </div>
             </div>
           </div>
@@ -66,7 +89,7 @@ export function PulseBoard() {
               <path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z" />
             </svg>
             <span className="k">
-              If you ran Franklin — <b>{hitting.length} of {gaps.length}</b> category gaps are in your reviews
+              <b>{hitting.length} of {gaps.length}</b> category gaps are in your reviews
             </span>
             <div className="hits">
               {gaps.map((g) => (
@@ -78,106 +101,88 @@ export function PulseBoard() {
           </div>
 
           <div className="rows">
-            {gaps.map((g, i) => (
-              <div className="row" key={g._id}>
-                <div className="rowtop">
-                  <span className="rank">{String(i + 1).padStart(2, "0")}</span>
-                  <span className="name">
-                    {g.label} {g.inYourReviews && <span className="flag">in your reviews</span>}
-                  </span>
-                  {i > 0 && (
-                    <span className="inl">
-                      <b>{g.mentions}</b> mentions · pain <b>{g.pain}</b> · <b>{g.breadth} / {g.totalPlaces}</b> places ·{" "}
-                      <b style={{ color: g.deltaWeek && g.deltaWeek > 0 ? "var(--orange)" : undefined }}>
-                        {g.deltaWeek != null ? (g.deltaWeek > 0 ? `+${g.deltaWeek}` : g.deltaWeek) : 0}
-                      </b>{" "}
-                      wk
+            {gaps.map((g, i) => {
+              const codes = new Set((g.platforms ?? []).map(toSourceCode));
+              return (
+                <div className="row" key={g._id}>
+                  <div className="rowtop">
+                    <span className="rank">{String(i + 1).padStart(2, "0")}</span>
+                    <span className="name">
+                      {g.label} {g.inYourReviews && <span className="flag">in your reviews</span>}
                     </span>
-                  )}
-                  <span className="score">{g.score.toFixed(1)}</span>
-                </div>
-                <Gauge percent={(g.score / top) * 100} />
-                {i === 0 && (
-                  <>
-                    <div className="stats">
-                      <div className="stat">
-                        <b>{g.mentions}</b>
-                        <span className="lab">mentions</span>
-                      </div>
-                      <div className="stat">
-                        <b>{g.pain}</b>
-                        <span className="lab">pain / 4</span>
-                      </div>
-                      <div className="stat">
-                        <b>
-                          {g.breadth} / {g.totalPlaces}
-                        </b>
-                        <span className="lab">places</span>
-                      </div>
-                      <div className="stat">
-                        <b style={{ color: "var(--orange)" }}>+{g.deltaWeek}</b>
-                        <span className="lab">vs last week</span>
-                      </div>
-                      <div className="stat">
-                        <b>
-                          {PLATFORMS.map((p) => (
-                            <SourceSquare key={p} code={p} variant="src4" on={g.platforms?.includes(p)} />
-                          ))}
-                        </b>
-                        <span className="lab">seen on {g.platforms?.length ?? 0} of 4</span>
-                      </div>
-                    </div>
-                    {g.quotes[0] && (
-                      <div className="quote">
-                        <p>“{g.quotes[0].text}”</p>
-                        <div className="src">
-                          <Pips rating={g.quotes[0].rating} />
-                          <span className="lab">
-                            {g.quotes[0].place} · Google Maps · {g.quotes[0].daysAgo} days ago
-                          </span>
+                    {i > 0 && (
+                      <span className="inl">
+                        <b>{g.mentions}</b> mentions · pain <b>{g.pain}</b> · <b>{g.breadth} / {g.totalPlaces}</b> places
+                      </span>
+                    )}
+                    <span className="score">{g.score.toFixed(1)}</span>
+                  </div>
+                  <Gauge percent={(g.score / top) * 100} />
+                  {i === 0 && (
+                    <>
+                      <div className="stats">
+                        <div className="stat">
+                          <b>{g.mentions}</b>
+                          <span className="lab">mentions</span>
+                        </div>
+                        <div className="stat">
+                          <b>{g.pain}</b>
+                          <span className="lab">pain / 4</span>
+                        </div>
+                        <div className="stat">
+                          <b>
+                            {g.breadth} / {g.totalPlaces}
+                          </b>
+                          <span className="lab">places</span>
+                        </div>
+                        <div className="stat">
+                          <b>
+                            {PLATFORMS.map((p) => (
+                              <SourceSquare key={p} code={p} variant="src4" on={codes.has(p)} />
+                            ))}
+                          </b>
+                          <span className="lab">seen on {codes.size} of 4</span>
                         </div>
                       </div>
-                    )}
-                  </>
-                )}
-              </div>
-            ))}
+                      {g.quotes[0] && (
+                        <div className="quote">
+                          <p>“{g.quotes[0].text}”</p>
+                          <div className="src">
+                            <Pips rating={g.quotes[0].rating ?? 0} />
+                            <span className="lab">{g.quotes[0].place}</span>
+                          </div>
+                        </div>
+                      )}
+                    </>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </div>
 
         <div className="side">
           <div className="panel">
             <div className="ph">
-              <span className="lab">Telemetry · {calls.length + 11} calls</span>
-              <span className="tagtxt live">{calls.length} live · 0 cache</span>
+              <span className="lab">Telemetry · {calls.length} calls</span>
+              <span className="tagtxt live">{calls.filter((c) => c.live).length} live · {calls.filter((c) => !c.live).length} cache</span>
             </div>
             <div className="log">
               {calls.map((c) => (
                 <CallLogLine key={c._id} call={c} />
               ))}
-              <div>
-                <span className="eng" style={{ color: "var(--dim)" }}>
-                  + 11 more
-                </span>
-                <span className="prm" />
-                <span className="tagtxt" />
-                <span className="ms" />
-              </div>
             </div>
           </div>
 
           <div className="panel">
             <div className="ph">
               <span className="lab">Places read · {places.length}</span>
-              <span className="lab">rating · Δ wk</span>
+              <span className="lab">rating</span>
             </div>
             {places.map((p) => (
               <div className={p.isYou ? "arow me" : "arow"} key={p.name}>
                 <span className="n">{p.name}</span>
-                <span className="v">{p.rating}</span>
-                <span className="d">
-                  {p.deltaWeek === 0 ? "0.0" : p.deltaWeek! > 0 ? `+${p.deltaWeek}` : p.deltaWeek}
-                </span>
+                <span className="v">{p.rating || "—"}</span>
               </div>
             ))}
           </div>
@@ -187,27 +192,24 @@ export function PulseBoard() {
               <span className="lab">AI answer · google_ai_overview</span>
               <span className="tagtxt live">today</span>
             </div>
-            <div className="mono" style={{ fontSize: 12, color: "var(--ink)", lineHeight: 1.7 }}>
-              “best barbecue austin” → <b style={{ color: "var(--green)", fontWeight: 500 }}>cited</b>, 2nd of 4 named
-              <br />
-              <span style={{ color: "var(--mute)" }}>AI leaned on: Yelp ×3 · Eater ×1 · TripAdvisor ×1</span>
-            </div>
+            {topAnswer ? (
+              <div className="mono" style={{ fontSize: 12, color: "var(--ink)", lineHeight: 1.7 }}>
+                “{topAnswer.query}” →{" "}
+                <b style={{ color: topAnswer.cited ? "var(--green)" : "var(--orange)", fontWeight: 500 }}>
+                  {topAnswer.cited ? "cited" : "not cited"}
+                </b>
+                <br />
+                <span style={{ color: "var(--mute)" }}>
+                  {topAnswer.sources.map((s) => `${s.name} ×${s.count}`).join(" · ") || "no sources recorded"}
+                </span>
+              </div>
+            ) : (
+              <span className="lab">no AI overview read yet</span>
+            )}
             <Link to="/pulse/ai" className="link" style={{ marginTop: 4 }}>
               <span>AI answer watch</span>
               <span className="r">open</span>
             </Link>
-          </div>
-
-          <div className="panel">
-            <div className="ph">
-              <span className="lab">Next run</span>
-              <span className="lab">daily</span>
-            </div>
-            <div className="mono" style={{ fontSize: 12, color: "var(--mute2)", lineHeight: 1.7 }}>
-              Tomorrow 05:00 CT · diff against today
-              <br />
-              <span style={{ color: "var(--dim)" }}>~11 searches/day on the Pro cadence</span>
-            </div>
           </div>
 
           <Link to="/pulse/home" className="btn" style={{ textDecoration: "none" }}>
@@ -220,8 +222,15 @@ export function PulseBoard() {
         items={[
           { content: <>RUN <b>{new Date(run.startedAt).toISOString()}</b></> },
           { content: <>SOURCE <b>google_maps_reviews</b></> },
-          { content: <>MODE <b style={{ color: "var(--orange)" }}>live</b></> },
-          { content: <>17 LIVE · 0 CACHE · {run.reviewCount} REVIEWS · <b>9.8s</b></>, push: true },
+          { content: <>MODE <b style={{ color: "var(--orange)" }}>{run.mode}</b></> },
+          {
+            content: (
+              <>
+                {calls.filter((c) => c.live).length} LIVE · {calls.filter((c) => !c.live).length} CACHE · {run.reviewCount} REVIEWS
+              </>
+            ),
+            push: true,
+          },
         ]}
       />
     </div>

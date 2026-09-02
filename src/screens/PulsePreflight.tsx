@@ -2,15 +2,45 @@ import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
-import { usePlacesRead } from "../data/api";
+import { useBusinesses, useRunPulse } from "../data/api";
+import type { Id } from "../../convex/_generated/dataModel";
 
 // design-unmet/StartLocal.dc.html
 export function PulsePreflight() {
   const navigate = useNavigate();
-  const places = usePlacesRead();
-  const [query, setQuery] = useState("barbecue near SerpApi, Austin TX");
-  const [youIndex, setYouIndex] = useState(0);
-  const included = places.slice(0, 7);
+  const runPulse = useRunPulse();
+  const businesses = useBusinesses();
+  const [name, setName] = useState("Franklin Barbecue");
+  const [category, setCategory] = useState("barbecue");
+  const [location, setLocation] = useState("Austin, TX");
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  async function runNew() {
+    if (busy) return;
+    setBusy(true);
+    setError(null);
+    try {
+      const result = await runPulse({ name, category, location });
+      navigate(`/run/pulse/${result.runId}`);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : String(err));
+      setBusy(false);
+    }
+  }
+
+  async function runExisting(businessId: string) {
+    if (busy) return;
+    setBusy(true);
+    setError(null);
+    try {
+      const result = await runPulse({ businessId: businessId as Id<"businesses"> });
+      navigate(`/run/pulse/${result.runId}`);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : String(err));
+      setBusy(false);
+    }
+  }
 
   return (
     <div className="root">
@@ -22,51 +52,52 @@ export function PulsePreflight() {
           <p>A kind of business and where — or paste a Google Maps link to a place, and that place is you.</p>
         </div>
 
-        <div className="cmdwrap">
+        {businesses && businesses.length > 0 && (
+          <div className="preflight" style={{ width: "100%" }}>
+            <div className="targets" style={{ width: "100%" }}>
+              <div className="th">
+                <span className="lab">Re-run a business you've already pulsed</span>
+              </div>
+              {businesses.map((b) => (
+                <div className="trow" key={b._id}>
+                  <span className="n">{b.name}</span>
+                  <span className="m">
+                    {b.category} · {b.location}
+                  </span>
+                  <button type="button" className="btn ghost" disabled={busy} onClick={() => runExisting(b._id)}>
+                    Run today's pulse
+                  </button>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <div className="cmdwrap" style={{ width: "100%" }}>
+          <span className="lab">Or start a new business</span>
           <div className="cmdbig">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M9 6l6 6-6 6" />
-            </svg>
             <input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+              placeholder="business name"
               style={{ flexGrow: 1, background: "none", border: "none", color: "var(--ink)", font: "inherit", outline: "none" }}
             />
-            <span className="caret" />
           </div>
-          <div className="read">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
-              <path d="M5 12h14" />
-              <path d="M13 6l6 6-6 6" />
-            </svg>
-            <span className="srcbadge warm">
-              <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z" />
-                <circle cx="12" cy="10" r="3" />
-              </svg>
-              Pulse
-            </span>
-            <span>
-              category <b>barbecue</b>
-            </span>
-            <span className="arrow">·</span>
-            <span>
-              around <b>SerpApi HQ, Austin TX</b>
-            </span>
-            <span className="arrow">·</span>
-            <span>
-              radius <b>3 km</b>
-            </span>
-            <div className="quick">
-              <span className="chip">
-                <i />
-                habit tracker
-              </span>
-              <span className="chip">
-                <i />
-                receipt scanner
-              </span>
-            </div>
+          <div className="cmdbig">
+            <input
+              value={category}
+              onChange={(e) => setCategory(e.target.value)}
+              placeholder="category, e.g. barbecue"
+              style={{ flexGrow: 1, background: "none", border: "none", color: "var(--ink)", font: "inherit", outline: "none" }}
+            />
+          </div>
+          <div className="cmdbig">
+            <input
+              value={location}
+              onChange={(e) => setLocation(e.target.value)}
+              placeholder="location, e.g. Austin, TX"
+              style={{ flexGrow: 1, background: "none", border: "none", color: "var(--ink)", font: "inherit", outline: "none" }}
+            />
           </div>
         </div>
 
@@ -83,67 +114,22 @@ export function PulsePreflight() {
               <b>category</b> around a zip or address
             </span>
           </div>
-          <div className="rule">
-            <span className="in">maps.app.goo.gl/…</span>
-            <span className="out">
-              <b>one place</b> is "you" · peers found for you
-            </span>
-          </div>
-          <div className="rule">
-            <span className="in">Franklin Barbecue, Austin</span>
-            <span className="out">
-              <b>one place</b> by name · peers found for you
-            </span>
-          </div>
         </div>
 
-        <div className="preflight">
-          <div className="targets">
-            <div className="th">
-              <span className="lab">
-                Pre-flight · found <b>8</b> places · 1 call · 1.1s
-              </span>
-              <span className="lab" style={{ color: "var(--orange)" }}>
-                sample · Austin pull pending
-              </span>
-            </div>
-            {places.map((p, i) => (
-              <div className="trow" key={p.name} style={i === 7 ? { color: "var(--dim)" } : undefined}>
-                <span className={i < 7 ? "box on" : "box"} />
-                <span className="n">{p.name}</span>
-                <span className="m">
-                  {p.rating} · {p.reviewCount?.toLocaleString()} reviews
-                </span>
-                <button type="button" className={i === youIndex ? "youtag on" : "youtag"} onClick={() => setYouIndex(i)}>
-                  you
-                </button>
-              </div>
-            ))}
-            <div className="trow" style={{ color: "var(--dim)" }}>
-              <span className="box" />
-              <span className="n">Rudy's Country Store — chain, 6 locations</span>
-              <span className="m">4.4 · 8,100</span>
-              <span className="youtag">you</span>
-            </div>
-          </div>
-
-          <div className="plan">
+        <div className="preflight" style={{ width: "100%" }}>
+          <div className="plan" style={{ width: "100%" }}>
             <span className="lab">Flight plan</span>
             <div className="line">
               <span>discovery · google_maps</span>
-              <span>1 · spent</span>
+              <span>1 call</span>
             </div>
             <div className="line">
-              <span>reviews · {included.length} places × 2 sorts</span>
-              <span>{included.length * 2}</span>
+              <span>reviews · maps · yelp · tripadvisor</span>
+              <span>per place found</span>
             </div>
             <div className="line">
-              <span>demand · google_trends US-TX</span>
-              <span>1</span>
-            </div>
-            <div className="line">
-              <span>phrasing · google_autocomplete</span>
-              <span>1</span>
+              <span>AI answer · google_ai_overview</span>
+              <span>3 queries</span>
             </div>
             <div className="line">
               <span>taxonomy</span>
@@ -153,17 +139,15 @@ export function PulsePreflight() {
               <span>mode</span>
               <span style={{ color: "var(--orange)" }}>live</span>
             </div>
-            <div className="line">
-              <span>estimated</span>
-              <span>~12s</span>
-            </div>
-            <div className="line sum warm">
-              <span>quota after</span>
-              <span>202 / 250</span>
-            </div>
-            <button type="button" className="btn lg" onClick={() => navigate("/run/pulse")}>
-              <span>RUN ANALYSIS</span>
-              <span>16 calls to go</span>
+            {error && (
+              <div className="line" style={{ color: "var(--orange)" }}>
+                <span>error</span>
+                <span>{error}</span>
+              </div>
+            )}
+            <button type="button" className="btn lg" onClick={runNew} disabled={busy || !name.trim() || !category.trim() || !location.trim()}>
+              <span>{busy ? "STARTING…" : "RUN ANALYSIS"}</span>
+              <span>discovers peers, reads this week's reviews</span>
             </button>
           </div>
         </div>
@@ -171,8 +155,8 @@ export function PulsePreflight() {
 
       <StatusBar
         items={[
-          { content: <>SOURCES <b>apple_app_store · apple_reviews · google_maps · google_maps_reviews · google_trends · google_autocomplete</b></> },
-          { content: <>2 CACHED RUNS · <b>replay free</b></>, push: true },
+          { content: <>SOURCES <b>google_maps · google_maps_reviews · yelp · tripadvisor · google_ai_overview</b></> },
+          { content: <>quota-guarded · capped roles fall back to cache</>, push: true },
         ]}
       />
     </div>

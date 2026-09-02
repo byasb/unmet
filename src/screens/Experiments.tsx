@@ -1,12 +1,34 @@
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
 import { useBusiness, useExperiments } from "../data/api";
-import type { Experiment } from "../data/types";
+import type { Doc } from "../../convex/_generated/dataModel";
+
+type ExperimentRowDoc = Doc<"experiments"> & { actionTitle: string };
 
 // design-unmet/Experiments.dc.html
 export function Experiments() {
   const business = useBusiness();
-  const experiments = useExperiments();
+  const experiments = useExperiments(business?._id);
+
+  if (business === undefined || experiments === undefined) {
+    return (
+      <div className="root">
+        <Topbar back={{ label: "morning card", to: "/pulse/home" }}>
+          <span className="lab">Loading…</span>
+        </Topbar>
+      </div>
+    );
+  }
+  if (business === null) {
+    return (
+      <div className="root">
+        <Topbar back={{ label: "morning card", to: "/pulse/home" }}>
+          <span className="lab">No business yet — run a Pulse first.</span>
+        </Topbar>
+      </div>
+    );
+  }
+
   const moved = experiments.filter((e) => e.verdict === "moved").length;
   const measuring = experiments.filter((e) => e.verdict === "measuring").length;
   const flat = experiments.filter((e) => e.verdict === "flat").length;
@@ -157,12 +179,16 @@ export function Experiments() {
   );
 }
 
-function ExperimentRow({ exp }: { exp: Experiment }) {
+function ExperimentRow({ exp }: { exp: ExperimentRowDoc }) {
   const bars = [exp.baselineMentions, ...exp.reads.map((r) => r.mentions)];
   const max = Math.max(...bars, 1);
   const startedLabel = new Date(exp.startedAt).toLocaleDateString("en-US", { weekday: "short", day: "numeric", month: "short" });
   const tagClass = exp.verdict === "moved" ? "tag ok" : exp.verdict === "measuring" ? "tag warm" : "tag";
   const barClass = exp.verdict === "moved" ? "g" : exp.verdict === "flat" ? "n" : "b";
+  const latest = exp.reads[exp.reads.length - 1];
+  const note = latest
+    ? `${exp.baselineMentions} → ${latest.mentions} / wk`
+    : `first read after next Monday's pulse`;
 
   return (
     <div className="tr">
@@ -182,9 +208,9 @@ function ExperimentRow({ exp }: { exp: Experiment }) {
       </div>
       <div className="st">
         <span className={tagClass}>
-          {exp.verdict === "moved" ? "moved" : exp.verdict === "measuring" ? "measuring" : "no change · 2 wks"}
+          {exp.verdict === "moved" ? "moved" : exp.verdict === "measuring" ? "measuring" : exp.verdict === "too_few" ? "too few" : "no change"}
         </span>
-        <span className="m">{exp.note}</span>
+        <span className="m">{note}</span>
       </div>
     </div>
   );

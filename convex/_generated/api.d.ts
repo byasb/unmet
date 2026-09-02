@@ -8,10 +8,12 @@
  * @module
  */
 
+import type * as admin from "../admin.js";
 import type * as analyze from "../analyze.js";
 import type * as auth from "../auth.js";
 import type * as cache from "../cache.js";
 import type * as cacheKey from "../cacheKey.js";
+import type * as cockpit from "../cockpit.js";
 import type * as critic from "../critic.js";
 import type * as crons from "../crons.js";
 import type * as dedupe from "../dedupe.js";
@@ -35,10 +37,12 @@ import type {
 } from "convex/server";
 
 declare const fullApi: ApiFromModules<{
+  admin: typeof admin;
   analyze: typeof analyze;
   auth: typeof auth;
   cache: typeof cache;
   cacheKey: typeof cacheKey;
+  cockpit: typeof cockpit;
   critic: typeof critic;
   crons: typeof crons;
   dedupe: typeof dedupe;

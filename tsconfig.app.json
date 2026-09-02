@@ -4,7 +4,7 @@
     "target": "es2023",
     "lib": ["ES2023", "DOM"],
     "module": "esnext",
-    "types": ["vite/client"],
+    "types": ["vite/client", "node"],
     "allowArbitraryExtensions": true,
     "skipLibCheck": true,
 
@@ -17,8 +17,12 @@
     "jsx": "react-jsx",
 
     /* Linting */
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
+    // noUnusedLocals/noUnusedParameters are off: importing convex/_generated/api
+    // (required to talk to the backend) pulls every convex/*.ts source file into
+    // this program transitively (TS follows imports regardless of `include`), so
+    // these two checks would fail the frontend build on unused-var slips in
+    // files under convex/ that this app doesn't own or edit. oxlint still flags
+    // unused vars in src/ (see .oxlintrc.json).
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true
   },

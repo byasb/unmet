@@ -47,9 +47,28 @@ function parseBrief(md: string) {
 export function Brief() {
   const { runId } = useParams<{ runId: string }>();
   const run = useRun(runId);
-  const md = useBrief();
-  const parsed = useMemo(() => parseBrief(md), [md]);
+  const md = useBrief(runId);
+  const parsed = useMemo(() => parseBrief(md || "# \n\n"), [md]);
   const [format, setFormat] = useState<"markdown" | "json">("markdown");
+
+  if (run === undefined || md === undefined) {
+    return (
+      <div className="root">
+        <Topbar>
+          <span className="lab">Loading brief…</span>
+        </Topbar>
+      </div>
+    );
+  }
+  if (run === null || md === null) {
+    return (
+      <div className="root">
+        <Topbar>
+          <span className="lab">Run not found.</span>
+        </Topbar>
+      </div>
+    );
+  }
 
   return (
     <div className="root">

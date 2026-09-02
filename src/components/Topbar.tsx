@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import { Link } from "react-router-dom";
-import { useQuota } from "../data/api";
+import { useConvexAuth } from "convex/react";
+import { useQuota, useSignOut } from "../data/api";
 
 interface TopbarProps {
   activeSeg?: "build" | "pulse";
@@ -13,7 +14,9 @@ interface TopbarProps {
 
 export function Topbar({ activeSeg, back, crumb, liveDot, showQuota = true, children }: TopbarProps) {
   const quota = useQuota();
-  const pct = (quota.used / quota.limit) * 100;
+  const pct = quota ? (quota.used / quota.limit) * 100 : 0;
+  const { isAuthenticated } = useConvexAuth();
+  const signOut = useSignOut();
 
   return (
     <div className="topbar">
@@ -59,13 +62,29 @@ export function Topbar({ activeSeg, back, crumb, liveDot, showQuota = true, chil
           <div className="ph">
             <span className="lab">SerpApi quota</span>
             <span className="mono" style={{ fontSize: 11, color: "var(--ink)" }}>
-              {quota.used} / {quota.limit}
+              {quota ? `${quota.used} / ${quota.limit}` : "—"}
             </span>
           </div>
           <div className="track">
             <div className="fill" style={{ width: `${pct}%` }} />
           </div>
         </div>
+      )}
+
+      <button
+        type="button"
+        className="back"
+        aria-label="Toggle guide"
+        style={{ background: "none", border: "1px solid var(--hairline3)", borderRadius: "50%", width: 22, height: 22, padding: 0, cursor: "pointer", justifyContent: "center" }}
+        onClick={() => window.dispatchEvent(new Event("unmet:toggle-guide"))}
+      >
+        ?
+      </button>
+
+      {isAuthenticated && (
+        <button type="button" className="back" style={{ background: "none", border: "none", cursor: "pointer" }} onClick={() => void signOut()}>
+          sign out
+        </button>
       )}
     </div>
   );

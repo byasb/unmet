@@ -2,14 +2,28 @@ import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
-import { useAppsRead } from "../data/api";
-import { BUILD_RUN } from "../data/mock";
+import { useRunBuild } from "../data/api";
 
 // design-unmet/StartApp.dc.html
 export function BuildPreflight() {
   const navigate = useNavigate();
-  const apps = useAppsRead();
+  const runBuild = useRunBuild();
   const [term, setTerm] = useState("habit tracker");
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  async function run() {
+    if (!term.trim() || busy) return;
+    setBusy(true);
+    setError(null);
+    try {
+      const runId = await runBuild({ term: term.trim() });
+      navigate(`/run/build/${runId}`);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : String(err));
+      setBusy(false);
+    }
+  }
 
   return (
     <div className="root">
@@ -29,6 +43,7 @@ export function BuildPreflight() {
             <input
               value={term}
               onChange={(e) => setTerm(e.target.value)}
+              onKeyDown={(e) => e.key === "Enter" && run()}
               style={{ flexGrow: 1, background: "none", border: "none", color: "var(--ink)", font: "inherit", outline: "none" }}
             />
             <span className="caret ok" />
@@ -51,10 +66,6 @@ export function BuildPreflight() {
             <span className="arrow">·</span>
             <span>
               store <b>US</b>
-            </span>
-            <span className="arrow">·</span>
-            <span>
-              pulled <b>2026-09-02</b>
             </span>
             <div className="quick">
               <span className="chip" onClick={() => setTerm("receipt scanner")}>
@@ -97,64 +108,41 @@ export function BuildPreflight() {
         </div>
 
         <div className="preflight">
-          <div className="targets">
-            <div className="th">
-              <span className="lab">
-                Pre-flight · found <b>{apps.length}</b> apps · 1 call · from cache
-              </span>
-              <span className="lab" style={{ color: "var(--green)", fontSize: 11 }}>
-                real run · 2026-09-02 · nothing to spend
-              </span>
-            </div>
-            {apps.map((a) => (
-              <div className="trow" key={a.name}>
-                <span className="box on" />
-                <span className="n">{a.name}</span>
-                <span className="m">
-                  {a.rating.toFixed(2)} · {a.ratingsCount?.toLocaleString()} ratings
-                </span>
-                <span className="cached">cached</span>
-              </div>
-            ))}
-          </div>
-
-          <div className="plan">
+          <div className="plan" style={{ width: "100%" }}>
             <span className="lab">Flight plan</span>
             <div className="line">
               <span>discovery · apple_app_store</span>
-              <span>1 · cache</span>
+              <span>1 call</span>
             </div>
             <div className="line">
-              <span>reviews · {apps.length} apps × 2 sorts</span>
-              <span>{apps.length * 2} · cache</span>
+              <span>reviews</span>
+              <span>up to 8 apps × 2 sorts</span>
             </div>
             <div className="line">
               <span>demand · google_trends</span>
-              <span>1 · cache</span>
+              <span>1 call</span>
             </div>
             <div className="line">
               <span>phrasing · google_autocomplete</span>
-              <span>1 · cache</span>
+              <span>1 call</span>
             </div>
             <div className="line">
               <span>taxonomy</span>
               <span>app store · 13 themes</span>
             </div>
             <div className="line">
-              <span>mode</span>
-              <span style={{ color: "var(--green)" }}>offline replay</span>
+              <span>cache</span>
+              <span style={{ color: "var(--green)" }}>a cached term replays free</span>
             </div>
-            <div className="line">
-              <span>estimated</span>
-              <span>~1s</span>
-            </div>
-            <div className="line sum">
-              <span>quota after</span>
-              <span>219 / 250 · unchanged</span>
-            </div>
-            <button type="button" className="btn lg" onClick={() => navigate(`/build/${BUILD_RUN._id}`)}>
-              <span>RUN ANALYSIS</span>
-              <span>17 calls · 0 live</span>
+            {error && (
+              <div className="line" style={{ color: "var(--orange)" }}>
+                <span>error</span>
+                <span>{error}</span>
+              </div>
+            )}
+            <button type="button" className="btn lg" onClick={run} disabled={busy || !term.trim()}>
+              <span>{busy ? "STARTING…" : "RUN ANALYSIS"}</span>
+              <span>reads live or from cache</span>
             </button>
           </div>
         </div>
@@ -163,7 +151,7 @@ export function BuildPreflight() {
       <StatusBar
         items={[
           { content: <>SOURCES <b>apple_app_store · apple_reviews · google_trends · google_autocomplete</b></> },
-          { content: <>2 CACHED RUNS · <b>replay free</b></>, push: true },
+          { content: <>cached terms replay free</>, push: true },
         ]}
       />
     </div>

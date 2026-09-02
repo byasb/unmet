@@ -1,46 +1,51 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
 import { CallLogLine } from "../components/CallLogLine";
-import { Gauge } from "../components/Gauge";
-import { useCalls, useReadingAppsFound } from "../data/api";
-import { BUILD_GAPS, BUILD_RUN, PULSE_GAPS, PULSE_RUN } from "../data/mock";
+import { useCalls, useRun } from "../data/api";
 
-function prefersReducedMotion() {
-  return typeof window !== "undefined" && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-}
-
-// design-unmet/Loading.dc.html — subscribes to `calls` and grows the list as
-// rows arrive. `kind` in the URL picks which mock run/gap set to stream.
+// design-unmet/Loading.dc.html — subscribes to `run` + `calls` and streams
+// real rows as the action inserts them. Gaps/apps only exist once the run
+// finishes (pipeline.finishRun / pulse.finishRun write them in one batch at
+// the end), so unlike the original mock-driven version there is no partial
+// gap preview mid-run — this reads honestly instead of animating fake ranks.
 export function Reading() {
-  const { kind } = useParams<{ kind: string }>();
+  const { kind, runId } = useParams<{ kind: string; runId: string }>();
   const isPulse = kind === "pulse";
   const navigate = useNavigate();
-  const calls = useCalls(undefined);
-  const appsFound = useReadingAppsFound();
-  const gaps = isPulse ? PULSE_GAPS : BUILD_GAPS;
-  const targetRun = isPulse ? PULSE_RUN : BUILD_RUN;
-  const total = calls.length + 8; // matches the "09 / 17" style readout in the design
-
-  const reduced = useMemo(() => prefersReducedMotion(), []);
-  const [step, setStep] = useState(reduced ? calls.length : 0);
+  const run = useRun(runId);
+  const calls = useCalls(runId);
 
   useEffect(() => {
-    if (reduced) {
-      navigate(isPulse ? `/pulse/${targetRun._id}` : `/build/${targetRun._id}`, { replace: true });
-      return;
+    if (!run) return;
+    if (run.status === "done") {
+      const target = isPulse ? `/pulse/${run._id}` : `/build/${run._id}`;
+      navigate(target, { replace: true });
     }
-    if (step >= calls.length) {
-      const t = setTimeout(() => navigate(isPulse ? `/pulse/${targetRun._id}` : `/build/${targetRun._id}`, { replace: true }), 700);
-      return () => clearTimeout(t);
-    }
-    const t = setTimeout(() => setStep((s) => s + 1), 380);
-    return () => clearTimeout(t);
-  }, [step, calls.length, reduced, isPulse, navigate, targetRun._id]);
+  }, [run, isPulse, navigate]);
 
-  const seen = calls.slice(0, step);
-  const seenGaps = gaps.slice(0, Math.min(gaps.length, Math.ceil((step / Math.max(1, calls.length)) * gaps.length) + 1));
+  if (run === undefined || calls === undefined) {
+    return (
+      <div className="root">
+        <Topbar liveDot activeSeg={isPulse ? "pulse" : "build"} showQuota={false} />
+        <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
+          <span className="lab">Loading run…</span>
+        </div>
+      </div>
+    );
+  }
+
+  if (run === null) {
+    return (
+      <div className="root">
+        <Topbar liveDot activeSeg={isPulse ? "pulse" : "build"} showQuota={false} />
+        <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
+          <span className="lab">Run not found.</span>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="root">
@@ -49,13 +54,15 @@ export function Reading() {
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
             <path d="M9 6l6 6-6 6" />
           </svg>
-          <span style={{ flexGrow: 1 }}>{targetRun.term}{targetRun.location ? ` · ${targetRun.location}` : ""}</span>
-          <span className="chip">{isPulse ? "7 places" : "US"}</span>
-          <span className="chip">2 sorts</span>
+          <span style={{ flexGrow: 1 }}>
+            {run.term}
+            {run.location ? ` · ${run.location}` : ""}
+          </span>
+          <span className="chip">{isPulse ? "pulse" : "build"}</span>
         </div>
         <div className="run pending">
-          READING
-          <span className="cursor" />
+          {run.status === "error" ? "FAILED" : "READING"}
+          {run.status !== "error" && <span className="cursor" />}
         </div>
       </Topbar>
 
@@ -63,10 +70,8 @@ export function Reading() {
         <div className="main">
           <div className="readout">
             <div>
-              <div className="lab">Reading reviews · first live run</div>
-              <div className="big">
-                {String(Math.min(step, calls.length)).padStart(2, "0")} <span>/ {total}</span>
-              </div>
+              <div className="lab">Reading reviews · live run</div>
+              <div className="big">{String(calls.length).padStart(2, "0")}</div>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 8 }}>
               <div className="signal">
@@ -75,70 +80,59 @@ export function Reading() {
                 ))}
               </div>
               <div className="mono" style={{ fontSize: 11, color: "var(--mute)" }}>
-                {seen.length ? seen[seen.length - 1].engine : calls[0].engine} ·{" "}
-                <span style={{ color: "var(--orange)" }}>live</span>
+                {calls.length ? calls[calls.length - 1].engine : "starting"} ·{" "}
+                <span style={{ color: "var(--orange)" }}>{run.status === "error" ? "error" : "live"}</span>
               </div>
             </div>
           </div>
 
-          <div className="sweep">
-            <div className="done2" style={{ width: `${Math.min(100, (step / calls.length) * 100)}%` }} />
-            <div className="head2" />
-          </div>
+          {run.status === "error" && (
+            <div className="skel filled">
+              <span style={{ color: "var(--orange)" }}>{run.error ?? "Run failed."}</span>
+            </div>
+          )}
 
-          <div className="rows">
-            {seenGaps.map((g, i) => (
-              <div className="skel filled" key={g._id}>
-                <div style={{ display: "flex", gap: 14, alignItems: "baseline" }}>
-                  <span className="mono" style={{ fontSize: 12, color: "var(--mute)", width: 22 }}>
-                    {String(i + 1).padStart(2, "0")}
-                  </span>
-                  <span style={{ fontSize: 18, fontWeight: 700, flexGrow: 1 }}>{g.label}</span>
-                  <span className="mono" style={{ fontSize: 20, fontWeight: 600, color: "var(--orange)" }}>
-                    {g.score.toFixed(1)}
-                  </span>
+          {run.status !== "error" && (
+            <div className="rows">
+              {calls.length === 0 && (
+                <div className="skel" style={{ animationDelay: "0s" }}>
+                  <span className="lab">Waiting for the first call…</span>
                 </div>
-                <Gauge percent={(g.score / gaps[0].score) * 100} />
-                <div className="mono" style={{ fontSize: 11, color: "var(--mute)" }}>
-                  {g.mentions} mentions so far · {g.breadth} {isPulse ? "places" : "apps"} · still counting
+              )}
+              {Array.from({ length: 4 }, (_, i) => (
+                <div className="skel" key={`skel-${i}`} style={{ animationDelay: `${i * 0.3}s` }}>
+                  <div style={{ display: "flex", gap: 14, alignItems: "center" }}>
+                    <span className="mono" style={{ fontSize: 12, color: "var(--mute)", width: 22 }}>
+                      {String(i + 1).padStart(2, "0")}
+                    </span>
+                    <div className="l" style={{ width: 200 - i * 20 }} />
+                  </div>
+                  <div className="g">
+                    <div style={{ width: `${Math.max(0, 20 - i * 6)}%` }} />
+                  </div>
                 </div>
-              </div>
-            ))}
-            {Array.from({ length: Math.max(0, 5 - seenGaps.length) }, (_, i) => (
-              <div className="skel" key={`skel-${i}`} style={{ animationDelay: `${i * 0.3}s` }}>
-                <div style={{ display: "flex", gap: 14, alignItems: "center" }}>
-                  <span className="mono" style={{ fontSize: 12, color: "var(--mute)", width: 22 }}>
-                    {String(seenGaps.length + i + 1).padStart(2, "0")}
-                  </span>
-                  <div className="l" style={{ width: 200 - i * 20 }} />
-                  <div style={{ flexGrow: 1 }} />
-                  <div className="l" style={{ width: 56 }} />
-                </div>
-                <div className="g">
-                  <div style={{ width: `${Math.max(0, 20 - i * 6)}%` }} />
-                </div>
-              </div>
-            ))}
-          </div>
+              ))}
+            </div>
+          )}
         </div>
 
         <div className="side">
           <div className="panel">
             <div className="ph">
               <span className="lab">Telemetry · live</span>
-              <span className="tagtxt live">{seen.length} live · 0 cache</span>
+              <span className="tagtxt live">{calls.length} calls</span>
             </div>
             <div className="log">
-              {seen.map((c, i) => (
+              {calls.map((c, i) => (
                 <CallLogLine key={c._id} call={c} arrive delayMs={i * 20} />
               ))}
-              {step < calls.length && (
+              {run.status === "running" && (
                 <div>
                   <span className="eng">
                     <span className="cursor" />
                   </span>
                   <span className="prm" style={{ color: "var(--dim)" }}>
-                    {calls.length - step} calls queued
+                    reading…
                   </span>
                   <span className="tagtxt" />
                   <span className="ms" />
@@ -146,39 +140,21 @@ export function Reading() {
               )}
             </div>
           </div>
-
-          <div className="panel">
-            <div className="ph">
-              <span className="lab">Apps found · {appsFound.length}</span>
-              <span className="lab">rating</span>
-            </div>
-            {appsFound.map((n, i) => (
-              <div className={i < step ? "arow" : "arow pending"} key={n}>
-                <span className="n">{n}</span>
-                <span className="v">{i < step ? "—" : "—"}</span>
-              </div>
-            ))}
-          </div>
-
-          <div className="panel">
-            <div className="ph">
-              <span className="lab">Search demand</span>
-              <span className="lab" style={{ color: "var(--dim)" }}>
-                after reviews
-              </span>
-            </div>
-            <div className="mono" style={{ fontSize: 11, color: "var(--dim)" }}>
-              google_trends · google_autocomplete · queued
-            </div>
-          </div>
         </div>
       </div>
 
       <StatusBar
         items={[
-          { content: <>RUN <b>{new Date(targetRun.startedAt).toISOString()}</b></> },
-          { content: <>MODE <b style={{ color: "var(--orange)" }}>live</b></> },
-          { content: <>{seen.length} LIVE · 0 CACHE</>, push: true },
+          { content: <>RUN <b>{new Date(run.startedAt).toISOString()}</b></> },
+          { content: <>MODE <b style={{ color: "var(--orange)" }}>{run.mode}</b></> },
+          {
+            content: (
+              <>
+                {calls.filter((c) => c.live).length} LIVE · {calls.filter((c) => !c.live).length} CACHE
+              </>
+            ),
+            push: true,
+          },
         ]}
       />
     </div>

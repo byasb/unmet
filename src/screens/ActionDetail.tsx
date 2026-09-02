@@ -4,19 +4,43 @@ import { StatusBar } from "../components/StatusBar";
 import { Gauge } from "../components/Gauge";
 import { Pips } from "../components/Pips";
 import { SourceSquare } from "../components/SourceSquare";
-import { useBusiness, useGaps } from "../data/api";
+import { useBusiness, useGaps, useMarkActionDone, usePulseHome, toSourceCode } from "../data/api";
 import type { SourceCode } from "../data/types";
 
 const PLATFORMS: SourceCode[] = ["G", "Y", "T", "O"];
-const DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 
 // design-unmet/Action.dc.html — playbook-prescribed actions for one gap.
 export function ActionDetail() {
   const { theme } = useParams<{ theme: string }>();
   const business = useBusiness();
-  const gaps = useGaps("pulse");
+  const gaps = useGaps("pulse", business?._id);
+  const home = usePulseHome(business?._id);
+  const markDone = useMarkActionDone();
+
+  if (business === undefined || gaps === undefined) {
+    return (
+      <div className="root">
+        <Topbar back={{ label: "morning card", to: "/pulse/home" }}>
+          <span className="lab">Loading…</span>
+        </Topbar>
+      </div>
+    );
+  }
+  if (business === null || !gaps.length) {
+    return (
+      <div className="root">
+        <Topbar back={{ label: "morning card", to: "/pulse/home" }}>
+          <span className="lab">No pulse data yet — run a Pulse first.</span>
+        </Topbar>
+      </div>
+    );
+  }
+
   const gap = gaps.find((g) => g.theme === theme) ?? gaps[0];
   const rank = gaps.findIndex((g) => g._id === gap._id) + 1;
+  const codes = new Set((gap.platforms ?? []).map(toSourceCode));
+  const allActions = home ? [...home.today, ...home.carried, ...home.done] : [];
+  const liveAction = allActions.find((a) => a.theme === gap.theme);
 
   return (
     <div className="root">
@@ -32,7 +56,7 @@ export function ActionDetail() {
           </>
         }
       >
-        <span className="tag warm">sample · Austin pull pending</span>
+        <span className="tag warm">live · {business.location}</span>
       </Topbar>
 
       <div className="body2">
@@ -46,7 +70,7 @@ export function ActionDetail() {
 
           <div className="stats">
             <div className="stat">
-              <b style={{ color: "var(--orange)" }}>{gap.score}</b>
+              <b style={{ color: "var(--orange)" }}>{gap.score.toFixed(1)}</b>
               <span className="lab">score</span>
             </div>
             <div className="stat">
@@ -64,48 +88,13 @@ export function ActionDetail() {
               <span className="lab">places</span>
             </div>
             <div className="stat">
-              <b style={{ color: "var(--orange)" }}>+{gap.deltaWeek}</b>
-              <span className="lab">vs last week</span>
-            </div>
-            <div className="stat">
               <b>
                 {PLATFORMS.map((p) => (
-                  <SourceSquare key={p} code={p} variant="src4" on={gap.platforms?.includes(p)} />
+                  <SourceSquare key={p} code={p} variant="src4" on={codes.has(p)} />
                 ))}
               </b>
-              <span className="lab">verified on {gap.platforms?.length ?? 0} of 4 platforms</span>
+              <span className="lab">verified on {codes.size} of 4 platforms</span>
             </div>
-          </div>
-
-          <div style={{ display: "flex", gap: 24 }}>
-            {gap.dayOfWeek && (
-              <div style={{ flexGrow: 1, display: "flex", flexDirection: "column", gap: 6 }}>
-                <span className="lab">When it's said · by day of visit</span>
-                <div className="when">
-                  {gap.dayOfWeek.map((v, i) => (
-                    <span key={i} className={v >= 80 ? "hot" : undefined} style={{ height: `${v}%` }} />
-                  ))}
-                </div>
-                <div className="mono" style={{ display: "flex", justifyContent: "space-between", fontSize: 10, color: "var(--dim)" }}>
-                  {DAYS.map((d) => (
-                    <span key={d}>{d}</span>
-                  ))}
-                </div>
-              </div>
-            )}
-            {gap.requestPhrases && (
-              <div style={{ width: 260, display: "flex", flexDirection: "column", gap: 6 }}>
-                <span className="lab">What they say they wanted</span>
-                <div className="mono" style={{ fontSize: 12, color: "#cfd4da", lineHeight: 1.7 }}>
-                  {gap.requestPhrases.map((r, i) => (
-                    <span key={r.text}>
-                      {i > 0 && <br />}
-                      {r.text} <span style={{ color: "var(--mute)" }}>×{r.count}</span>
-                    </span>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
 
           <div className="ev" style={{ display: "flex", flexDirection: "column", gap: 10 }}>
@@ -119,11 +108,8 @@ export function ActionDetail() {
               <div className="q" key={i} style={{ gridTemplateColumns: "1fr", height: "auto", border: "1px solid var(--hairline2)", background: "var(--panel2)", padding: "12px 16px", display: "flex", flexDirection: "column", gap: 6 }}>
                 <p>“{q.text}”</p>
                 <div className="src">
-                  {q.source && <SourceSquare code={q.source} />}
-                  <Pips rating={q.rating} small />
-                  <span className="lab">
-                    {q.place} · {q.daysAgo} days ago
-                  </span>
+                  <Pips rating={q.rating ?? 0} small />
+                  <span className="lab">{q.place}</span>
                 </div>
               </div>
             ))}
@@ -136,42 +122,27 @@ export function ActionDetail() {
               <span className="lab">Prescribed · playbook v1</span>
               <span className="lab">evidence-backed</span>
             </div>
-            <div className="rx lead">
-              <span className="n">01 · fixes "nobody told us" · 9 of {gap.mentions}</span>
-              <span className="do">Post today's expected wait on Google Maps by 10am, update at 12 and 2</span>
-              <span className="why">
-                The complaint is not the wait, it's the surprise. The one rival praised for waits posts hours daily and has 0 wait
-                complaints this week.
-              </span>
-              <div className="row">
-                <span className="lab">10 min · weekly habit</span>
-                <button type="button" className="btn">
-                  Start tracking
-                </button>
+            {liveAction ? (
+              <div className="rx lead">
+                <span className="n">{liveAction.state === "done" ? "done" : "today"}</span>
+                <span className="do">{liveAction.title}</span>
+                {liveAction.why && <span className="why">{liveAction.why}</span>}
+                <div className="row">
+                  <span className="lab">{liveAction.effort}</span>
+                  {liveAction.state !== "done" ? (
+                    <button type="button" className="btn" onClick={() => markDone({ actionId: liveAction._id })}>
+                      Mark done
+                    </button>
+                  ) : (
+                    <span className="tag ok">done · measuring</span>
+                  )}
+                </div>
               </div>
-            </div>
-            <div className="rx">
-              <span className="n">02 · fixes "order ahead" · 3 of {gap.mentions}</span>
-              <span className="do">Add the pre-order link to the Maps listing and the pinned post</span>
-              <span className="why">[place 3] is advertising exactly this on Google Ads right now. Same customers, same search.</span>
-              <div className="row">
-                <span className="lab">20 min · once</span>
-                <button type="button" className="btn ghost">
-                  Start tracking
-                </button>
+            ) : (
+              <div className="rx">
+                <span className="do">No action prescribed for this gap yet — it lands on the next pulse.</span>
               </div>
-            </div>
-            <div className="rx">
-              <span className="n">03 · fixes "shade or water in line" · 2 of {gap.mentions}</span>
-              <span className="do">Water and shade for the Saturday line</span>
-              <span className="why">Mentioned in 2 complaints and in 1 five-star review as the reason they stayed.</span>
-              <div className="row">
-                <span className="lab">cost · one-off</span>
-                <button type="button" className="btn ghost">
-                  Start tracking
-                </button>
-              </div>
-            </div>
+            )}
           </div>
 
           <div className="panel">
@@ -194,10 +165,6 @@ export function ActionDetail() {
                 <span>counts as moved</span>
                 <span>−30% mentions or pain −0.5</span>
               </div>
-              <div>
-                <span>first result</span>
-                <span>Mon 9 Sep</span>
-              </div>
             </div>
           </div>
         </div>
@@ -206,8 +173,8 @@ export function ActionDetail() {
       <StatusBar
         items={[
           { content: <>GAP <b>{gap.theme}</b></> },
-          { content: <>EVIDENCE <b>{gap.mentions} reviews · 3 platforms · 7 days</b></> },
-          { content: <>NO EXPERIMENT RUNNING · <b>start one above</b></>, push: true },
+          { content: <>EVIDENCE <b>{gap.mentions} reviews · {codes.size} platforms</b></> },
+          { content: <>{liveAction ? "TRACKING" : "NO ACTION YET"}</>, push: true },
         ]}
       />
     </div>

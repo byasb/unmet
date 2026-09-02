@@ -11,10 +11,32 @@ export function BuildBoard() {
   const { runId } = useParams<{ runId: string }>();
   const navigate = useNavigate();
   const run = useRun(runId);
-  const gaps = useGaps("build");
+  const gaps = useGaps("build", runId);
   const calls = useCalls(runId);
-  const apps = useAppsRead();
-  const demand = useDemand();
+  const apps = useAppsRead(runId);
+  const demand = useDemand(runId);
+
+  if (run === undefined || gaps === undefined || calls === undefined || apps === undefined || demand === undefined) {
+    return (
+      <div className="root">
+        <Topbar activeSeg="build" showQuota />
+        <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
+          <span className="lab">Loading gap board…</span>
+        </div>
+      </div>
+    );
+  }
+  if (run === null || apps === null || demand === null) {
+    return (
+      <div className="root">
+        <Topbar activeSeg="build" showQuota />
+        <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
+          <span className="lab">Run not found.</span>
+        </div>
+      </div>
+    );
+  }
+
   const top = gaps[0]?.score ?? 1;
 
   return (
@@ -63,7 +85,7 @@ export function BuildBoard() {
                   <span className="name">{g.label}</span>
                   {i >= 2 && (
                     <span className="inl">
-                      <b>{g.mentions}</b> mentions · <b>{g.requests}</b> requests · pain <b>{g.pain}</b> · <b>{g.breadth} / {g.totalPlaces}</b> apps
+                      <b>{g.mentions}</b> mentions · <b>{g.requests}</b> requests · pain <b>{g.pain}</b> · <b>{g.breadth} / {apps.length}</b> apps
                     </span>
                   )}
                   <span className="score">{g.score.toFixed(1)}</span>
@@ -86,7 +108,7 @@ export function BuildBoard() {
                       </div>
                       <div className="stat">
                         <b>
-                          {g.breadth} / {g.totalPlaces}
+                          {g.breadth} / {apps.length}
                         </b>
                         <span className="lab">apps</span>
                       </div>
@@ -96,7 +118,7 @@ export function BuildBoard() {
                       <div className="quote">
                         <p>“{g.quotes[0].text}”</p>
                         <div className="src">
-                          <Pips rating={g.quotes[0].rating} />
+                          <Pips rating={g.quotes[0].rating ?? 0} />
                           <span className="lab">{g.quotes[0].place}</span>
                         </div>
                       </div>
@@ -116,7 +138,7 @@ export function BuildBoard() {
           <div className="panel">
             <div className="ph">
               <span className="lab">Telemetry · {calls.length} calls</span>
-              <span className="tagtxt ok">0 live · {calls.length} cache</span>
+              <span className="tagtxt ok">{calls.filter((c) => c.live).length} live · {calls.filter((c) => !c.live).length} cache</span>
             </div>
             <div className="log">
               {calls.slice(0, 9).map((c) => (
@@ -172,7 +194,14 @@ export function BuildBoard() {
           { content: <>RUN <b>{new Date(run.startedAt).toISOString()}</b></> },
           { content: <>SOURCE <b>apple_app_store</b></> },
           { content: <>MODE <b>{run.mode}</b></> },
-          { content: <>0 LIVE · {calls.length} CACHE · {run.reviewCount} REVIEWS · <b>1.2s</b></>, push: true },
+          {
+            content: (
+              <>
+                {calls.filter((c) => c.live).length} LIVE · {calls.filter((c) => !c.live).length} CACHE · {run.reviewCount} REVIEWS
+              </>
+            ),
+            push: true,
+          },
         ]}
       />
     </div>
