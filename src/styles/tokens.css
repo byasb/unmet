@@ -2349,3 +2349,7 @@ a:hover {
 .leaflet-tile { filter: brightness(0.62) contrast(1.15) saturate(0.6); }
 
 .mapstage .topbar, .mapstage .status, .mapstage .sm-status { position: relative; z-index: 900; }
+
+/* topbar quota: never wrap */
+.quota { width: 176px; flex-shrink: 0; }
+.quota .ph { white-space: nowrap; gap: 10px; }
