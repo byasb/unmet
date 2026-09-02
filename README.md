@@ -15,6 +15,8 @@ SerpApi is the only data source. Every response is cached; the cost of every run
 
 Built for the DevNetwork [API + Cloud + AI] Hackathon 2026, SerpApi track. Solo build, AI-assisted.
 
+Live: **https://unmet.byasb.com** · Source: https://github.com/byasb/unmet
+
 ## The demo set
 
 "You" is **Stiles Switch BBQ** — 6610 N Lamar, half a mile up the street from SerpApi's office. Peers:
