@@ -42,7 +42,7 @@ export function Landing() {
             ]}
             alt="or paste an App Store link — that app is treated as yours, and the gaps are checked against it"
             last={{
-              label: "Last run · real",
+              label: "Demo set · cached",
               color: "var(--green)",
               term: "habit tracker",
               detail: (
@@ -65,7 +65,7 @@ export function Landing() {
             body="Name a kind of business and a place. It reads this week's reviews across the businesses like yours nearby, ranks what's going wrong, and tells you whether it's reached you yet."
             engines={[
               ["google_maps", "the businesses like yours nearby"],
-              ["maps · yelp · tripadvisor · opentable", "this week's reviews on four platforms"],
+              ["maps · yelp · tripadvisor", "this week's reviews on three platforms"],
               ["google_ai_overview", "are you cited when people ask Google"],
             ]}
             tries={[
@@ -74,8 +74,8 @@ export function Landing() {
             ]}
             alt="or paste a Google Maps link — that place is treated as yours, and the gaps are checked against it"
             last={{
-              label: "Next run · live",
-              color: "var(--orange)",
+              label: "Demo set · cached",
+              color: "var(--green)",
               term: "barbecue · Austin, TX",
               detail: (
                 <>
