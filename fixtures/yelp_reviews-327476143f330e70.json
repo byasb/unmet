@@ -1,0 +1,1542 @@
+{
+ "search_metadata": {
+  "id": "6a98058a03610aa61c6a6e35",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/uEhL6iJ5ywCNGf625zqWym9ym5HfxlWonvzjNAZt1OU/6a98058a03610aa61c6a6e35.json",
+  "markdown_endpoint": "https://serpapi.com/searches/uEhL6iJ5ywCNGf625zqWym9ym5HfxlWonvzjNAZt1OU/6a98058a03610aa61c6a6e35.md",
+  "created_at": "2026-09-02 11:16:26 UTC",
+  "processed_at": "2026-09-02 11:16:26 UTC",
+  "yelp_reviews_url": "https://www.yelp.com/biz/cxQEW0JaFDqOqkavm4zKXg",
+  "raw_html_file": "https://serpapi.com/searches/uEhL6iJ5ywCNGf625zqWym9ym5HfxlWonvzjNAZt1OU/6a98058a03610aa61c6a6e35.html",
+  "total_time_taken": 2.76
+ },
+ "search_parameters": {
+  "engine": "yelp_reviews",
+  "start": 0,
+  "num": "49",
+  "place_id": "cxQEW0JaFDqOqkavm4zKXg"
+ },
+ "search_information": {
+  "total_results": 483,
+  "business": "Brown's Bar-B-Que"
+ },
+ "review_languages": [
+  {
+   "hl": "en",
+   "count": 483
+  },
+  {
+   "hl": "es",
+   "count": 1
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "user": {
+    "name": "Patrick M.",
+    "user_id": "q3pl3YKTDtJXzWgpGbR6_g",
+    "link": "https://www.yelp.com/user_details?userid=q3pl3YKTDtJXzWgpGbR6_g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ONfqBrQilcv3uiSyxU21Ew/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 91,
+    "photos": 257,
+    "reviews": 226
+   },
+   "comment": {
+    "text": "Brisket was ok but the star was the smoked turkey and beans.  Good cooked cabbage side too.  The potato salad was a mashed potato kinda thing like Donn's BBQ. Served cold and yellow maybe mustard or Yukon gold taters?  \n\nWill try pulled pork next time when it's ready...and the pork belly bites people rave about. \n\nWill come back.",
+    "language": "en"
+   },
+   "date": "2026-04-08T23:39:59Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 2,
+   "user": {
+    "name": "Rey K.",
+    "user_id": "eI-VT7E3TzPO2DXnAUOT_w",
+    "link": "https://www.yelp.com/user_details?userid=eI-VT7E3TzPO2DXnAUOT_w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zMkzCYN63dHY2GavQ_YVpw/180s.jpg",
+    "address": "Bee Cave, TX",
+    "friends": 52,
+    "photos": 671,
+    "reviews": 115,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "My partner and I wanted to try a new BBQ place. Hes not much of a food truck guy. I love trying food from food trucks and helping small independent business. \nThe food truck is parked in front of a bar. You can eat inside or eat outside. You order and get your food at thr food truck. I do like the concept businesses helping each other. We ended up ordering drinks. \nThe brisket was super good, the sausage and ribs. I got the boudin sausage and it wad okay. I wasn't thrilled about it. The sides is okay, nothing special. I tried the pudding, it ead delicious just a tad bit sweet. Other than that I would get it again. \nI would recommend the place and i would come back.",
+    "language": "en"
+   },
+   "date": "2026-03-15T00:03:59Z",
+   "rating": 5,
+   "tags": [
+    "6 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6P4uGN9XLuLDhU6OP__Bzw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3MkJYdpmbaqpxxj0d0glnA/o.jpg",
+     "caption": "Nanas pudding"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wEfqC2dd9iv5mQg_wQ4J3g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JRDUWL8vaYI9jR6iw78-8g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-9ti8R7ppu0-DqCcrJO1yg/o.jpg",
+     "caption": "Brisket sandwich, mac n cheese, potato salad"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L4UcZbIIgbObib5iDRyKrQ/o.jpg",
+     "caption": "Brisket, sausage link amd pork ribs"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 3,
+   "user": {
+    "name": "Joshua E.",
+    "user_id": "5hMdbWDFUwqJxNV27kDJqQ",
+    "link": "https://www.yelp.com/user_details?userid=5hMdbWDFUwqJxNV27kDJqQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VOtZNZ8CDB-kCZkHvg1X5A/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 1101,
+    "photos": 107,
+    "reviews": 46,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I enjoyed the bbq. Corner bar has a Sunday special where you get a free plate if you open a $15 tab. You get your choice of meat and 2 sides. \n\nThe brisket, beans were tasty. Well seasoned. I'd recommend Browns.",
+    "language": "en"
+   },
+   "date": "2026-02-02T16:44:37Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GGNLUb8eX2pxDqteOTxZDA/o.jpg",
+     "caption": "Brisket, green beans, and baked beans"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GRs8MsmjdBJumjsDmv-7yw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 4,
+   "user": {
+    "name": "Gladys S.",
+    "user_id": "9Rv8AXxXkMw831ram09GIA",
+    "link": "https://www.yelp.com/user_details?userid=9Rv8AXxXkMw831ram09GIA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WSu-PbnB0bc-wPNErPkLgQ/180s.jpg",
+    "address": "Santa Ana, CA",
+    "friends": 0,
+    "photos": 29,
+    "reviews": 31,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Wow! The brisket is incredible! Seasoned to perfection. Double decker tour guide at the Austin visitor center recommended this place to us and we're glad we listened. Highly recommend!",
+    "language": "en"
+   },
+   "date": "2026-07-05T18:19:44Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 5,
+   "user": {
+    "name": "Richard A.",
+    "user_id": "mdP18-vCtV9nu8DT2Bk6lA",
+    "link": "https://www.yelp.com/user_details?userid=mdP18-vCtV9nu8DT2Bk6lA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FkcZcL8eHIzP4_9ukcfc7A/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 356,
+    "photos": 1705,
+    "reviews": 445,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The many times that I have been in the area, I have never noticed Brown's BBQ but now they definitely have my attention.\n\nMy lite afternoon snack was the 3-meat plate, Moist Beef Brisket, Pork Rib, and Sausage with sides of Cabbage and Green Beans. \n\nThe brisket had a beautiful smoke ring and the bark was perfect. The pork rib had a nice rub where no barbecue sauce was needed. Last but not least, the sausage casing had a nice snap to it and the filling was coarse, the way I like it. The braised cabbage was well seasoned to my satisfaction.\n\nAlthough Brown's BBQ shares the same address with the Corner Bar, they are separate businesses however, if one orders to eat-in, the delectable delights can be savored outside at the picnic tables or inside of the Corner Bar where beverages with authority are served, for digestive purposes.\n\nWithour a doubt, I definitely will be back.",
+    "language": "en"
+   },
+   "date": "2025-09-16T23:39:00Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8dAXrSg3itwgVSR0s6koqw/o.jpg",
+     "caption": "Brown's BBQ"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vaz7so-al8A7wTbJv8FYOw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ntXlvABjD9IhsQI8gUE9iw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 3,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 6,
+   "user": {
+    "name": "Stephanie K.",
+    "user_id": "CZ989wqJIz4FNV2lT0guIw",
+    "link": "https://www.yelp.com/user_details?userid=CZ989wqJIz4FNV2lT0guIw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1PH2tPQPPdIOLNBhaHV9fQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 101,
+    "photos": 673,
+    "reviews": 628,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Here's the real deal - exceptional BBQ without the wait, serving up \"authentic, slow-smoked BBQ\" since 2011. As a late-blooming Texan, I'm not always craving brisket, but this jalape\u00f1o cheddar sausage is FIRE! Also a Brown's original: Candied Pork Belly Bites - AKA MEAT CANDY.  If you choose to go the traditional (brisket) route, their options for Carolina (mustard-based) and hearty BBQ are both flavorful and delicious. Mac 'n Cheesey has BACON to bring flavors full circle. Servings from the 1/4 lb up to Corporate Gatherings, Weddings, and Parties. Enough to keep you coming back, time and again!",
+    "language": "en"
+   },
+   "date": "2026-04-15T13:26:42Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gY_fpa1vyIqo4UqetVVWZg/o.jpg",
+     "caption": "Eats & Atmosphere!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 7,
+   "user": {
+    "name": "Heather S.",
+    "user_id": "M1qRJca_4OpH9GqsjPPUNA",
+    "link": "https://www.yelp.com/user_details?userid=M1qRJca_4OpH9GqsjPPUNA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nAFtkGerKFHMAJFIni3S3Q/180s.jpg",
+    "address": "Arlington, TX",
+    "friends": 11,
+    "photos": 5,
+    "reviews": 8
+   },
+   "comment": {
+    "text": "Absolutely amazing food! We had the \"small\" brisket and sausage sandwich and first of all it was huge and the taste was OUT of this world!! Also had Mac n cheese and the cabbage and cannot say enough about how tasty they both were! Cannot wait until we are in Austin next so we can have it again!",
+    "language": "en"
+   },
+   "date": "2026-07-05T23:47:07Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZqyeqrvojJKa0Kp6OE48_g/o.jpg",
+     "caption": "Picnic area in front of the food truck"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 8,
+   "user": {
+    "name": "Amy G.",
+    "user_id": "VMuvh0otnR-YOz2abRl2tw",
+    "link": "https://www.yelp.com/user_details?userid=VMuvh0otnR-YOz2abRl2tw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SsmBwArUt-O1lUk8MWfLbw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 461,
+    "photos": 1061,
+    "reviews": 326,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Good bbq, friendly service!\n\nMy husband and I are eating a lot of bbq while we're both doing a keto diet. This week we tried Brown's bbq. My husband had tried it before a long time ago, and he says I did too, but I'm pretty sure I had food from the truck next to it, Kiin Di, while he had bbq. \n\nWe got our standard order, brisket, turkey, and chicken by the pound, quarter pound each. My favorite was the chicken, because it was juicy, and texture is major for me. My husband thought the brisket was his favorite. We both thought the turkey was ok, but a little dry. Fortunately, some of the turkey pieces I got to in the end were a little juicier, so that redeemed it. We considered going back to order a bit more, but couldn't decide on what. Once we decided on sausage, we discovered it was sold out, so that was our sign to stick with our first order. \n\nWe ate on the bar patio even though it was really hot and humid. We could have taken the food inside, but we felt awkward doing that since we weren't drinking. \n\nWe were both hungry, and it hit the spot, but it has not disrupted my ranking of favorite bbq spots any.",
+    "language": "en"
+   },
+   "date": "2025-08-14T21:15:14Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1smRnMc1VhkpFc36szww8Q/o.jpg",
+     "caption": "Bris Brisket, 1 lb. Turkey, 1 lb. Chicken, 1 lb."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/20u5HoDl4ixCbaSXbZIV6Q/o.jpg",
+     "caption": "Brisket, 1 lb. Turkey, 1 lb. Chicken, 1 lb."
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 9,
+   "user": {
+    "name": "Paul R.",
+    "user_id": "R5r52e3EnFDStcztaN_eFg",
+    "link": "https://www.yelp.com/user_details?userid=R5r52e3EnFDStcztaN_eFg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/G9JiICPbbQgadZepav1ODg/180s.jpg",
+    "address": "Cedar Park, TX",
+    "friends": 259,
+    "photos": 922,
+    "reviews": 1398,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Brown's trailer sits right in front of the Corner Bar, hard off of South Lamar. On an early weekday evening, parking was a breeze, and there was minimal order-to-chow-down time. \n\nI ordered the brisket sandwich with beans and potato salad sides. The sandwich arrived with plain ole white bread, making the brisket king.\n \nThe brisket was beautifully smoked, tender but not mushy (which is a big no-no). The sides were good, but the BBQ meat is why you eat here. Others have mentioned that their BBQ sauce is 5-star worthy. I usually do not smother my BBQ with sauce, but Brown's sauce is excellent. I even added it to my beans and potato salad. \n\nA return visit is planned to further explore their menu, especially their desserts.\n\nLastly, you can enjoy your BBQ inside the Corner Bar while having the beverage of your choice.",
+    "language": "en"
+   },
+   "date": "2025-10-27T12:04:08Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 6,
+    "funny": 1,
+    "cool": 5
+   }
+  },
+  {
+   "position": 10,
+   "user": {
+    "name": "Dexter V.",
+    "user_id": "d67EQoQ7h2ebU80a4J3ESg",
+    "link": "https://www.yelp.com/user_details?userid=d67EQoQ7h2ebU80a4J3ESg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/iysgW675xI7l0eF1ci6prw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 21,
+    "photos": 308,
+    "reviews": 151,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We just happened to have found this place in route to an appointment. We were hungry and had 15 mins to eat. It actually turned out to be one of the better brisket places I've been to. I'd recommend the brisket and the sausage",
+    "language": "en"
+   },
+   "date": "2025-12-07T16:40:27Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RKGr2n9nHe_eahY1haYhiQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vhzp3PYPF_PXoVWvJUMR1w/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 11,
+   "user": {
+    "name": "Christopher T.",
+    "user_id": "LeASN5ehG8TpE_oRajyGFA",
+    "link": "https://www.yelp.com/user_details?userid=LeASN5ehG8TpE_oRajyGFA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_c1Va_WepQkYJr7cC1x1Gw/180s.jpg",
+    "address": "Long Beach, CA",
+    "friends": 55,
+    "photos": 11536,
+    "reviews": 1712,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Went here when they just open for a quick bite before heading to the airport.  Simply delicious and juicy and the meats are just simple tasty and tender and clever thing you could think of.  It's a food truck parks right infront of the bar so you ordered, get your foods and go inside and get drinks and enjoys the foods.  The service is great & friendly and turnaround is quick too.  The vibe is just simple great and easy going plus the bar is more of a garage type & simple with great music.  Love it.",
+    "language": "en"
+   },
+   "date": "2025-11-21T00:54:49Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tfPsn7jftQbDEUTfUFmydw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fU_7c3361YGGBa4nz4XTJg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t-O4ic7czfziy5nCnsMFIg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SWGIeh8R9-vV4DNxEX-lEg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 12,
+   "user": {
+    "name": "Anna H.",
+    "user_id": "MQ4alDgYBw2hOvwQGZhA2g",
+    "link": "https://www.yelp.com/user_details?userid=MQ4alDgYBw2hOvwQGZhA2g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Vl0RUJGhHV016rKni0VXmg/180s.jpg",
+    "address": "San Diego, CA",
+    "friends": 115,
+    "photos": 1005,
+    "reviews": 734,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Listen, don't write off food truck barbecue!!! We got here after a long drive into Austin, desperate to eat barbecue but not eager to stand in long lines to eat it. After having over an hour in the car to sift through reviews, we settled on Brown's.\n\nIt's nestled in the parking lot of the Corner Bar. Lots of outside seating on picnic tables (in the shade.) Brisket was tender (not fatty! Thank god!!!) and coleslaw was SO good. The pulled pork and turkey were also amazing. The sides of onions, pickles and jalape\u00f1o along with slices of bread were great. Also full bottles of soda. Barbecue was served on trays with paper. The lady serving us was friendly.\n\nAlso DO NOT SLEEP ON THE BANANA PUDDING. Soooo good. What a find!!",
+    "language": "en"
+   },
+   "date": "2025-02-08T19:40:34Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CmJIm4uEQL8yGL9WijxgOQ/o.jpg",
+     "caption": "Brisket Sandwich Turkey Sandwich Pulled Pork, 1 lb. Beans Slaw"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 13,
+   "user": {
+    "name": "Bridgette M.",
+    "user_id": "ZtsJ2ofNMNZA9hZK1qrwFA",
+    "link": "https://www.yelp.com/user_details?userid=ZtsJ2ofNMNZA9hZK1qrwFA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ezpwyupbS0jUEyZWRx-iPw/180s.jpg",
+    "address": "Tempe, AZ",
+    "friends": 578,
+    "photos": 1,
+    "reviews": 11
+   },
+   "comment": {
+    "text": "Awesome food, fast service, and great location. BBQ is some of the best we've had and the workers are so nice. Will be back",
+    "language": "en"
+   },
+   "date": "2026-04-19T17:38:09Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XxspX34bg6BVr1L79xIHKg/o.jpg",
+     "caption": "Brisket/ sausage sandwich, pulled pork wrap, mac and cheese, beans"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 14,
+   "user": {
+    "name": "John G.",
+    "user_id": "49GGtp_JCxUvff1gL8jC2Q",
+    "link": "https://www.yelp.com/user_details?userid=49GGtp_JCxUvff1gL8jC2Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/twHiRf8scDs7pVLp30DiCQ/180s.jpg",
+    "address": "Bellevue, WA",
+    "friends": 124,
+    "photos": 2463,
+    "reviews": 570,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We loved this place! We took our order to go, one pound of brisket; it was very tasty and smokey. We also had the potato salad, beens and mac and cheese. I'd say my favorite sides were the mac and cheese followed by the beens. \nService was great, very nice, fun people and answered all of our question helping us with our order.",
+    "language": "en"
+   },
+   "date": "2025-01-10T04:07:51Z",
+   "rating": 5,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DwaWG9i4yvWDgdI-_RSARQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ellFZAPYp8N325vysoZoBw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ufi_dqY8rc8DHKcnv9cHhA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gP5r68U5vOch9zfxljbpoQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jc0nyU8FGh-sPqK-xyqubg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w3R3MHqs5W5I5nv5aGZfdw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dwa7iyLUXrvuV_CNkpJsgg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 1,
+    "cool": 1
+   }
+  },
+  {
+   "position": 15,
+   "user": {
+    "name": "Stephanie M.",
+    "user_id": "cPT0ovwZx3UN83AFbjqwxw",
+    "link": "https://www.yelp.com/user_details?userid=cPT0ovwZx3UN83AFbjqwxw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BMhB2iX3979fmZu4seByIg/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 76,
+    "photos": 1601,
+    "reviews": 408,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Love Love LOVE Brown's BBQ! Best BBQ deal in Austin if you ask me... complete a $15 tab at Corner Bar and you get a free plate of BBQ on Sundays until they sell out. Yessss please! The brisket is super tender, corn packed with flavor and the Mac & Cheese nice and cheesy. Go get ya some!",
+    "language": "en"
+   },
+   "date": "2025-08-01T00:51:14Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iKYxhiR-0bjqEC5PvSELrA/o.jpg",
+     "caption": "Brisket, Corn and Mac & Cheese"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 16,
+   "user": {
+    "name": "Steph W.",
+    "user_id": "WKMjQIZKdY9xN0MwXVsXyg",
+    "link": "https://www.yelp.com/user_details?userid=WKMjQIZKdY9xN0MwXVsXyg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/I1IFZtqNc8vpo-4tw-Cvtw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 29,
+    "photos": 298,
+    "reviews": 112,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Brown's BBQ is fine. It's a place I could stop by on a regular basis for some bbq. The meat is clearly seasoned, but I'm just not getting that deep grill or smoked BBQ flavor I'm looking for. I had the ribs and sausage, solid, but not a big BBQ punch. The brisket was pretty good. I got more of that bbq flavor with the brisket. What really stood out was the boudain link. Super flavorful with just the right amount of spice. It's the best I have had in Austin so far. The potato salad had good flavor, but the texture was a little too mushy for my taste. The beans were good. Well seasoned with a good flavor. They were sold out of chicken, which honestly makes me curious enough to come back and try it. Not a bad spot. I'll be back to try the chicken and the mac and cheese. The service was great. Friendly and they made sure I had everything I needed to enjoy my meal.",
+    "language": "en"
+   },
+   "date": "2026-01-20T02:59:51Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 17,
+   "user": {
+    "name": "Scott W.",
+    "user_id": "3EHc1hddBPOAKG7o4WQ4sQ",
+    "link": "https://www.yelp.com/user_details?userid=3EHc1hddBPOAKG7o4WQ4sQ",
+    "address": "Haddon Heights, NJ",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 94
+   },
+   "comment": {
+    "text": "Ate here 12 years ago.  Still dream about it.  Greatest bbq I've ever had in my life!",
+    "language": "en"
+   },
+   "date": "2026-06-08T16:29:39Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 18,
+   "user": {
+    "name": "Michi L.",
+    "user_id": "bWS7Qmxa0ICPQ_dedmeh1Q",
+    "link": "https://www.yelp.com/user_details?userid=bWS7Qmxa0ICPQ_dedmeh1Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/b52MKtOjm-a8DQIUqKtyiA/180s.jpg",
+    "address": "Monterey Park, CA",
+    "friends": 253,
+    "photos": 821,
+    "reviews": 436,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Brown's was on a list of top places to try in Austin for BBQ. So of course, we had to try it. Brown's BBQ is a food truck outside of Corner Bar. So you can order your food and get a drink inside. But we decided to order to go. They were so friendly and helpful. We got the brisket and pork ribs with sides of Mac and cheese and beans. The brisket was very juicy and tender. The pork ribs were tender and very flavorful. We definitely understood why they were on a list of top BBQ places to try. It did not disappoint!",
+    "language": "en"
+   },
+   "date": "2024-11-11T02:14:09Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wFCswh9cNEjqbFZpzPkNLQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JimETVbcnpDUfoZsbFzmtA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zPlmHsYipUK715-SSNWAow/o.jpg",
+     "caption": "Brisket, Pork Ribs, Mac & Cheese and Beans"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 1,
+    "cool": 2
+   }
+  },
+  {
+   "position": 19,
+   "user": {
+    "name": "Timmi B.",
+    "user_id": "K_9vL_ow9HZdpYpIwfulug",
+    "link": "https://www.yelp.com/user_details?userid=K_9vL_ow9HZdpYpIwfulug",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i9Sil1Pga-9IEsF4_hltcA/180s.jpg",
+    "address": "Pflugerville, TX",
+    "friends": 15,
+    "photos": 8,
+    "reviews": 10
+   },
+   "comment": {
+    "text": "I love how you can see them cut the meat up in front of you when ordering. The beans had brisket in them but they were kinda bland. The ribs, potato salad, banana pudding and sauces were delish!! I would definitely go back and try other menu options.",
+    "language": "en"
+   },
+   "date": "2025-09-04T23:00:01Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4HC8jZZYjYA6Vvts9qJSMQ/o.jpg",
+     "caption": "Ribs, beans, potato salad and banana pudding."
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 20,
+   "user": {
+    "name": "FF T.",
+    "user_id": "1Rq1pekYF2a-7EmcWLg86w",
+    "link": "https://www.yelp.com/user_details?userid=1Rq1pekYF2a-7EmcWLg86w",
+    "address": "Austin, TX",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 10
+   },
+   "comment": {
+    "text": "I wrote this review below in 2018. I wanted to repost it & add that this place is still has the best BBQ. Even after waiting in line at the other places that are popular/great places. I still go here at least twice a month for the past 10 years. I have tried everything on menu since review, everything is great!\n\nBEST BRISKET AROUND!!!\nI heard all their other food is great too, but I can't go there without eating the Brisket!!!\n\nBefore I found this place I drove to the other towns around here because of how famous they are for they're BBQ places.\nNo need for all that, Browns is the best!!!\n\nI remember the 1st time I went there 2 years ago when I was ordering...\nThis guy that just finished eating his food after his first time eating there walked up to the counter & slammed his hand on the counter really hard then yelled...\n\"THAT WAS SOME ____ _____GOOD BAR-B-QUE!!!\"\n\nThat is what I feel like doing every time I eat there!!!",
+    "language": "en"
+   },
+   "date": "2026-01-14T16:05:04Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 21,
+   "user": {
+    "name": "Sherry S.",
+    "user_id": "P9e8MTQcE6GW5WOwPYy7sg",
+    "link": "https://www.yelp.com/user_details?userid=P9e8MTQcE6GW5WOwPYy7sg",
+    "address": "Newbury Park, CA",
+    "friends": 2,
+    "photos": 3,
+    "reviews": 299
+   },
+   "comment": {
+    "text": "Great female-owned business! Thoroughly enjoyed the brisket and sausage with 2 different BBQ sauces.  Tender brisket and sausage had so much delicious flavor.  Parking is a bit tight. Owner will be rolling out some great new t-shirts soon. The sample she wore was super cute. Can't wait to return!",
+    "language": "en"
+   },
+   "date": "2026-04-14T03:29:14Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 22,
+   "user": {
+    "name": "Jonathan M.",
+    "user_id": "Yy5uJU1he0oeFI5iQd-Brg",
+    "link": "https://www.yelp.com/user_details?userid=Yy5uJU1he0oeFI5iQd-Brg",
+    "address": "Pontiac, MI",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 1
+   },
+   "comment": {
+    "text": "This shit fire, everything u need straight up drinks, food, bathroom everything you need is right there. Plenty of seating as well and ion even give reviews.",
+    "language": "en"
+   },
+   "date": "2026-04-25T17:29:49Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 23,
+   "user": {
+    "name": "Sharon J.",
+    "user_id": "vSR8EBcHsoqpmCqIkyTyuw",
+    "link": "https://www.yelp.com/user_details?userid=vSR8EBcHsoqpmCqIkyTyuw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JL4Gb702G_msJ3LI2qVNWg/180s.jpg",
+    "address": "Round Rock, TX",
+    "friends": 416,
+    "photos": 20,
+    "reviews": 30
+   },
+   "comment": {
+    "text": "This bbq is amazing !! The beef ribs were the best!! The cabbage was a little too sweet to me, the beans were good. The brisket had a good flavor but it was kinda soft. The brisket was awesome!! The ladies were very nice and helpful! The food truck looked very clean .",
+    "language": "en"
+   },
+   "date": "2025-12-05T22:01:20Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 24,
+   "user": {
+    "name": "Gabi D.",
+    "user_id": "5o1ZHUxBLUSDgop_BMcNOg",
+    "link": "https://www.yelp.com/user_details?userid=5o1ZHUxBLUSDgop_BMcNOg",
+    "address": "Austin, TX",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 2
+   },
+   "comment": {
+    "text": "My in laws were in town from Chicago and wanted to try some Texas BBQ. We drove by Terry Blacks and it was too packed so we redirected to Browns and we are so glad we did. The service was fast and all the food was incredible. There wasn't a single item that we got that I wouldn't give 5 stars. We ordered Turkey, brisket, beans, slaw, and potato salad and it was all delicious. Even the bbq sauce and pickled jalape\u00f1os were a great touch. 10/10 would recommend going to Brown's if you're looking for some delicious Texas bbq. Can't wait to go back!",
+    "language": "en"
+   },
+   "date": "2026-04-12T15:59:59Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 25,
+   "user": {
+    "name": "Edward S.",
+    "user_id": "Vk8tRj7ElAaKdUOchKJuOg",
+    "link": "https://www.yelp.com/user_details?userid=Vk8tRj7ElAaKdUOchKJuOg",
+    "address": "Mount Pleasant, MI",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 6
+   },
+   "comment": {
+    "text": "Good BBQ,  but not as good as Terry Black's.   Potato salad was mediocre.  Took carry out because temperature was about 87,  and the outdoor tables were mainly in the sun.",
+    "language": "en"
+   },
+   "date": "2026-03-30T00:31:20Z",
+   "rating": 3,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 26,
+   "user": {
+    "name": "Frances L.",
+    "user_id": "JPT8vsL_6i7NAdvrKJW3Xg",
+    "link": "https://www.yelp.com/user_details?userid=JPT8vsL_6i7NAdvrKJW3Xg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/t4OQdgUuKNxNrsa4MXYoHg/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 11,
+    "photos": 72,
+    "reviews": 33
+   },
+   "comment": {
+    "text": "Brown's was such a pleasant last minute find on our way to an outing in South Lamar. The mac and cheese was comforting, the turkey sandwich felt light and healthy, and my boyfriend really enjoyed the pulled pork sandwich. The brisket was done really well! The sauces were light and sweet. I liked that the potato salad was mashed through and not chunky. A light, well done bbq experience that won't weigh down a hot summer day! Free parking in the connected lot and friendly service.",
+    "language": "en"
+   },
+   "date": "2025-03-22T04:17:33Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p5i_tFe1ofdd-iIGA6xYKA/o.jpg",
+     "caption": "Mac & Cheese Turkey Sandwich Pulled Pork Sandwich Brisket Sandwich Potato Salad"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 27,
+   "user": {
+    "name": "Frank J.",
+    "user_id": "q_PErxPDChBXXbF67gpS8w",
+    "link": "https://www.yelp.com/user_details?userid=q_PErxPDChBXXbF67gpS8w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OsmXPrJUSb-MPijCUFkbvw/180s.jpg",
+    "address": "Rochester, MN",
+    "friends": 623,
+    "photos": 204,
+    "reviews": 232,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Wow, I can't believe I have never been here previously. Browns BBQ is a family owned buisness and been in ATX for 12 years now. The have incredibly friendly and fast service. The ambiance is nice and chill and you can eat your food in the outdoor area or in the neighboring bar. \n\nThe food was fantastic. I couldn't believe how much brisket you get for the price when you order the wrap. The brisket was incredibly tender and well seasoned and the pulled pork was just as amazing. The side of corn was cooked perfect with some spice seasoning. This is a fantastic meal and highly recommend anyone who loves brisket to come visit. They deserve way more press, preferred this to Terry Blacks.",
+    "language": "en"
+   },
+   "date": "2023-05-02T17:14:16Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p13Yhk-WcEZFg3UoyJw4xQ/o.jpg",
+     "caption": "Brisket Wrap, Pulled Pork Wrap"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 28,
+   "user": {
+    "name": "Katie B.",
+    "user_id": "O_Irt33vfo9WC0pjje40Ug",
+    "link": "https://www.yelp.com/user_details?userid=O_Irt33vfo9WC0pjje40Ug",
+    "address": "Bouldin Creek, Austin, TX",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 1
+   },
+   "comment": {
+    "text": "As someone who loves really good food, I give Brown's Bar-B-Que five stars. If there were more stars, I'd give 'em. \n\nThe brisket is the most tender meat I have ever had. The slaw is delicious, refreshing (vinegar based, not mayo based), and a beautiful compliment to the meat. The beans and the corn - don't miss these items. Don't skimp. Go large. You'll be happy you did, likely for years to come.",
+    "language": "en"
+   },
+   "date": "2025-10-22T19:16:52Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 29,
+   "user": {
+    "name": "Jojuane P.",
+    "user_id": "ZKvfBXFWVpKa8Ea2ZQ5DwA",
+    "link": "https://www.yelp.com/user_details?userid=ZKvfBXFWVpKa8Ea2ZQ5DwA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hE6slu4-3oOg7mRjYRQlvg/180s.jpg",
+    "address": "Atlanta, GA",
+    "friends": 203,
+    "photos": 2214,
+    "reviews": 294,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "IG: @jojuane\n\nI'm not sure why this place isn't showing up BBQ lists as a destination. They're pumping out good 'cue! Been at their location for 11 yrs. Quality.\n\nScale:\n\n5 -brisket was moist and flavored just right. You could enjoy it without the need of a sauce. \n\n5 - Spare ribs were huge and had the bite and didn't break apart from being over cooked. Flavor was nice. \n\n3 - Beef sausage was meh.\n\n3 - Mac n cheese\n\n5 - potato salad\n\nThis place is legit and will go up my priority list and should be on everyone else's. \n\nP.S. To those who are interested, it is a black owned business.",
+    "language": "en"
+   },
+   "date": "2022-10-26T22:15:27Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9Iav6vZFw91LAshTUccuwg/o.jpg",
+     "caption": "IG: @jojuane"
+    }
+   ],
+   "feedback": {
+    "useful": 3,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 30,
+   "user": {
+    "name": "Sherry T.",
+    "user_id": "8GlLooElGwaL0WNkunHgvw",
+    "link": "https://www.yelp.com/user_details?userid=8GlLooElGwaL0WNkunHgvw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1m60REHeppwgubZc4e0ylA/180s.jpg",
+    "address": "Federal Way, WA",
+    "friends": 101,
+    "photos": 145,
+    "reviews": 617,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I rarely give a five star review, but Brown's earned it. I brought my sweetheart to Austin to celebrate his birthday, and when I asked him what he wanted to eat, his response was \"barbecue.\" It seemed that most everyone goes to Terry Black's, but after reading Brown's Yelp reviews, I knew we had to go.\n\nMy boyfriend got brisket and ribs, I got a brisket wrap, and we chose four sides--slaw, green beans, the other beans, and macaroni and cheese. They were all good, but the green beans were my favorite. I love vinegar; if you don't, I recommend that you forego the slaw.\n\nService was excellent.\n\nEverything about this experience was phenomenal.",
+    "language": "en"
+   },
+   "date": "2024-02-18T00:10:38Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 31,
+   "user": {
+    "name": "Gino W.",
+    "user_id": "IwNLgcal1Nt3F6ib71XVvQ",
+    "link": "https://www.yelp.com/user_details?userid=IwNLgcal1Nt3F6ib71XVvQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/FFxyZxuZ9he64PZqr8zW9g/180s.jpg",
+    "address": "Country Club Hills, IL",
+    "friends": 249,
+    "photos": 2025,
+    "reviews": 710,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Was in the area while in Austin. The city is bug on food trucks, I see. Nevertheless, got some grilled chicken with sauce, potato salad, and baked beans. The chicken hit the spot. The mustard potato salad was more mashed than lumpy. It still was good. The baked beans were not of the sugary variety. Must say that I enjoyed all of it.",
+    "language": "en"
+   },
+   "date": "2023-10-15T01:11:05Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uljOa6UVcFyD36RL-s9SQg/o.jpg",
+     "caption": "Grilled Chicken, Potato Salad, Baked Beans"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZDsagWRsMNMD8JgQI9H5Ew/o.jpg",
+     "caption": "Brown's Bar-B-que"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 32,
+   "user": {
+    "name": "David S.",
+    "user_id": "S1Q659DRflJ_64RghFnaaw",
+    "link": "https://www.yelp.com/user_details?userid=S1Q659DRflJ_64RghFnaaw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KUYfCgIhDyoVvyoogN8_sQ/180s.jpg",
+    "address": "Los Angeles, CA",
+    "friends": 3,
+    "photos": 1,
+    "reviews": 47
+   },
+   "comment": {
+    "text": "This place is amazing. I flew into Austin at 2pm on a Tuesday so the famous spots were mostly closed. I'm glad that was the case because after doing research I discovered that Brown's has some of the best brisket. After trying a few spots I was hoping for some serious tender meat. \n\nI ordered the brisket with green beans and coleslaw. They only gave me a fork so before asking for a knife I tested the brisket, and sure enough, no knife was needed. I was able to cut through it with a plastic fork. Mind you, there was still a good bite to the meat, it was basically the perfect consistency. There was a quarter inch or so layer of fat that was super soft and juicy to make the meat even more elevated. Top it all off with their sweet mustard based sauce, so smooth, the meal was insane.   \n\nSince I'm not in town for long I went back for seconds after my brisket and ordered two slices of turkey and a side of Mac n cheese. The turkey was unreal. Really juicy, tender, and flavorful. So easy to eat. The Mac n cheese was good but not the once a year super cheesy and creamy Mac and cheese you'll have at thanksgiving. My bar is super high on Mac and cheese. Theirs was plenty good. I usually don't even order Mac and cheese cuz it's heavy on carbs and most places just can't justify loading it up and baking it to get that crispy cheese layer on top. It's just not equitable. \n\nAll in all this is five stars. Amazing they can continue to keep the quality at the highest levels after being around since 2012 (according to Yelp profile). Way to go guys!!",
+    "language": "en"
+   },
+   "date": "2024-11-06T00:35:09Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 33,
+   "user": {
+    "name": "Mei Li H.",
+    "user_id": "cbHiHLKldKiVgHqvKgRIiA",
+    "link": "https://www.yelp.com/user_details?userid=cbHiHLKldKiVgHqvKgRIiA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q6QftLE7sNAjdn7B7ss6eQ/180s.jpg",
+    "address": "Saint Paul, MN",
+    "friends": 162,
+    "photos": 189,
+    "reviews": 104
+   },
+   "comment": {
+    "text": "You often hear lots of Austin BBQ establishments have some sign somewhere that says  \"Best BBQ in Texas.\" I've been to my fair share of them, but I think the place that actually deserves that hype is Brown's Bar-B-Que. This place is totally slept on and deserves to have a two hour line where you camp out and wait to eat this deliciousness. \n\nAcross from a bar with some wooden tables where the BBQ smoke drifts over and makes your mouth water, is Brown's Bar-B-Que in a red food truck. The people who work here are genuinely nice. They have great recommendations and I really felt like that wanted to have conversation. It was just such a pleasant interaction. \n\nI first ordered a brisket wrap and oh my goodness. I think this was the best thing I have ever eaten in Austin. Large amounts of tender, mouthwatering brisket all wrapped in a convenient food vehicle - a flour tortilla. I want everyone to know... I literally ate this wrap in probably 5 minutes exclaiming \"this is the best thing I have ever eaten!!\" and promptly got back into line and ordered another one. The brisket is just so well seasoned and not dry at all! I love pickles and jalape\u00f1os with brisket and the wrap had all of these things! \n\nI cannot wait to go back here. It's the first stop I'm going to make passing through Austin next time I go. Highly recommend this place!! I can't say enough about it!",
+    "language": "en"
+   },
+   "date": "2023-08-01T00:45:29Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JP1cn4JMAvXMCfM76fK0FQ/o.jpg",
+     "caption": "Brisket Wrap"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 34,
+   "user": {
+    "name": "Chris B.",
+    "user_id": "r0Va22-arexemoVbUBIp-g",
+    "link": "https://www.yelp.com/user_details?userid=r0Va22-arexemoVbUBIp-g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_WgtCSHxW2JQtvR93JsMkA/180s.jpg",
+    "address": "Maui, HI",
+    "friends": 2,
+    "photos": 64,
+    "reviews": 473
+   },
+   "comment": {
+    "text": "Doing a friend a favor, I flew a Citation to Austin and had several hours to kill... I asked the people at the NASA office where to get a bite to eat.  Well, what was I looking for?  Barbecue!  Several people said \"Brown's!\" and offered directions.  And, asked --since I was obviously going that way, would I mind...\n\nI'm partial to pigsickles -- and made a complete hawg of myself.  The young cashier who rang up my order -- painstakingly compiled as eager office workers kindly offered their editorial services to make certain I was absolutely accurate (NASA, yanno?) -- said that I didn't seem to be from there and where had I come from?  They were delighted that I'd come to enjoy their barbecue and thanked me for my troubles by giving me a wide sample of sauces to try, along with samples of some of their sausage,, chicken, and pork delicacies.\n\nWow, the barbecue sauce samples they gave me were astounding.  Everything from rich, sweet, and savory to \"defiant attitude!\"  (My words, not theirs.)\n\nEverything I tried was excellent.\n\nThe people even helped me load the box of bags and packages into my rental vehicle and sent me on my way.   Very nice people, even though they were very busy.\n\nMy only regret:  I wrote down the names of their barbecue sauces for future reference -- and left it in the jet when I got out.\n\nGotta go back.",
+    "language": "en"
+   },
+   "date": "2024-12-06T14:26:08Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 35,
+   "user": {
+    "name": "Lawal M.",
+    "user_id": "e5ZuR17XGHwMj2puB2dWxA",
+    "link": "https://www.yelp.com/user_details?userid=e5ZuR17XGHwMj2puB2dWxA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WBYnp3ZkW23inr0I6JB36w/180s.jpg",
+    "address": "Ormond Beach, FL",
+    "friends": 54,
+    "photos": 16,
+    "reviews": 26
+   },
+   "comment": {
+    "text": "Awesome food. Large portion that's tinder and has great flavor.  A must try!!! Whenever I come back to Austin this is a must stop for me.",
+    "language": "en"
+   },
+   "date": "2024-11-09T22:28:04Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t6JEOQbnUB89A6epc5CB2w/o.jpg",
+     "caption": "Huge sandwich that's tinder and has a great taste.  Cole slow is top notch. It was Delicious"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 36,
+   "user": {
+    "name": "Mallory W.",
+    "user_id": "NRyDObpdMeGAiWWRP3L4MA",
+    "link": "https://www.yelp.com/user_details?userid=NRyDObpdMeGAiWWRP3L4MA",
+    "address": "Fort Lauderdale, FL",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 159
+   },
+   "comment": {
+    "text": "One of our favorites in Austin! Incredible food, no hour long lines, solid BBQ. \n\nSkip terry blacks and come here instead.",
+    "language": "en"
+   },
+   "date": "2025-04-20T22:22:53Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 37,
+   "user": {
+    "name": "David N.",
+    "user_id": "vfenCQvHiALkyUwZBfdqDA",
+    "link": "https://www.yelp.com/user_details?userid=vfenCQvHiALkyUwZBfdqDA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WbIOUg4vsyGUA92zU15ZJw/180s.jpg",
+    "address": "Denver, CO",
+    "friends": 93,
+    "photos": 136,
+    "reviews": 286,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The amount of food you can get for under $10 is wild. The brisket was amazing, the sausage was amazing, and so was the pulled pork.\n\nIf you're looking for a quality meal at a low price then this is a solid option",
+    "language": "en"
+   },
+   "date": "2021-12-21T23:16:56Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QI9s1F-CjyK9uM9MR5_FCw/o.jpg",
+     "caption": "Brisket and Sausage Sandwich. Pulled Pork Wrap"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 38,
+   "user": {
+    "name": "Paola L.",
+    "user_id": "RUjzWLwebnk0x6a7ipOVsQ",
+    "link": "https://www.yelp.com/user_details?userid=RUjzWLwebnk0x6a7ipOVsQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mWJgTA2M8mjsAAdwXSWuzw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 7,
+    "photos": 94,
+    "reviews": 30
+   },
+   "comment": {
+    "text": "Okay y'all I'm back at browns and was just intending on getting a wrap snack and I got pulled back into the vortex of the Mac and cheese.\nGoing around lunchtime there was less parking but plenty of seating room. It wasn't busy so we got our foods super quick and hot.\nFor $6 we got a sausage wrap and I love that they cut the sausage, it's a small gesture that makes it more enjoyable to eat.\nFor $7 we got a brisket wrap and y'all.. that's a lot of brisket! I could've saved some or put it in the Mac and cheese but I was in it to win it. I love the amount of chopped pickles and onions that were on it and the flavor of all that with their house made bbq sauce.. mm, that's what keep me coming back.",
+    "language": "en"
+   },
+   "date": "2023-01-23T19:28:08Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HGhd6oqdOfbh_uuxaFhWlw/o.jpg",
+     "caption": "Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eabHT7YRlnioPrTFFohd-w/o.jpg",
+     "caption": "Brisket wrap"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y0EJjC2m9sJfmfgUb6xcRQ/o.jpg",
+     "caption": "Sausage wrap"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XWyt7vvvmYd9bUI1DGzJwg/o.jpg",
+     "caption": "Mac and cheese"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 39,
+   "user": {
+    "name": "Johnny D.",
+    "user_id": "IUGiBfMm1lgEzx2iDMOtdA",
+    "link": "https://www.yelp.com/user_details?userid=IUGiBfMm1lgEzx2iDMOtdA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/O0lkVL_PNtdHs097G5g6GQ/180s.jpg",
+    "address": "Queens, NY",
+    "friends": 0,
+    "photos": 3,
+    "reviews": 51
+   },
+   "comment": {
+    "text": "The brisket was divine. I highly recommend getting the wrap. The tortilla pairs so much better with the brisket, than bread. Maximum flavor. Turkey was okay. Quick service & plenty of outdoor & indoor seating.",
+    "language": "en"
+   },
+   "date": "2025-02-17T22:35:13Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 40,
+   "user": {
+    "name": "Mindy D.",
+    "user_id": "La-MGpvVR57MItpG1uhXdQ",
+    "link": "https://www.yelp.com/user_details?userid=La-MGpvVR57MItpG1uhXdQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DMRVE1rM4puz94ynTlzQow/180s.jpg",
+    "address": "Jersey City, NJ",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 1
+   },
+   "comment": {
+    "text": "This place is delicious! Highly recommend. We had the brisket wrap (a bargain!) and the brisket sandwich. Fresh and flavorful.",
+    "language": "en"
+   },
+   "date": "2025-02-16T20:33:17Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 41,
+   "user": {
+    "name": "Rebecca P.",
+    "user_id": "9oQz8Fl2C3JvsjYIo9VBWQ",
+    "link": "https://www.yelp.com/user_details?userid=9oQz8Fl2C3JvsjYIo9VBWQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LWVKInGnCfV2Zkjk7WpWTg/180s.jpg",
+    "address": "West Palm Beach, FL",
+    "friends": 150,
+    "photos": 159,
+    "reviews": 42
+   },
+   "comment": {
+    "text": "The best Texas style BBQ at Austin. \nThe only one that keep the quality of their food over the years! \nGood jobs guys!",
+    "language": "en"
+   },
+   "date": "2022-10-30T17:35:32Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QFLEZlTsUyW-stxZbJK6TA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 42,
+   "user": {
+    "name": "Manny M.",
+    "user_id": "wMQDsyWuXb4Rn94Tin6-4w",
+    "link": "https://www.yelp.com/user_details?userid=wMQDsyWuXb4Rn94Tin6-4w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/O-i74alsmvwXi2VWc3cc-w/180s.jpg",
+    "address": "Dallas, TX",
+    "friends": 0,
+    "photos": 87,
+    "reviews": 48
+   },
+   "comment": {
+    "text": "I got the chopped beef sandwich and it was full of meat and flavor. The brisket was moist and tasty!",
+    "language": "en"
+   },
+   "date": "2024-05-07T02:20:38Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rdhkUqARNGmJlWP8xjexcw/o.jpg",
+     "caption": "Chopped brisket sandwich."
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 43,
+   "user": {
+    "name": "B. D.",
+    "user_id": "9SEN24GZL8JqPPK3cNRLTQ",
+    "link": "https://www.yelp.com/user_details?userid=9SEN24GZL8JqPPK3cNRLTQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TbKMoGzfochJwH-TApRqCw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 22
+   },
+   "comment": {
+    "text": "I'm a native Texan and Brown's is one of my Go To BBQ places. The brisket is tender, cooked to perfection and just amazingly good. I am also a fan of their sausage and the folks that work there. I would definitely recommend it to anyone to try for themselves. I don't think you'll be disappointed. \n\nPS: You might want to wait until the Corner Bar opens (I think it opens at 2pm Mon-Thursday,12 noon Friday and 11am Sat Sun). You can take your food inside and enjoy the air conditioning and a frosty beverage or two!",
+    "language": "en"
+   },
+   "date": "2024-07-31T16:34:45Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 44,
+   "user": {
+    "name": "Marissa V.",
+    "user_id": "KHuLR5753ed8o2c1ZA-YrQ",
+    "link": "https://www.yelp.com/user_details?userid=KHuLR5753ed8o2c1ZA-YrQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7BFKZKlaKaLsi6DOli0ZmQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 154,
+    "photos": 96,
+    "reviews": 58
+   },
+   "comment": {
+    "text": "BBQ food truck serving delicious smoked meats and sides.\n\n. : Food (5/5 Stars): Another AMAZING spot for some authentic Texas BBQ. Brown's came highly recommended from a friend who grew up here and it did not disappoint. We ordered Brisket & Sausage Sandwiches - the brisket melts in your mouth and their BBQ sauce that comes on the side was so tasty. We opted for the Green Beans and Corn on the Cob for sides (they were out of a lot of sides when we arrived - I recommend arriving early!). I am definitely coming back again for their brisket...and to try the Mac & Cheese!\n\n. : Drink (5/5 Stars): Soda, Gatorade, water, etc. - Corner Bar is right next to the truck and you can grab drinks there to go with your meal.\n\n. : Service (5/5): Super quick and friendly service!\n \n. : Atmosphere (4/5 Stars): Very casual atmosphere. Indoor and outdoor seating available next door at Corner Bar. Limited parking in the adjacent lot, but you can also park on the street behind the bar.",
+    "language": "en"
+   },
+   "date": "2022-10-22T00:39:03Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yoQh76mcK7UffaaKTRY0oA/o.jpg",
+     "caption": "Green Beans, Brisket & Sausage Sandwich, Corn on Cob"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yX8-uwnrn2-0fzCOePjUMA/o.jpg",
+     "caption": "Green Beans, Brisket & Sausage Sandwich, Corn on Cob"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 45,
+   "user": {
+    "name": "Gina F.",
+    "user_id": "PlNwVjRaMCVadltO3ilWvw",
+    "link": "https://www.yelp.com/user_details?userid=PlNwVjRaMCVadltO3ilWvw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zXnQLM3ov_LNannVtpW_SA/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 79,
+    "photos": 228,
+    "reviews": 207,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Browns has been on my list of BBQ places to try for years now and finally had the opportunity. This was a really tough one to rate and I wish I could give 4.5 stars, it was so close!! \n\nWe had the brisket and turkey and man we're those up there with the best in Austin, if not the best brisket I've ever had. We had both burnt ends and moist and both were equally delicious. Everyone sleeps on the turkey in this town, but that Smokey, juicy flavor at Browns was seriously on point. \n\nNow if you know me, you know I rate not just on the meats, but sides as well. The potato salad was a super unique, mustard based one and I loved it. Coleslaw was really fresh and not too tangy as well. The green beans and baked beans were just okay, not much flavor of either of those. I'd skip then next time around. I also personally like a thicker BBQ sauce and this was more of an au jus, but still tasty. \n\nHighly recommend - will select what I loved for next time and it will no doubt be a five star experience!",
+    "language": "en"
+   },
+   "date": "2022-10-03T02:47:30Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 46,
+   "user": {
+    "name": "Joy X.",
+    "user_id": "ZRWnelu3sxHHONvDc0xtaw",
+    "link": "https://www.yelp.com/user_details?userid=ZRWnelu3sxHHONvDc0xtaw",
+    "address": "San Francisco, CA",
+    "friends": 14,
+    "photos": 0,
+    "reviews": 270
+   },
+   "comment": {
+    "text": "Delicious bbq food truck. We got a pound of brisket, half a pound of pork ribs, and several sides to share among 4 adults. Both the meats were deeeelicious, the tart cabbage slaw paired really well with the bbq, beans were more spiced (not spicy, but tastes of a bunch of spices) than sweet so depends on how you like your baked beans. The mashed potatoes (not what they are called on the menu but basically what they are) and Mac and cheese were both yummy too. Would absolutely come back!",
+    "language": "en"
+   },
+   "date": "2025-04-29T03:26:53Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 47,
+   "user": {
+    "name": "Tomas R.",
+    "user_id": "2jCrH48LDG4c3ja4CLh0qg",
+    "link": "https://www.yelp.com/user_details?userid=2jCrH48LDG4c3ja4CLh0qg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WhAYbnRLfIjkSUPJomp6Yw/180s.jpg",
+    "address": "El Paso, TX",
+    "friends": 4998,
+    "photos": 9493,
+    "reviews": 1528,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Please don't sleep on Brown's y'all! Even if I had to order from a limited menu, I know this food slaps hard and is worth coming to Corner Bar alone to grab a plate. What made me drool (almost literally) was seeing them cut up the meats right in front of you through the order window.\n\nIt was around 4/5 pm on a Sunday, so they were basically out of a bunch of food, yet I had the chance to try their brisket and sausage. Both were delicious, and you can order by the pound or, in my case, a 1/2lb! The highlight of my \"snack\" (don't judge me) was the banana pudding. I was so tempted to lick that to-go container clean, but I did not. Not because I didn't want to, but to not traumatize all the other patrons at the bar lol.\n\nI'll have to come back on a different day and explore their full menu properly.",
+    "language": "en"
+   },
+   "date": "2022-03-28T15:39:54Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 21,
+    "funny": 11,
+    "cool": 22
+   }
+  },
+  {
+   "position": 48,
+   "user": {
+    "name": "Jennifer M.",
+    "user_id": "ciLaQSIXjzxM8DK6BVo4tw",
+    "link": "https://www.yelp.com/user_details?userid=ciLaQSIXjzxM8DK6BVo4tw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ql1NgydcKFxsSD11zsPyDw/180s.jpg",
+    "address": "Georgetown, TX",
+    "friends": 40,
+    "photos": 637,
+    "reviews": 410,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Hands down the best BBQ in all of Austin!  It only is it perfectly cooked, but the flavor is unmatched. The same goes for their sides. Love the slaw the best, but you can't go wrong with any of them!",
+    "language": "en"
+   },
+   "date": "2023-11-15T19:22:04Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 49,
+   "user": {
+    "name": "Sophia P.",
+    "user_id": "jrWvis3aTsWKj20znh4sDg",
+    "link": "https://www.yelp.com/user_details?userid=jrWvis3aTsWKj20znh4sDg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ITWj5wCU-WKHrEzqOkgTNg/180s.jpg",
+    "address": "Alexandria, VA",
+    "friends": 281,
+    "photos": 345,
+    "reviews": 130
+   },
+   "comment": {
+    "text": "Skip the long lines elsewhere and come straight to Browns BBQ. This was our back up spot after testing the lines at Terry Black's BBQ (over 2+ hours, at least!), and I'm so glad we ditched the lines and crowd. Brown's BBQ is a food truck just a few blocks south of Terry's  - a very popular spot for BBQ in the Zilker neighborhood. \n\nOn a Saturday afternoon, when the lines at Terry's wrapped around the lot twice, there were 2 people in line at Brown's. We ordered and had our food within 10 minutes. It was by far very reasonably priced, we got 1/2lb brisket, and 1/2lb chicken, along with 2 sides for around $30. The meats were well smoked, extremely flavorful, and tender. They basically melted right in our mouth. \n\nBrown's is definitely an underrated spot, but if you're not looking for all the famed destinations, just come here. You won't be disappointed and may even save a few dollars and some time while you're at it!",
+    "language": "en"
+   },
+   "date": "2022-04-20T01:13:38Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jezQaPSaHhRp7ChR3sQYfQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 1,
+    "cool": 1
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=cxQEW0JaFDqOqkavm4zKXg&start=49"
+ }
+}

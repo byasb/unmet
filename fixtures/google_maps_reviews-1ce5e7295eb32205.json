@@ -1,0 +1,430 @@
+{
+ "search_metadata": {
+  "id": "6a98065873bf594b607ba353",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/4ssq57SzZYcPIw3fBj-awtZhTRG-e03m8vNw7mszIJI/6a98065873bf594b607ba353.json",
+  "markdown_endpoint": "https://serpapi.com/searches/4ssq57SzZYcPIw3fBj-awtZhTRG-e03m8vNw7mszIJI/6a98065873bf594b607ba353.md",
+  "created_at": "2026-09-02 11:19:52 UTC",
+  "processed_at": "2026-09-02 11:19:52 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b51b0e822a65:0xc03ac22ba09158c7!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/4ssq57SzZYcPIw3fBj-awtZhTRG-e03m8vNw7mszIJI/6a98065873bf594b607ba353.html",
+  "prettify_html_file": "https://serpapi.com/searches/4ssq57SzZYcPIw3fBj-awtZhTRG-e03m8vNw7mszIJI/6a98065873bf594b607ba353.prettify",
+  "total_time_taken": 2.12
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b51b0e822a65:0xc03ac22ba09158c7",
+  "hl": "en",
+  "sort_by": "qualityScore"
+ },
+ "place_info": {
+  "title": "Terry Black's Barbecue",
+  "address": "1003 Barton Springs Rd, Austin, TX 78704, United States",
+  "rating": 4.7,
+  "reviews": 26544,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 585,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef rib",
+   "mentions": 1293,
+   "id": "Ea6aRCbvLRs"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 173,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 3581,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 826,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "creamed corn",
+   "mentions": 613,
+   "id": "B57VY_5fqOw"
+  },
+  {
+   "keyword": "jalape\u00f1o cheddar sausage",
+   "mentions": 218,
+   "id": "OasyD1EAEyc"
+  },
+  {
+   "keyword": "cornbread",
+   "mentions": 341,
+   "id": "EB6x5v5Zjbk"
+  },
+  {
+   "keyword": "banana pudding",
+   "mentions": 268,
+   "id": "Ci0phuL2KdU"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 230,
+   "id": "AgpY-9eTufU"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OVVMyUklXbXc0TFd4S2RrWnFVM1pFWnpnM05WRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOmNUS2RIWmw4LWxKdkZqU3ZEZzg3NVE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-28T23:48:30Z",
+   "iso_date_of_last_edit": "2026-07-28T23:48:30Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNkcXhvMKHnuLlkDEo4DnSKVhbv1s5RSkzPhCxisHHt6Rx7CO6kjRxT8BXWMmGAD9sqZrvmVVG8Xkl7Yhdof-aZBq1W4ymmtAc5w99HykGI7d5J54rdjNvRwXA5QIZ06jgit2nBn4Txwrs=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNejeMwRpTZPj93PA6E_Ks_1YvziL-WPNPSgqTrWgc14F0bf_neyRG7_BDFAcj8roMbjbfTpPjcy-0JCSZqtlm-fpm8e-w5F4tugUUdxbhWR65hFv3_fc-_uJacbJQL8WLIi383TUSYgUFw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNZtY1t3GaarDySn0Ry9OfEuLKyf8hR4EFsi_gnzViTse5cu4Mqn2Cu8KQCPI-pfaUAx_78cJGn_OQoyoLncMGayS8D5dH01jOZ9bcbaraA-MpwruBBXXOzi5eLbsCJzhWvmpN9465XRAdh=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNo8GeRCELEWVHDT73qOJWOuErp3JlFIQs2gPelsPdYLoDkxyJNRHbPiTg3_2kLi1AZURRaFNjmnu8JuPmj6bC2sHGTx2IlKPAXLUdWsggUjn4tPzcswm4KiTFD6OwUFGKnxcZtyQ-XcoPU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPCAVrIOsxuh3nu5JzQm6xEh6AOAs0eax7c8Chej8gNqMRTfpZYd1U4ltExrZqdGNHjJ1lA2GvkNI0w8jPsqWkNMICuMVslCgf7sY4DYn_4gE6tt0hA0D7HM5JvIc4gd4uLEedD-0z325w=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVVMyUklXbXc0TFd4S2RrWnFVM1pFWnpnM05WRRAB",
+   "user": {
+    "name": "Zen Lee",
+    "link": "https://www.google.com/maps/contrib/110562252770762457520?hl=en-GB",
+    "contributor_id": "110562252770762457520",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIH2rLAb-EZkkD4-lVtuM89vMrCYkQzMJuueB5A0CtvOjwTkA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 32,
+    "photos": 69
+   },
+   "snippet": "You order cafeteria style. Despite the huge operation this is, they are efficient so you aren't standing in line for very long even when the line looks long. Staff are very friendly and helpful, especially to the wide eyed tourists. My brisket was moist and flavourful. It did not disappoint. Green beans were not overcooked and the Mac n cheese was nicely done without being overcooked either. I went around 5pm on a Tuesday and was able to order my food almost right away. I stood in line for 5 mins if that. The huge indoor seating area was full but the outdoor covered patio was pretty empty. When I left an hour later that was also starting to get full. So I would recommend trying to beat the dinner rush, even on a weekday. Parking is very limited. I took an uber but heard families complaining about trying to find parking in the lot.",
+   "extracted_snippet": {
+    "original": "You order cafeteria style. Despite the huge operation this is, they are efficient so you aren't standing in line for very long even when the line looks long. Staff are very friendly and helpful, especially to the wide eyed tourists. My brisket was moist and flavourful. It did not disappoint. Green beans were not overcooked and the Mac n cheese was nicely done without being overcooked either. I went around 5pm on a Tuesday and was able to order my food almost right away. I stood in line for 5 mins if that. The huge indoor seating area was full but the outdoor covered patio was pretty empty. When I left an hour later that was also starting to get full. So I would recommend trying to beat the dinner rush, even on a weekday. Parking is very limited. I took an uber but heard families complaining about trying to find parking in the lot."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 4,
+    "parking_space": "Difficult to find parking"
+   },
+   "likes": 1
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOaGVuSm5aMGx5ZURseFNHcEdOVEJoWjJOTWVrRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOlNhenJnZ0lyeDlxSGpGNTBhZ2NMekE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-30T06:55:15Z",
+   "iso_date_of_last_edit": "2026-05-30T06:55:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNsq2-Obrptkd_7g9rATaJ3PI-1ZxvVNYBrMaEPtyy-LuIoeVYyBAiFFkLi2mLdE7vlTJUgB1-4lxwvMd7z5xGdg4q-IAiRtzkZR9rY_odBDwSh6Iq_lbzgyVm6CgTPzyMLh-D1W2btLMI=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN0XL0gA5SICZ2NTQ16z4rJaKxU-tNnvKDCksLZN3gA76g6unJ0uzWKh6M0FR8Naau6PV5Sn32a9gUv45oG4KTqULr8qu0vWyE5mWZVxqaPgmO1zAQI4OcplViRisz007XFxsFSNWP8YO1R=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM_PEl2pdggzwJNLpl_gwz4m1wcndjtblF9Avma344bb-z-J8p_VOOUG2jiZHDOisLoTvbIe0cxTUq7GakX-aBO-7_w52_ZQF00kpleqjfarNsR3ce92-OtZZ-CJmcwf-od8N_bjJ9LebBz=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOMpfkL7ZXM4geW0ypYrZDgKtzKzLds-hBkKO6xSQeK0owrWstxnOGJ-BBz2ozloEmrDSFL0s9Ri6mMEOQ7-EvyNVX0DgYaJ8H2V1khXQ8plBL4RTuujxhSvQklpOgjD20a4K8FBYs2viU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPimYW-ehz98TN9Pk3VL61EpticMTkSOsr4MAIdiO3MFWldKJX4l3R51hYhPeY5-v1-ZdlcAmkrbQ_1S7-mET7zZ1fTuOa2x6MhsXjTJicg2hT2Ccaxk1W_o0DQrv9UDYHAAyRgwcjm0tE=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNFOGd51NpqqSY2tIdqA9bGBNAj95s5-N2Z6HbnNokiFYSoc2vpw3hMtQ9NbYOl2EjaJM9ygtkog0ns92qP-44Zb7MiVdgyBIKA0xe3m6r4EjY-KVzc6BtohPehU6bHY0s5Q1vAOhsUdQas=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN32FIxx74QWQxT35e5oVdf8UjL1nnfCmHdHBVJcRMCXkxtEtqTH1sQ1AkyGrbShv9nGs2tn0deojOK8_AGFV7ZKZkn3j1K-gXSEuL8aA6QTFIuYq1MHYmFct4Ai5lGrtszqnvtr_jyKysD=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPm3byfh4bBiUoZfN34_nq-wayJgzMwetLOL5P08n5OcyXBQ-6uM1JD9mNEhxSla_ImB7kc9WoNMzWQfb2vDmivJL5GLdpjsq8swJiiH6D1k9RpUrV04TLv3fbOn9AGrXvibQH62LeeCM1y=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOfYuFw4h849uh7tCRnpmLXe_0Ias99Ue7D3OAA-pePJ0Z8ZduvxcnpyFvNrP1Wla88gi6IyyZre2nNOU247_TyHrhApHq36W6pMmBsfhd0pLbmyig1mt5bpxbcOy7jCNexdBis8L6Pwf0h=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNuxuBVbv51hx-nYzTr7tfYG0bPodJgd_U-6y_EPzFEfH4VQcd_TVBt6oZWdFG_23s8cHB4CpsfF0348C3W169GMUFu3WvG5GlY-Lm6VawcnU1wBionPoiQEstIbm1EO3U3reO0TlXedWbd=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPlM_7h44ni2M682v0RDmoM7X_XHm0eVeaU3QkAvHuz6tnryyfA-tIHGvolXSgQjzIz6xw2qFrdK2MLdPNnUvKVcXisJY3NrURE8VdLwS2sdn6TVx1ZqluVKNyScahNDBSWO0DNnEQeUdgf=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNLtbspKO-mfRjHy08SjfbpWp4TZ35G9YUCmOIezilXR6e9nX63kjT5idjKzTlawT3LZ01upAlSbmJfgz7OwmJswzLelk3MLUdF6l0Y3NScdLBqEgUuY8DVLf74h0kBIa72zB6FK4bSX7Ty=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMLHFYCcd_5Ub-j90TpppkQsoq_uUTW7qN3bd6kha71355U-H4YrfkwnougLn617h8i0LVX5ifDxcaDjhEZtbC5vUIGHSiOsgsfh_KDrE6gRqT9NJkhL72O1EN9HDa5FT77tFnBOiOFoF-l=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMpgb5ou-RPBpDprCJgxkJ6-i_FLxZVf3eCoArzP3b2dCrs-ZH8qHylXNvr9dXV_lhqaBF0o4ScjKvzwiYkHWuH8hEEjXv-vnfXP6hWj417Ecs1_Wewx4wdTNJbZBHIGCSQ5l6guAbdAKU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNg1Yztz5EhPRbh7S75GeGlHLxsrmNFQEqmrfOf_AL5tlfoY13sQlizz12oRkvOChu5DtZn2yOrOMGLt_PJRe1yh9NpBTERZvpfpmPdLBa0J38ruwTSUmNBg5nsrnzOa9CsDeztu6C7YJqc=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOaGVuSm5aMGx5ZURseFNHcEdOVEJoWjJOTWVrRRAB",
+   "user": {
+    "name": "Venus",
+    "link": "https://www.google.com/maps/contrib/103013880289659867737?hl=en-GB",
+    "contributor_id": "103013880289659867737",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV3XfwTSXH7corotRck__HQ3HJMRLqKTv_t-eIiNg09xEATOHCMNA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 394,
+    "photos": 3012
+   },
+   "snippet": "PERFECTO !!!\nAbsolutely outstanding barbecue!\nEverything we tried was delicious. The quality of the meat, the flavor, and the overall experience were exactly what you would hope for when visiting one of Austin\u2019s most famous BBQ spots.\nMy favorite was the pork ribs. The meat was tender, juicy, and the seasoning had penetrated deeply, making every bite incredibly flavorful. The brisket was also cooked to perfection\u2014smoky, moist, and melt-in-your-mouth tender.\nDespite the long line, the wait moved surprisingly quickly and was very well organized. The staff kept things running efficiently, so it never felt frustrating.\nAnother pleasant surprise was the value. Considering the quality of the food and the generous portions, the prices were very reasonable.\nIf you\u2019re visiting Austin and want to experience authentic Texas barbecue at its best, Terry Black\u2019s Barbecue is a must-visit. Every item we tried was excellent, and I would gladly come back again. Highly recommended!",
+   "extracted_snippet": {
+    "original": "PERFECTO !!!\nAbsolutely outstanding barbecue!\nEverything we tried was delicious. The quality of the meat, the flavor, and the overall experience were exactly what you would hope for when visiting one of Austin\u2019s most famous BBQ spots.\nMy favorite was the pork ribs. The meat was tender, juicy, and the seasoning had penetrated deeply, making every bite incredibly flavorful. The brisket was also cooked to perfection\u2014smoky, moist, and melt-in-your-mouth tender.\nDespite the long line, the wait moved surprisingly quickly and was very well organized. The staff kept things running efficiently, so it never felt frustrating.\nAnother pleasant surprise was the value. Considering the quality of the food and the generous portions, the prices were very reasonable.\nIf you\u2019re visiting Austin and want to experience authentic Texas barbecue at its best, Terry Black\u2019s Barbecue is a must-visit. Every item we tried was excellent, and I would gladly come back again. Highly recommended!"
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 4,
+    "wait_time": "Up to 10 min",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 1
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSU2MwOTBPRGxuT0ZaaVlUbEVNM0pVYldkdlVVRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOkRSc090ODlnOFZiYTlEM3JUbWdvUUE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-28T20:09:27Z",
+   "iso_date_of_last_edit": "2026-06-28T20:09:27Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOqS2NAt77GW_lPMt0XzMKay1o7js_-gAXaxQ66ORBTWYOsnHbkdnCQ-0uKh57bwlOmDmTtpXNRLpmHeLpstb_OaMO6jlubGmV1putPhRn8kB9lc9-VqRjaEvapRBn2QDUQO_2Sy1uwgQ-j=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMt8XNFHjt4yCUgLDDKOVtjhE5XZAwpQoaBMeCRwltE20-66QPvXU9TrUSiWBLkC8Iz4GeODPOPDQhEtD3FDg1E71y199h_akQILdtwA3yJ9Q3R1BvHUt3-IYE4z2X52D9p0uQD_7yFq6Q=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM8reH3k6yy65Qqk3bCeq5d4Zd4G7zKWFBTW-g0QIIGmOgR09Y_RTqwm6NnxhIAZnubNVovTsDMj4Jo5dmtVUarq6AHuFg9FLzgZz1h9ZrtZyjurCSzWgYoXo5kE-dvYUdk-jy4tUmqsvhV=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOxrR50-iB20KCrNEr_Sj-oKk1KFCGDS0sbxNb1iCJJSek-pgWc4iboTITq5EMi4PUXeWZUpAhcXmXsnpZjJ2X2Oud4x7966PYsHwKoeic4kl0KFmXfbnjcvP7ByXnKzy_biqdn65yVilw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPBztL1AaA9-3pUjE4-mRH07-_HezucluuwEbevyW_lo9-XtYWfX-5X8i1-dORGDqhmCARbXjNGcMMpT5odr-H5F6gt0bgg7XeuPaQ7GlL0UoTmMTf27b7EITlRi08PO7nXZ5CVdJq1eOw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPRY3iRZoMDtJnjKlibhuB9usJGtof9TTks94pC1L9VlahYo0zAQN8dkEUK228t-BwFvHEtF_xJMoSRUodpCIfJwQYVBfvr3VHosFlsZcSjtSto1R4NfSAU1_n9PWk9JX6A7cwN48SnUg6q=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOmkdwRj_2RAhG8bqgAOsPVd1KEhtOjtMvoiJyhgbvMmGnqHPYGZSeCFvGVzUtRVqfWpa4ADd5d_CIWKeB4JwSmz0AYlAhxa1cey-YmXT67bvosBGA5dW7fHDI4PkJsiU13McUo1O8S5QmF=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPpK6WfwkbrQsJl6AYnEjYICOdFkG_-jy1PzNx1WtzuqqiEkWZP0ncI7ax7OavW_o-wONNIqH035_OyusTX-ryIGtKJD9Asf2_7CisSW_WpXza2xTUfZqQ70sRqeAxFyn62_haEl2ulfahA=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPtVL_hBLgyfUP10vDZQVHCTfI3stKcDh9oIplM-BvM0C2FyfnybhgkMn7XrNl1d5EIBGc31aX8YHPjQpciz3ULuMu1fBz7fWGPHg86sOnX8_FvF2xLBWfFs5q_3SjfZW7L46jFi8VMDmE=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMkJhL-iJ527wun1cV233QtaKIwjN7rKfpfHK9UTgMCJsPzLqRRxias1WPljvc29XTGtY9qRjHp7wxiznzQfHLHw5H0aG4lscslpobBWX_gpcIdf4joli3pfS-mUumepH6jtyCZBMjzB9mi=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPISzLgSmznoN1qzYQ-2-xulZA5bXu0FDfrpVZ-DNQBRV1fGVqir2i6ZpMuOClXOKtfzFZuNAea48lBULoevTO3N7ziKB0iOZSDg4_YLPTdwX1o3esRLcfBUd6jjdSMqWNNBs4PhR_pYSTZ=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPVOJbOdg_uf0QySX1D7m1i9S926LZBy2z04BQJIXf5dJP-rVqGQeELqjiiHG04-cCsQFdR--7A1lXLUjyuwTieiq7INzcaZxrWfUT-dWJb1bXbzCNTbwHzgnEPHNbqXIcIK3gd-_9UAy_s=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSU2MwOTBPRGxuT0ZaaVlUbEVNM0pVYldkdlVVRRAB",
+   "user": {
+    "name": "marco De Grazia",
+    "link": "https://www.google.com/maps/contrib/116063850209455773041?hl=en-GB",
+    "contributor_id": "116063850209455773041",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVA8O-Ih8j9NXI6KiKrSVqUIgAx87VNPMLwfj6G1lDbVqLTOv5c=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 53,
+    "photos": 269
+   },
+   "snippet": "An outstanding experience from start to finish. The food was absolutely incredible\u2014perfectly smoked, incredibly juicy, and packed with flavor. You can truly taste the quality in every bite. The side dishes were just as delicious and complemented the barbecue perfectly, and the portions were very generous.\n\nThe service was exceptional. Every staff member was friendly, welcoming, and attentive, making us feel valued throughout our visit. The restaurant was clean, well-organized, and had a warm, authentic Texas barbecue atmosphere that made the experience even more enjoyable.\n\nEven though the restaurant was busy, the ordering process was efficient, and the wait was absolutely worth it. It\u2019s easy to see why this place has such a great reputation.\n\nWithout a doubt, this is one of the best barbecue restaurants I\u2019ve ever visited. If you\u2019re looking for authentic Texas barbecue, amazing food, outstanding service, and a great atmosphere, Terry Black\u2019s Barbecue is a must-visit. I will definitely be coming back!",
+   "extracted_snippet": {
+    "original": "An outstanding experience from start to finish. The food was absolutely incredible\u2014perfectly smoked, incredibly juicy, and packed with flavor. You can truly taste the quality in every bite. The side dishes were just as delicious and complemented the barbecue perfectly, and the portions were very generous.\n\nThe service was exceptional. Every staff member was friendly, welcoming, and attentive, making us feel valued throughout our visit. The restaurant was clean, well-organized, and had a warm, authentic Texas barbecue atmosphere that made the experience even more enjoyable.\n\nEven though the restaurant was busy, the ordering process was efficient, and the wait was absolutely worth it. It\u2019s easy to see why this place has such a great reputation.\n\nWithout a doubt, this is one of the best barbecue restaurants I\u2019ve ever visited. If you\u2019re looking for authentic Texas barbecue, amazing food, outstanding service, and a great atmosphere, Terry Black\u2019s Barbecue is a must-visit. I will definitely be coming back!"
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214RGVEQlJSekk0Y25WalZFbEZZM0o1ZW5KeGJXYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOmxDeDBRRzI4cnVjVElFY3J5enJxbWc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-03T22:08:21Z",
+   "iso_date_of_last_edit": "2026-07-03T22:12:38Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO7vexUXEDw6jT0WzAqABLJVhfEwiqThIDzJr5njLzj6a3IjXC-RGzq04weHnO0Rj1oMKgqeczY_mg0ibIotBf3iQz-WkBzLLUPViEbbTLkYFzF1A_lZ4GZhbcM6PDmZQorOyOWQiZUqhXU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNzYXcksL9RhTZXmpFcSV1D43mDxQaVNufXOIGpYrgY1_ufWy90L5f6x1gGV7VJSVsi0zJ-2qEQgvMcdb6sxi6YAuYAu3IbkMW7XicpZ8jMyqCB7O2xwzTMvLQvjr0uEC1A2_EGatVxNcKr=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNq8dt5wtK83QobPN8xW6mgw4AGNrx_5UPudkCH_Aqt4ksK-S5UPzC-o9LywJ2F2KZpYHwSbZjynz4457i9LiZTvowL3Hr0LCE7rlwS5-H8q0L-21g_fq9x8DwfFPhablxQntde59AEjDQg=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMhcOBsebAhImSu3Xt7fs9LfWXUyPOwa7X5LnasD31QWCOLPxevG5J42-8V4EFhSMK3sbxlfFsoBi0uJN_JBdYA4VMCnUxtxWiEEpCI6R8_w8uRuDIf74t0mfm0xx_MLCSQii8_LTbRtrLT=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPswexgk0T2vtY2QLYiaWKgJwXc4eMSTZTNBaymIK276imV_khk1S2HXAVzZTE0c6qMowAHMkn-BFtbA4RlOWjl_xUaOw8riJK4bKycD3zCD3WauALSrykzLgxhIIMARHuCZ5Kn2T1T4jYE=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM4GSkwNJ0yyObqDKiQLf7S0bosLC10IaLw5X4y2_11JIs_rJ44ajT6n4X3M-mi2QfXjE2VLJID_hoNxXJ0kmQw7euiZwowZWn25hj7kWQtEKc8526dBTkZdLAzeijU4mJ69fXd8sYK1IY=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOyXhbVdVkk0h2ivoTeUJ5ds4yRIPWtktZzblSuEyehdD7JK5WmXLbvQjMZ-vPna-QLxvM-sixNFsWLm9eV4PZGVVpuHdShEJByOPvtPC_bZETJ5VVn38uMXnVjwC_nIf7uMoFPRY1_yVt3=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO86rDSTaA6ENO0uCBtzf2n8cl5NCoxQr3MN_vqHkYYc9O91uPzUzOqY2T9vjTVHuNxj6EWdyHZg_rJMWOtHy9xchx8In_nucvHgmkUz9Yg50y5iohAtpdM_Ezo63nUodK-gIij3BAqJckC=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RGVEQlJSekk0Y25WalZFbEZZM0o1ZW5KeGJXYxAB",
+   "user": {
+    "name": "Miguel Alvarez",
+    "link": "https://www.google.com/maps/contrib/115827547284069614065?hl=en-GB",
+    "contributor_id": "115827547284069614065",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWgnhhfmgj_GoxMo9mfsB5Jcw3jSt1cUHgrXdMCLisxsJXZA-WU=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 244,
+    "photos": 772
+   },
+   "snippet": "I travel for work from San Diego, and I was excited to come to Austin just to try authentic Texas BBQ. It definitely did not disappoint! The quality of the meat was incredible, these guys really know what they\u2019re doing.\n\nI loved the place, the atmosphere, and, of course, the food. I honestly don\u2019t think it\u2019s overpriced. High-quality BBQ like this takes premium meat and a tremendous amount of work behind the scenes, and it definitely shows.\n\nThanks, Austin, for such a warm welcome. Everyone was incredibly friendly and took the time to explain everything to me. Hopefully, I\u2019ll be back someday!",
+   "extracted_snippet": {
+    "original": "I travel for work from San Diego, and I was excited to come to Austin just to try authentic Texas BBQ. It definitely did not disappoint! The quality of the meat was incredible, these guys really know what they\u2019re doing.\n\nI loved the place, the atmosphere, and, of course, the food. I honestly don\u2019t think it\u2019s overpriced. High-quality BBQ like this takes premium meat and a tremendous amount of work behind the scenes, and it definitely shows.\n\nThanks, Austin, for such a warm welcome. Everyone was incredibly friendly and took the time to explain everything to me. Hopefully, I\u2019ll be back someday!"
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$100+",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Moderate noise",
+    "wait_time": "Up to 10 min"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pOR1MyNTVZa3RKUm5aNFoyTmZObEJ6YURKeVdsRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOjNGS255YktJRnZ4Z2NfNlBzaDJyWlE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-25T11:18:19Z",
+   "iso_date_of_last_edit": "2026-05-25T11:18:19Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM_GpYD111A7rknlcv8jessgaaf_RH8FCmfP83PjLKGivOtWxkSaQIObcSdMYvpPbCLm-VosS8ZfdUUDsEGPoY6pKaVFOqogzPV9JOPiwGXVUEJvGBXwH0StiuXEoEbvxUxfDfz2EKDh5PW=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNGnxczrSigyaka0p2V76H_HTOupHf8EaNLNIFE7REpIY0DFvXSVedpk3at0-JdLhSXYTCbYywEOJY3Hn2fdZePVuQQ56ZBUoVGpP7uMN2M0eyzw1DsTo-LrW7aNySdkfr1J392mzak6tfO=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPi_9IKXuUrNJ5zwxKPmBh3wCzCPIv7TrfLQjPu9N0qVAuKje9BHV6haWorJ66iNmfJj4764yy2faLAgJ0KSIyh5sLDLdu-fmYWJ076oMMTSylD73jzfk2OFi8bSHaL8F87ww4s-wO965o=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNWGm2XB0d8XhRrLHcKZdur9Q1fw_rutxiPzxs2A6NSpVAEakuqDG0PXPAG7IGVtXw7c4rM-fvtViVx29nJaydSvcxj5raHHlmPIu8rSZ6HvSAz-F5kHJ5agFfu-ukiRhiLizz-EoYz0BJH=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP7vdYEaXM3ONviDudRMq79SG-uygvfoPeDYtDGRlhAU7wpCAnwnZAbYbrpazIjZtW_nTZIzTXh5OxHqXiIYe9ofkuLdUaLfJz0YvbQ1SVLqwvVEl1QeFBLsPnjREOqEUR6nH3F7qNqj1E=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPP7wM44nFBLZfrNK7yoHNl-PAFyjHKHUF10OWmrzGqxavUcQ9k3BJ5ZmBB4hVboV113ntoi5qaMtZldwYNSlqy--5W_9n-wbvI1wSVfHbemHjbcg9NZyybWTX9GIGnkuHjngb4MTutvDir=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO8j3SCTwwe6fz5_Q1YY2HdioDRkDPWVmhwIr8oodpOTedGv723eH8GDATnIkfNf_TcGcz3pPQtnJQxAZMRa-tMwGjOcSN3WtT8UGaRYtx2O7a7WaUhe_31UOhBfuMWmnxO2X6kyrL0aV0=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOR1MyNTVZa3RKUm5aNFoyTmZObEJ6YURKeVdsRRAB",
+   "user": {
+    "name": "Bal\u00e1zs Ill\u00e9s",
+    "link": "https://www.google.com/maps/contrib/111578902374258360829?hl=en-GB",
+    "contributor_id": "111578902374258360829",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIjNIqB0OZ3nXxbEwq0NQpkJHO4QcuK7P-MWRwTZkCQsDQGpA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 45,
+    "photos": 107
+   },
+   "snippet": "We visited Terry Black\u2019s BBQ in Austin on a Sunday and arrived around 10:30 a.m. We found a parking spot easily and didn\u2019t have to wait long in line, which was a great start.\n\nWe ordered brisket, turkey, and jalape\u00f1o cheddar sausage, along with green beans and creamed corn for sides. One of the staff members suggested we try the beef rib as well\u2014and wow, what a fantastic recommendation that was! Everything was incredibly delicious. Every type of meat had its own unique flavor. In Hungarian, we would say it was \u201cisteni finom\u201d\u2014divinely delicious\u2014and that is no exaggeration.\n\nThe beef rib was absolutely amazing, easily the highlight of the meal and probably the best BBQ item I have ever tasted.\n\nThe restaurant itself is very nice, with plenty of seating both indoors and outdoors. But the best part of our visit was when one of the pitmasters took the time to show us how they smoke the meat. I\u2019m actually a little embarrassed that I forgot to ask his name because he was incredibly kind and welcoming. He explained when they start smoking the meat, showed us the wood they use, described what the fire should look like when it\u2019s just right, and even gave us a glimpse of the meat that was cooking at the time. It was fascinating and made the whole experience even more special.\n\nThank you very much to the entire team for the amazing food and hospitality. We had a wonderful time and will definitely be back if we are ever in Austin again!",
+   "extracted_snippet": {
+    "original": "We visited Terry Black\u2019s BBQ in Austin on a Sunday and arrived around 10:30 a.m. We found a parking spot easily and didn\u2019t have to wait long in line, which was a great start.\n\nWe ordered brisket, turkey, and jalape\u00f1o cheddar sausage, along with green beans and creamed corn for sides. One of the staff members suggested we try the beef rib as well\u2014and wow, what a fantastic recommendation that was! Everything was incredibly delicious. Every type of meat had its own unique flavor. In Hungarian, we would say it was \u201cisteni finom\u201d\u2014divinely delicious\u2014and that is no exaggeration.\n\nThe beef rib was absolutely amazing, easily the highlight of the meal and probably the best BBQ item I have ever tasted.\n\nThe restaurant itself is very nice, with plenty of seating both indoors and outdoors. But the best part of our visit was when one of the pitmasters took the time to show us how they smoke the meat. I\u2019m actually a little embarrassed that I forgot to ask his name because he was incredibly kind and welcoming. He explained when they start smoking the meat, showed us the wood they use, described what the fire should look like when it\u2019s just right, and even gave us a glimpse of the meat that was cooking at the time. It was fascinating and made the whole experience even more special.\n\nThank you very much to the entire team for the amazing food and hospitality. We had a wonderful time and will definitely be back if we are ever in Austin again!"
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25STlUwMWtSSEJ2V1hkMWVUQXRNblJFVERKSlNIYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOnRNU01kRHBvWXd1eTAtMnRETDJJSHc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-13T05:45:15Z",
+   "iso_date_of_last_edit": "2026-07-13T05:45:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPn2WgO_5DVHMG_1RysHVK8QcYwufpGgn4yHMlz_UZsz_OBqI2TKkcohAsCZfUbClCnugXXaMxgCJzby1qDyer2aOwKKgzZmIlYYswES7XghtYEWI63vpvT1aRnzxRdLiaLiZ2twfFQHlCT=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMuNEUS5bWCOKsvYyjtB6PI4iKBj34Tmi1_7VEyo8m14eMtxH5Dudyg3BN_S20x_EV0GfKCGfgIycS_xwIfgresb6wjVjFAGOvOHqg42Y6L62q7S6ONtWK9uWO3vLPVelw_euIbHrQNczpx=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPMxL4JAIO-lp927DD30u084Z6GiyB20RpOp4orOQ5mxaUviFcdTMWUcWjWglVgt5Lob_n0x4rFcdrQI8ei_7-tQBR_uKqIbc33p3reXEf87c909fbNSoachfgxwEFAIj5W5uLx-NJRRtcN=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMInSGRsDrt2rHWjPR6WRNlXzT8gVDtSYbAkRkcWz74xLa7q0_zpoj_qYXC1zbqyUoLUdpY_6nfHgvkxUxZbCR__XE3DRJ5MgbSoAIfKyBKfiuLQmW7TGwFXXIa-UoZDlymsB6gE3l6nTeu=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMfp67k0K-upqvUGVtLlkkdk5ynC4K-smzntmrpumz8Ou2KvrbZz161QGPgf0D3iHj8IHqC6r3qIO1nqAI1N5ATJItntpMdX6PpptjbttJPUed8ZNwU3lFPCXtVwUIGVi2L_DYcBgvhCLwI=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM_nv5JIa4KyZUnjJjjt5Pt92nDynyEwUSCb3md7xPz4CDnzOwhj7ZxGQwTFfAG0teDFJs-DbM4mIuaHoeklbMoS39sGpMXKmQGrHR9YbOi5BTgzKQQRDcGc0-pyZSsAgU4SUz6qsVPOJS2=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMkYqH59pAP74XqeBChfI2twCiiYgpwfbkQao8FAzetEOMz6YO2CsjUEnNFR6qsuYTl83_Wo68byPOp-_EAYyl2kglQEsjg5jauhhm2WrSmJObbL1lUhmn881fdsCKHfi8AhwsochAuOBs=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNSiEjNfNmJ4hEP_Bhxeya8nVzUd7d7ZAy1zcV9Ga3RYrIGwcJ1EkL1B02fa9E22OcMnjeIP00rfMrBCSeapps48KMMQHocr5CRdrHXhBSQv-NblPtmmUK2YKQB0DWCR5RjV_OVLHUxpLg4=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPWudtzbDLOgQZR5urXnAp6Abh6P37n0LnFPTfE-1lUagBG25yfPLzm_e7-Jetfb64BR_6-PgdBodbKcdBDUZ4WrrI6AuN3N9SoT5cjxfDx81Or-Ee4lbtf4fuZpQ2jX8Ge5I4P1KoqFBZd=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO1yu3rwdT23OwUXkv0xBhMUT7QF_yzAO-Rm2tWQf-QfXEQzLBDeScae948RgmcMiLI4yQJELzGECOvarsgrgBESZmnNe8_RugCrWOzKtWPyVpvP1oGrao0CVuaVrEJ3vb9jE4e883OGQQ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STlUwMWtSSEJ2V1hkMWVUQXRNblJFVERKSlNIYxAB",
+   "user": {
+    "name": "Aetherion Partners",
+    "link": "https://www.google.com/maps/contrib/110723095069172149983?hl=en-GB",
+    "contributor_id": "110723095069172149983",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJL3JaGE2Es5xxplwu23SBntxgioZlN80xjo8RheEUh3cxInA=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 1,
+    "photos": 10
+   },
+   "snippet": "If you\u2019re looking for authentic Texas barbecue, Terry Black\u2019s absolutely lives up to the hype. From the moment you walk in, the smell of oak-smoked meat lets you know you\u2019re in for something special.\n\nThe brisket is the star of the show perfectly smoked with a rich bark, incredible flavor, and so tender it practically melts in your mouth. The massive beef ribs are some of the best you\u2019ll find anywhere, and the house-made sausage, pork ribs, and turkey are all outstanding. The sides aren\u2019t an afterthought either the mac and cheese, creamed corn, potato salad, and baked beans are all excellent complements to the meat.\n\nDespite often having a long line, the staff moves people through quickly, and the service is friendly and efficient. The portions are generous, and while it isn\u2019t inexpensive, the quality of the food makes it well worth the price.\n\nThe atmosphere is exactly what you\u2019d expect from legendary Texas barbecue casual, lively, and welcoming. Whether you\u2019re a local or visiting Austin for the first time, Terry Black\u2019s is a must-stop destination.",
+   "extracted_snippet": {
+    "original": "If you\u2019re looking for authentic Texas barbecue, Terry Black\u2019s absolutely lives up to the hype. From the moment you walk in, the smell of oak-smoked meat lets you know you\u2019re in for something special.\n\nThe brisket is the star of the show perfectly smoked with a rich bark, incredible flavor, and so tender it practically melts in your mouth. The massive beef ribs are some of the best you\u2019ll find anywhere, and the house-made sausage, pork ribs, and turkey are all outstanding. The sides aren\u2019t an afterthought either the mac and cheese, creamed corn, potato salad, and baked beans are all excellent complements to the meat.\n\nDespite often having a long line, the staff moves people through quickly, and the service is friendly and efficient. The portions are generous, and while it isn\u2019t inexpensive, the quality of the food makes it well worth the price.\n\nThe atmosphere is exactly what you\u2019d expect from legendary Texas barbecue casual, lively, and welcoming. Whether you\u2019re a local or visiting Austin for the first time, Terry Black\u2019s is a must-stop destination."
+   },
+   "details": {
+    "price_per_person": "$50\u201360",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "wait_time": "10-30 min",
+    "seating_type": "Indoor dining area"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1Wk9ERlFURk56YUZvelNFNW5aM05KVUU5SVJXYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOk5ZODFQTFNzaFozSE5nZ3NJUE9IRWc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-03T11:54:48Z",
+   "iso_date_of_last_edit": "2026-05-03T11:54:48Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN6KoI7n-47H-ufmZuCrYqMX0_DJR9oZ4Bv446yqPd61cejDaS99Qy8xu8H_cZ_L1c7BRUoqI6Bvj86nyyuMHQpyZfSIHKay-gZCuU9VC7EpSVPTEEp6Qm4s229tPdB-gufLiKSErjXNgEH=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN8_GfdnysQmkhBvSYoR77f3F6R5Ru3ir4H4SLRrBVTZXAz7NJIxlAPPulzf5grZwQDW7EK9XrZxCSWEI_HqIszF_5_a51YNhsTyNAFznnRDpsxvN5lnGc9Fw45eNvAsVyyCzKgkI7RfzQ=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPHN5tJbsScsZ_X2lWW-h0VnDSPIOjBr-yKv_DAAiEjg0UGPhZrRrBNrcuVBuT_S6m1ydGiBWO4k-g_QRADmOvyjLDJDDuV6E7qk5XnQ2uU1NUvvvJQwycTVutHvRnkqAoD9ML7uPzypxU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPRprkqdBml7aHlMZh1L2REnYNnXb1sU22MDJZNC6HA6DeAsoYP89aWSVgiSoAbMH7RJziIxRbCH4vHFbe8XEVsZZok98_Bvj7YLrNIuohXbIgaUjoORVrfvo8aUxqcXVciAEwY22Nw2zA=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO-eenccOPFYA4oGmCdRf_HnTe0iv9TsY9yYTjO4vI6Lngd0vR-GuUPkKSApVCWEotwMsZVAzJIV4UlhLWF-hHGi9RVZDc4ulfmM96BuQIaYcADT9yZRW8Kpq9yZ44v86_ZeAZiNt7JiPX-=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Wk9ERlFURk56YUZvelNFNW5aM05KVUU5SVJXYxAB",
+   "user": {
+    "name": "Shaifa Hirji",
+    "link": "https://www.google.com/maps/contrib/113126896949068682148?hl=en-GB",
+    "contributor_id": "113126896949068682148",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL6COHFPIvGiNJupqF2KMkETMr-s8WJgZ9O_8mtcFdZ9x_VBQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 535,
+    "photos": 1939
+   },
+   "snippet": "This barbecue spot completely stole my heart. From the moment we walked in, the vibe was busy, lively, and full of that comforting energy you want in a great BBQ place\u2014people laughing, plates piled high, and the smell of smoked goodness in the air.\n\nThe food? Absolutely delicious. Every bite of the barbecue was packed with flavor\u2014perfectly cooked, tender, and just the right amount of smoky. You can tell they really know what they\u2019re doing here. And the sides\u2026 honestly, don\u2019t skip them. They were so yummy and just as memorable as the main dishes\u2014each one felt like its own little star on the table.\n\nService was great too, which made everything flow so easily even with how busy it was. It never felt overwhelming, just exciting and full of life.\n\nThis place is easily one of my favorites now, and I already can\u2019t wait to come back. If you\u2019re looking for delicious barbecue, great energy, and a spot that just feels right, this is it.",
+   "extracted_snippet": {
+    "original": "This barbecue spot completely stole my heart. From the moment we walked in, the vibe was busy, lively, and full of that comforting energy you want in a great BBQ place\u2014people laughing, plates piled high, and the smell of smoked goodness in the air.\n\nThe food? Absolutely delicious. Every bite of the barbecue was packed with flavor\u2014perfectly cooked, tender, and just the right amount of smoky. You can tell they really know what they\u2019re doing here. And the sides\u2026 honestly, don\u2019t skip them. They were so yummy and just as memorable as the main dishes\u2014each one felt like its own little star on the table.\n\nService was great too, which made everything flow so easily even with how busy it was. It never felt overwhelming, just exciting and full of life.\n\nThis place is easily one of my favorites now, and I already can\u2019t wait to come back. If you\u2019re looking for delicious barbecue, great energy, and a spot that just feels right, this is it."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Suitable for all group sizes",
+    "wait_time": "Up to 10 min"
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25NdFRHaFJUVGRPYm1wUWIwbFdiMFZ6U0ZGclFVRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOnMtTGhRTTdObmpQb0lWb0VzSFFrQUE%7C%7C?hl=en-GB",
+   "rating": 3.0,
+   "date": "Edited 4 weeks ago",
+   "iso_date": "2026-06-30T20:31:44Z",
+   "iso_date_of_last_edit": "2026-08-02T19:12:16Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOgyxvFfTae-SzlHCtdjjs_wFJL4yzISyd1DreJs09TnTIbPkNDx-sryj2MZ5wOmJ6bbVqCTbSSLRpSIV7bbz9h4edIDAFqJrWJBeH2p94HhGE2NfwKPFEzEQYhIpih94h9_A-XJyokYkaB=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNZLFi5wkfEptONQC-kmc9MxOxodyyTcTND3NcFzS8JDEAXtI4IG7_cbe7drY-KuWmbN186r5kFb7r2qAIfWEON_WyeFTAtT1AEmFt0jq7ZZdzyZLeOLiHe0nwcfgkW6Opao-c1-yhCh1MU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPR1ZH6vjRiIbYKz8xTf8exrQpsa16PK8TjHV79Zg7M5lVnPwtsuNBK63r7o9e1Fd_bQSvPykvkCBE0zFsRkOsB9x3Zvq6_o1RmZ_71alPFY1Yec2TapGAlDQWughLFP0ZwzkKnRnShMvqv=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNtBlqlz4_KMw8TmClxXhiOpI_2aSRrc8WKMSfLflexin8eU-OxeiB0ZcgztnSktLkYDipwrJjB2MQBwveEdP5j08XCU_YLji1AqrXIFcT1ATkHAHe_rHXYyJiAOtwtNgEOS7c4czYtSsI=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP3InHgjqNjNmsdqkrICQ8O-5eqwL9OZt_yIZWUTBtgeI8_asWm2lkXWeCicdHLFkj2R8vKd8g_tq2Qjn2zXFQy0Pv3FfEu3-YJu4-WR5B5AX7wy6Q1OFH0CuD7a8xdLzOVaBGt-p2WcYmn=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNGtAMxs_dUhr7BdxwWXJ2Hxg8LQ2onOw-na5DXAhMpVn4ybOKnpsrhemX_XUgz8dzdhwW4__nwhr7WGniNLN34stfC1IUWJ-SXAMdN-_pEihGa6mX1nLRIb0feuCEps_ZbnVPCksX8QUk=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN4HW1JrQSRU8F1tQWtOFyHgUwnk6Qf5oIavsXODOpOLPAyuYpzoJCNSE_KL0Kcsj7pxIyjTUJ70e9iabiST58dAPAhY-9UHgxBFJU5SDjfcP9o0QFKSEFBvGv4PcWVq13rPbqmsUapahw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOO_gYcCNTrKm5KkDaGQLjbYojjqJR0a3bek6f8yE4BrqRZ9VccM-i4QkI_mXUPNo16cCiHVIX8-qIBapH-9i1x0b2J5DYq1XZcP-1bxKJWDFi9Ze_JXePQ1YXeUNeqKv6KxJdlWpR8Iaga=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NdFRHaFJUVGRPYm1wUWIwbFdiMFZ6U0ZGclFVRRAB",
+   "user": {
+    "name": "BruceTheGuider",
+    "link": "https://www.google.com/maps/contrib/110328824634373159104?hl=en-GB",
+    "contributor_id": "110328824634373159104",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXUhsm1EbGnAZqSohk_eVi4NHuI0Ra0GoTNkdrFQR6ZTm8R6VM=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 32,
+    "photos": 81
+   },
+   "snippet": "When we first arrived, it looked great. The place looked like a cabin, with an outdoor grill where we could see meat being grilled. When we arrived, we were welcomed, however, not warmly. They welcomed us like they didn\u2019t want to, but they had to. Anyway, the line was super quick, even though it was very common for people to wait hours just for the barbeque, but we went in line and waited, ~5 minutes? We ordered brisket, beef brisket, with sides of potato salad, coleslaw, and mac&cheese. The beef rib was amazing, it was thick, juicy, and fell off the bone. It was sad they didn\u2019t have barbeque sauce, until we were done and saw barbeque sauce next to us. The ribs really blinded me, so I didn\u2019t bother looking around. Maybe if the lines had been longer, I would\u2019ve looked around and seen it \ud83d\ude02. Anyway, a bad part about the ribs was how the crust of the ribs was too salty and hard, later on, I kearnt they actually gave us a part of the ribs they weren't supposed to serve. This was very dissapointing. Moving on to the briskets, it was delicious. It was extremely tender and juicy. The potato salad was amazing, but every potato salad I had in a barbeque place in Texas was amazing, so nothing else to say. I waited in line again to buy soda, and we bought a classic Coca-Cola and a Frostie Blue Cream Soda. The Coco Cola was amazing, but the cream soda was too sweet, with even more sugar than the Coco Cola! I really wish they would offer a wider selection of drinks, like Fanta or Sprite! I was going to give a rating of 2 stars, but I thought about the whole journey. We didn\u2019t have a line, the food was delicious and juicy. With the only problem being how expensive it was, I have no other complaints. I believe the bill was ~$200 for beef brisket and a half pound brisket with 3 sides and 2 drinks. That sounds overkill, with people being able to buy ~10 fast food combos with that money, but it was indeed a great experience! I strongly suggest going here. It is much more delicious than some other barbeque places in Houston, and frankly, a much better place to go in Austin. Franklin\u2019s BBQ might be better, but we came 1 hour before they opened, and I guarantee you there were around 50 people already in line. Overall, I would recommend this place. However, they did not exceed my expectations, and I was slightly disappointed.",
+   "extracted_snippet": {
+    "original": "When we first arrived, it looked great. The place looked like a cabin, with an outdoor grill where we could see meat being grilled. When we arrived, we were welcomed, however, not warmly. They welcomed us like they didn\u2019t want to, but they had to. Anyway, the line was super quick, even though it was very common for people to wait hours just for the barbeque, but we went in line and waited, ~5 minutes? We ordered brisket, beef brisket, with sides of potato salad, coleslaw, and mac&cheese. The beef rib was amazing, it was thick, juicy, and fell off the bone. It was sad they didn\u2019t have barbeque sauce, until we were done and saw barbeque sauce next to us. The ribs really blinded me, so I didn\u2019t bother looking around. Maybe if the lines had been longer, I would\u2019ve looked around and seen it \ud83d\ude02. Anyway, a bad part about the ribs was how the crust of the ribs was too salty and hard, later on, I kearnt they actually gave us a part of the ribs they weren't supposed to serve. This was very dissapointing. Moving on to the briskets, it was delicious. It was extremely tender and juicy. The potato salad was amazing, but every potato salad I had in a barbeque place in Texas was amazing, so nothing else to say. I waited in line again to buy soda, and we bought a classic Coca-Cola and a Frostie Blue Cream Soda. The Coco Cola was amazing, but the cream soda was too sweet, with even more sugar than the Coco Cola! I really wish they would offer a wider selection of drinks, like Fanta or Sprite! I was going to give a rating of 2 stars, but I thought about the whole journey. We didn\u2019t have a line, the food was delicious and juicy. With the only problem being how expensive it was, I have no other complaints. I believe the bill was ~$200 for beef brisket and a half pound brisket with 3 sides and 2 drinks. That sounds overkill, with people being able to buy ~10 fast food combos with that money, but it was indeed a great experience! I strongly suggest going here. It is much more delicious than some other barbeque places in Houston, and frankly, a much better place to go in Austin. Franklin\u2019s BBQ might be better, but we came 1 hour before they opened, and I guarantee you there were around 50 people already in line. Overall, I would recommend this place. However, they did not exceed my expectations, and I was slightly disappointed."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$50\u201360",
+    "food": 4,
+    "service": 3,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk",
+    "wait_time": "No wait",
+    "vegetarian_options": "It\u2019s a Barbecue place. There are salads but, why would a vegan go to a barbecue???",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free of charge parking lot",
+    "kid_friendliness": "Pretty kid-friendly",
+    "wheelchair_accessibility": "There is a ramp leading to the door, so it is accessible"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b51b0e822a65%3A0xc03ac22ba09158c7&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LAAl2____EhApXlb5yxdMHa_sK0QAAAAAGgn92PACYDwb3N8YACIA&sort_by=qualityScore",
+  "next_page_token": "CjEIARIpCgoAP7_LAAl2____EhApXlb5yxdMHa_sK0QAAAAAGgn92PACYDwb3N8YACIA"
+ }
+}

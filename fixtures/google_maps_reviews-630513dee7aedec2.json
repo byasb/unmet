@@ -1,0 +1,319 @@
+{
+ "search_metadata": {
+  "id": "6a9804c4ff596ea7fe54831a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/6vHK3Q2Pg8bp6BtGiH0j9DbV71AUDYPS0KBDEUTSqlk/6a9804c4ff596ea7fe54831a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/6vHK3Q2Pg8bp6BtGiH0j9DbV71AUDYPS0KBDEUTSqlk/6a9804c4ff596ea7fe54831a.md",
+  "created_at": "2026-09-02 11:13:08 UTC",
+  "processed_at": "2026-09-02 11:13:08 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644ca48760d6971:0xa5521d488ea5860d!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/6vHK3Q2Pg8bp6BtGiH0j9DbV71AUDYPS0KBDEUTSqlk/6a9804c4ff596ea7fe54831a.html",
+  "prettify_html_file": "https://serpapi.com/searches/6vHK3Q2Pg8bp6BtGiH0j9DbV71AUDYPS0KBDEUTSqlk/6a9804c4ff596ea7fe54831a.prettify",
+  "total_time_taken": 0.93
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644ca48760d6971:0xa5521d488ea5860d",
+  "hl": "en",
+  "sort_by": "ratingLow"
+ },
+ "place_info": {
+  "title": "Stiles Switch BBQ",
+  "address": "6610 N Lamar Blvd, Austin, TX 78752, United States",
+  "rating": 4.6,
+  "reviews": 5822,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 110,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "corn casserole",
+   "mentions": 155,
+   "id": "Gz7R5f49uKk"
+  },
+  {
+   "keyword": "plenty of seating",
+   "mentions": 5,
+   "id": "BFlOp_P68ow"
+  },
+  {
+   "keyword": "brussel sprouts",
+   "mentions": 165,
+   "id": "AQ46EgX7FGk"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 519,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 116,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "prime rib",
+   "mentions": 55,
+   "id": "GAzyJGYn518"
+  },
+  {
+   "keyword": "frito pie",
+   "mentions": 44,
+   "id": "AJ1Y7e6nLWM"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 102,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "jalapeno cheddar sausage",
+   "mentions": 26,
+   "id": "OasyD1EAEyc"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsMFZtNWhkVFkxU1cxbGNsaEVSSGN3V1VzNWQxRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOll0Vm5hdTY1SW1lclhERHcwWUs5d1E%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "6 months ago",
+   "iso_date": "2026-02-26T20:54:49Z",
+   "iso_date_of_last_edit": "2026-02-26T20:54:49Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMFZtNWhkVFkxU1cxbGNsaEVSSGN3V1VzNWQxRRAB",
+   "user": {
+    "name": "Missy N",
+    "link": "https://www.google.com/maps/contrib/116680235457583486267?hl=en-GB",
+    "contributor_id": "116680235457583486267",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIilV0xRP7QwuhwfnVVlxpmOqDvQS-E_CeKGN0_9VSf-JMSgg=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 7,
+    "photos": 0
+   },
+   "snippet": "They added $8.00 to my order.  The description for this unauthorized charge was \"Packaging\"\nFor what they charge for their BBQ you would think they could afford to package takeout orders without charging me $8.00 - just ridiculous.  You don't get charged extra to eat in the place so explain why this stupid upcharge on overpriced BBQ that is not that great.  Last time we ordered was for the Superbowl and the\nfood was equivalent to HEB's precooked brisket.    Do not recommend this place at all.  Greedy owners and food is not worth it.",
+   "extracted_snippet": {
+    "original": "They added $8.00 to my order.  The description for this unauthorized charge was \"Packaging\"\nFor what they charge for their BBQ you would think they could afford to package takeout orders without charging me $8.00 - just ridiculous.  You don't get charged extra to eat in the place so explain why this stupid upcharge on overpriced BBQ that is not that great.  Last time we ordered was for the Superbowl and the\nfood was equivalent to HEB's precooked brisket.    Do not recommend this place at all.  Greedy owners and food is not worth it."
+   },
+   "details": {
+    "food": 3,
+    "service": 1,
+    "atmosphere": 2
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkbFNrZHBkRXh6VUcwM1dWRlRla2Q1YmxST1NYYxAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOjdlSkdpdExzUG03WVFTekd5blROSXc%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-05T21:55:42Z",
+   "iso_date_of_last_edit": "2026-06-05T21:55:42Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkbFNrZHBkRXh6VUcwM1dWRlRla2Q1YmxST1NYYxAB",
+   "user": {
+    "name": "Edgar barrios",
+    "link": "https://www.google.com/maps/contrib/107774582077510580381?hl=en-GB",
+    "contributor_id": "107774582077510580381",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK_VngG1syQ3l7MbCoIqOPNJT1z-TDK6OHGnimRMCqZJ21S_Q=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 28,
+    "photos": 0
+   },
+   "snippet": "After enjoying a good meal, my wife got up to get boxes and the kids followed. An older employee supposedly in a major rush yelled at my toddler daughter to \"MOVE\" as he almost bumped into her while he was holding napkins. Mind you, this was AFTER the lunch rush. There were only 4 other customers inside at the time. He then went on to explain how the area where you get your refills is a dangerous area once he saw everybody turned to look at him in confusion. Though I understand restaurant work is very stressful, this was extremely unprofessional and malicious. I cannot believe we spent almost $200 every time we go to this restaurant to be treated the way this old man treated us.",
+   "extracted_snippet": {
+    "original": "After enjoying a good meal, my wife got up to get boxes and the kids followed. An older employee supposedly in a major rush yelled at my toddler daughter to \"MOVE\" as he almost bumped into her while he was holding napkins. Mind you, this was AFTER the lunch rush. There were only 4 other customers inside at the time. He then went on to explain how the area where you get your refills is a dangerous area once he saw everybody turned to look at him in confusion. Though I understand restaurant work is very stressful, this was extremely unprofessional and malicious. I cannot believe we spent almost $200 every time we go to this restaurant to be treated the way this old man treated us."
+   },
+   "details": {
+    "price_per_person": "$50\u201360",
+    "kid_friendliness": "Not family friendly"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21OaWRIUnBOVE5FVDJsdlUyUjFSV2xqTmtSSFZGRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOmNidHRpNTNET2lvU2R1RWljNkRHVFE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-18T20:35:07Z",
+   "iso_date_of_last_edit": "2026-03-18T20:35:07Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaWRIUnBOVE5FVDJsdlUyUjFSV2xqTmtSSFZGRRAB",
+   "user": {
+    "name": "Anthony Yang",
+    "link": "https://www.google.com/maps/contrib/117505269947483647380?hl=en-GB",
+    "contributor_id": "117505269947483647380",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ8zO-Fob1Q7Zsu2wxECjtdMwJWV7C-ovrKaUFIeRqoIVbomA=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 5,
+    "photos": 0
+   },
+   "snippet": "I\u2019m from Wisconsin and this was my first time having Texas BBQ. Finished ordering my food with a side of fries. I was told fries would be good to go in 4-5 minutes. So I had a seat and waited the given time. I later came back to the register to ask for the fries they were working on and was told another 5 minutes. 20 minutes past while I waited in front of them and I had to ask again. There was no one in front of me for 15 minutes.\ud83d\ude43 Frustrating",
+   "extracted_snippet": {
+    "original": "I\u2019m from Wisconsin and this was my first time having Texas BBQ. Finished ordering my food with a side of fries. I was told fries would be good to go in 4-5 minutes. So I had a seat and waited the given time. I later came back to the register to ask for the fries they were working on and was told another 5 minutes. 20 minutes past while I waited in front of them and I had to ask again. There was no one in front of me for 15 minutes.\ud83d\ude43 Frustrating"
+   },
+   "details": {
+    "service": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214YVJVNTFNMHg1T0hWRmIzWTFUMVF5VkVVeGVtYxAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOmxaRU51M0x5OHVFb3Y1T1QyVEUxemc%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-03T23:24:28Z",
+   "iso_date_of_last_edit": "2026-06-03T23:24:28Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214YVJVNTFNMHg1T0hWRmIzWTFUMVF5VkVVeGVtYxAB",
+   "user": {
+    "name": "Cory Ad",
+    "link": "https://www.google.com/maps/contrib/104955116277790614876?hl=en-GB",
+    "contributor_id": "104955116277790614876",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLNYh8fjZqsh33SQ5adqIAEzaj213_iZRt-gIMpXGjzLxcTVg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 58,
+    "photos": 12
+   },
+   "snippet": "The most expensive bbq in town and it wasn\u2019t even that good. Def not coming back again",
+   "extracted_snippet": {
+    "original": "The most expensive bbq in town and it wasn\u2019t even that good. Def not coming back again"
+   },
+   "details": {
+    "food": 3,
+    "service": 1,
+    "atmosphere": 4
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwYVRrTlliazVWVDFBMk5rOUZjazlQWlhaQmVFRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOlpaTkNYbk5VT1A2Nk9Fck9PZXZBeEE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "7 months ago",
+   "iso_date": "2026-01-30T03:03:11Z",
+   "iso_date_of_last_edit": "2026-01-30T03:03:11Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwYVRrTlliazVWVDFBMk5rOUZjazlQWlhaQmVFRRAB",
+   "user": {
+    "name": "Pier Crivillaro",
+    "link": "https://www.google.com/maps/contrib/109265566458459544998?hl=en-GB",
+    "contributor_id": "109265566458459544998",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKCPr64s7MWZoij5DPpKshqbs8xCWs-oQjQrygF0e-XHU5liA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 37,
+    "photos": 1
+   },
+   "snippet": "BBQ not done right ! Seasoned poorly, loud, dirty and too hectic of an atmosphere. Food not worth the price",
+   "extracted_snippet": {
+    "original": "BBQ not done right ! Seasoned poorly, loud, dirty and too hectic of an atmosphere. Food not worth the price"
+   },
+   "details": {
+    "food": 2,
+    "service": 1,
+    "atmosphere": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GS05UVmZjekZQZEZrd1JYVXpVVkpEUTBKb1RrRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOmFKNTVfczFPdFkwRXUzUVJDQ0JoTkE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "a year ago",
+   "iso_date": "2025-06-19T10:02:46Z",
+   "iso_date_of_last_edit": "2025-06-19T10:02:46Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GS05UVmZjekZQZEZrd1JYVXpVVkpEUTBKb1RrRRAB",
+   "user": {
+    "name": "Natalia Tolpeeva",
+    "link": "https://www.google.com/maps/contrib/111188939561678002602?hl=en-GB",
+    "contributor_id": "111188939561678002602",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW-KJ6wspKma70MD-DgeDCfuNlQMA38CBXY2GKpzlMB8v1hamPI=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 12,
+    "photos": 7
+   },
+   "snippet": "The worst BBQ ribs I had ever eaten. Busy and loud place, rush service, but the most disappointing - it's a food. Too much salt and pepper... I spent $25 for 3 BBQ ribs and had to trash them eventually. I couldn't even swallow 1 bite. It was the experience of waisting time and money.",
+   "extracted_snippet": {
+    "original": "The worst BBQ ribs I had ever eaten. Busy and loud place, rush service, but the most disappointing - it's a food. Too much salt and pepper... I spent $25 for 3 BBQ ribs and had to trash them eventually. I couldn't even swallow 1 bite. It was the experience of waisting time and money."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 1,
+    "service": 3,
+    "atmosphere": 2,
+    "group_size": "3-4 people, 5-8 people",
+    "parking_space": "Difficult to find parking",
+    "parking_options": "Free of charge parking lot",
+    "kid_friendliness": "Not for kids"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURQaXRQNDFnRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CIHM0ogKEICAgIDPitP41gE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "a year ago",
+   "iso_date": "2024-11-30T23:55:34Z",
+   "iso_date_of_last_edit": "2024-11-30T23:56:50Z",
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQaXRQNDFnRRAB",
+   "user": {
+    "name": "Mike Parks",
+    "link": "https://www.google.com/maps/contrib/106260407043328604273?hl=en-GB",
+    "contributor_id": "106260407043328604273",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJWOOI4S8NUXnkyeF0krPdIK9LeCZSPbkidAhZ4733VvR56Dw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 16,
+    "photos": 0
+   },
+   "snippet": "te here a couple of yrs ago and it was very good. Went there last weekend & did a takeout... It was THE worst BBQ I've had in a long time and that was the surprising part.\n\nOrdered brisket, pork ribs and sausage and all 3 were BAD!\n\nThe Brisket was tough and lacked smoke/flavor. The ribs where really bad - salty and tasted like they were grilled in an oven. The sausage/texture - just like HEB grade - no way it was made in-house.\n\nAll that for $177!! Wish I could get at least 1/2 my $$ back because I feel totally ripped off",
+   "extracted_snippet": {
+    "original": "te here a couple of yrs ago and it was very good. Went there last weekend & did a takeout... It was THE worst BBQ I've had in a long time and that was the surprising part.\n\nOrdered brisket, pork ribs and sausage and all 3 were BAD!\n\nThe Brisket was tough and lacked smoke/flavor. The ribs where really bad - salty and tasted like they were grilled in an oven. The sausage/texture - just like HEB grade - no way it was made in-house.\n\nAll that for $177!! Wish I could get at least 1/2 my $$ back because I feel totally ripped off"
+   },
+   "details": {
+    "food": 1,
+    "service": 2,
+    "atmosphere": 2
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQ3NmVmajB3RRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CIHM0ogKEICAgID76efj0wE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "2 years ago",
+   "iso_date": "2024-08-25T21:20:43Z",
+   "iso_date_of_last_edit": "2024-08-25T21:20:43Z",
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3NmVmajB3RRAB",
+   "user": {
+    "name": "Grassroots Ventures",
+    "link": "https://www.google.com/maps/contrib/107583238455302331981?hl=en-GB",
+    "contributor_id": "107583238455302331981",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWg7IbyqwvmGSQavczmQBsdLY5AY675qwWrwcar_nFmZHjmHPcbQA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 25,
+    "photos": 12
+   },
+   "snippet": "One of the worst BBQ joints in Austin. As a 3rd-generation Texan, I kinda' know good BBQ. This ain't it! One slab of brisket was slightly okay, but it was used to cover the second slab that was the butt-end of the brisket. I am talking the totally black-charred end of the cut - like burned wood. The sides were okay at best. The banana pudding was a total fail. It tasted like I imagine Dairy Queen Soft Serve may taste, with NO banana taste. In summary: YUCK!",
+   "extracted_snippet": {
+    "original": "One of the worst BBQ joints in Austin. As a 3rd-generation Texan, I kinda' know good BBQ. This ain't it! One slab of brisket was slightly okay, but it was used to cover the second slab that was the butt-end of the brisket. I am talking the totally black-charred end of the cut - like burned wood. The sides were okay at best. The banana pudding was a total fail. It tasted like I imagine Dairy Queen Soft Serve may taste, with NO banana taste. In summary: YUCK!"
+   },
+   "details": {
+    "food": 1
+   },
+   "likes": 1
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644ca48760d6971%3A0xa5521d488ea5860d&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7-mxPRdf___EhA_PBx-HgtFrHDYHw4AAAAAGgn92_UCbnSWVvIYACIA&sort_by=ratingLow",
+  "next_page_token": "CjEIARIpCgoAP7-mxPRdf___EhA_PBx-HgtFrHDYHw4AAAAAGgn92_UCbnSWVvIYACIA"
+ }
+}

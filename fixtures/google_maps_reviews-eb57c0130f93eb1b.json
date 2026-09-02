@@ -1,0 +1,390 @@
+{
+ "search_metadata": {
+  "id": "6a98065c1290d9c49a8f28e8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/RAtj1ueawAjgE35s8qoL19xSJI7jEJCORXYd0zodEDA/6a98065c1290d9c49a8f28e8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/RAtj1ueawAjgE35s8qoL19xSJI7jEJCORXYd0zodEDA/6a98065c1290d9c49a8f28e8.md",
+  "created_at": "2026-09-02 11:19:56 UTC",
+  "processed_at": "2026-09-02 11:19:56 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5b97f094707:0x73413af34fe2662d!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/RAtj1ueawAjgE35s8qoL19xSJI7jEJCORXYd0zodEDA/6a98065c1290d9c49a8f28e8.html",
+  "prettify_html_file": "https://serpapi.com/searches/RAtj1ueawAjgE35s8qoL19xSJI7jEJCORXYd0zodEDA/6a98065c1290d9c49a8f28e8.prettify",
+  "total_time_taken": 0.65
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5b97f094707:0x73413af34fe2662d",
+  "hl": "en",
+  "sort_by": "qualityScore"
+ },
+ "place_info": {
+  "title": "Micklethwait Barbecue",
+  "address": "4602 Tanney St, Austin, TX 78721, United States",
+  "rating": 4.7,
+  "reviews": 2050,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "pulled lamb",
+   "mentions": 66,
+   "id": "6F9YPE1Dgz8"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 289,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 65,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "jalape\u00f1o cheese grits",
+   "mentions": 41,
+   "id": "EKsxCVGmM-8"
+  },
+  {
+   "keyword": "frito pie",
+   "mentions": 43,
+   "id": "AJ1Y7e6nLWM"
+  },
+  {
+   "keyword": "live music",
+   "mentions": 3,
+   "id": "bdOKu_b9hgo"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 58,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "barbacoa",
+   "mentions": 32,
+   "id": "U0-eZhXrOR0"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 47,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 98,
+   "id": "BzYeemUSQh4"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201MWJHdHpNVTF2TFV4TWJUWTRabVUxZURoa1YwRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOm51bGtzMU1vLUxMbTY4ZmU1eDhkV0E%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "Edited 2 months ago",
+   "iso_date": "2026-06-10T18:52:48Z",
+   "iso_date_of_last_edit": "2026-06-19T22:10:19Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNBN741xQIo4cOqmgVKkrogPfY68_m2-zsmDguh_dUOyg2ynk5aAFYnl0ozyL18a-OxWDGym5v1vXdRvjOVGba3l3Fy21oyRMCqEofBz3q4YTRdVxmtBna8y9IGFnDeKHW5BWB1V1d_H9c=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMv-nLqRTAHNZ0U6fv4qLEz_vCOUxkJ-Eg1OsxeAKu3GNWiCNp1YgHNuMGuNd7g8PjjqjrD8guhrqvE1mjcz_-gpIAqyu6vrcaXSTbvrQLDWm70uYtROzSe7Lo0jITgPLZUYQtF90uTu5U2=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMX1jzruw6QdBjCYw4UcORCOrT4RMqDcKQLfoDOhLaggfx16LdAUMX96yMvkarRsEcdcxdDcsjMmeoxtUtOkg5skxj4rR05iu4bDB-W2vT0Yc3IL_SbKHYWdDms9IEklPRT44SSNY9IY__j=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMOjiQibe59ocFJ5ilbgkEAPgYXWWxMAmTtzJJ6hq_64FmGkFpBTRLKTFtRDW1LDY5tW0Qgvf1-GVLspXvro3PuTWXe2CRtfCJHYy1Dyn8WQFeuLEmr0D7mU2Lg6TB61-_eg-udmtAQYzti=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPtnmc6HEZlX_6mU_yXqlFn2pYrC2JQljEQRSr-ONhazH3XZsG9UM4EWLZcC26w_-VZRvv9xNgkEcJtJNR4m2XUajxFGpVwh54hfh8BZYijEnrCv3xxuVgKOEHATe2gKkzCj2-ZkC9c539e=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN6Ir0V0iA87i8wXXltoKTCfMlyPWFLu_R2sFeNCZHEDUIrGby5bUXz6HiguXJfdwLWrn71YZPrJ0erGhtmdj3wzMb1FhPiB7Jc1dvjQjiTSmqrgEZ9enfppkCfujzkTXviEFURO5-CdLQ5=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM_YiQYUic1wAYfDSegikkiOe0fKzPp4FAQgn4JfufCItAIHBpN0YFMhSyVD9eFBD4yKtBwZ7KuW-Eggx44JJm0UmefOHCgBUgcqaopu2P-fnKhnaj8BiXyQk4_OXTxcSLo30aY2BmzqhA=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MWJHdHpNVTF2TFV4TWJUWTRabVUxZURoa1YwRRAB",
+   "user": {
+    "name": "Kayla B",
+    "link": "https://www.google.com/maps/contrib/101333954446935487049?hl=en-US",
+    "contributor_id": "101333954446935487049",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUH4wtHv3E3y5SbV1a8S4_e-X4GxXvSijXdlnfDe7FXqBOEfNk=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 20,
+    "photos": 63
+   },
+   "snippet": "This is our default for BBQ in Austin! The environment is relaxing and while it\u2019s busy at times, it\u2019s never wait an hour or two in the beating sun to order.\n\nWe have visited several times and tried a variety of meat and sides. It\u2019s all been great! Our favorites include the brisket, beef rib, sausage and turkey. This past visit I personally got the brisket sandwich and the bun was just perfect. The sides are amazing as well-I\u2019m not even a mac and cheese lover but it\u2019s so good here! The citrus beets are another one you can\u2019t skip-so light and refreshing.\n\nWe love eating outdoors here, my only recommendation would be some fly fans to make sure they stay off food. Definitely worth a visit!",
+   "extracted_snippet": {
+    "original": "This is our default for BBQ in Austin! The environment is relaxing and while it\u2019s busy at times, it\u2019s never wait an hour or two in the beating sun to order.\n\nWe have visited several times and tried a variety of meat and sides. It\u2019s all been great! Our favorites include the brisket, beef rib, sausage and turkey. This past visit I personally got the brisket sandwich and the bun was just perfect. The sides are amazing as well-I\u2019m not even a mac and cheese lover but it\u2019s so good here! The citrus beets are another one you can\u2019t skip-so light and refreshing.\n\nWe love eating outdoors here, my only recommendation would be some fly fans to make sure they stay off food. Definitely worth a visit!"
+   },
+   "details": {
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Suitable for all group sizes",
+    "wait_time": "No wait",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free parking lot, Free street parking",
+    "parking": "Park on the street if the parking lot is full"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21rNGVqQkJSblEzY2tKVVRrOXdRMmxrVFd4amNWRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOmk4ejBBRnQ3ckJUTk9wQ2lkTWxjcVE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-21T15:04:59Z",
+   "iso_date_of_last_edit": "2026-06-21T15:04:59Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMDj8rBFLLzd24Q-p0bnsR9L6nfbLF1iqPcSkiZUlqz48HeVwrCKV1ebzPns2lX91T8GQP02YBKvpf4iAKJMzkIYbw-AbzioydMkR84jsA6au7_wft3_gu6GW4v4tsJzH2mO02qtZFsIlct=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPCjuaLYwlLxKGMM_UoxYfpkWxlukI8v3_vKfYcoHQQ2DqQ03Rb6Aeran1aqmjVjWMjStWha4qWCOIhBq7_6LNLftG3UjLm-rbT0AaR3pkoNIP2I0OafiAg8yI_ObiY4GlH72tDonV_fifa=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNGVqQkJSblEzY2tKVVRrOXdRMmxrVFd4amNWRRAB",
+   "user": {
+    "name": "Scott Zuckerman",
+    "link": "https://www.google.com/maps/contrib/108151750012557467725?hl=en-US",
+    "contributor_id": "108151750012557467725",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWAbFlVfZ2VBXBtvKKm02tolTNFjVFGgD-HkY9BvRXU9fCkoY_2=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 138,
+    "photos": 65
+   },
+   "snippet": "Great barbecue. The brisket was fantastic. The pastrami was excellent. The ribs were great. Interesting sides: String beans, cabbage, and potato salad were all tasty.  Friendly staff and ample outdoor seating. The flies were a nuisance but it\u2019s hard to blame them. Obviously Texas flies know good BBQ when they see it.",
+   "extracted_snippet": {
+    "original": "Great barbecue. The brisket was fantastic. The pastrami was excellent. The ribs were great. Interesting sides: String beans, cabbage, and potato salad were all tasty.  Friendly staff and ample outdoor seating. The flies were a nuisance but it\u2019s hard to blame them. Obviously Texas flies know good BBQ when they see it."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 4,
+    "reservation": "Walk-ins only",
+    "special_events": "No special event"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Fd1NYZDNWa3RTWm14NlJUVm1lVEpUVFdRek5YYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOnEwSXd3VktSZmx6RTVmeTJTTWQzNXc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-27T02:52:33Z",
+   "iso_date_of_last_edit": "2026-05-27T02:52:33Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNEx3DFtiGfxUYD3N0wAkTpZD6rIqsKWX9uhPGdQXK0LHzLB2-_Fo-OsZrrOUibwv-In8nRpAxW7vMNC3ssQU3P76SZs9osXR3nj1EloNsq_WdYS7yLNnptmpodIbFYOXeAJ5ApXCn8rv47=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN1ylLT0P--xU9M5C4r1_Ivza_Wo_l145tgefIUA8Q_7_5-Xwig3bDQmShhSkpX5fHaqWX6iZZJkKZL1Y2sQ-Tz1YKGtwtglK9Ji-YH4__nogiF_Ki60BAe0WmVgYHMEzOl-kMIyBy166Ic=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMHD4tlnYYAU87dXMMiA9d_9jOXHvW69Yh4MqDIoaV5HF_5tu9gsvW3ez8LcAF57TXf4WzjKxCO98zXGkpUqjcxE1ayKkaN9EbHLXl9KKdhJohTzs7UdZIWliNftu6uo69NEuptpJWb6LBR=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMNnQXvYWBe59w0ofpgRI87UWtd0EIOp63Ebn2uZwGo8afcO9WH0pfB8sdI_syuv4XgWbPycGGmhsFJnK7tHavtd_2O9GL45OL2em_NPUfBm_f8A5tzD6nNaBQt5c-5ghyqPNcKVyWfD8A=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOC4Y5euk7eq9H74H2IjFU3IQj4daomYbqNrPCWKM-pfk1lOYx7bgu3HhZshQfchR1WMVhs0kkNsd8j09CP8Ii8-kE_u7q2h8tH537WmUZ6ZTIXYEYm_en3yaSC86Zv1w2jNeSi4jIe5N4=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Fd1NYZDNWa3RTWm14NlJUVm1lVEpUVFdRek5YYxAB",
+   "user": {
+    "name": "Fayanne Betan",
+    "link": "https://www.google.com/maps/contrib/112864087465468449167?hl=en-US",
+    "contributor_id": "112864087465468449167",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocInal16FEjHHpuc_vy80gKoULYE_MtxlovTYXBrQlk51mnQNWO_=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 263,
+    "photos": 764
+   },
+   "snippet": "Reddit told me to come here - glad we listened. We got two plates so we can try a variety of meats and sides. We had the brisket, turkey, spare ribs and the Czech sausage. For sides we had Mac and cheese, braised cabbage, beets, and potato salad. Great meat. Standout meat was the spare rib. The turkey was a little too salty for our liking. The braised cabbage was also a standout side. Would come back if visiting Austin. Nice that they also have indoor and outdoor seating. We didn't have a wait.",
+   "extracted_snippet": {
+    "original": "Reddit told me to come here - glad we listened. We got two plates so we can try a variety of meats and sides. We had the brisket, turkey, spare ribs and the Czech sausage. For sides we had Mac and cheese, braised cabbage, beets, and potato salad. Great meat. Standout meat was the spare rib. The turkey was a little too salty for our liking. The braised cabbage was also a standout side. Would come back if visiting Austin. Nice that they also have indoor and outdoor seating. We didn't have a wait."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210U1Z6SkpiVVpTVDJoeE1ucE1kRFp4VWpWTVVYYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOmtSVzJJbUZST2hxMnpMdDZxUjVMUXc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "10 months ago",
+   "iso_date": "2025-10-18T01:23:01Z",
+   "iso_date_of_last_edit": "2025-10-18T01:23:01Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOdA4wE53EknAJzxMT5Uvqi2bWmS0r3i4jYaD6MScOacoznazG7dCN32YJYHp6jiSn2qLgWjkwBBA7ixrZvo04lrMv7mQZ4_KP_uuRfsBOgOnP6Q5j3QtWKGdMMbonngy_ztd5xc8M4PtHn=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN5L-7D7xh08wxI_S2G_qtEx4jXRqHr3FVzAntcFyQmgyzEgwICZ4lnY3iRTWJkfQJy97lKOHZXb-FRq3kCFBHEv50LqRokGxjPczCzWaw36M-TiV253uQGd0fhCifuROu2HuEPdPT7JqsH=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMptnffpSFJ7eppC9p9-JzpssDWrOqtV6YE5RvkTeL-M8-dm5SlgHT7qS_a_QCxrJHpJpZxHG_we1JflTlOqowJMioJQTrYoCUX6Ate0avxNHx4zbjNNfHVHIWJOJqbPfZeiL1sWmWi8mmj=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMMipxI8MZzpfghknxIKH2FXJqzWM34Mrpa6hbFtmgagQAipGBzKSb7jHgOlCwiRi-NXcgc4kZajm2KAXGDFv_DGKkG1zZqrrXS7omLOcT3uQhYCBCyEYirvVtGkfqHKIKnjqmOtWt0T_E5=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210U1Z6SkpiVVpTVDJoeE1ucE1kRFp4VWpWTVVYYxAB",
+   "user": {
+    "name": "Sammi",
+    "link": "https://www.google.com/maps/contrib/100971279254188445539?hl=en-US",
+    "contributor_id": "100971279254188445539",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXmcGE5fp703L0d3ZcGy-OLipQKIeT0f6AH-CgeND1PAMw5MNMjiw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 63,
+    "photos": 171
+   },
+   "snippet": "We came to Micklethwait from multiple friends' recommendations during our week-long trip San Antonio to Austin. It was fantastic!\n\nFor 2 people, we ordered the brisket, pork ribs, cheesy hot link, with mac n cheese and green beans sides. I normally don't prefer dry rub ribs, but they were amazing, so flavorful. The green beans were also perfect and a great tangy compliment to the meats. We were really impressed by the cheesy hot link - it was staff-recommended since they're known for their sausages.\n\nWe came in around noon on a Friday, and we waited a bit to order but not long - and the food is prepared immediately. Staff were so friendly, helpful and welcoming - we would definitely return for the service (and the food).\n\nThe indoor and outdoor seating areas are both really nice - great space for groups. Parking was also not hard to find on their street.\n\nThe flavors of Micklethwait were really unforgettable, and we hope to return soon!",
+   "extracted_snippet": {
+    "original": "We came to Micklethwait from multiple friends' recommendations during our week-long trip San Antonio to Austin. It was fantastic!\n\nFor 2 people, we ordered the brisket, pork ribs, cheesy hot link, with mac n cheese and green beans sides. I normally don't prefer dry rub ribs, but they were amazing, so flavorful. The green beans were also perfect and a great tangy compliment to the meats. We were really impressed by the cheesy hot link - it was staff-recommended since they're known for their sausages.\n\nWe came in around noon on a Friday, and we waited a bit to order but not long - and the food is prepared immediately. Staff were so friendly, helpful and welcoming - we would definitely return for the service (and the food).\n\nThe indoor and outdoor seating areas are both really nice - great space for groups. Parking was also not hard to find on their street.\n\nThe flavors of Micklethwait were really unforgettable, and we hope to return soon!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kNFNrSnFWUzFyV2psaWJYWkhVRFZGTFhJeFNFRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOnd4SkJqVS1rWjlibXZHUDVFLXIxSEE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-25T22:36:15Z",
+   "iso_date_of_last_edit": "2026-07-25T22:36:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNUEI1UD06DNuGl31z4ubx9dBQPX9uEY34JbIrQ4S5PiDjUOYFdRdRFllHJDuiKo1SV4UUjCuHC08zG1nm3Wkkppnn_3zjWFf8yBoLmX3AWPxAnSGDkN_CeJL-uNaNHow0a5CwP41VJjAbV=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPxhSDK0P9VgIZYV0GDhJsSiOYkBzH_mOmjlTwyQSxIYcutdI3OFcg3Pp6sQ5vXlBl6WxyS3DUiA3F9kwOHKa6O5f2Aw5_GpMq7HafU14teIp12ftJJI5znjhsCjvjgHtVJguoCJbo5BQ0S=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kNFNrSnFWUzFyV2psaWJYWkhVRFZGTFhJeFNFRRAB",
+   "user": {
+    "name": "Frances Fortanely",
+    "link": "https://www.google.com/maps/contrib/104225612348270545512?hl=en-US",
+    "contributor_id": "104225612348270545512",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUhysdWa4SaER098Bcuj5StexNNJrUI4wAEIgyzsrqUklPX1fDY=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 206,
+    "photos": 321
+   },
+   "snippet": "Absolutely delicious. One of my favorite meals of all time. With no exaggeration, the best brisket and ribs ever. Also the sides and cookie were flavorful too. And the lemonade, sauces (BBQ and hot) were all homemade too. Phenomenal.",
+   "extracted_snippet": {
+    "original": "Absolutely delicious. One of my favorite meals of all time. With no exaggeration, the best brisket and ribs ever. Also the sides and cookie were flavorful too. And the lemonade, sauces (BBQ and hot) were all homemade too. Phenomenal."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "reservation": "Not sure",
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCYWRFd3dPVXBoWlROcVFsOUtiMFJTWVVKVGRXYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOlBadEwwOUphZTNqQl9Kb0RSYUJTdWc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "8 months ago",
+   "iso_date": "2025-12-28T15:43:56Z",
+   "iso_date_of_last_edit": "2025-12-28T15:43:56Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM7fQ00PBeWo0spaDgVuOnlN3C0BwqHeBllOMaMhXsjAgsgj2DxzgFfWrDl9v8Ps5XPJc-brtusCoZBFAwdNFBZ3kLRjeWNUCFImqpyh-kINqOme4Ygz3hTvoN6MSHetTwWWoN1AetJrRuW=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN3_tHpW1C7CkynhFuulyJao_fqtN3ws0g_U9kOaIOPZKFuFWV6UwataPKjv4OEzbV54cLPf3cAltiVUuWePzxDF1LbgLId3C3rZFqk7ia92zU7Onxk_budNfIo9sDZGbb5yX1qtDn8XfVH=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP-NVILe2s7EJIC7P5om5g2d_-Xg3gKsmESHDVYsezn6M2IBikpRcdxrj1KlLUwNHjP3IjldoRmYxdl5EnSylu8QCumPPjAhGMt_ydE_AjpmgMDBCngOPZEgnHmcOQr3HJToFqwhM4dwiy-=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNXQz7psMmKCDIJyKfxzqxhqKlePR55L8oewnDhYLAGSXbpwXRGPV5_3CwVXOAQ4s0QK5AKI2nglxBPgu8FRSqB2POocfvUBg_3CJr9JULDV8Hc1mS_XLbSSyUzJ6vKTk3BJA8PFnQj8pM=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOypxXLWSjPlweOAWJSacgacsQC_5TsQ0-0BzUcVry6a-4T5znRFEuCvVrXS1T2Tw8JUno3JG7ufWRwQTUNCEwtAtUiYgS2qzcpidppsSEqrINHwuAVJI21RFAx2qRgjOMjhUQccA7Ccro=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNaMn9Kso-p8VEvrO-NHmBsMaJE4Msgn5d5ftvZgXu6dtpPvetAGdvWGVoCSnhVG09RffP7pIDcimziaoEJUH43AQc31-SprwkLxWMwHpjKuXV06FMP0xfxPfnCB1LYiZ1DX8ZKv_FkcjZm=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPu6r0n6wQsjN77hS1XTvJbjoDv1rg1IjnEmwg9P57N0AFkOpeeZtLdErubaryff8eUK1XJOnFKAmK9BrQ-sWjnplYaFhl_5WEI2OVEsUcNyuPirmOtFjtMPGpBu3Z7MiYnY6azvjH7QUs=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM-SepkAZLQBScSeUKVCuMoEZFsBNMJzmXD5nRdDpdktWrTWRi05T48I2gNZhNeWY9UBShg9tT5kRPu04qep_b2jQRUCRCO0mU-y03LxbU1W8yF92Gvve_hXVJk8UUlOLDI_6I_Di_abFs=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN9FhNqdWniC68jQvLAkc0ULWUWkYOp2coSte2sAEquwfa3-ZaKn-uxvDcmzADLDBEr6pkVsqRn3k_uJMQ2UWOwKXWUvzyYfxvBjPdfRDCSIOriX8PedvZcJk2eXFzAwmz1j15F3eR2ufmB=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNi1yMYYC4CB1SScJgnjwZHUMxv1Dcw9QyczUp9jXRnRBgo9IkWj4eiuHF4DaOQYQMDq9Iqn84dMJXfFdfyKDQMM5VDtFW3K3k-NMpnYT8NswoW9FsEn8PJ7Ny9WrSpGQ-7O-zVmoMNuoVt=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYWRFd3dPVXBoWlROcVFsOUtiMFJTWVVKVGRXYxAB",
+   "user": {
+    "name": "Jeanie Y",
+    "link": "https://www.google.com/maps/contrib/110181316854464699765?hl=en-US",
+    "contributor_id": "110181316854464699765",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVcg5370IV7HtcVypthJvExG1EHJqp1yh1mwH0GrRUWhVYp_O89Fg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 148,
+    "photos": 696
+   },
+   "snippet": "First time here, but have known about it's popularity for years. Brisket very moist and flavorful. Can't say it's the best I've had, but very good. Cheesy hot link likewise very good. Herbed potato salad quite tasty and a great compliment to the meat. Best of all (and a big surprise) was the cookie! AMAZING!!! Very friendly service. Rustic dog-friendly picnic style area is as well as indoor seating.",
+   "extracted_snippet": {
+    "original": "First time here, but have known about it's popularity for years. Brisket very moist and flavorful. Can't say it's the best I've had, but very good. Cheesy hot link likewise very good. Herbed potato salad quite tasty and a great compliment to the meat. Best of all (and a big surprise) was the cookie! AMAZING!!! Very friendly service. Rustic dog-friendly picnic style area is as well as indoor seating."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 4,
+    "wait_time": "Up to 10 min",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t4SFpGSnBOVkpCTmtsc2EzWlBhMXAxTTNoa2VXYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOkxHZFJpNVJBNklsa3ZPa1p1M3hkeWc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-24T02:46:00Z",
+   "iso_date_of_last_edit": "2026-05-24T02:46:00Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNrtQHvf6C1G9JNAv2XJ18ShoUPyWJFVeL7L8PFYmvxLkC5FJ82ebXwLO1LL6GcAQD_8jrPFG-DS225B7U4oi4lfZjBp0jXtwTYVOSi3uwLhQpKTaNR5hEY6WzWDkDRo77f_W5stBOzyea8=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOhw2LFG43jTGAl9-etJ6MjHK-AaGi-GZhTeF-l3EYUyxs4xgY7-eKb-Zi56p1LguD805HMA7e8mzwgv9O0YIOOfZHWfScv3-FdEqtU4ofUK-bSm7dHgcIV1nXjTGgtXt_N1JTxZBIr4Wfr=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SFpGSnBOVkpCTmtsc2EzWlBhMXAxTTNoa2VXYxAB",
+   "user": {
+    "name": "Khashi Jafari",
+    "link": "https://www.google.com/maps/contrib/103797304031866234864?hl=en-US",
+    "contributor_id": "103797304031866234864",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVEct5mvLQV1qaGd9HZWBI-Kbs31SKFelyi5Zrku2SYStx0H5s=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 20,
+    "photos": 12
+   },
+   "snippet": "Best brisket I\u2019ve ever had. So soft, melted right away, full of flavor. Must try!\nThe pulled lamb was delicious too.\nThe backyard patio was very clean and peaceful to eat at. All around great experience, will be back when I visit Austin again.",
+   "extracted_snippet": {
+    "original": "Best brisket I\u2019ve ever had. So soft, melted right away, full of flavor. Must try!\nThe pulled lamb was delicious too.\nThe backyard patio was very clean and peaceful to eat at. All around great experience, will be back when I visit Austin again."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5UlMwdE1ielZwV1hOR01FTnhMVFpJTTIxRmMyYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOk9RS0tMbzVpWXNGMENxLTZIM21Fc2c%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-21T19:08:08Z",
+   "iso_date_of_last_edit": "2026-05-21T19:08:08Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOb0-A5YmrqiKLGcCKmqHqsEW2i6jO_k8w3OObFjBvcCjdrprrwlQ3GL4RkA7b3yDVYqCRl2xu_ZGsiw25upjfeL4cf5kAlfB_cZeOO-55nIWNdwJu44O3ZGDY00g4p2uNZ58y1ArN6q8o0=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UlMwdE1ielZwV1hOR01FTnhMVFpJTTIxRmMyYxAB",
+   "user": {
+    "name": "Victoria Jarrett",
+    "link": "https://www.google.com/maps/contrib/112014099136418349824?hl=en-US",
+    "contributor_id": "112014099136418349824",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUe-OK3BZeqTNNpmCr4MksSBbwZBB31KyQ2tpmlqrBxzGKHcPA=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 5,
+    "photos": 1
+   },
+   "snippet": "Micklethwait Barbecue was absolutely amazing for our wedding catering! Everything was so delicious, and so many of our guests complimented the food all night long. The mac and cheese was awesome and all of the meats were incredibly flavorful, juicy, and cooked perfectly. We had the brisket, ribs, and turkey, and my goodness\u2026 they were SO good!\n\nTheir communication throughout the process was great, and the buffet setup/service ran very smoothly on the wedding day, which made everything so easy. They do provide utensils, plates, silverware, and napkins, which is super convenient, ( includes in the cost) but we chose to bring our own for a more elevated look.\n\nWe also did a tasting beforehand, which I highly recommend, they made it easy to know this was the place for us. We had tried other caterers before, but nothing compared to Micklethwait.\n\nFor our wedding of about 46 guests, we chose the 3 meat and 4 sides option. The total came out to roughly $2,600, ( I think $43 person roughly. It is cheaper if you select 3 meats. 3 sides option) which included tax, a travel fee since we were outside their normal radius, and tip. We even tipped a little extra above the service amount because we truly felt the quality and experience were worth it.\n\nEven though this was a little above our original budget, spending a bit more on the food was absolutely worth it. I would absolutely recommend them for any large gathering, event, or wedding like ours. Delicious food, smooth service, and a great team to work with!",
+   "extracted_snippet": {
+    "original": "Micklethwait Barbecue was absolutely amazing for our wedding catering! Everything was so delicious, and so many of our guests complimented the food all night long. The mac and cheese was awesome and all of the meats were incredibly flavorful, juicy, and cooked perfectly. We had the brisket, ribs, and turkey, and my goodness\u2026 they were SO good!\n\nTheir communication throughout the process was great, and the buffet setup/service ran very smoothly on the wedding day, which made everything so easy. They do provide utensils, plates, silverware, and napkins, which is super convenient, ( includes in the cost) but we chose to bring our own for a more elevated look.\n\nWe also did a tasting beforehand, which I highly recommend, they made it easy to know this was the place for us. We had tried other caterers before, but nothing compared to Micklethwait.\n\nFor our wedding of about 46 guests, we chose the 3 meat and 4 sides option. The total came out to roughly $2,600, ( I think $43 person roughly. It is cheaper if you select 3 meats. 3 sides option) which included tax, a travel fee since we were outside their normal radius, and tip. We even tipped a little extra above the service amount because we truly felt the quality and experience were worth it.\n\nEven though this was a little above our original budget, spending a bit more on the food was absolutely worth it. I would absolutely recommend them for any large gathering, event, or wedding like ours. Delicious food, smooth service, and a great team to work with!"
+   },
+   "details": {
+    "order_type": "Delivery",
+    "meal_type": "Dinner",
+    "price_per_person": "$40\u201350",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "vegetarian_options": "They do tofu for vegan option."
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5b97f094707%3A0x73413af34fe2662d&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LABJr____EhAlD-QJ7cfV22KPOG8AAAAAGgn92PICYbQP3oIYACIA&sort_by=qualityScore",
+  "next_page_token": "CjEIARIpCgoAP7_LABJr____EhAlD-QJ7cfV22KPOG8AAAAAGgn92PICYbQP3oIYACIA"
+ }
+}

@@ -1,0 +1,349 @@
+{
+ "search_metadata": {
+  "id": "6a9804c550849c2a2ac0dc9c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/SuXrERlxxXjYTYOtaPKnGko-JZp5hiCBdALRx6beCBI/6a9804c550849c2a2ac0dc9c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/SuXrERlxxXjYTYOtaPKnGko-JZp5hiCBdALRx6beCBI/6a9804c550849c2a2ac0dc9c.md",
+  "created_at": "2026-09-02 11:13:09 UTC",
+  "processed_at": "2026-09-02 11:13:09 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5a4ae3bcc33:0x31aba8abf8f64c84!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/SuXrERlxxXjYTYOtaPKnGko-JZp5hiCBdALRx6beCBI/6a9804c550849c2a2ac0dc9c.html",
+  "prettify_html_file": "https://serpapi.com/searches/SuXrERlxxXjYTYOtaPKnGko-JZp5hiCBdALRx6beCBI/6a9804c550849c2a2ac0dc9c.prettify",
+  "total_time_taken": 0.69
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84",
+  "hl": "en",
+  "sort_by": "newestFirst"
+ },
+ "place_info": {
+  "title": "Franklin Barbecue",
+  "address": "900 E 11th St, Austin, TX 78702",
+  "rating": 4.7,
+  "reviews": 7237,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "brisket",
+   "mentions": 1242,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 190,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "limited seating",
+   "mentions": 9,
+   "id": "ChXOgcvmiCg"
+  },
+  {
+   "keyword": "long lines",
+   "mentions": 279,
+   "id": "Avtrs817wXg"
+  },
+  {
+   "keyword": "wait time",
+   "mentions": 798,
+   "id": "ALvakRP3QVw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 12,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 164,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "folding chairs",
+   "mentions": 47,
+   "id": "GBgWu9zdqAs"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 274,
+   "id": "BzYeemUSQh4"
+  },
+  {
+   "keyword": "turkey",
+   "mentions": 195,
+   "id": "UQwSWAznjHU"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxcGVuWjNiazAxUlc1eGIwbGhXbmxGTlRCRGNVRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOk1penZ3bk01RW5xb0lhWnlFNTBDcUE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a day ago",
+   "iso_date": "2026-08-31T23:30:37Z",
+   "iso_date_of_last_edit": "2026-08-31T23:31:41Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcGVuWjNiazAxUlc1eGIwbGhXbmxGTlRCRGNVRRAB",
+   "user": {
+    "name": "Al M",
+    "link": "https://www.google.com/maps/contrib/106710799422075862508?hl=en-US",
+    "contributor_id": "106710799422075862508",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKsZGLYB2LDP3_PrKKQG2ELuC5Jhb0o6AFi_2xqm_8XZyebJw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 46,
+    "photos": 3
+   },
+   "snippet": "I've never waited in line for Barbque, but it was worth it.  The best beef rib I've ever had and the brisket and pulled pork... Amazing.\n\nAnna was checking in to make sure everything was good and had a great chat with her.\n\nI highly recommend Franklin's as the best barbque that I have ever put in my mouth.",
+   "extracted_snippet": {
+    "original": "I've never waited in line for Barbque, but it was worth it.  The best beef rib I've ever had and the brisket and pulled pork... Amazing.\n\nAnna was checking in to make sure everything was good and had a great chat with her.\n\nI highly recommend Franklin's as the best barbque that I have ever put in my mouth."
+   },
+   "details": {
+    "price_per_person": "$90\u2013100",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "2 people",
+    "wait_time": "1+ hour"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Oa1NIQnZOWFp6TWtob1YydzVOV0p1VFVweFVFRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOnNkSHBvNXZzMkhoV2w5NWJuTUpxUEE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "2 days ago",
+   "iso_date": "2026-08-30T18:27:31Z",
+   "iso_date_of_last_edit": "2026-08-30T18:27:31Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOBXuf39qOkfVeObK8x0zuOiDOoFo15uK40rxUgyHgXysz41tNWHmWw4GnWDAITgN49Cf97PeQYSWQitNc8OAOaC2wFRifOcdtCOSmLJt_DCVHJU3LBzc24MgF2qjrjlK6XKFrmFJPEKMs=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMQM_UlXqOggnVK9XsXbYiWJaU7dAhVctLc7x_MBkd9GTCFWjaujzcR-uTOff0IocO_lcQH8c1oDdaBa1TTD1qjIzsgorl8A-45vtA5G76y1SgisxkHvzlEKf-ZLvOoEjtB4IsXdF9qnBA=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM8-0aPE7Nk8h3fQ7bajt_SEhacNtokY1XSr9pf_co95h8oLXaSCa426q9OERD1uCH7-YqtqoDHMu2zwGgzUo_4fsnqzNZGreAQ1bHsWOZWQfgRZdTa8cqCH7vV2-ENOuw00Kw5u84ike0=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO2g9W9-41QBqsc381nfy0xPj-BvUmLu_xyRP9K4VfCgmtnc3jXV3hTXWj0jm05cSuxakbfaEO3N_lYgV6yif4Zo1HPckUfLY5-17kPxpuXWSLJDcBgbd6zsb7-BzRv51hH04mT2pTR9h7q=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oa1NIQnZOWFp6TWtob1YydzVOV0p1VFVweFVFRRAB",
+   "user": {
+    "name": "Brian Chan",
+    "link": "https://www.google.com/maps/contrib/111662888860733887060?hl=en-US",
+    "contributor_id": "111662888860733887060",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVUn_u6S0U3SRjgi3PttpTJExCRWYtwt_y99fPvQDirIzFm7dWp=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 239,
+    "photos": 255
+   },
+   "snippet": "I don\u2019t claim to be a BBQ expert but we were happy with the bbq. We ordered to go online to make sure we had food when we landed into town and that turned out to be a great idea. My favorite were the ribs. The brisket was good too. The sides were just average. All the pies were rich and buttery but there\u2019s nothing wrong with that",
+   "extracted_snippet": {
+    "original": "I don\u2019t claim to be a BBQ expert but we were happy with the bbq. We ordered to go online to make sure we had food when we landed into town and that turned out to be a great idea. My favorite were the ribs. The brisket was good too. The sides were just average. All the pies were rich and buttery but there\u2019s nothing wrong with that"
+   },
+   "details": {
+    "price_per_person": "$10\u201320",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Not sure",
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwdlFXdG5XblF4WnpST1gwOUxkMFJEVUZaM05uYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOlpvQWtnWnQxZzROX09Ld0RDUFZ3Nnc%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "Edited 3 days ago",
+   "iso_date": "2026-03-29T21:55:20Z",
+   "iso_date_of_last_edit": "2026-08-30T00:50:38Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdlFXdG5XblF4WnpST1gwOUxkMFJEVUZaM05uYxAB",
+   "user": {
+    "name": "J. Pizzle",
+    "link": "https://www.google.com/maps/contrib/101700239897068753096?hl=en-US",
+    "contributor_id": "101700239897068753096",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIbbbL6W0Trhv0EzvBZAlbeGSKtV5qUEakBBzAxelkgc6Myvw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 187,
+    "photos": 22
+   },
+   "snippet": "Brisket and pulled pork were fantastic.  All the meats I've had there before have been delicious. Biggest problem with this place, besides the wait, is they have crap sides.  Y'all been knocking it out of the park for years with your mains. Shouldn't be difficult to start making non starchy sides.",
+   "extracted_snippet": {
+    "original": "Brisket and pulled pork were fantastic.  All the meats I've had there before have been delicious. Biggest problem with this place, besides the wait, is they have crap sides.  Y'all been knocking it out of the park for years with your mains. Shouldn't be difficult to start making non starchy sides."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Brunch",
+    "price_per_person": "$30\u201340",
+    "food": 4,
+    "service": 5,
+    "atmosphere": 4,
+    "recommended_dishes": "Pulled Pork, Bourbon Banana, Moist Brisket",
+    "parking_space": "Difficult to find parking",
+    "parking_options": "Parking is unavailable"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wSGJWcDFURXBHUkRoeVUwNVVNRmwwTWpWRlVrRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOmpHbVp1TEpGRDhyU05UMFl0MjVFUkE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "3 days ago",
+   "iso_date": "2026-08-29T18:59:15Z",
+   "iso_date_of_last_edit": "2026-08-29T18:59:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNirtkkOGyCtDljv2weRJaQWHLmKRoE8t4TId6_HfYCz-YOT8TThD13UYC5a7QIwEjXI2j5riR4IhNOFts2v6JNZQejdU18cPipIx_iB9iGfmHHH9PPc2AjtY6OegK4OlTUvh2kBb3Tz7Ix=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSGJWcDFURXBHUkRoeVUwNVVNRmwwTWpWRlVrRRAB",
+   "user": {
+    "name": "Sterling Smith",
+    "link": "https://www.google.com/maps/contrib/105933321613791376456?hl=en-US",
+    "contributor_id": "105933321613791376456",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXhjhQfLVQJJpYbygmAX_xZAy73cB5mzHlipxYxkN95BKcSiKYaKQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 122,
+    "photos": 14
+   },
+   "snippet": "Best BBQ on the planet!!",
+   "extracted_snippet": {
+    "original": "Best BBQ on the planet!!"
+   },
+   "details": {
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "3-4 people",
+    "wait_time": "1+ hour"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5bE0yaEZXVXR3WTE5ZmNrUjRNMkp1YUhBMmFGRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOk9lM2hFWUtwY19fckR4M2JuaHA2aFE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "4 days ago",
+   "iso_date": "2026-08-28T17:59:43Z",
+   "iso_date_of_last_edit": "2026-08-28T17:59:43Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bE0yaEZXVXR3WTE5ZmNrUjRNMkp1YUhBMmFGRRAB",
+   "user": {
+    "name": "B VV",
+    "link": "https://www.google.com/maps/contrib/102345563207070817701?hl=en-US",
+    "contributor_id": "102345563207070817701",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJAQCwn69TyY-gBMSO7dF5PkvCmU1-daPyqjRNX_oJxaOPUXA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 149,
+    "photos": 9
+   },
+   "snippet": "We're ruined to any other brisket.... it IS the best!!! Everything is fabulous to be fair. Staff is amazing. Not sure about the complaints about the wait. If you've done any research you know you're waiting OR they could be sold out. They keep you updated on quantities and likely wait time. If that's not for you, I get it. BUT that's the way it is.",
+   "extracted_snippet": {
+    "original": "We're ruined to any other brisket.... it IS the best!!! Everything is fabulous to be fair. Staff is amazing. Not sure about the complaints about the wait. If you've done any research you know you're waiting OR they could be sold out. They keep you updated on quantities and likely wait time. If that's not for you, I get it. BUT that's the way it is."
+   },
+   "details": {
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk",
+    "group_size": "Suitable for all group sizes",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21SNFVrWnJjbGR6YW5kNWVFWlNkMUp1UnpGUWJuYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOmR4UkZrcldzand5eEZSd1JuRzFQbnc%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "5 days ago",
+   "iso_date": "2026-08-28T01:51:15Z",
+   "iso_date_of_last_edit": "2026-08-28T01:51:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPbfLbenm65awzxEQ-mkjJrdlRGcbXv3FIPWbO6pQDnhW42Q97P4KrDswvh_crDvIrKVpF3CI9XYRI4DMC_gZ0sMTLLPdlNYtyWUn9HkJ0u-LlRYoPi5eq04_pve6QvyHTczBpO9wHAqBGN=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPmbyc3HN-3CoOyq8jAPbevrjg7I5cVYZYt0P8pqPNpH96udkK5pTZamaVD9pnnKsNwIbzezdVEQ53pPzIDhSm-p-tx8ehBRSvqlYny4zejXBb7ZF_YbpMH3V10ZAS9vH0vdDwCCOV1k8N4=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNFVrWnJjbGR6YW5kNWVFWlNkMUp1UnpGUWJuYxAB",
+   "user": {
+    "name": "JJJ",
+    "link": "https://www.google.com/maps/contrib/107293405140905274251?hl=en-US",
+    "contributor_id": "107293405140905274251",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLkSmHiv2ah87ZnBNHV0yqMJDqBQsiy4aSH_2l8Mu2G3VRJfg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 38,
+    "photos": 28
+   },
+   "snippet": "\uc624\uc2a4\ud2f4\uc5d0 \uac00\uba74 \uaf2d \uac00\ubd10\uc57c \ud55c\ub2e4\ub294 \uc598\uae30\ub97c \ub9ce\uc774 \ub4e4\uc5b4\uc11c \ud070 \uae30\ub300\ub97c \uc548\uace0 \ubc29\ubb38\ud588\uc2b5\ub2c8\ub2e4.\n\n\ud3c9\uc77c \uc624\ud6c4 \ub2a6\uac8c \uac14\ub354\ub2c8 \uc904\uc744 \uc11c\uc9c0 \uc54a\uace0 \ubc14\ub85c \ub4e4\uc5b4\uac08 \uc218 \uc788\uc5c8\ub358 \uac74 \uc7a5\uc810\uc774\uc5c8\uc5b4\uc694. \uc8fc\ucc28\ub3c4 \uac71\uc815\uc744 \ub9ce\uc774 \ud588\ub294\ub370, \ub2a6\uc740 \uc2dc\uac04\uc774\ub77c \uadf8\ub7f0\uc9c0 \uac00\uac8c \uc606\uc5d0 \uc8fc\ucc28 \uacf5\uac04\uc774 \ub9ce\uc774 \ub0a8\uc544\uc788\uc5b4\uc11c \uc5b4\ub835\uc9c0 \uc54a\uac8c \ub308 \uc218 \uc788\uc5c8\uc2b5\ub2c8\ub2e4.\n\n\ub2e4\ub9cc \uadf8\ub9cc\ud07c \uc778\uae30 \uba54\ub274\ub294 \uc774\ubbf8 \ub9e4\uc9c4\ub41c \uc0c1\ud0dc\uc600\uace0, \ud2b9\ud788 \ube0c\ub9ac\uc2a4\ud0b7\uc740 \ub108\ubb34 \ub2a6\uac8c \uac00\uc11c sold out\uc774\uc5c8\uc2b5\ub2c8\ub2e4. \ub9bd\ub3c4 \uc5c6\uc5c8\uc5b4\uc694.\n\n\uc5ec\uae30 \uac00\uc2e4 \uacc4\ud68d\uc774\uc2dc\ub77c\uba74 \ud301 \ud558\ub098 \ub4dc\ub9ac\uc790\uba74 \u2014 \ucc98\uc74c\uc5d0 \uba54\ub274 \ub2e4 \uc2dc\ucf1c\ub193\uace0 \ub0a8\ub294 \uac74 \uc2f8\ub2ec\ub77c\uace0 \ud574\uc11c \ud3ec\uc7a5\ud574\uac00\ub294 \uac8c \ub098\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4. \ub098\uc911\uc5d0 \ub2e4\uc2dc \uc904 \uc11c\uae30 \ubc88\uac70\ub85c\uc6b0\ub2c8\uae4c\uc694.\n\n\uc804\ubc18\uc801\uc73c\ub85c \uace0\uae30 \uc790\uccb4\ub294 \ub9db\uc788\uc9c0\ub9cc \uac04\uc774 \uc880 \uc9e0 \ud3b8\uc774\ub77c \ucf5c\uc2ac\ub85c \uac19\uc740 \uc0ac\uc774\ub4dc\ub791 \uac19\uc774 \ub4dc\uc2dc\ub294 \uac78 \ucd94\ucc9c\ub4dc\ub824\uc694. \uc9e0\ub9db\uc744 \uc7a1\uc544\uc8fc\ub294 \uc5ed\ud560\uc744 \ud574\uc90d\ub2c8\ub2e4.\n\n\uacb0\ub860\uc801\uc73c\ub85c, \ub108\ubb34 \ud070 \uae30\ub300\ub97c \ud558\uace0 \uac00\uc2dc\uae30\ubcf4\ub2e4\ub294 \uc624\uc2a4\ud2f4\uc5d0 \uac08 \uc77c\uc774 \uc0dd\uae30\uba74 \"\ud55c\ubc88 \ub4e4\ub7ec\ubcf8\ub2e4\"\ub294 \uac00\ubcbc\uc6b4 \ub9c8\uc74c\uc73c\ub85c \uac00\uc2dc\ub294 \uac8c \ub9cc\uc871\ub3c4 \uba74\uc5d0\uc11c \ub354 \ub098\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+   "extracted_snippet": {
+    "original": "\uc624\uc2a4\ud2f4\uc5d0 \uac00\uba74 \uaf2d \uac00\ubd10\uc57c \ud55c\ub2e4\ub294 \uc598\uae30\ub97c \ub9ce\uc774 \ub4e4\uc5b4\uc11c \ud070 \uae30\ub300\ub97c \uc548\uace0 \ubc29\ubb38\ud588\uc2b5\ub2c8\ub2e4.\n\n\ud3c9\uc77c \uc624\ud6c4 \ub2a6\uac8c \uac14\ub354\ub2c8 \uc904\uc744 \uc11c\uc9c0 \uc54a\uace0 \ubc14\ub85c \ub4e4\uc5b4\uac08 \uc218 \uc788\uc5c8\ub358 \uac74 \uc7a5\uc810\uc774\uc5c8\uc5b4\uc694. \uc8fc\ucc28\ub3c4 \uac71\uc815\uc744 \ub9ce\uc774 \ud588\ub294\ub370, \ub2a6\uc740 \uc2dc\uac04\uc774\ub77c \uadf8\ub7f0\uc9c0 \uac00\uac8c \uc606\uc5d0 \uc8fc\ucc28 \uacf5\uac04\uc774 \ub9ce\uc774 \ub0a8\uc544\uc788\uc5b4\uc11c \uc5b4\ub835\uc9c0 \uc54a\uac8c \ub308 \uc218 \uc788\uc5c8\uc2b5\ub2c8\ub2e4.\n\n\ub2e4\ub9cc \uadf8\ub9cc\ud07c \uc778\uae30 \uba54\ub274\ub294 \uc774\ubbf8 \ub9e4\uc9c4\ub41c \uc0c1\ud0dc\uc600\uace0, \ud2b9\ud788 \ube0c\ub9ac\uc2a4\ud0b7\uc740 \ub108\ubb34 \ub2a6\uac8c \uac00\uc11c sold out\uc774\uc5c8\uc2b5\ub2c8\ub2e4. \ub9bd\ub3c4 \uc5c6\uc5c8\uc5b4\uc694.\n\n\uc5ec\uae30 \uac00\uc2e4 \uacc4\ud68d\uc774\uc2dc\ub77c\uba74 \ud301 \ud558\ub098 \ub4dc\ub9ac\uc790\uba74 \u2014 \ucc98\uc74c\uc5d0 \uba54\ub274 \ub2e4 \uc2dc\ucf1c\ub193\uace0 \ub0a8\ub294 \uac74 \uc2f8\ub2ec\ub77c\uace0 \ud574\uc11c \ud3ec\uc7a5\ud574\uac00\ub294 \uac8c \ub098\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4. \ub098\uc911\uc5d0 \ub2e4\uc2dc \uc904 \uc11c\uae30 \ubc88\uac70\ub85c\uc6b0\ub2c8\uae4c\uc694.\n\n\uc804\ubc18\uc801\uc73c\ub85c \uace0\uae30 \uc790\uccb4\ub294 \ub9db\uc788\uc9c0\ub9cc \uac04\uc774 \uc880 \uc9e0 \ud3b8\uc774\ub77c \ucf5c\uc2ac\ub85c \uac19\uc740 \uc0ac\uc774\ub4dc\ub791 \uac19\uc774 \ub4dc\uc2dc\ub294 \uac78 \ucd94\ucc9c\ub4dc\ub824\uc694. \uc9e0\ub9db\uc744 \uc7a1\uc544\uc8fc\ub294 \uc5ed\ud560\uc744 \ud574\uc90d\ub2c8\ub2e4.\n\n\uacb0\ub860\uc801\uc73c\ub85c, \ub108\ubb34 \ud070 \uae30\ub300\ub97c \ud558\uace0 \uac00\uc2dc\uae30\ubcf4\ub2e4\ub294 \uc624\uc2a4\ud2f4\uc5d0 \uac08 \uc77c\uc774 \uc0dd\uae30\uba74 \"\ud55c\ubc88 \ub4e4\ub7ec\ubcf8\ub2e4\"\ub294 \uac00\ubcbc\uc6b4 \ub9c8\uc74c\uc73c\ub85c \uac00\uc2dc\ub294 \uac8c \ub9cc\uc871\ub3c4 \uba74\uc5d0\uc11c \ub354 \ub098\uc744 \uac83 \uac19\uc2b5\ub2c8\ub2e4.",
+    "translated": "I had heard so much about this being a must-visit place if you go to Austin, so I visited with high expectations.\n\nSince I went late on a weekday afternoon, it was a plus that I could get in right away without having to wait in line. I was also worried about parking, but perhaps because it was late, there were plenty of parking spaces available next to the restaurant, so I was able to park without any trouble.\n\nHowever, the popular menu items were already sold out; the brisket, in particular, was sold out because I arrived too late. They didn't have any ribs either.\n\nIf you are planning to visit, here is a tip: it is better to order everything upfront and ask them to pack up any leftovers to take home. It is a hassle to have to stand in line again later.\n\nOverall, the meat itself is delicious, but it is on the salty side, so I recommend eating it with a side like coleslaw. It helps balance out the saltiness.\n\nIn conclusion, rather than going with overly high expectations, I think you will be more satisfied if you visit with a light heart\u2014just stopping by if you happen to be in Austin."
+   },
+   "details": {
+    "price_per_person": "$40\u201350",
+    "food": 4,
+    "service": 4,
+    "atmosphere": 4,
+    "noise_level": "Loud, but you can still talk",
+    "group_size": "Suitable for all group sizes",
+    "seating_type": "Indoor dining area"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25OelpVcHRTbFZxWm5oelZFRndaVlYxY0d4dWMyYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOnNzZUptSlVqZnhzVEFwZVV1cGxuc2c%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "5 days ago",
+   "iso_date": "2026-08-27T19:20:37Z",
+   "iso_date_of_last_edit": "2026-08-27T19:20:37Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OelpVcHRTbFZxWm5oelZFRndaVlYxY0d4dWMyYxAB",
+   "user": {
+    "name": "Gabriel Santana V\u00e1zquez",
+    "link": "https://www.google.com/maps/contrib/113137064901472248692?hl=en-US",
+    "contributor_id": "113137064901472248692",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXtZXLW6ib0sunc2ItMBIg4bCOP1VvQriQ6n2gDYw_2wnBRmDtr=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 8,
+    "photos": 4
+   },
+   "details": {
+    "price_per_person": "$60\u201370",
+    "food": 4,
+    "service": 5,
+    "atmosphere": 4,
+    "noise_level": "Moderate noise",
+    "group_size": "3-4 people",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace, Booth seating"
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSVVpWb3lTRzFwUjB0bmJIbDFSRUU0YlVkQlpHYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOkRUZVoySG1pR0tnbHl1REE4bUdBZGc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-25T20:13:11Z",
+   "iso_date_of_last_edit": "2026-08-25T20:13:11Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVVpWb3lTRzFwUjB0bmJIbDFSRUU0YlVkQlpHYxAB",
+   "user": {
+    "name": "Marlon Mendez",
+    "link": "https://www.google.com/maps/contrib/112950869621391597904?hl=en-US",
+    "contributor_id": "112950869621391597904",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUX3PYspnTfqwH3vTm3gD1rh12lKdXrUl8yL0VO947GB1NxX2Qh=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 40,
+    "photos": 14
+   },
+   "snippet": "Best brisket in Austin hands down! Prove me wrong",
+   "extracted_snippet": {
+    "original": "Best brisket in Austin hands down! Prove me wrong"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5a4ae3bcc33%3A0x31aba8abf8f64c84&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F_FcdDd__EhAs9WvARAyGN2MWuXIAAAAAGgf_Al_FcdDdGAAiAA&sort_by=newestFirst",
+  "next_page_token": "Ci8IARInCgoAP72F_FcdDd__EhAs9WvARAyGN2MWuXIAAAAAGgf_Al_FcdDdGAAiAA"
+ }
+}

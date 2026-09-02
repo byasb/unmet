@@ -1,0 +1,331 @@
+{
+ "search_metadata": {
+  "id": "6a9804cfaf5fdc2e0734611c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/F9Xw0zFrg_G5hot6shNO9TEfP_1FKF0iLmwbon5JS-Q/6a9804cfaf5fdc2e0734611c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/F9Xw0zFrg_G5hot6shNO9TEfP_1FKF0iLmwbon5JS-Q/6a9804cfaf5fdc2e0734611c.md",
+  "created_at": "2026-09-02 11:13:19 UTC",
+  "processed_at": "2026-09-02 11:13:19 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b50871079ba1:0xc2343145a767207f!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/F9Xw0zFrg_G5hot6shNO9TEfP_1FKF0iLmwbon5JS-Q/6a9804cfaf5fdc2e0734611c.html",
+  "prettify_html_file": "https://serpapi.com/searches/F9Xw0zFrg_G5hot6shNO9TEfP_1FKF0iLmwbon5JS-Q/6a9804cfaf5fdc2e0734611c.prettify",
+  "total_time_taken": 0.8
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b50871079ba1:0xc2343145a767207f",
+  "hl": "en",
+  "sort_by": "newestFirst"
+ },
+ "place_info": {
+  "title": "Cooper's Old Time Pit Bar-B-Que",
+  "address": "217 Congress Ave., Austin, TX 78701",
+  "rating": 4.4,
+  "reviews": 6717,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 159,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef ribs",
+   "mentions": 347,
+   "id": "EapRBH6_SRk"
+  },
+  {
+   "keyword": "bench seating",
+   "mentions": 6,
+   "id": "BFlfY_7e780"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 237,
+   "id": "AgpY-9eTufU"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 125,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 15,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "jalape\u00f1o mac and cheese",
+   "mentions": 76,
+   "id": "aluaKNEneQY"
+  },
+  {
+   "keyword": "pinto beans",
+   "mentions": 86,
+   "id": "CgyLIfL9aKU"
+  },
+  {
+   "keyword": "seating options",
+   "mentions": 5,
+   "id": "EBDGJGre1s0"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 724,
+   "id": "Ew6aYjb7Lyk"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GcGNrUndaRFkyVjNsNVRXOUhhemgyYjJWSGNtYxAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOnFpckRwZDY2V3l5TW9Hazh2b2VHcmc%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "2 days ago",
+   "iso_date": "2026-08-31T02:54:50Z",
+   "iso_date_of_last_edit": "2026-08-31T02:54:50Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcGNrUndaRFkyVjNsNVRXOUhhemgyYjJWSGNtYxAB",
+   "user": {
+    "name": "Gabriel Santana V\u00e1zquez",
+    "link": "https://www.google.com/maps/contrib/113137064901472248692?hl=en-US",
+    "contributor_id": "113137064901472248692",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXtZXLW6ib0sunc2ItMBIg4bCOP1VvQriQ6n2gDYw_2wnBRmDtr=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 8,
+    "photos": 4
+   },
+   "details": {
+    "price_per_person": "$40\u201350",
+    "food": 4,
+    "service": 5,
+    "atmosphere": 4,
+    "recommended_dishes": "BBQ Brisket",
+    "group_size": "3-4 people, Suitable for all group sizes",
+    "seating_type": "Indoor dining area, Bar area"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SWFpHNXRhVUpqVjJOMmMzVlRhV1pwVUZNeVJVRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOnRXZG5taUJjV2N2c3VTaWZpUFMyRUE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "2 days ago",
+   "iso_date": "2026-08-31T00:20:32Z",
+   "iso_date_of_last_edit": "2026-08-31T00:20:32Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWFpHNXRhVUpqVjJOMmMzVlRhV1pwVUZNeVJVRRAB",
+   "user": {
+    "name": "Chris\u2019 Corner",
+    "link": "https://www.google.com/maps/contrib/106178845265894678288?hl=en-US",
+    "contributor_id": "106178845265894678288",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVT5m2RZ6R0-VtfzcjABumhzuJrENo62HMcOYE6oZNZwciTXpQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 58,
+    "photos": 36
+   },
+   "snippet": "Amazing BBQ spot, the brisket, sirloin, and cornbread all tasted great! Some of the best BBQ I have had in Austin, would highly recommend to anyone in the area.",
+   "extracted_snippet": {
+    "original": "Amazing BBQ spot, the brisket, sirloin, and cornbread all tasted great! Some of the best BBQ I have had in Austin, would highly recommend to anyone in the area."
+   },
+   "details": {
+    "price_per_person": "$50\u201360",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "BBQ Brisket",
+    "group_size": "2 people, 3-4 people",
+    "seating_type": "Indoor dining area, Bar area",
+    "parking_space": "Difficult to find parking"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWU1IweFVhbmh2U1djM1JIbFlhVTFZWkhoVmVWRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOjVSR0xUanhvSWc3RHlYaU1YZHhVeVE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "3 days ago",
+   "iso_date": "2026-08-29T19:42:29Z",
+   "iso_date_of_last_edit": "2026-08-29T19:42:29Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWU1IweFVhbmh2U1djM1JIbFlhVTFZWkhoVmVWRRAB",
+   "user": {
+    "name": "Carroll Bailey",
+    "link": "https://www.google.com/maps/contrib/108416989768121989775?hl=en-US",
+    "contributor_id": "108416989768121989775",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocImKrdmqWAjotbIdcEkit6MDuqI52mFW4dhmj9aYYEZyWqkmg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 10,
+    "photos": 5
+   },
+   "details": {
+    "price_per_person": "$80\u201390",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "Pecan Cobbler 8 Oz, Brisket and Beef Ribs, BBQ Brisket, Cobblers, Jalape\u00f1o Bacon",
+    "group_size": "2 people",
+    "seating_type": "Indoor dining area, Bar area, Booth seating, Counter seating"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGMk1qQktaMGMyZUZSQlFXRTJWMGRVU0VkbVVWRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOlF2MjBKZ0c2eFRBQWE2V0dUSEdmUVE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "4 days ago",
+   "iso_date": "2026-08-29T00:09:15Z",
+   "iso_date_of_last_edit": "2026-08-29T00:09:15Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMk1qQktaMGMyZUZSQlFXRTJWMGRVU0VkbVVWRRAB",
+   "user": {
+    "name": "Bill Lindala",
+    "link": "https://www.google.com/maps/contrib/107768477945759076181?hl=en-US",
+    "contributor_id": "107768477945759076181",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL_3QZbehmrg8GtBu4wLeqfxBKNFuQz_7pqK7ohxTiNPcYMvcOq=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 67,
+    "photos": 956
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5UFVIY3lNVUpvVDBaaUxUSXRTbTUwUjNCMFZXYxAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOk9PUHcyMUJoT0ZiLTItSm50R3B0VWc%7C%7C?hl=en-US",
+   "rating": 2.0,
+   "date": "5 days ago",
+   "iso_date": "2026-08-28T03:00:56Z",
+   "iso_date_of_last_edit": "2026-08-28T03:00:56Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UFVIY3lNVUpvVDBaaUxUSXRTbTUwUjNCMFZXYxAB",
+   "user": {
+    "name": "Kyle Judah",
+    "link": "https://www.google.com/maps/contrib/105949303225024476136?hl=en-US",
+    "contributor_id": "105949303225024476136",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXuhlARdYzD2D1h2X3te1xWHCPYVJx8TQi2Yw4xSQeSPVziPpkC=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 39,
+    "photos": 11
+   },
+   "snippet": "Over rated - was expecting a lot better.\n\nIt really did not seem like neither the brisket or sausage was any sort of \u201cquality\u201d meat to begin with. Brisket was over cooked, dried out & didn\u2019t really taste like anything.\nSides were ok. Also didn\u2019t seem to have the AC running when it\u2019s still 95* outside at 9pm.\n\nIf you\u2019re visiting from outside TX & don\u2019t know any better, I guess you\u2019d think it\u2019s fine.",
+   "extracted_snippet": {
+    "original": "Over rated - was expecting a lot better.\n\nIt really did not seem like neither the brisket or sausage was any sort of \u201cquality\u201d meat to begin with. Brisket was over cooked, dried out & didn\u2019t really taste like anything.\nSides were ok. Also didn\u2019t seem to have the AC running when it\u2019s still 95* outside at 9pm.\n\nIf you\u2019re visiting from outside TX & don\u2019t know any better, I guess you\u2019d think it\u2019s fine."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$50\u201360",
+    "food": 1,
+    "service": 2,
+    "atmosphere": 3,
+    "reservation": "Walk-ins only",
+    "wait_time": "No wait",
+    "parking_space": "Difficult to find parking"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKRWVtczNTWEJsVERkWFNraGxjMmhrZWtWRmFuYxAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOkJEems3SXBlTDdXSkhlc2hkekVFanc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-23T16:52:11Z",
+   "iso_date_of_last_edit": "2026-08-23T16:52:11Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRWVtczNTWEJsVERkWFNraGxjMmhrZWtWRmFuYxAB",
+   "user": {
+    "name": "Adam Vandrunen",
+    "link": "https://www.google.com/maps/contrib/100499606476948486567?hl=en-US",
+    "contributor_id": "100499606476948486567",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLN6ZC4-3r4TR6f9n-1A8IKJlN8ZxmWW4X898vyQY2H4YxDAw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 125,
+    "photos": 15
+   },
+   "snippet": "Meat quality was amazing. Savory. Prices were slightly high but worth it for the quality and service. Didn\u2019t enjoy the selection of bbq sauce as it was limited but didn\u2019t take away from the taste of the meat. Got a brisket for this location and was top tier! Austin Texas restaurant that didn\u2019t disappoint!",
+   "extracted_snippet": {
+    "original": "Meat quality was amazing. Savory. Prices were slightly high but worth it for the quality and service. Didn\u2019t enjoy the selection of bbq sauce as it was limited but didn\u2019t take away from the taste of the meat. Got a brisket for this location and was top tier! Austin Texas restaurant that didn\u2019t disappoint!"
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Moderate noise",
+    "group_size": "2 people"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pSdFFqRTBVblZIV25ob2RteHBlVVZCVDBsWUxWRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOjRtQjE0UnVHWnhodmxpeUVBT0lYLVE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-20T22:36:21Z",
+   "iso_date_of_last_edit": "2026-08-20T22:36:21Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdFFqRTBVblZIV25ob2RteHBlVVZCVDBsWUxWRRAB",
+   "user": {
+    "name": "Shawn Wills",
+    "link": "https://www.google.com/maps/contrib/109739667262591830364?hl=en-US",
+    "contributor_id": "109739667262591830364",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLleaVaCguvayjGEjialQ5bQJUxiUK3c2RJy2RcW9xpjiAiPw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 22,
+    "photos": 0
+   },
+   "snippet": "Great BBQ!",
+   "extracted_snippet": {
+    "original": "Great BBQ!"
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGU05IZHRhbkJGT0hST2EzaE1VR0pmYm1KdWNrRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOkFSNHdtanBFOHROa3hMUGJfbmJuckE%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-19T21:46:51Z",
+   "iso_date_of_last_edit": "2026-08-19T21:46:51Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOkJRMj_01sUNLS8rXkUEPZQiTKMPvgxwrGt7rS1394_vka35ugbOe9YGpyheN89kKgHLdzp6VkAceZE1TWSA74HYq1TKV1RzOJtMHsYY0nmPvfdTJRaVG2L_2H5F-OAjd6FMZYoiSpEIqO=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM_86Frl3OVtfq-iECtN0u-iqkwLBaZ4O-kJ3vtomGXspN-b75TseoHwlr8IXIrbiZ702JH5pV2IT0_nc7OAb9SDY16C6fkTl5xe9PPi13X1sgF2tTV2D_FHcZvPpX0PytqGnfTH4hTtdo=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO7KsxybdYA1e2fqLFsiVlBeL3QlYpEzSmMEAK-O7uiNr07WH7tlytG2c7I9gStuBoAHFgs9IcXFsX7aHKFWcKNS9CtdVumInHyUqjSnKuvFkRSU5TTI8wtlCxlyAVvfEe-xtNL1hJ0k4or=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPYVLNOCBUqfVaaXvLzL8PU0WGZX5SX8mh2LTwhXSnX_sJeDl4cXNn0UwsUCMIY9Cq2ERYArUxJGrKypUrh1EjaPJ23usA_Ul2LKmqXYUEscw7Yhy9nuACRapY-5sg2iZQZJvYAE-TGoCTy=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN0c_sdirkj9vqNRuPRah-_FSauQMRkqNBW2VveDWWYkmhrz-VS7LsT8gQvnmrfJhynuJ19FlwjCbNN9v_WDPWv4mrMFEm4O5XJJlc3fWUvjTSfsnrM6VYVR3tb4gH_M_ooVp5xkejIJknp=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOiMNvVKoZSb4v5fgyr0nrA4uLEHl4x62Zi7VYxOju_tcj6EZegSNS76S93smXpQLZVa0ph7SXw0mjXbKrIQLujlKsCjcb5Lk0pnQXfpTW4FrjUrIV_A6yf-ppWJXWrxRoFqjFvZcNhd9km=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOE-8MHh4quSJg86hxMKjnFFYpHMgH9Bkqau7mt2V2mGDIqTHtUaSxEw9TvNYX3wroLp3o-jKTg_IRxvMLmA7jISKT_7TGPZNH-lDW8NHhGBwJK95Phwkm0iOOA6Hu2qg-dxho0fdhpta7G=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGU05IZHRhbkJGT0hST2EzaE1VR0pmYm1KdWNrRRAB",
+   "user": {
+    "name": "George the Explorer",
+    "link": "https://www.google.com/maps/contrib/103217903056743363533?hl=en-US",
+    "contributor_id": "103217903056743363533",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU8qXeSPuGiKsmYtocy8NKZYuJVLcq6CYwdFShmpGnJEqyuZRk=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 1472,
+    "photos": 26422
+   },
+   "snippet": "Delicious bbq food, good service, the pricing could be better but overall decent experience",
+   "extracted_snippet": {
+    "original": "Delicious bbq food, good service, the pricing could be better but overall decent experience"
+   },
+   "details": {
+    "food": 4,
+    "service": 4,
+    "atmosphere": 4
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b50871079ba1%3A0xc2343145a767207f&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F_kAjnS__EhC1TLTeG8EKaabmFvsAAAAAGgf_Al_kAjnSGAAiAA&sort_by=newestFirst",
+  "next_page_token": "Ci8IARInCgoAP72F_kAjnS__EhC1TLTeG8EKaabmFvsAAAAAGgf_Al_kAjnSGAAiAA"
+ }
+}

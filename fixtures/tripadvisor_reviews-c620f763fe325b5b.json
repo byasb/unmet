@@ -1,0 +1,379 @@
+{
+ "search_metadata": {
+  "id": "6a980549d9961275128d521b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/at5vw9s271oZ5_-mkFFG-eyGhyz8LxhRa5NRw1FI3ew/6a980549d9961275128d521b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/at5vw9s271oZ5_-mkFFG-eyGhyz8LxhRa5NRw1FI3ew/6a980549d9961275128d521b.md",
+  "created_at": "2026-09-02 11:15:21 UTC",
+  "processed_at": "2026-09-02 11:15:21 UTC",
+  "tripadvisor_reviews_url": "https://www.tripadvisor.com/469571",
+  "raw_html_file": "https://serpapi.com/searches/at5vw9s271oZ5_-mkFFG-eyGhyz8LxhRa5NRw1FI3ew/6a980549d9961275128d521b.html",
+  "prettify_html_file": "https://serpapi.com/searches/at5vw9s271oZ5_-mkFFG-eyGhyz8LxhRa5NRw1FI3ew/6a980549d9961275128d521b.prettify",
+  "total_time_taken": 2.43
+ },
+ "search_parameters": {
+  "engine": "tripadvisor_reviews",
+  "place_id": "469571",
+  "tripadvisor_domain": "www.tripadvisor.com"
+ },
+ "search_information": {
+  "total_reviews": 1070
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "title": "Yum !",
+   "snippet": "Great BBQ best I ever had in a very long time ! Can't wait to go back there again",
+   "rating": 5,
+   "review_id": "1075013548",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1075013548-Iron_Works-Austin_Texas.html",
+   "date": "2026-08-26",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-08-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "245D49AC214C05F40B6F63DB0B7785E9",
+    "username": "arbybree",
+    "display_name": "Abby BL",
+    "link": "https://www.tripadvisor.com/Profile/arbybree",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/f6/e6/2b/arbybree.jpg",
+    "contributions": 110,
+    "hometown": "Samoreau, France"
+   }
+  },
+  {
+   "position": 2,
+   "title": "Great BBQ",
+   "snippet": "Been here several times. Keep coming back.\n\nGreat BBQ. Have several different options for protein and sides.\n\nI like the sampler with brisket, sausage, and beef rib. Very tasty!\n\nThe only sides I have tried are cole slaw, green beans, and creamed corn. All excellent.\n\nI have never had to wait for a table but I'm sure they do get busy at times. \n\nVery convenient if you are in downtown Austin at one of the conference hotels.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1073070735",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1073070735-Iron_Works-Austin_Texas.html",
+   "date": "2026-08-13",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-08-31",
+    "type": "BUSINESS"
+   },
+   "tips": [
+    "Not sure if they have A/C but they do have air moving so we were comfortable."
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "937C7CEB5FD7B79189E4BA49BAAF8338",
+    "username": "sueshop4",
+    "display_name": "sueshop4",
+    "link": "https://www.tripadvisor.com/Profile/sueshop4",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/a2/default-avatar-2020-3.jpg",
+    "contributions": 78,
+    "hometown": "Cocoa Beach, Florida"
+   }
+  },
+  {
+   "position": 3,
+   "title": "incontournable",
+   "snippet": "tr\u00e8s bon barbecue. Prise de commande rapide, tarif abordable la viande \u00e9tait d\u00e9licieuse. \nJ'enl\u00e8ve un point pour le trop plein de sel sur les frites",
+   "rating": 4,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 4
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 4
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1058929837",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1058929837-Iron_Works-Austin_Texas.html",
+   "date": "2026-05-04",
+   "language": "fr",
+   "original_language": "fr",
+   "trip_info": {
+    "date": "2026-04-30",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "59740047FB5FD9EDD28DABED0F96ED71",
+    "username": "439carolef",
+    "display_name": "Carole F",
+    "link": "https://www.tripadvisor.com/Profile/439carolef",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/a6/dd/29/carole-f.jpg",
+    "contributions": 440,
+    "hometown": "Gandrange, France"
+   }
+  },
+  {
+   "position": 4,
+   "title": "Loved It!",
+   "snippet": "The food was delicious! And the staff was helpful in suggesting what to eat\nIrene was amazing!",
+   "rating": 5,
+   "review_id": "1054812957",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1054812957-Iron_Works-Austin_Texas.html",
+   "date": "2026-03-30",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-03-31",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/39/7b/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d2/39/7c/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "19A07753797706DADD8FE4650BDD614E",
+    "username": "O6199ISkristinh",
+    "display_name": "Kristin H",
+    "link": "https://www.tripadvisor.com/Profile/O6199ISkristinh",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+    "contributions": 3
+   }
+  },
+  {
+   "position": 5,
+   "title": "Please go somewhere else.",
+   "snippet": "I don\u2019t really ever write bad reviews but I wasted $65 here for some of the worst tasting bbq I\u2019ve ever had, and that wasn\u2019t even with alcohol.  I wanted to get the sampler but they were out of brisket. The waitress at the register sad I could get it and substitute for chicken or turkey. I asked if I would get a discount since brisket is much more expensive. She said no. I couldn\u2019t make sense of spending $40 for a sampler with no brisket. I ended up getting the pulled pork. It had no bbq or smoke flavor what so ever and tasted like it had been cooked in a crockpot with bbq sauce poured over it. It was watery as well which is what made me think it was not even smoked. I ate 3 bites and couldn\u2019t make myself eat any more. I got potato salad and creamed corn for the sides. The waitress said these were best sellers. The potato salad was extremely bland. It had no taste of anything really.  There were some red peppers, maybe pimento, in it but no salt at all or pepper. The creamed corn was ok but it was just canned corn and heavy cream cooked until the cream thickened. The white bread slice was stale from sitting out in the air.  I was so excited to get to try Texas Bbq for the first time and this feels like a sad excuse for it. Please save your money and go anywhere else. I don\u2019t mind paying a lot of money for good food, but I threw 2/3 of my plate in the garbage.  I\u2019m about to eat a protein bar and nurse my much lighter wallet.",
+   "rating": 1,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 1
+    },
+    {
+     "label": "Service",
+     "rating": 2
+    },
+    {
+     "label": "Food",
+     "rating": 1
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 4
+    }
+   ],
+   "review_id": "1053374386",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1053374386-Iron_Works-Austin_Texas.html",
+   "date": "2026-03-17",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-03-31",
+    "type": "FAMILY"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/b6/17/5d/caption.jpg"
+   ],
+   "tips": [
+    "Don\u2019t waste your money here. The food just isn\u2019t good and it\u2019s so expensive to be so bad. "
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "71A5C02B6D9E05C7C2B600714C1766EB",
+    "username": "stephaniejK3436XN",
+    "display_name": "Stephanie J",
+    "link": "https://www.tripadvisor.com/Profile/stephaniejK3436XN",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f4/5d/default-avatar-2020-32.jpg",
+    "contributions": 1
+   }
+  },
+  {
+   "position": 6,
+   "title": "Not Any More!",
+   "snippet": "Sorry. \n\nUsed to be a good spot but someone raised their prices without quality \n\nSausage wrap is a 5 inch piece of sausage on a piece of white bread ? Paying for that at a food truck would be an insult let alone here. \n\nThat was our last time coming here after decades of.",
+   "rating": 2,
+   "review_id": "1040576038",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1040576038-Iron_Works-Austin_Texas.html",
+   "date": "2025-11-27",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-11-30",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/da/e3/e1/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "9407452DAEBFC7357F0F60AA897B2ADD",
+    "username": "783janetteh",
+    "display_name": "Magnolia",
+    "link": "https://www.tripadvisor.com/Profile/783janetteh",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/11/default-avatar-2020-41.jpg",
+    "contributions": 15
+   }
+  },
+  {
+   "position": 7,
+   "title": "Great Barbecue in Austin",
+   "snippet": "The brisket is so good. Eat inside. This is what a BBQ restaurant should look like.  Located near the lake downtown. I recommend the potato salad",
+   "rating": 5,
+   "review_id": "1036214021",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1036214021-Iron_Works-Austin_Texas.html",
+   "date": "2025-10-24",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-10-31",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "405BD57817C42F68819566618F136D29",
+    "username": "RKC2406",
+    "display_name": "RKC2406",
+    "link": "https://www.tripadvisor.com/Profile/RKC2406",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+    "contributions": 34,
+    "hometown": "Longview, Texas"
+   }
+  },
+  {
+   "position": 8,
+   "title": "Decent Old School style downtown BBQ",
+   "snippet": "I have to qualify that being from Memphis are standards are very high.\nI really liked the feel of the place. It has a great old school BBQ feel. We ordered the combo w/ pulled pork, sausage & brisket. the wife had half rack of pork ribs. Sides of cream corn & BBQ beans. Brisket was the best item. it gets 4 out of 5 rating. Pulled pork not bad but middle of the road. \nSausage nothing special. Pork Ribs dry style too crispy but still tender on the bone a 2. Cream Corn a 4 and BBQ Beans a 2.5. Sauce a 4. They had peach cobbler ala mode strong 4+. \nEasy walk reasonably priced not the worst by any stretch.",
+   "rating": 3,
+   "review_id": "1008611429",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r1008611429-Iron_Works-Austin_Texas.html",
+   "date": "2025-05-21",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-05-31",
+    "type": "BUSINESS"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "ED72BE5D7C3FED8966727501BD4C4A39",
+    "username": "briansJ2960BJ",
+    "display_name": "Brian S",
+    "link": "https://www.tripadvisor.com/Profile/briansJ2960BJ",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5a/8c/66/brian-s.jpg",
+    "contributions": 93,
+    "hometown": "Jonesboro, Arkansas"
+   }
+  },
+  {
+   "position": 9,
+   "title": "Convenient location for BBQ",
+   "snippet": "We were cramming in a day in Austin and did a great tour that left from the Austin \nVisitor Center and this place was nearby.\n\nWe stepped up and ordered at the counter. When in Texas - gotta be brisket and\nit did not disappoint. The ribs were just ok and the sides were fine,\n\nNot much of a vibe - think of it as a quick BBQ joint in a convenient location,\nwith decor that looks like worn- but the star of the show - The Brisket made it \nOK!!",
+   "rating": 4,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 4
+    },
+    {
+     "label": "Service",
+     "rating": 4
+    },
+    {
+     "label": "Food",
+     "rating": 4
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 3
+    }
+   ],
+   "review_id": "998173748",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r998173748-Iron_Works-Austin_Texas.html",
+   "date": "2025-03-14",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-02-28",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "08270DF4DD7A3595654DF52906179FDF",
+    "username": "old-man-orange",
+    "display_name": "old-man-orange",
+    "link": "https://www.tripadvisor.com/Profile/old-man-orange",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/23/default-avatar-2020-28.jpg",
+    "contributions": 399,
+    "hometown": "Orange, Connecticut"
+   }
+  },
+  {
+   "position": 10,
+   "title": "Best Texas brisket but that's it.",
+   "snippet": "You go here for the food which was delicious - we shared the sampler plate as we had eaten already - the  place itself is a little run down and the staff not the best, but who cares.",
+   "rating": 4,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 3
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 4
+    }
+   ],
+   "review_id": "988329399",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d469571-r988329399-Iron_Works-Austin_Texas.html",
+   "date": "2025-01-09",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-11-30",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "921807DDD22942B10710B0E75AF6892C",
+    "username": "I636FPmaryc",
+    "display_name": "Mary C",
+    "link": "https://www.tripadvisor.com/Profile/I636FPmaryc",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/79/default-avatar-2020-21.jpg",
+    "contributions": 5
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor_reviews&offset=10&place_id=469571&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

@@ -1,0 +1,256 @@
+{
+ "search_metadata": {
+  "id": "6a9804c222abf768288cbb70",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/pBVWbq0a8EWUeOsRZ_65TDmLnZERv_KoQAICE2BpXj8/6a9804c222abf768288cbb70.json",
+  "markdown_endpoint": "https://serpapi.com/searches/pBVWbq0a8EWUeOsRZ_65TDmLnZERv_KoQAICE2BpXj8/6a9804c222abf768288cbb70.md",
+  "created_at": "2026-09-02 11:13:06 UTC",
+  "processed_at": "2026-09-02 11:13:06 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644ca48760d6971:0xa5521d488ea5860d!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/pBVWbq0a8EWUeOsRZ_65TDmLnZERv_KoQAICE2BpXj8/6a9804c222abf768288cbb70.html",
+  "prettify_html_file": "https://serpapi.com/searches/pBVWbq0a8EWUeOsRZ_65TDmLnZERv_KoQAICE2BpXj8/6a9804c222abf768288cbb70.prettify",
+  "total_time_taken": 1.31
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644ca48760d6971:0xa5521d488ea5860d",
+  "hl": "en",
+  "sort_by": "newestFirst"
+ },
+ "place_info": {
+  "title": "Stiles Switch BBQ",
+  "address": "6610 N Lamar Blvd, Austin, TX 78752",
+  "rating": 4.6,
+  "reviews": 5822,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 110,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "corn casserole",
+   "mentions": 155,
+   "id": "Gz7R5f49uKk"
+  },
+  {
+   "keyword": "plenty of seating",
+   "mentions": 5,
+   "id": "BFlOp_P68ow"
+  },
+  {
+   "keyword": "brussel sprouts",
+   "mentions": 165,
+   "id": "AQ46EgX7FGk"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 519,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 116,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "prime rib",
+   "mentions": 55,
+   "id": "GAzyJGYn518"
+  },
+  {
+   "keyword": "frito pie",
+   "mentions": 44,
+   "id": "AJ1Y7e6nLWM"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 102,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "jalapeno cheddar sausage",
+   "mentions": 26,
+   "id": "OasyD1EAEyc"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s5RVZWcDZjRk5GVnpCaVpWRkpTREJKZFdwVGRVRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOk9EVVp6cFNFVzBiZVFJSDBJdWpTdUE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a day ago",
+   "iso_date": "2026-08-31T19:03:45Z",
+   "iso_date_of_last_edit": "2026-09-01T04:06:24Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN2XA3qi9yJkFDd3VnzyTZV7H_Vy8kUgB4NYEgRttoUZ3QNYxyoNQikpk-pSBesqiB6pDcHShsNqLwvsw3r-vceuZfJweBQZOcZUFUCpZEPWOzeGSBA-ZBvagOSye7WF4y_qawtqctTSuqR=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RVZWcDZjRk5GVnpCaVpWRkpTREJKZFdwVGRVRRAB",
+   "user": {
+    "name": "Nathaniel Kubacak",
+    "link": "https://www.google.com/maps/contrib/102800566044427521095?hl=en-US",
+    "contributor_id": "102800566044427521095",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVyUtyJh5Y0TTFc_WAnqbwTHVNhhz4W4RSH5tzrQ_chTDsPZH2h=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 41,
+    "photos": 43
+   },
+   "snippet": "We had a friend recommend this BBQ to us, and being as we favor Lockhart's BBQ, I will say this spot was a pleasant surprise. The best pork ribs were glistening, but the smoked turkey was some of the best ive had. The sweet corn casserole and tater tot casserole were too good not to finish on the spot. We got there around 11 on a sunday with no wait, and we noticed it got pretty busy around 1230. Come check this place out, you won't be disappointed!!",
+   "extracted_snippet": {
+    "original": "We had a friend recommend this BBQ to us, and being as we favor Lockhart's BBQ, I will say this spot was a pleasant surprise. The best pork ribs were glistening, but the smoked turkey was some of the best ive had. The sweet corn casserole and tater tot casserole were too good not to finish on the spot. We got there around 11 on a sunday with no wait, and we noticed it got pretty busy around 1230. Come check this place out, you won't be disappointed!!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$60\u201370",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxNlNFcExiekZhUW5WUllVMTFPR1IzYmkxNGJuYxAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOi16SEpLbzFaQnVRYU11OGR3bi14bnc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a day ago",
+   "iso_date": "2026-08-31T15:49:49Z",
+   "iso_date_of_last_edit": "2026-08-31T15:51:42Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNlNFcExiekZhUW5WUllVMTFPR1IzYmkxNGJuYxAB",
+   "user": {
+    "name": "Dustin Legiste",
+    "link": "https://www.google.com/maps/contrib/114115348609479244435?hl=en-US",
+    "contributor_id": "114115348609479244435",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIwPsqS6fKMMfo6CzmL2o18kqj4gBsFgGOqZZ2uZm05_jbsLNQ=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 6,
+    "photos": 0
+   },
+   "snippet": "I\u2019d say it\u2019s the best bbq in Austin hands down. Also the corn bread casserole and the smoked wings are absolutely delicious.",
+   "extracted_snippet": {
+    "original": "I\u2019d say it\u2019s the best bbq in Austin hands down. Also the corn bread casserole and the smoked wings are absolutely delicious."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2toYVVWazFla2g2TVV4T01WWTFXVkZXZVRVMlVYYxAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOkhaUVk1ekh6MUxOMVY1WVFWeTU2UXc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-26T00:56:00Z",
+   "iso_date_of_last_edit": "2026-08-26T00:56:00Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMfgf_QIUYJh1P2QZKWczfQG8B7qd-khLEzup4C0UFgEMBlUPWVVUht84VxGcaNOa1pKYVwg0v9y186_jmtClIAHrDjG-kQ7qL0h4KXKMVJYuWdWMz7i71f-ISqfE10EBTd0_jNPfeaC8QE=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM3Xow4bd1tVR2l4lCv8Nb70Z5JpYRQ_o_W4fdxind8yGM_JunPHStM6dI2VfuTWv1Rvg0ZPDwxzzBzv2FMShd1udAv7p-QLr7vEZh86qmWWx3ng46TuGByL1NMQhQB4OcupW8YJOcTRhU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNnxac1D772AsA1IgfZQ-hy69e_tqgURcRWgRuLuptDrLGCETsjBJ6_LzOJUYwHwuISakmrMrcBjy9nuDzW1brTn-9GAOv1wYzKjholrZzc8ZHnqFllAeI3G0HbQxE_MNo7ESiAGKuVPrg=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toYVVWazFla2g2TVV4T01WWTFXVkZXZVRVMlVYYxAB",
+   "user": {
+    "name": "Brian Memoli",
+    "link": "https://www.google.com/maps/contrib/101259249065706263133?hl=en-US",
+    "contributor_id": "101259249065706263133",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX3j9bKaCoAWPAHRYpZF2Tl8dYHdJUZdihGRZqc7POkdvVs3VSwFg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 34,
+    "photos": 5
+   },
+   "snippet": "Massive platter with delicious food from a top 50 TX BBQ place.   Friendly customer service too.  May have to wait 10.to 20 minutes to get to the counter, but totally worth the wait.  Go hungry and leave stuffed!",
+   "extracted_snippet": {
+    "original": "Massive platter with delicious food from a top 50 TX BBQ place.   Friendly customer service too.  May have to wait 10.to 20 minutes to get to the counter, but totally worth the wait.  Go hungry and leave stuffed!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "3-4 people",
+    "wait_time": "10-30 min",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free parking lot"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21zNVdFc3lhbW94YzJ0Zk5GOUJiRk0wY2xCNFoxRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOms5WEsyamoxc2tfNF9BbFM0clB4Z1E%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-25T16:27:44Z",
+   "iso_date_of_last_edit": "2026-08-25T16:27:44Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNVdFc3lhbW94YzJ0Zk5GOUJiRk0wY2xCNFoxRRAB",
+   "user": {
+    "name": "Nathan Boynton",
+    "link": "https://www.google.com/maps/contrib/101179213232772753131?hl=en-US",
+    "contributor_id": "101179213232772753131",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWCDdMaSN18VIdzIRtzUcbWyXac_xaVJqfUsg92YppUl6s70YE=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 174,
+    "photos": 142
+   },
+   "snippet": "This is my favorite barbecue place in Austin. Anytime I have friends or family come to visit, this is the place I take them. The brisket and pork ribs are absolutely incredible. The sides are amazing too, especially the French fries, corn casserole, and mac and cheese. Everything I\u2019ve tried here has been fantastic, and their tres leches cake is absolutely to die for. I recommend coming here and trying everything!",
+   "extracted_snippet": {
+    "original": "This is my favorite barbecue place in Austin. Anytime I have friends or family come to visit, this is the place I take them. The brisket and pork ribs are absolutely incredible. The sides are amazing too, especially the French fries, corn casserole, and mac and cheese. Everything I\u2019ve tried here has been fantastic, and their tres leches cake is absolutely to die for. I recommend coming here and trying everything!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxUE5uYzRRMUpYWm01NlNXOXNUbGRuTUUxQmJtYxAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOi1PNnc4Q1JXZm56SW9sTldnME1Bbmc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-25T02:47:00Z",
+   "iso_date_of_last_edit": "2026-08-25T02:47:00Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUE5uYzRRMUpYWm01NlNXOXNUbGRuTUUxQmJtYxAB",
+   "user": {
+    "name": "Isfer Fun",
+    "link": "https://www.google.com/maps/contrib/103921233506223321777?hl=en-US",
+    "contributor_id": "103921233506223321777",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUbC2Gu5IhPWPCc6AOg9JnXTeC-GaZK5QQoIQk5v6C_K7dc_OM=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 21,
+    "photos": 13
+   },
+   "snippet": "This joint is different from any other BBQ I've been to. Their setup is rather simple, order at counter and enjoy your foods on any table. I gotta say the brisket sandwich is great \ud83d\udc4d",
+   "extracted_snippet": {
+    "original": "This joint is different from any other BBQ I've been to. Their setup is rather simple, order at counter and enjoy your foods on any table. I gotta say the brisket sandwich is great \ud83d\udc4d"
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Not sure",
+    "wait_time": "No wait",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free parking lot"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644ca48760d6971%3A0xa5521d488ea5860d&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F_eklEo__EhAYx82ERrc4d_faBtYAAAAAGgf_Al_eklEoGAAiAA&sort_by=newestFirst",
+  "next_page_token": "Ci8IARInCgoAP72F_eklEo__EhAYx82ERrc4d_faBtYAAAAAGgf_Al_eklEoGAAiAA"
+ }
+}

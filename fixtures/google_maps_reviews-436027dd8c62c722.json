@@ -1,0 +1,330 @@
+{
+ "search_metadata": {
+  "id": "6a9804cb421b08703c309c78",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rtg9pKN3vZBH2FiSbxtoN9FTqgTJFOkvPLVT6L8RK88/6a9804cb421b08703c309c78.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rtg9pKN3vZBH2FiSbxtoN9FTqgTJFOkvPLVT6L8RK88/6a9804cb421b08703c309c78.md",
+  "created_at": "2026-09-02 11:13:15 UTC",
+  "processed_at": "2026-09-02 11:13:15 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b51b0e822a65:0xc03ac22ba09158c7!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/rtg9pKN3vZBH2FiSbxtoN9FTqgTJFOkvPLVT6L8RK88/6a9804cb421b08703c309c78.html",
+  "prettify_html_file": "https://serpapi.com/searches/rtg9pKN3vZBH2FiSbxtoN9FTqgTJFOkvPLVT6L8RK88/6a9804cb421b08703c309c78.prettify",
+  "total_time_taken": 1.71
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b51b0e822a65:0xc03ac22ba09158c7",
+  "hl": "en",
+  "sort_by": "newestFirst"
+ },
+ "place_info": {
+  "title": "Terry Black's Barbecue",
+  "address": "1003 Barton Springs Rd, Austin, TX 78704, United States",
+  "rating": 4.7,
+  "reviews": 26544,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 585,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef rib",
+   "mentions": 1293,
+   "id": "Ea6aRCbvLRs"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 173,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 3581,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 826,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "creamed corn",
+   "mentions": 613,
+   "id": "B57VY_5fqOw"
+  },
+  {
+   "keyword": "jalape\u00f1o cheddar sausage",
+   "mentions": 218,
+   "id": "OasyD1EAEyc"
+  },
+  {
+   "keyword": "cornbread",
+   "mentions": 341,
+   "id": "EB6x5v5Zjbk"
+  },
+  {
+   "keyword": "banana pudding",
+   "mentions": 268,
+   "id": "Ci0phuL2KdU"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 230,
+   "id": "AgpY-9eTufU"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tZMFVuRjBZa1J3TVZCeVZHYzRWSFpuYVZWalJYYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOkY0UnF0YkRwMVByVGc4VHZnaVVjRXc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "4 hours ago",
+   "iso_date": "2026-09-02T06:22:31Z",
+   "iso_date_of_last_edit": "2026-09-02T06:22:31Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMFVuRjBZa1J3TVZCeVZHYzRWSFpuYVZWalJYYxAB",
+   "user": {
+    "name": "Karsen",
+    "link": "https://www.google.com/maps/contrib/105415990133532987136?hl=en-GB",
+    "contributor_id": "105415990133532987136",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVU096RBIaSPZjVJqsHg3fR3TYHTJSOYYpwYZSouRp91MQWGAYA=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 0,
+    "photos": 0
+   },
+   "snippet": "This is the best brisket i\u2019ve ever had! Super juicy and overall a great restaurant experience. The line was a little long but it went super fast. Will was a pleasure to talk to. I would recommend this place to absolutely anybody.",
+   "extracted_snippet": {
+    "original": "This is the best brisket i\u2019ve ever had! Super juicy and overall a great restaurant experience. The line was a little long but it went super fast. Will was a pleasure to talk to. I would recommend this place to absolutely anybody."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace, Booth seating"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KR1JrZFdaRXhMTTFBNVEzWk1PVlp5YWs1MlpXYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOnJGRkdWZExLM1A5Q3ZMOVZyak52ZWc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "8 hours ago",
+   "iso_date": "2026-09-02T02:56:47Z",
+   "iso_date_of_last_edit": "2026-09-02T02:56:47Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KR1JrZFdaRXhMTTFBNVEzWk1PVlp5YWs1MlpXYxAB",
+   "user": {
+    "name": "Sandra Smith",
+    "link": "https://www.google.com/maps/contrib/109028389017393679373?hl=en-GB",
+    "contributor_id": "109028389017393679373",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWOBRHEagtfIK2ygWoVPQfLW-jqoZquG35PurZzcrL2-Pm2jsUU=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 420,
+    "photos": 617
+   },
+   "snippet": "My son had accompanied me to Austin, Texas from Tampa, Florida for a medical procedure. So we decided to treat ourselves to dinner. My son's the one that had heard about Terry Black's BBQ and suggested we try dinner there and I'm so glad we did. We had a wonderful meal. The atmosphere was terrific. It was more food that we could eat and we brought back leftovers to the hotel room. Will definitely be back.",
+   "extracted_snippet": {
+    "original": "My son had accompanied me to Austin, Texas from Tampa, Florida for a medical procedure. So we decided to treat ourselves to dinner. My son's the one that had heard about Terry Black's BBQ and suggested we try dinner there and I'm so glad we did. We had a wonderful meal. The atmosphere was terrific. It was more food that we could eat and we brought back leftovers to the hotel room. Will definitely be back."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$40\u201350",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poRlpIZHZTamhNTVZnd2VrVjVkVGhQV0Rsek5VRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOjhFZHdvSjhMMVgwekV5dThPWDlzNUE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "11 hours ago",
+   "iso_date": "2026-09-01T23:54:45Z",
+   "iso_date_of_last_edit": "2026-09-01T23:54:45Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRlpIZHZTamhNTVZnd2VrVjVkVGhQV0Rsek5VRRAB",
+   "user": {
+    "name": "Miguel Sama",
+    "link": "https://www.google.com/maps/contrib/113777643893763052557?hl=en-GB",
+    "contributor_id": "113777643893763052557",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJqm3VxFmWdNV23RIF61sXCjbx8K_Awo-F0LsABPgEyx6_U_A=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 1,
+    "photos": 0
+   },
+   "snippet": "Super delicious place! The line ladies were so sweet and so helpful! Definitely will return!",
+   "extracted_snippet": {
+    "original": "Super delicious place! The line ladies were so sweet and so helpful! Definitely will return!"
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$100+",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCMlRVZE1WVEZ4ZW1scE1qaFBhV1ZEYmsxSmVuYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOjB2TUdMVTFxemlpMjhPaWVDbk1Jenc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "12 hours ago",
+   "iso_date": "2026-09-01T22:53:55Z",
+   "iso_date_of_last_edit": "2026-09-01T22:53:55Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMlRVZE1WVEZ4ZW1scE1qaFBhV1ZEYmsxSmVuYxAB",
+   "user": {
+    "name": "Ven Ci",
+    "link": "https://www.google.com/maps/contrib/105989111626101589264?hl=en-GB",
+    "contributor_id": "105989111626101589264",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK2eLJLknWWLwW7G5BjpKJJ3T8w7jHZvKJ34SH6a-3jH6kHpg=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 3,
+    "photos": 0
+   },
+   "snippet": "Line ladies were awesome!",
+   "extracted_snippet": {
+    "original": "Line ladies were awesome!"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tSbFozTmtTWFpsT0ZRMVduQnRlbWxqY0VGdWQzYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOkRlZ3NkSXZlOFQ1WnBtemljcEFud3c%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "12 hours ago",
+   "iso_date": "2026-09-01T22:48:32Z",
+   "iso_date_of_last_edit": "2026-09-01T22:48:32Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPOXjVisNbuNGmmwkiJt2H9OVDyXQ-tPFQPXivU1CBJkrKnFROT8rHvhqpHjbzZe1T7dE9gY9oM-6e4IjGYSUYgYMCfYMAnsdxsyKNWoq9ZFTlLDl6q6LhdxkQ3ZQbYVfiEsl-s_7Rv6GHh=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNL85gwMKwbhhxFs0euifUTiB81XZ5RXYBb6gGQkn-OZqwCOPoKxPLOLevTjphq-07416WUS3rRIAJ4gogrSmFNtA6XOJZec7DkONzx8aCOIokQN5t0exC3Awg9mGyU0L3E_18QQz3ODfc=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbFozTmtTWFpsT0ZRMVduQnRlbWxqY0VGdWQzYxAB",
+   "user": {
+    "name": "Ajay Eshwar Venkatesan",
+    "link": "https://www.google.com/maps/contrib/102393100456276864251?hl=en-GB",
+    "contributor_id": "102393100456276864251",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJPpCCVWtifjtEPeJegBWUTEX_-9Xb4-7QIE3DE0v9mFPJ-6Q=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 4,
+    "photos": 7
+   },
+   "snippet": "I grabbed lunch and ordered a half-pound brisket, but my first bite was a letdown. It wasn't even warm, not even room temp, which was super disappointing. Plus, the brisket had zero flavor. I've had brisket at a few places in Austin, like Salt Lick, which was amazing, but I was totally bummed out here, especially with their BBQ reputation.",
+   "extracted_snippet": {
+    "original": "I grabbed lunch and ordered a half-pound brisket, but my first bite was a letdown. It wasn't even warm, not even room temp, which was super disappointing. Plus, the brisket had zero flavor. I've had brisket at a few places in Austin, like Salt Lick, which was amazing, but I was totally bummed out here, especially with their BBQ reputation."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$30\u201340",
+    "food": 1,
+    "service": 3,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk",
+    "seating_type": "Indoor dining area"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGTGNtaFNkR1kzWTJOcVVFbDZiVWhmUW1wWFNGRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOkFLcmhSdGY3Y2NqUEl6bUhfQmpXSFE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "13 hours ago",
+   "iso_date": "2026-09-01T21:41:06Z",
+   "iso_date_of_last_edit": "2026-09-01T22:04:08Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTGNtaFNkR1kzWTJOcVVFbDZiVWhmUW1wWFNGRRAB",
+   "user": {
+    "name": "Christien Palumbo",
+    "link": "https://www.google.com/maps/contrib/107501751573991634869?hl=en-GB",
+    "contributor_id": "107501751573991634869",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ0uxwLnGksFIB_5GolARyUKBZtSepG2SUerMH91vlgiYOguw=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 4,
+    "photos": 0
+   },
+   "snippet": "Lived up to the hype for sure, the line ladies were super nice and helped us pick out the tastiest stuff!",
+   "extracted_snippet": {
+    "original": "Lived up to the hype for sure, the line ladies were super nice and helped us pick out the tastiest stuff!"
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$40\u201350",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace, Booth seating"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tONVVFcFVZbmM0TTJWbWREaGtNUzFaT1hwRFNrRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOkN5UEpUYnc4M2VmdDhkMS1ZOXpDSkE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "13 hours ago",
+   "iso_date": "2026-09-01T21:36:40Z",
+   "iso_date_of_last_edit": "2026-09-01T21:57:25Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONVVFcFVZbmM0TTJWbWREaGtNUzFaT1hwRFNrRRAB",
+   "user": {
+    "name": "C S",
+    "link": "https://www.google.com/maps/contrib/101818248738961634440?hl=en-GB",
+    "contributor_id": "101818248738961634440",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWzIOnZLoxEIHDczSKfmp8bOz5UjHIeUFjIxLdcF6uFcrNgh8M=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 1,
+    "photos": 0
+   },
+   "snippet": "Las Lines ladies que me ayudaron a mi y a mi novio, fue tan amable y hizo nuestra experiencia perfecta!",
+   "extracted_snippet": {
+    "original": "Las Lines ladies que me ayudaron a mi y a mi novio, fue tan amable y hizo nuestra experiencia perfecta!",
+    "translated": "The line ladies who helped my boyfriend and me were so kind and made our experience perfect!"
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxd1UxSXRlR3RQYkdzMFRXUTFVRTVWTmtWSVowRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOk1wU1IteGtPbGs0TWQ1UE5VNkVIZ0E%7C%7C?hl=en-GB",
+   "rating": 2.0,
+   "date": "14 hours ago",
+   "iso_date": "2026-09-01T20:49:55Z",
+   "iso_date_of_last_edit": "2026-09-01T20:49:55Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxd1UxSXRlR3RQYkdzMFRXUTFVRTVWTmtWSVowRRAB",
+   "user": {
+    "name": "Ayan Goswami",
+    "link": "https://www.google.com/maps/contrib/115859685103505185943?hl=en-GB",
+    "contributor_id": "115859685103505185943",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXFl6PiiHud4UCcjycFHsD9Y1Ti0NU41xwbapEtKoCdCIWEsPECHA=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 8,
+    "photos": 4
+   },
+   "snippet": "Mid brisket",
+   "extracted_snippet": {
+    "original": "Mid brisket"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b51b0e822a65%3A0xc03ac22ba09158c7&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F-hQ628__EhA6gBDjiuogyreRHIAAAAAAGgf_Al-hQ628GAAiAA&sort_by=newestFirst",
+  "next_page_token": "Ci8IARInCgoAP72F-hQ628__EhA6gBDjiuogyreRHIAAAAAAGgf_Al-hQ628GAAiAA"
+ }
+}

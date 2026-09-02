@@ -1,0 +1,341 @@
+{
+ "search_metadata": {
+  "id": "6a9804dbecf5ed6c3633827f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/ysDuMB_CDWf7e8HfdWtEnnPw6Mu8-vF81Lqugje7Zbc/6a9804dbecf5ed6c3633827f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ysDuMB_CDWf7e8HfdWtEnnPw6Mu8-vF81Lqugje7Zbc/6a9804dbecf5ed6c3633827f.md",
+  "created_at": "2026-09-02 11:13:31 UTC",
+  "processed_at": "2026-09-02 11:13:31 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b4df111f1e93:0xaccc169d5cf341fb!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/ysDuMB_CDWf7e8HfdWtEnnPw6Mu8-vF81Lqugje7Zbc/6a9804dbecf5ed6c3633827f.html",
+  "prettify_html_file": "https://serpapi.com/searches/ysDuMB_CDWf7e8HfdWtEnnPw6Mu8-vF81Lqugje7Zbc/6a9804dbecf5ed6c3633827f.prettify",
+  "total_time_taken": 1.42
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b4df111f1e93:0xaccc169d5cf341fb",
+  "hl": "en",
+  "sort_by": "newestFirst"
+ },
+ "place_info": {
+  "title": "Brown's BBQ",
+  "address": "1901 S Lamar Blvd, Austin, TX 78704",
+  "rating": 4.8,
+  "reviews": 875,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "brisket",
+   "mentions": 292,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "mac and cheese",
+   "mentions": 66,
+   "id": "tPmxvz9iXiw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 6,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 22,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "boudin",
+   "mentions": 17,
+   "id": "Qz-Komxqr2s"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 15,
+   "id": "AgpY-9eTufU"
+  },
+  {
+   "keyword": "wraps",
+   "mentions": 28,
+   "id": "Az9xCBkjaQ8"
+  },
+  {
+   "keyword": "food truck",
+   "mentions": 36,
+   "id": "EB2a_5qiM3E"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 27,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "cabbage",
+   "mentions": 33,
+   "id": "Qg-Qvh2PGU8"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKdVpDMW1VVjl6Um10R2NtMDNORmxzWVRSa00wRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOkJuZC1mUV9zRmtGcm03NFlsYTRkM0E%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "4 days ago",
+   "iso_date": "2026-08-28T17:30:50Z",
+   "iso_date_of_last_edit": "2026-08-28T17:30:50Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdVpDMW1VVjl6Um10R2NtMDNORmxzWVRSa00wRRAB",
+   "user": {
+    "name": "Mrs. Infinite",
+    "link": "https://www.google.com/maps/contrib/118074454902822422342?hl=en-US",
+    "contributor_id": "118074454902822422342",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLaNsPh48-RG9rzD0SDXxB7RztpXHnhD91gRZnLN5axox2Wgjw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 89,
+    "photos": 75
+   },
+   "snippet": "They are a sleeper. The brisket is phenomenal. I didn\u2019t even need the sauce. The flavor was so good and it was tender \ud83d\ude2d so good. I\u2019m glad I stumbled upon them.",
+   "extracted_snippet": {
+    "original": "They are a sleeper. The brisket is phenomenal. I didn\u2019t even need the sauce. The flavor was so good and it was tender \ud83d\ude2d so good. I\u2019m glad I stumbled upon them."
+   },
+   "details": {
+    "order_type": "Take out",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oRVIzZDVUREpuYjBoT1Z6QmZablZNWnpGNWFIYxAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOnhER3d5TDJnb0hOVzBfZnVMZzF5aHc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "6 days ago",
+   "iso_date": "2026-08-26T16:53:44Z",
+   "iso_date_of_last_edit": "2026-08-26T16:53:44Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRVIzZDVUREpuYjBoT1Z6QmZablZNWnpGNWFIYxAB",
+   "user": {
+    "name": "Caravina Garcia",
+    "link": "https://www.google.com/maps/contrib/115581434703504513685?hl=en-US",
+    "contributor_id": "115581434703504513685",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWkZ0x4urCq8gAjrSN9PG4ieo9VpPPl6iJ3SccJfM7H_ZEd-SkynA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 52,
+    "photos": 0
+   },
+   "snippet": "This food truck has some of the best BBQ that I've had. They are generous with the meat amount and even the side sizes were bigger than I expected. Definitely recommend 10/10",
+   "extracted_snippet": {
+    "original": "This food truck has some of the best BBQ that I've had. They are generous with the meat amount and even the side sizes were bigger than I expected. Definitely recommend 10/10"
+   },
+   "details": {
+    "price_per_person": "$10\u201320",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkbllWbHJhSGd6TlRSTGVtTjJiSGhxU0ZWUVMzYxAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOkdnYVlraHgzNTRLemN2bHhqSFVQS3c%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "Edited a week ago",
+   "iso_date": "2026-08-19T20:47:14Z",
+   "iso_date_of_last_edit": "2026-08-22T17:23:39Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMBw4k1w37u35b5CnzUEv4JgWU9iGUCGGNkWiU_bDQi2RH4JCzdI01WaMlqqvFGubJUXowRcrwtRHFzOWKP7BdCuruq574MObaeznlfr2v_KiDVb0DaQcNLcfCzCsmTh4VzctfUhDEFlMtb=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkbllWbHJhSGd6TlRSTGVtTjJiSGhxU0ZWUVMzYxAB",
+   "user": {
+    "name": "Jared Garrett",
+    "link": "https://www.google.com/maps/contrib/112130068914796440339?hl=en-US",
+    "contributor_id": "112130068914796440339",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUuiQhhcfgAZig7YDJaJzPzoA6SiKxSrRIrFsnYSZTfhzoBCPL6=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 286,
+    "photos": 288
+   },
+   "snippet": "If you're looking for perfectly smoked- with the fat beautifully rendered- brisket, and excellent mac n cheese, and glorious beef sausage, at a blink-and-you'll-miss-it place in Austin, Texas, you have found it at Brown's BBQ.\n\nEvery bite a melt-in-your-mouth delight. Each morsel a must-eat.\n\nAnd the BBQ sauce was tangy and great, too.\n\nI'm going to update this now, as we have finished eating our way through Austin and inform you that this is the significantly best texture for brisket that we have ever had.",
+   "extracted_snippet": {
+    "original": "If you're looking for perfectly smoked- with the fat beautifully rendered- brisket, and excellent mac n cheese, and glorious beef sausage, at a blink-and-you'll-miss-it place in Austin, Texas, you have found it at Brown's BBQ.\n\nEvery bite a melt-in-your-mouth delight. Each morsel a must-eat.\n\nAnd the BBQ sauce was tangy and great, too.\n\nI'm going to update this now, as we have finished eating our way through Austin and inform you that this is the significantly best texture for brisket that we have ever had."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$10\u201320",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "Brisket Sandwich, Brisket and Sausage Sandwich, Mac & Cheese",
+    "seating_type": "Outdoor patio / terrace",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free parking lot"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5TFdVNTFVR1ZPZUZCR2NsVnpWSHBNVm5Ka2VFRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOl9LWU51UGVOeFBGclVzVHpMVnJkeEE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-22T03:29:28Z",
+   "iso_date_of_last_edit": "2026-08-22T03:29:28Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TFdVNTFVR1ZPZUZCR2NsVnpWSHBNVm5Ka2VFRRAB",
+   "user": {
+    "name": "Moni Cazares",
+    "link": "https://www.google.com/maps/contrib/108967442541460961934?hl=en-US",
+    "contributor_id": "108967442541460961934",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIjQm4wbMPGx5EhVtyshngLngrcZI0ZE05A87DnKUKrSAGVVw=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 12,
+    "photos": 0
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$40\u201350",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 2
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GaGFYSm9kMkZtY2psRFRVVlZXVWRwTW1Sc1QxRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOnFhaXJod2FmcjlDTUVVWUdpMmRsT1E%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-08-01T19:25:35Z",
+   "iso_date_of_last_edit": "2026-08-01T19:25:35Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaGFYSm9kMkZtY2psRFRVVlZXVWRwTW1Sc1QxRRAB",
+   "user": {
+    "name": "Kevin Soriano",
+    "link": "https://www.google.com/maps/contrib/114000680510511408300?hl=en-US",
+    "contributor_id": "114000680510511408300",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIPvZ60x8OpEdkHCS8fRrgEibFQ56r9Hwb87P7d6vHscs_36w=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 10,
+    "photos": 0
+   },
+   "snippet": "Solid brisket sandwich with chopped onions/pickles. The sauce is sweet and has a great flavor profile to make it a savory sandwich. Ribs were 10/10 with \u201ctenderism\u201d and were exceptional with the sauce. BBQ sauce gives Kansas City style sweetness. Highly recommended!",
+   "extracted_snippet": {
+    "original": "Solid brisket sandwich with chopped onions/pickles. The sauce is sweet and has a great flavor profile to make it a savory sandwich. Ribs were 10/10 with \u201ctenderism\u201d and were exceptional with the sauce. BBQ sauce gives Kansas City style sweetness. Highly recommended!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$10\u201320",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Moderate noise"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT210amNWQmxSa05VTjFodWIwVXpNV3d0ZDJwbk9VRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOmtjcVBlRkNUN1hub0UzMWwtd2pnOUE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-31T00:11:34Z",
+   "iso_date_of_last_edit": "2026-07-31T00:11:34Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210amNWQmxSa05VTjFodWIwVXpNV3d0ZDJwbk9VRRAB",
+   "user": {
+    "name": "Joseph Pierce",
+    "link": "https://www.google.com/maps/contrib/108663639520965429129?hl=en-US",
+    "contributor_id": "108663639520965429129",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXMgAnkkMpCrfw6spb6q2nXao26zd1633cFpZL83rVNkqgWLrVL=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 6,
+    "photos": 1
+   },
+   "snippet": "Wanted some good bbq, got some good bbq. This place was good. Don\u2019t know what the hell them one star reviews were about (competition probably). But everything was great minus them running out of peach cobbler. You get one star deduct on that grounds. Overall, want to run it back when I get back to Austin, Texas. But yeah wallet will be hurting after I pay for my stuff. Thank yall for the hospitality and food.",
+   "extracted_snippet": {
+    "original": "Wanted some good bbq, got some good bbq. This place was good. Don\u2019t know what the hell them one star reviews were about (competition probably). But everything was great minus them running out of peach cobbler. You get one star deduct on that grounds. Overall, want to run it back when I get back to Austin, Texas. But yeah wallet will be hurting after I pay for my stuff. Thank yall for the hospitality and food."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 4,
+    "noise_level": "Loud, but you can still talk",
+    "group_size": "Suitable for all group sizes"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21oRFlrbEhTa3hEU0ZvM1ZEVjVWVVZEUWsxRlpuYxAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOmhDYklHSkxDSFo3VDV5VUVDQk1FZnc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-30T17:57:27Z",
+   "iso_date_of_last_edit": "2026-07-30T17:57:27Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRFlrbEhTa3hEU0ZvM1ZEVjVWVVZEUWsxRlpuYxAB",
+   "user": {
+    "name": "Breanna Banuelos",
+    "link": "https://www.google.com/maps/contrib/112436079680768578058?hl=en-US",
+    "contributor_id": "112436079680768578058",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJ6WfyoPVNQdxTVQ6Emik5i27dnNJCvpxzzAJWNdC6upLJDsw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 15,
+    "photos": 23
+   },
+   "snippet": "I\u2019m picky about my brisket and have tried a lot of different top bbq spots in Austin. Love the bbq brisket here, sausage is good too.  Excited to try other items on the menu.",
+   "extracted_snippet": {
+    "original": "I\u2019m picky about my brisket and have tried a lot of different top bbq spots in Austin. Love the bbq brisket here, sausage is good too.  Excited to try other items on the menu."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1amFrVkVhM1ZPWDJ4WmVtZzNNV3ROY1VzemNFRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOk5jakVEa3VOX2xZemg3MWtNcUszcEE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-20T02:22:08Z",
+   "iso_date_of_last_edit": "2026-07-20T02:22:08Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMDW6RlVW8LzFLyL1ue4bPRsjmxF8vhy_NGhOO6ItLyOCzzMLErqdJ2C__j43FJq3kjKDMO_jtGzUmAdOjAzewXlJR7Q772iN_datYUrrL3ChWyJBXCvQ8QpiOOOHWYeGIJ8dQkC8-vW31F=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1amFrVkVhM1ZPWDJ4WmVtZzNNV3ROY1VzemNFRRAB",
+   "user": {
+    "name": "Johnny 5",
+    "link": "https://www.google.com/maps/contrib/111136234121378489879?hl=en-US",
+    "contributor_id": "111136234121378489879",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUjBcTBAGGKscCwaX4JmDcyP2UCyphBMx0OtMRlGG_UCsaWRRlV=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 101,
+    "photos": 226
+   },
+   "snippet": "Bbq food truck. When you order brisket sandwich,  they ask you if you want it marbled or lean. That's a nice gesture. The food overall was good. I liked the marbled brisket better. Mac n cheese is on point. On the sandwich, I would definitely get the bbq sauce on it and not on the side. I liked that there's parking in that shopping strip. That's convenient for Austin.",
+   "extracted_snippet": {
+    "original": "Bbq food truck. When you order brisket sandwich,  they ask you if you want it marbled or lean. That's a nice gesture. The food overall was good. I liked the marbled brisket better. Mac n cheese is on point. On the sandwich, I would definitely get the bbq sauce on it and not on the side. I liked that there's parking in that shopping strip. That's convenient for Austin."
+   },
+   "details": {
+    "price_per_person": "$20\u201330",
+    "reservation": "Not sure",
+    "wait_time": "No wait",
+    "parking_space": "Somewhat difficult to find parking",
+    "parking_options": "Free parking lot, Free street parking"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b4df111f1e93%3A0xaccc169d5cf341fb&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72GCCq1dM__EhDhNq7QwY3Cdn2jRScAAAAAGgf_AmCCq1dMGAAiAA&sort_by=newestFirst",
+  "next_page_token": "Ci8IARInCgoAP72GCCq1dM__EhDhNq7QwY3Cdn2jRScAAAAAGgf_AmCCq1dMGAAiAA"
+ }
+}

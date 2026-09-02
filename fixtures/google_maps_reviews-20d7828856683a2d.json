@@ -1,0 +1,396 @@
+{
+ "search_metadata": {
+  "id": "6a98065a0d0b295d0eed871b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/e1Ii-K0XQjIFu5IcdwA65KcBJCdCHFJxdiUuqpvpmvA/6a98065a0d0b295d0eed871b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/e1Ii-K0XQjIFu5IcdwA65KcBJCdCHFJxdiUuqpvpmvA/6a98065a0d0b295d0eed871b.md",
+  "created_at": "2026-09-02 11:19:54 UTC",
+  "processed_at": "2026-09-02 11:19:54 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b50871079ba1:0xc2343145a767207f!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/e1Ii-K0XQjIFu5IcdwA65KcBJCdCHFJxdiUuqpvpmvA/6a98065a0d0b295d0eed871b.html",
+  "prettify_html_file": "https://serpapi.com/searches/e1Ii-K0XQjIFu5IcdwA65KcBJCdCHFJxdiUuqpvpmvA/6a98065a0d0b295d0eed871b.prettify",
+  "total_time_taken": 1.56
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b50871079ba1:0xc2343145a767207f",
+  "hl": "en",
+  "sort_by": "qualityScore"
+ },
+ "place_info": {
+  "title": "Cooper's Old Time Pit Bar-B-Que",
+  "address": "217 Congress Ave., Austin, TX 78701, United States",
+  "rating": 4.4,
+  "reviews": 6717,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 159,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef ribs",
+   "mentions": 347,
+   "id": "EapRBH6_SRk"
+  },
+  {
+   "keyword": "bench seating",
+   "mentions": 6,
+   "id": "BFlfY_7e780"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 237,
+   "id": "AgpY-9eTufU"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 125,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 15,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "jalape\u00f1o mac and cheese",
+   "mentions": 76,
+   "id": "aluaKNEneQY"
+  },
+  {
+   "keyword": "pinto beans",
+   "mentions": 86,
+   "id": "CgyLIfL9aKU"
+  },
+  {
+   "keyword": "seating options",
+   "mentions": 5,
+   "id": "EBDGJGre1s0"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 724,
+   "id": "Ew6aYjb7Lyk"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21Sd1RURk9XVEp3Y3paWlVrOHRablJvVmtKbGQwRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOmRwTTFOWTJwczZZUk8tZnRoVkJld0E%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-23T14:05:41Z",
+   "iso_date_of_last_edit": "2026-06-23T14:05:41Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPSp5_3Wrps0dtRNn4YtI2-2FXij5sQ0b0o-DbDWHjMzYPHRYfuHLoVIegUPPwOu5kCGIYdxnoepm4bqWQG4xKFGRX1zMmadno1EJtBPuq_XS4RRDgsootORU3p8zm9ho4PjdbfpD2XvNpf=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOkvvuQFQOwlD1Yeg1dlHLCCYlPp5iPq5VtaveXOsK_3QUWuL1j7NDaTWeJrw3vNdEpEs30VqE8Mh3LNIzIO5UN2PoCZ0QseI8y_y__qwDE0HvgDynmhF-mQa6NSGVhBjwthV225NV0X7ix=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMcEf_TVLOBA0LMe4wkqg4kJyZoaVqcjWHng5Bg_ILOQJTns3wzSl0HMZq5XaTrAVBqMeNcaz3NnCjwl1ID3gH_GkKvowBaVElr56Wf3hsU0Jjp2Y5Gp-6u7NayN1dYzB6KwN-fzBktDg=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN_WmOLuSHfnnQ_JSujoJkxnRvkons46vsCDY6wTE2o9twkZUBKbg2lnSjjGKCymZeP2E7m4u5Xzm8qiibinHHA-SuSSV487WMuPRJR7HvvF47AWG-VrhzoXcWXVh_Xlzitoeez5cKQ0uZL=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOZG-M1k3oLSLIQ5OFAZzHRTgykUv6sIUJJUeAK8haLYFRHlo9Tss0Hfp_PH-PuE8R8ddiNauRF8iPhWgbf57vb03EkeKJuWQtALvEvuROftEZjAu9CbT1tIWGNUW0YWr5IfQ0RB2ELwts=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNBiGbB80-Z1-SW_ghOJ_AB-i_KEvoo2Pfe73WTi6Zt41HRQz-Ik44rcq3yjDke6PNPxcBRl9MV0iXIerhAEg3oM0pTi9pNELd_b15dMofgZTbP3RwuxEYsnU8xNmv33A1exBNy27n08g8N=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd1RURk9XVEp3Y3paWlVrOHRablJvVmtKbGQwRRAB",
+   "user": {
+    "name": "justin",
+    "link": "https://www.google.com/maps/contrib/104253183269472878410?hl=en-GB",
+    "contributor_id": "104253183269472878410",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLSKo8QQQr92t4qnDL_CiVLT4GXSTzHggwAK6bMQaOAsl6BHA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 227,
+    "photos": 644
+   },
+   "snippet": "If you\u2019re looking for the classic Texas BBQ experience, Cooper\u2019s delivers. The atmosphere is exactly what you\u2019d hope for\u2014rustic, no-frills, communal tables, and a steady line of people there for one thing: meat.\n\nI ordered the brisket, beef rib, mac and cheese, and BBQ sauce. The standout was the beef rib. It was massive, smoky, tender, and packed with flavor. The brisket was juicy with a great bark and plenty of richness from the fat cap, although a few slices were slightly saltier than I would have preferred.\n\nThe mac and cheese was creamy and comforting, but fairly standard compared to the quality of the meat. The BBQ sauce was thin, tangy, and vinegar-forward\u2014good for cutting through the richness, though I found the meat didn\u2019t really need much help.\n\nOne thing first-time visitors should know is that ordering by weight can get expensive quickly. It\u2019s easy to end up with more meat than you intended, so keep an eye on what\u2019s being sliced. The free pickles, beans, bread, and onions are a nice touch and help round out the meal.\n\nThe atmosphere is lively and authentically Texan, and the staff were helpful despite the cafeteria-style setup. While it may not be the absolute best BBQ in Texas, it\u2019s a very solid representation of the style and well worth a visit if you\u2019re in Austin.",
+   "extracted_snippet": {
+    "original": "If you\u2019re looking for the classic Texas BBQ experience, Cooper\u2019s delivers. The atmosphere is exactly what you\u2019d hope for\u2014rustic, no-frills, communal tables, and a steady line of people there for one thing: meat.\n\nI ordered the brisket, beef rib, mac and cheese, and BBQ sauce. The standout was the beef rib. It was massive, smoky, tender, and packed with flavor. The brisket was juicy with a great bark and plenty of richness from the fat cap, although a few slices were slightly saltier than I would have preferred.\n\nThe mac and cheese was creamy and comforting, but fairly standard compared to the quality of the meat. The BBQ sauce was thin, tangy, and vinegar-forward\u2014good for cutting through the richness, though I found the meat didn\u2019t really need much help.\n\nOne thing first-time visitors should know is that ordering by weight can get expensive quickly. It\u2019s easy to end up with more meat than you intended, so keep an eye on what\u2019s being sliced. The free pickles, beans, bread, and onions are a nice touch and help round out the meal.\n\nThe atmosphere is lively and authentically Texan, and the staff were helpful despite the cafeteria-style setup. While it may not be the absolute best BBQ in Texas, it\u2019s a very solid representation of the style and well worth a visit if you\u2019re in Austin."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$100+",
+    "food": 4,
+    "service": 4,
+    "atmosphere": 5,
+    "wait_time": "No wait",
+    "seating_type": "Indoor dining area, Bar area"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tnNWFURnRkMlI1VTBWeE9UVlRhVXN5UlZsaE4wRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOkg5aTFtd2R5U0VxOTVTaUsyRVlhN0E%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-03T02:55:37Z",
+   "iso_date_of_last_edit": "2026-06-03T02:55:37Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOwG-91qfAU7JD7KGikARGv5A_FkTSm4uwTh8Ezum40DcjYKgP-s_13rdy8d2O-fEvG3AL7AYuEcx0HyauSFk2CRygqbmxFjgqOtVgWhlzR5dDeEIITMqRBkgBQzouEaeSQQm5Jx69e1P7V=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNgszIta0u9G-A3OUotJlmgFJ1M1SWMU4E0O4NlPtOyYrGZPB4DmbZ_0ssOBwd6st5rO52ZkPziwLBC0Kq4KbSFQ0zHuuv-7a-quei_KhkQa-xEKChcjzo0zKKfz3bWy7-RJYu7JrHYp6Xv=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPvcA_ZeJE_l4d83vQai7PMRmvUsup7RVQGwu9dzpInfseyUyCnbcsc1AHy1uRhQXJjN7Z-2cFa2HbC5QpmZMnzvhxJazYwDqOW8tSDn-GBJ9y5SHt7CsWnpCeWvtcQ1mxpouDWRh1j25-9=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPcgNEmSjnctYdqJqy4mDklM8loKHGqEuGFPoDk3BNjIhSl6IQigA0MCptHB4zdy1P9zPC5iaPwz5kOseeUW8Phgv6rIFEyI-OcSeZWluCMqL3xNoDKmOA_NI5CVLuUURl4OiGgZ6p9_iTN=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPKEVDjGJkLemWE3hV2Sf04gEpdd2e_PHOVFfZn5-WvleGQpNt5XroOuvJZq0o9A2dCpYTDllpdmEmIUlcrZli7_y0u3TvUHAKT3yFNTtyNGmudX_NpywhqnSHJ9gXTZER60ZO3_6dOIA8x=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmON7hXVlq1BkpLPXZ1iJZNhH9J2CiXb2X1aPiv0B7Rnvvttly1gxKIWUiv-FDOvITUFBCjMum_leVvEJpu30YUnrqXlD3K8oiCVMgV2RcgKGq3aSOf5DUUnVqyvHjg72AvdUHrNy6bDJJJ5=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP6IaQXFy_462hLDQwxYrwTsExrBToSXUgbDZUSf7KDQlrBfSpbDr8tkTC3Qlg0jbrAopBTFRw5caI6aW64HRUHJ7SwwY9aJ6cueKCTq-JQ7miQYY2Cs_m94REHSahTu9B2ZVpjGWZXHHp2=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOUhWf3AOQbD-GMY35Ne7uSXB2ZBU8ioQFkvAd5jgyvpZS3teUqjG3KZAjGYvs83y2BqIQnMpdxG30lkPqCRPH7cwdZODA4wMmX6JS3jgAS360TZ5T0KGCS9UzJT6ZQfKZqaoqeV9i91UPC=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmONg9dOQbhn993O_4_WJF5G2cCyQXY3JmOjB5x0sLKtxVcrFkd878TF1-S75rxLbH43zkYY-LazKYiFk2Hcvei3FxSOpBKnnd8mOxXTa6kN98U-zWiYawUwWLHz57-hj9u1kEboiHhNWdrP=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPC2gYV7cV_nHMxQZVFdPpIIJeZX6Ii3ah7KjEtVl2ScE5vhuGPp31NPPAeKHIkbLq0X5cYvnBBosmtGLL2CFBh-qupbMCwU2799U_DRC9hVkhKXyJ7BoN-oEtVja724rv8VIOb7np4woKt=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNvjcZcwQ2VQi-Wl4TPxsrByCyLAYYqXUreNP5ia_jROTjQX_-3eBrFdupvxScJ9g34P0RXir35HMBVPiVdhnz5Tnp4lh3LUoLplb4HDrrV9hZTi-jeAfQqMbKObtHMXkZgAYV_HtdXfumx=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP_kIbi1ayUvYJwUer8ZU1DS0J7eDGVQXuDBGPDPJg8KyauC9RRCGZJ2TPA5-femmWYHTTXvcHCoPQGoUTbJ0d8Y1V98YGLCR9etqoNooNj-ysL_eX2hNC9KtDNIDBvOtEXP-xkPhArTXrH=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPB73NaNHsdiJpa2HnpxTRl7p44vTnomkrTgovQ_6vyuHLfvY5QCWC-eIkmRx-aMFs_rNdxvA5lLjMEnyeBlsQbkXiHZeUCeJaQghpvwBrcfR67IhQd3eKec7Bg8dprptYSR00SitHudX4=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPvU3aK2EG8PJlUICkSTgeBmmh7_jvP0y5orp8zXInT7yzZ8LJ0aM1BndJsYZLUgwoN5KpezN_PB0N8ETSdmZsTnmgq2CSkmQFtmL7UMhExgIpMZ6KQKUHdaRBM9ehcC0OszL5x2IMiN3_N=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNWFURnRkMlI1VTBWeE9UVlRhVXN5UlZsaE4wRRAB",
+   "user": {
+    "name": "Eve Kosol",
+    "link": "https://www.google.com/maps/contrib/105624117407242502910?hl=en-GB",
+    "contributor_id": "105624117407242502910",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVAmQd8zO9ZwfHori1SPPbOp_d9-c3clBpB__wBqvRY0mUK2A=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 223,
+    "photos": 1353
+   },
+   "snippet": "Old school classic BBQ in a saloon like atmosphere that feels very Texas--in the best way.\n\nFood: 4.5 Service: 4.5 Atmosphere: 4.5\nCost to worth it rating: 2.5 (can get more expensive than you expect but good stuff--2 people getting 6 pork ribs, 1/2 brisket, few sides, ice tea was $100)\nOpentableable: no reservations\nReturn worthiness: yes\n\nHighlights:\n- Solid BBQ and fun atmosphere\n- Brisket: super tender and juicy with a big fat layer to insulate the flavor. My fave type of bbq of any style (to the chagrin of my pulled pork Carolina hub). 4.5 stars\n- Pork ribs: longer than I thought and not as tender but great flavor. 4 stars\n- Sauce: thin and a bit tangy and some spice. 3.5 stars\n- Mac and cheese: the creamy velveeta-like version. If you get the Jalape\u00f1o bacon version prep for the hidden spice and big slices of bacon.  3.25 stars\n- Corn on the cob: black peppery which I like but maybe not for everyone. Could've been a bit fresher. 3 stars\n- Loaves of bread to make it a sandwich\n- Butcher paper as your plate to eat on the shared picnic table benches\n- Bar in the middle\n- Pies: sadly didn't have room for any but cool they had trays of different types\n\nMidlights:\n- For a newbie hard to know how much to order of each bbq item, but staff was helpful\n\nLowlights:\n- Wish could've tried more meats",
+   "extracted_snippet": {
+    "original": "Old school classic BBQ in a saloon like atmosphere that feels very Texas--in the best way.\n\nFood: 4.5 Service: 4.5 Atmosphere: 4.5\nCost to worth it rating: 2.5 (can get more expensive than you expect but good stuff--2 people getting 6 pork ribs, 1/2 brisket, few sides, ice tea was $100)\nOpentableable: no reservations\nReturn worthiness: yes\n\nHighlights:\n- Solid BBQ and fun atmosphere\n- Brisket: super tender and juicy with a big fat layer to insulate the flavor. My fave type of bbq of any style (to the chagrin of my pulled pork Carolina hub). 4.5 stars\n- Pork ribs: longer than I thought and not as tender but great flavor. 4 stars\n- Sauce: thin and a bit tangy and some spice. 3.5 stars\n- Mac and cheese: the creamy velveeta-like version. If you get the Jalape\u00f1o bacon version prep for the hidden spice and big slices of bacon.  3.25 stars\n- Corn on the cob: black peppery which I like but maybe not for everyone. Could've been a bit fresher. 3 stars\n- Loaves of bread to make it a sandwich\n- Butcher paper as your plate to eat on the shared picnic table benches\n- Bar in the middle\n- Pies: sadly didn't have room for any but cool they had trays of different types\n\nMidlights:\n- For a newbie hard to know how much to order of each bbq item, but staff was helpful\n\nLowlights:\n- Wish could've tried more meats"
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$40\u201350",
+    "food": 5,
+    "service": 4,
+    "atmosphere": 5,
+    "noise_level": "Moderate noise"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25CaFgweDBXRTFaZFdwVFNYRlRiRU5aY21SUmQxRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOnBhX0x0WE1ZdWpTSXFTbENZcmRRd1E%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-04T13:53:34Z",
+   "iso_date_of_last_edit": "2026-06-04T13:53:34Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNsejlRF_i18PM-TL_4gfTOCmBZL7_vH6yNh40pfg0lqoslCziO64xw_AZIgboqcQ7PhRwQDWDWdvERX4p9Vb6sDNcG_nIHlt7X1ZKBqPy9nQtEViI0Iaj9uWGF7cAn-xwfyWrntqqy0kM=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaFgweDBXRTFaZFdwVFNYRlRiRU5aY21SUmQxRRAB",
+   "user": {
+    "name": "Zac Goldstein",
+    "link": "https://www.google.com/maps/contrib/103197984478230157146?hl=en-GB",
+    "contributor_id": "103197984478230157146",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUlWGluy03eU475xqFVzp9moen4z1313DjkFszTSxZgGN7m-utERw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 389,
+    "photos": 469
+   },
+   "snippet": "A long-running Texas barbecue joint known (for better or for worse) as being George W. Bush\u2019s favorite, Cooper\u2019s largely lived up to its reputation. The restaurant has a classic look (wood, brick, and ducts), and the menu \u2013 meats priced by the pound on a chalkboard \u2013 adds to the retro appeal. Those meats are cut to order by a pitmaster. After making your selection, you proceed down a cafeteria-style line and pick your sides. Sauce, pickles, and Wonder Bread are free.\n\nWe opted for some brisket, a jalapeno sausage link, potato salad, and creamed corn. The brisket was tender and flavorful if a bit fatty while the sausage boasted a firm bite and a winning combination of spicy and cheesy. Unexpectedly, the creamed corn ended up being a highlight. If that\u2019s a side you usually avoid, Cooper\u2019s version may end up converting you.\n\nThat said, the potato salad was nothing special and the sauce was very tomato-and-vinegar-forward. As to be expected given Cooper\u2019s location and reputation, prices are also quite high (as in almost $40 a pound for brisket). That\u2019s not outrageous for a \u201cname\u201d BBQ place in Austin though if I had to pay that after waiting in a long line, I might walk away disappointed.\n\nCooper\u2019s is not the best Texas BBQ you\u2019re likely to find, but it\u2019s a pretty damn solid representation thereof.",
+   "extracted_snippet": {
+    "original": "A long-running Texas barbecue joint known (for better or for worse) as being George W. Bush\u2019s favorite, Cooper\u2019s largely lived up to its reputation. The restaurant has a classic look (wood, brick, and ducts), and the menu \u2013 meats priced by the pound on a chalkboard \u2013 adds to the retro appeal. Those meats are cut to order by a pitmaster. After making your selection, you proceed down a cafeteria-style line and pick your sides. Sauce, pickles, and Wonder Bread are free.\n\nWe opted for some brisket, a jalapeno sausage link, potato salad, and creamed corn. The brisket was tender and flavorful if a bit fatty while the sausage boasted a firm bite and a winning combination of spicy and cheesy. Unexpectedly, the creamed corn ended up being a highlight. If that\u2019s a side you usually avoid, Cooper\u2019s version may end up converting you.\n\nThat said, the potato salad was nothing special and the sauce was very tomato-and-vinegar-forward. As to be expected given Cooper\u2019s location and reputation, prices are also quite high (as in almost $40 a pound for brisket). That\u2019s not outrageous for a \u201cname\u201d BBQ place in Austin though if I had to pay that after waiting in a long line, I might walk away disappointed.\n\nCooper\u2019s is not the best Texas BBQ you\u2019re likely to find, but it\u2019s a pretty damn solid representation thereof."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 4,
+    "service": 4,
+    "atmosphere": 4,
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25FdE0weHBRWFZwVFhnd1ZXWmFNbkk0Y21aNmFIYxAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOnEtM0xpQXVpTXgwVWZaMnI4cmZ6aHc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-12T06:02:58Z",
+   "iso_date_of_last_edit": "2026-05-12T06:02:58Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNWdXPUfPpO0WI6o8ZiJ_AWjTdkboQHRVIAMJhiqB_LGcpKGoWjUaMIyVo1894S7vUjJGXH3byReTewvQfLyjK50_AqDGunh-0dZp5kUughA7aBJIHlrzWA5IrHug2c2Nikey2LmsEr25k=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO6gLCtNIJea7AQIR9Ut68esdEuB9gvMKZkdMitvgpNidJL8lfnWaMo7poB51X-Z5ujnqVrKT6m6YshVknyaCcrWch4yMWABaFwRUly8xr0EWPxyTdWdKb900LyB4wDSvb5A8EpxKlbUUzh=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNZlQLV5Hwe0YfveX9Ifer_4ts5RPhqNLL30wj9wZOFPZXToqLoQnTGOdFtn8vUgoejiJ23gUQp1OC_FPZdNI7fscPWHyJQAIO2CvNRlUEk5FqdMTh499SvT5wbaXoXzwfV8oupwdZtbQj_=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FdE0weHBRWFZwVFhnd1ZXWmFNbkk0Y21aNmFIYxAB",
+   "user": {
+    "name": "Mike Ortegon",
+    "link": "https://www.google.com/maps/contrib/112270474039825373406?hl=en-GB",
+    "contributor_id": "112270474039825373406",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVepH1w4rsqch6QIHowoZXIpqBvsVcnpLMygCxcYUzsRH1q-lQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 132,
+    "photos": 306
+   },
+   "snippet": "Outstanding - this place always delivers friendly staff, great bbq, so many choices. Friendly and fun atmosphere\nWe tried every meat on the menu, you cannot go wrong with any of the choices. The brisket tender and moist, the jalape\u00f1o sausage was juicy and not too hot. Beef rib and sirloin outstanding. And the turkey smoked to perfection and mouthwatering juicy and full of flavour. Lots of side choices too - particularly enjoyed the cream corn. Guaranteed your eyes are bigger than yours stomach. Highly recommend",
+   "extracted_snippet": {
+    "original": "Outstanding - this place always delivers friendly staff, great bbq, so many choices. Friendly and fun atmosphere\nWe tried every meat on the menu, you cannot go wrong with any of the choices. The brisket tender and moist, the jalape\u00f1o sausage was juicy and not too hot. Beef rib and sirloin outstanding. And the turkey smoked to perfection and mouthwatering juicy and full of flavour. Lots of side choices too - particularly enjoyed the cream corn. Guaranteed your eyes are bigger than yours stomach. Highly recommend"
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wclIyOVVPR05XYTBOaExXMDFPRVpZZDIxTU1sRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOmprR29UOGNWa0NhLW01OEZYd21MMlE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-21T19:23:48Z",
+   "iso_date_of_last_edit": "2026-06-21T19:23:48Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOLLz1ENsnd3OO-swQqfF8xQ6kBYDZQOCQQVJV7OE8EaL6nJifWtPxpU0tdXpCYBCllKARd7pIABegqr5TYaL17iQrVRJumQ0iRyxsjP3ZhG8-byi16SLYbC2EA_OAHFNFOuHccTLoUYxCd=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN-aSmujtH8EM1oitJyU2ei2aS7QncrDHfrYLzVzOD4vjNYfOxwqRp0J_IYs9f5qdljBver774Rj_6UTMZec5NrLHy_w4dSNtCLGPhhIU-ST1arIwr7HwZTiqa0OAxsfsH_cQVFGWHzEN4X=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMWiWBk0quA2igmQ5NpWC186M2eo5z4PqTJVhFsMHz1l7L6jOy5Jh2v8K8lmdvOEpWVxOz2EfSpgdPl_s9BH-yDbQh8JlHRYjOnOmZDCedlRcDQ9suAaWeU0-GmtJNMpf7JawJjFUFryeE1=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wclIyOVVPR05XYTBOaExXMDFPRVpZZDIxTU1sRRAB",
+   "user": {
+    "name": "Linzee",
+    "link": "https://www.google.com/maps/contrib/108163117071019700324?hl=en-GB",
+    "contributor_id": "108163117071019700324",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIV6L6x-8jF91KjR-A4RFR43PRMSoDI5krfBpD0e6u5PsbVwg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 247,
+    "photos": 381
+   },
+   "snippet": "No frills, straightforward delicious BBQ. Choose your meat and quantity, any sides, pay, then load up pickles / onions / beans / sauces at a self-serve station on the wall. Great little outdoor patio area and awesome bar setup. Would love to go back. Only thing I\u2019d love to see change is the amount of single-use containers with the sides and the styrofoam cups. Overall terrific dining experience.",
+   "extracted_snippet": {
+    "original": "No frills, straightforward delicious BBQ. Choose your meat and quantity, any sides, pay, then load up pickles / onions / beans / sauces at a self-serve station on the wall. Great little outdoor patio area and awesome bar setup. Would love to go back. Only thing I\u2019d love to see change is the amount of single-use containers with the sides and the styrofoam cups. Overall terrific dining experience."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKbGFHRkViSGszYm05cll5MWxXRUpOTlRKc2IwRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOlJlaGFEbHk3bm9rYy1lWEJNNTJsb0E%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-13T19:21:22Z",
+   "iso_date_of_last_edit": "2026-04-13T19:21:22Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN1ZB-e6EG_0CKu-sUCS_33ncuuoelu8IHKniEpJIGlVVqbsMFxYKi6no9bKU2msuVlIn9FbmmX0SYBX1deYCNDrW7O1oMslTjHo6vN8GKX2pbuoboNBD8tA7T0FGY852qgiTeGa7smoq0=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMKfPy-SGTPPwQNFL60ANdV6GmIk2xLsZhPCIRY78gBTWx5njaUwWjvUdWIZVNd5R7PTQR3ysbSmIstUCN4c1jluNu1P5K3DetNyhoQXIk1-a6Ppxa1v-WhJBPTjW4wrPSGQmXhqzLVBYk=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPMCZhYjEOhht-olPBe0V8hi1NhTsN-mxSpAD6jjHJym-Tn5wz9I6w2qMgtPCMEBd1J6feTBLj1h0oyt3IG4ly7vw0DxVOQ-GYGx02VLWRq-9so0h4VyZxKJzaW8T6EZJ5DQWh8IHhV1zTD=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP_vBn8XA5u2ZCJ0hMHI3kdlf7_jp2oX_cMg02sHdcyPUfdlPu3Y0HvIuLi7IgGnxc_zbXNJMu1xi4qaFYjf3MQKElsBDvBZBimM7UKAg_w1R9aeT8rSuMWxZR_Yj2iWEeerfNjMpWV3GIF=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMIEbkvsUpc5-5ydPJtucdJ3kiuSy3OZX7bEnivaTMvnyhzviqBBlPgOgx1fDoCWl2e7AmOeDCo5PPgJcABqxf3nN6Spfwh_6guWKmAeOyOmAcztG0xb9vu1vrqGPUp_EMCgqT9gKmtReoP=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNbqlSbvLf5LoERYeNWXc47r370HLRBDR0rBoJxnocP0oXdVc8c88QrLPwQYseRNzvSaG0w7j07Cv4h3v9vb2pN4k-uOlOz6j3uhph6b7SW5-jfLevded2wmUU5KaZ1Hf7W6zojd7D0USn-=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOfyIiRAk9luIx7mxG-HzBz4d0E4TFemuUY7qlKZvwaKbCn_EA2lHgIzkqVClSPDbnURqJs4nLmUFz1PHw61YkO4km5ZCUX20d5COfVF35k2rq2384DJ0AL5c4JpaqTd9eJBD7DiO2xZAfV=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbGFHRkViSGszYm05cll5MWxXRUpOTlRKc2IwRRAB",
+   "user": {
+    "name": "Jordan Burleson",
+    "link": "https://www.google.com/maps/contrib/117175991660998820030?hl=en-GB",
+    "contributor_id": "117175991660998820030",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWMpL8PSMhT_26OP7oKXaU5wv36SDhFX9atheIRW1TO1Cotn21qxg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 2566,
+    "photos": 17397
+   },
+   "snippet": "My coworker and I stopped in here for dinner on our first night in Austin. This came as a recommendation from a few locals and they were right on the money. When you walk in the restaurant, you pass a fully-stocked bar and an order line where you can see all the food!\n\nAs for the food, this place has unbelievable brisket, \ud83c\udf56 \ud83d\udc37 \ud83e\udd53 pork, ribs, \ud83c\udf57 chicken, \ud83c\udf2d sausage, and more. The smell is amazing. They also have amazing Mac and cheese, corn read, corn, beans, and desserts. They also have a whole wall of free beans, sauces, and cutlery.\n\nThis location also has \u267f handicap accessible \ud83c\udd7f\ufe0f parking, \ud83d\udebb restrooms, and tons of bar and bench seating.",
+   "extracted_snippet": {
+    "original": "My coworker and I stopped in here for dinner on our first night in Austin. This came as a recommendation from a few locals and they were right on the money. When you walk in the restaurant, you pass a fully-stocked bar and an order line where you can see all the food!\n\nAs for the food, this place has unbelievable brisket, \ud83c\udf56 \ud83d\udc37 \ud83e\udd53 pork, ribs, \ud83c\udf57 chicken, \ud83c\udf2d sausage, and more. The smell is amazing. They also have amazing Mac and cheese, corn read, corn, beans, and desserts. They also have a whole wall of free beans, sauces, and cutlery.\n\nThis location also has \u267f handicap accessible \ud83c\udd7f\ufe0f parking, \ud83d\udebb restrooms, and tons of bar and bench seating."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Moderate noise",
+    "wait_time": "Up to 10 min"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oVFJGOTZXblZGYTIwdFpGcDRWVTF4VDA1UFlVRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOnhTRF96WnVFa20tZFp4VU1xT05PYUE%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "6 months ago",
+   "iso_date": "2026-02-16T06:00:09Z",
+   "iso_date_of_last_edit": "2026-02-16T06:00:09Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPR_LA6kGxWc0TDd2Rbu9A7RK14TAlVCmIFChgV-ci9_etuBzitVOEJS_wB7MWTXFLN1ZokCUsB5ZTQse-j4tF3-qM2Iqk3l9-zd0ZDs0r2SMAuv7U5osIVPnkNoQmhNO8FBgYr2NEVbmjj=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNEjIiv5o6zSQSXP2L7FFcwdczdoLo-3ERxZa4B5KD3fzCLed-gxBeQrvDKDLV9XUmAH7_j_EblttMDC-6jYcQyPL6YnDnAiU5S5yMrLf87ZXARC4kWT7m8eCtoETJOf6oVwmMWFeOODVvl=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPAFRxN8Ol30B7P5lNJOqfqePNHIusyfX_LQ2QS-xP8DB870j7pL940Gfa7VyU3wpYMnJw-HJChgCZckher5hpLGECG4HkGErWhNf1WAV7OA9D31X0lJ_7f4A3ChIgxJYAFnV9qi5KTNZE=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVFJGOTZXblZGYTIwdFpGcDRWVTF4VDA1UFlVRRAB",
+   "user": {
+    "name": "Harv",
+    "link": "https://www.google.com/maps/contrib/100527447900396175318?hl=en-GB",
+    "contributor_id": "100527447900396175318",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJzuTo4FyojRfWvKopz-dExpaT0aIhLv6ih3knYue5JAAdSsQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 150,
+    "photos": 757
+   },
+   "snippet": "This bbq joint reminds me of the old style joints that are decked out in all wood, where there\u2019s no fancy decor to distract from the good old tasting bbq.\nI can\u2019t believe what I\u2019m about to say, but I think the beef rib is the choice to take here.  It is juicy, tender and seasoned right. Ask for a bone will little fat unless you like eating fat. One bone is enough for one to two people depending on how big an eater you are.\nI also had the brisket which was salty, but had a nice bark and texture. Dip it in the bbq sauce to dilute the saltiness. As for sides, the cole slaw is a winner since it gives a good contrast to all the meat. For dessert, I chose the banana pudding. It had a tad too much sugar in it that overpowered the taste of banana and felt like you were eating banana flavoured icing.\nOne big tip is that unless you come often, you don\u2019t know that everything is by the pound and it is weighed after you order it. A 1/4 lbs of meat (about 3 slices) is good enough for one person. One beef rib will feed two people. The person slicing the bbq will try to make you take more meat than what you order. Better to take a little and go back and order more after. We ordered one beef rib and he ended up giving us two. We ordered 1/2 pound of brisket and ended up with a little over a pound.  Keep your eye on the meat slicer and if you think it\u2019s too much tell him to take some back.\nSecond tip is that there are free pickles, beans and bread next to the bbq sauce.  Keep this in mind when ordering sides.\nThird tip is to order dessert after you are done eating to make sure you really need it.\nFinal tip is that there are takeout containers next to the bbq sauce for you to take leftovers home.",
+   "extracted_snippet": {
+    "original": "This bbq joint reminds me of the old style joints that are decked out in all wood, where there\u2019s no fancy decor to distract from the good old tasting bbq.\nI can\u2019t believe what I\u2019m about to say, but I think the beef rib is the choice to take here.  It is juicy, tender and seasoned right. Ask for a bone will little fat unless you like eating fat. One bone is enough for one to two people depending on how big an eater you are.\nI also had the brisket which was salty, but had a nice bark and texture. Dip it in the bbq sauce to dilute the saltiness. As for sides, the cole slaw is a winner since it gives a good contrast to all the meat. For dessert, I chose the banana pudding. It had a tad too much sugar in it that overpowered the taste of banana and felt like you were eating banana flavoured icing.\nOne big tip is that unless you come often, you don\u2019t know that everything is by the pound and it is weighed after you order it. A 1/4 lbs of meat (about 3 slices) is good enough for one person. One beef rib will feed two people. The person slicing the bbq will try to make you take more meat than what you order. Better to take a little and go back and order more after. We ordered one beef rib and he ended up giving us two. We ordered 1/2 pound of brisket and ended up with a little over a pound.  Keep your eye on the meat slicer and if you think it\u2019s too much tell him to take some back.\nSecond tip is that there are free pickles, beans and bread next to the bbq sauce.  Keep this in mind when ordering sides.\nThird tip is to order dessert after you are done eating to make sure you really need it.\nFinal tip is that there are takeout containers next to the bbq sauce for you to take leftovers home."
+   },
+   "details": {
+    "price_per_person": "$80\u201390",
+    "food": 4,
+    "service": 3,
+    "atmosphere": 4,
+    "noise_level": "Moderate noise",
+    "group_size": "Suitable for all group sizes",
+    "seating_type": "Indoor dining area",
+    "parking_space": "Difficult to find parking",
+    "parking_options": "Paid street parking, Paid parking garage"
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21keFdIWlNPSFZwVFVSRGIyTndObEpWZDBsRFVGRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOmdxWHZSOHVpTURDb2NwNlJVd0lDUFE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-21T19:58:54Z",
+   "iso_date_of_last_edit": "2026-05-21T19:58:54Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN0hgF7ZUizWZbNBarnRHWnjR6CFKYgbtI8TWCv4_gXNKrrQc1ZTqDBdVgOnJqsNo1H16bdBnG_-ZoFJsSii_hjfUGKMzQKFBKExqycfgPkgNJPXnLXb8MWe1rIP9dzmg3zIikXBbkEmYSm=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNJxojNOo6BbDs-Ehz2SV4iXg7G2YMYHiZ7e3IA_rlam-0czhm1t-Qo5TFIRuJDGsfuChG60GQL6z4Q3OtEAiN4j9jSIhmHVauMvIc_LNKAgk2P4w9Dn_F2hqg9EUULa4Zul5qTIc66fgLU=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keFdIWlNPSFZwVFVSRGIyTndObEpWZDBsRFVGRRAB",
+   "user": {
+    "name": "Alejandra Harris",
+    "link": "https://www.google.com/maps/contrib/105401063639271061734?hl=en-GB",
+    "contributor_id": "105401063639271061734",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXgavr-BV9GTzheFmMQ2Ati77lbEKEtIQB_YRBsjXZigZjEnhwa=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 48,
+    "photos": 29
+   },
+   "snippet": "If you are visto g and walking around you don\u2019t have to schedule when you\u2019ll be hungry and when to start the line to assure some food as other places. Having said that: I love this place for several reasons: first of all, It had brisket when I was hungry and it didn\u2019t have a long wait. It has great location. The food was delicious and the space is great.",
+   "extracted_snippet": {
+    "original": "If you are visto g and walking around you don\u2019t have to schedule when you\u2019ll be hungry and when to start the line to assure some food as other places. Having said that: I love this place for several reasons: first of all, It had brisket when I was hungry and it didn\u2019t have a long wait. It has great location. The food was delicious and the space is great."
+   },
+   "details": {
+    "price_per_person": "$90\u2013100",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Loud, but you can still talk",
+    "wait_time": "No wait",
+    "seating_type": "Indoor dining area, Bar area, Booth seating, Counter seating"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b50871079ba1%3A0xc2343145a767207f&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LAB1L____EhB47VFEuyH4EMf767IAAAAAGgn92PMCYbPhZsMYACIA&sort_by=qualityScore",
+  "next_page_token": "CjEIARIpCgoAP7_LAB1L____EhB47VFEuyH4EMf767IAAAAAGgn92PMCYbPhZsMYACIA"
+ }
+}

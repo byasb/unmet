@@ -1,0 +1,695 @@
+{
+ "search_metadata": {
+  "id": "6a98058d2c2bb4c3b3bfb2d1",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/d6YN_qyvKNJ5sM48efdQKOVEajchbINsmG5ppKOU4c8/6a98058d2c2bb4c3b3bfb2d1.json",
+  "markdown_endpoint": "https://serpapi.com/searches/d6YN_qyvKNJ5sM48efdQKOVEajchbINsmG5ppKOU4c8/6a98058d2c2bb4c3b3bfb2d1.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/d6YN_qyvKNJ5sM48efdQKOVEajchbINsmG5ppKOU4c8/6a98058d2c2bb4c3b3bfb2d1.json_with_pixel_position",
+  "created_at": "2026-09-02 11:16:29 UTC",
+  "processed_at": "2026-09-02 11:16:29 UTC",
+  "google_url": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&oq=is+franklin+barbecue+worth+the+wait&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/d6YN_qyvKNJ5sM48efdQKOVEajchbINsmG5ppKOU4c8/6a98058d2c2bb4c3b3bfb2d1.html",
+  "total_time_taken": 56.68
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "is franklin barbecue worth the wait",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "us",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "is franklin barbecue worth the wait",
+  "total_results": 130,
+  "time_taken_displayed": 0.45,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "How long is the queue at Franklin Barbecue?",
+   "type": "featured_snippet",
+   "snippet": "Franklin Barbecue is arguably the best BBQ spot in Austin, Texas and even the US. People queue up to 3/4 hours to taste their delicious brisket and ribs.",
+   "title": "Aaron Franklin explains when the line is the shortest at ...",
+   "date": "Jul 9, 2026",
+   "link": "https://www.google.com/goto?url=CAESpgIB6zswFQCd7IxoKHdznQgzRV9CgPPjMpMp9e2IrQ4rNRn9c3xSxUBiHQ_CBp_dEqeq_lZ8OphUvqb2f-PH-UMLeb9SZnCP_-w_Dy9PlsL23eCCqC-yXlqwQ0Ly0akhjUM98o1MRHoyVdlYRSxbdhLb07XA5bQaXdpKZX49ruQHptF8A9z5Y1wGgaTFMTE4zF5bl2ZjnuC9kK-sK2TWWlVgA2oIQTjVua4E5SrV4eEVBFku5fnYjnhzEThO81y21HnGwTsIG8GSPvxCVi2xFhvvCDQZoPXC_65K-ETxmj47KJl-_610OViFVb-CF_ixnxkL3t4Z1MCuH3HOnW_uiTr18uD5Wo1vw5TvFUPZumA1Dgg_Z6vAAIwbQNzC_Ev4ERAeplNcUW8",
+   "displayed_link": "https://www.facebook.com \u203a posts \u203a aaron-franklin-exp...",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyB0aGUgcXVldWUgYXQgRnJhbmtsaW4gQmFyYmVjdWU/IiwibGsiOiJHaEptY21GdWEyeHBiaUJpWW5FZ2NYVmxkV1UiLCJicyI6ImMtTnk0OUwyeUM5WHlNblBTMWZJTEZZb3lVaFZLQ3hOTFUxVlNDeFJjQ3RLek12T3ljeFRjRW9zU2twTkxrMjFsOWhzYlNRaUpaUUdrMGhLS29RbzU0cmowZzdQQU9xQm1wR1VXbHlpa0pKWXFWQ1NyNUNlRHlJUmhqa0Yya3QwQ3hqcFNHbVY0OVdCYkF0WEVKY3EyUHpjeE96VVlreVhLUlNEZE9XbjJFdDg4RFZTazFJcFI2aEZHSU9tbGl1S1N3Zms5OVRFb3B4S2hlS01fTktjRkFWUEJhRFNWSVhTQW9XMF9DSTBSeTh0TlZLWFVzMkFhd0c2RVZreHNuc0ZHQUUiLCJpZCI6ImZjX3hRV1lhc3liQnRDaHVyOFByUE9Ta1FnXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJIb3cgbG9uZyBpcyB0aGUgcXVldWUgYXQgRnJhbmtsaW4gQmFyYmVjdWU%2FIiwibGsiOiJHaEptY21GdWEyeHBiaUJpWW5FZ2NYVmxkV1UiLCJicyI6ImMtTnk0OUwyeUM5WHlNblBTMWZJTEZZb3lVaFZLQ3hOTFUxVlNDeFJjQ3RLek12T3ljeFRjRW9zU2twTkxrMjFsOWhzYlNRaUpaUUdrMGhLS29RbzU0cmowZzdQQU9xQm1wR1VXbHlpa0pKWXFWQ1NyNUNlRHlJUmhqa0Yya3QwQ3hqcFNHbVY0OVdCYkF0WEVKY3EyUHpjeE96VVlreVhLUlNEZE9XbjJFdDg4RFZTazFJcFI2aEZHSU9tbGl1S1N3Zms5OVRFb3B4S2hlS01fTktjRkFWUEJhRFNWSVhTQW9XMF9DSTBSeTh0TlZLWFVzMkFhd0c2RVZreHNuc0ZHQUUiLCJpZCI6ImZjX3hRV1lhc3liQnRDaHVyOFByUE9Ta1FnXzIifQ%3D%3D"
+  },
+  {
+   "question": "What is the best day to go to Franklin BBQ?",
+   "type": "featured_snippet",
+   "snippet": "Wash it all down with a beer made in collaboration with local cult brewer Jester King. PRO TIP: Aaron Franklin himself told us that Wednesdays and Thursdays are the best days (don't even think about weekends), and that you'd best get there by 8 a.m. to guarantee they won't have run out of food.",
+   "title": "Franklin Barbecue | Bon App\u00e9tit",
+   "link": "https://www.google.com/goto?url=CAESwgEB6zswFQzE7JFPUBwtwxl7VVBXSp8aocDBcnX96xCMGnBj-5KiDeMZcLZQa4I4j6BHPPuvrk0pwZCEB-P1tEde91s5phQmGIlhRpg1q3VBmxzgH4d3eOAJLKO8EDx2_-HAc73fpHmsfsziP-NW5QgnvwR-sxKixakRtGk7sKhXPctemP8oIMIHK-0dOdXtclg4k05kSOaI_dJ70rPhMFBnm8xcTMNE9uWeE8cP2cv_VPyBuOEHGEeAlUJ6SeLiOk4XVg",
+   "displayed_link": "https://www.bonappetit.com \u203a city-guides \u203a austin \u203a venue",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAAAAAA6mKC9AAAAZklEQVR4AWMgB7Q8a0ET-V-HLlBp2SsPpIMqU6ACy4JC_ncxzONgOLYZLADkMFT-Z_gfxND1C26Gw_9YoOgehEDIf4aWm1olUIEZDAybjzH8z2WYARHYPK-kC2jasc-9Ib8qGagBAMZoKusjSAlmAAAAAElFTkSuQmCC.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGRheSB0byBnbyB0byBGcmFua2xpbiBCQlE/IiwibGsiOiJjNVBTS3M5SUxGSElMRllveVVoVlNFb3RMbEZJU2F4VUtNbFhTTThIa1dsRmlYblpPWmw1Q2tsSmhRQSIsImJzIjoiYy1OeTQ5TDJ5QzlYeU1uUFMxZklMRllveVVoVktDeE5MVTFWU0N4UmNDdEt6TXZPeWN4VGNFb3NTa3BOTGsyMWw5aHNiU1FpSlpRR2swaEtLb1FvNTRyajBnN1BBT3FCbXBHVVdseWlrSkpZcVZDU3I1Q2VEeUlSaGprRjJrdDBDeGpwU0dtVjQ5V0JiQXRYRUpjcTJQemN4T3pVWWt5WEtSU0RkT1duMkV0ODhEVlNrMUlwUjZoRkdJT21saXVLU3dmazk5VEVvcHhLaGVLTV9OS2NGQVZQQmFEU1ZJWFNBb1cwX0NJMFJ5OHROVktYVXMyQWF3RzZFVmt4c25zRkdBRSIsImlkIjoiZmNfeFFXWWFzeWJCdENodXI4UHJQT1NrUWdfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGRheSB0byBnbyB0byBGcmFua2xpbiBCQlE%2FIiwibGsiOiJjNVBTS3M5SUxGSElMRllveVVoVlNFb3RMbEZJU2F4VUtNbFhTTThIa1dsRmlYblpPWmw1Q2tsSmhRQSIsImJzIjoiYy1OeTQ5TDJ5QzlYeU1uUFMxZklMRllveVVoVktDeE5MVTFWU0N4UmNDdEt6TXZPeWN4VGNFb3NTa3BOTGsyMWw5aHNiU1FpSlpRR2swaEtLb1FvNTRyajBnN1BBT3FCbXBHVVdseWlrSkpZcVZDU3I1Q2VEeUlSaGprRjJrdDBDeGpwU0dtVjQ5V0JiQXRYRUpjcTJQemN4T3pVWWt5WEtSU0RkT1duMkV0ODhEVlNrMUlwUjZoRkdJT21saXVLU3dmazk5VEVvcHhLaGVLTV9OS2NGQVZQQmFEU1ZJWFNBb1cwX0NJMFJ5OHROVktYVXMyQWF3RzZFVmt4c25zRkdBRSIsImlkIjoiZmNfeFFXWWFzeWJCdENodXI4UHJQT1NrUWdfMiJ9"
+  },
+  {
+   "question": "What makes Franklin Barbecue so good?",
+   "type": "featured_snippet",
+   "snippet": "The incredible brisket is the reason many attribute the great success of Franklin Bbq in such a short amount of time and consider it to be the best bbq in Austin.",
+   "title": "The Ultimate Guide to Eating At Franklin Bbq in Austin",
+   "link": "https://www.google.com/goto?url=CAESxAEB6zswFQspypH7CvV0ocfd3wvwOaYeYjMXSsB6XnAPxrIvAoV6_SYaSsd7ab97jBgo0vlwk8uqiPUkPH60byfrtZ8HB95C8agEtVaCML0SQbquZAJJQFT9v5toC3veNPNktl7NHGhkgBz593poumX22a1BgpWAcJhR8PKKMuRbkEQ9M4hxGHfrlr-lVUWNyhq2zb9h1BMz5OHBdtIJufCC0Sbh4UFpyRqTX2PcHcWRFHaDNhdvYzGAkzNyXXJ6SLupgmhU",
+   "displayed_link": "https://www.femalefoodie.com \u203a Restaurant Guides",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJXaGF0IG1ha2VzIEZyYW5rbGluIEJhcmJlY3VlIHNvIGdvb2Q/IiwibGsiOiJHaVIzYUdGMElHMWhhMlZ6SUdaeVlXNXJiR2x1SUdKaGNtSmxZM1ZsSUhOdklHZHZiMlEiLCJicyI6ImMtTnk0OUwyeUM5WHlNblBTMWZJTEZZb3lVaFZLQ3hOTFUxVlNDeFJjQ3RLek12T3ljeFRjRW9zU2twTkxrMjFsOWhzYlNRaUpaUUdrMGhLS29RbzU0cmowZzdQQU9xQm1wR1VXbHlpa0pKWXFWQ1NyNUNlRHlJUmhqa0Yya3QwQ3hqcFNHbVY0OVdCYkF0WEVKY3EyUHpjeE96VVlreVhLUlNEZE9XbjJFdDg4RFZTazFJcFI2aEZHSU9tbGl1S1N3Zms5OVRFb3B4S2hlS01fTktjRkFWUEJhRFNWSVhTQW9XMF9DSTBSeTh0TlZLWFVzMkFhd0c2RVZreHNuc0ZHQUUiLCJpZCI6ImZjX3hRV1lhc3liQnRDaHVyOFByUE9Ta1FnXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJXaGF0IG1ha2VzIEZyYW5rbGluIEJhcmJlY3VlIHNvIGdvb2Q%2FIiwibGsiOiJHaVIzYUdGMElHMWhhMlZ6SUdaeVlXNXJiR2x1SUdKaGNtSmxZM1ZsSUhOdklHZHZiMlEiLCJicyI6ImMtTnk0OUwyeUM5WHlNblBTMWZJTEZZb3lVaFZLQ3hOTFUxVlNDeFJjQ3RLek12T3ljeFRjRW9zU2twTkxrMjFsOWhzYlNRaUpaUUdrMGhLS29RbzU0cmowZzdQQU9xQm1wR1VXbHlpa0pKWXFWQ1NyNUNlRHlJUmhqa0Yya3QwQ3hqcFNHbVY0OVdCYkF0WEVKY3EyUHpjeE96VVlreVhLUlNEZE9XbjJFdDg4RFZTazFJcFI2aEZHSU9tbGl1S1N3Zms5OVRFb3B4S2hlS01fTktjRkFWUEJhRFNWSVhTQW9XMF9DSTBSeTh0TlZLWFVzMkFhd0c2RVZreHNuc0ZHQUUiLCJpZCI6ImZjX3hRV1lhc3liQnRDaHVyOFByUE9Ta1FnXzIifQ%3D%3D"
+  },
+  {
+   "question": "How early should I line up for Franklin BBQ?",
+   "type": "featured_snippet",
+   "snippet": "We close every day when we sell out, so if you show up late, you might be outta luck. Our general rule: show up around 9-ish on weekdays, 8-ish on weekends. Bring a chair (or grab one of ours), make some friends and treat it like a good old-fashioned tailgate. It's not just a line; it's part of the experience.",
+   "title": "Franklin - Facebook",
+   "date": "Jan 29, 2026",
+   "link": "https://www.google.com/goto?url=CAESyQIB6zswFWSjOnOmylI6Sv5UpyX-AqLqR4qstM6YhDT9MadVpDusYu9PElOmKyaI8IWO3HBVvaX0zAKupJJ4WEEoFwCiZcPo-L-o6T10_KmReXt6y4Z0469Dpi7Lf49jt2WG496B1-3H0B3IPoKngWD2PSLDvhqa3z6ru2fzNYWIFcL43SYM6m_EDsc43oIBNHdiJBdWqEB_8Y7bbyD2T3wCdDx0CVxRlug2vUnhT4HvTuCUoZDKxLO4cA1x2_qd7K2FLTmDBAmy5aiG69BCKvTM6HGCkE1DpRgAVrc5jCsOtnP_yCrZtKQDOXQdoCv3N4Iv3CNaCb1RtLxQXiJEFgW4uLQwFI6eRWkD19nzPnJDhUYiAl6vWaiSXKx57bFp6twtMomu0hrwMojxWbVZhivkN6R_Q2ca0ubZ7q7oi7OMLhPFKLialgOGJA",
+   "displayed_link": "https://www.facebook.com \u203a franklinbbq \u203a photos \u203a whe...",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEVHcEzy9P8AUf8ASv8HZ_8IZv8IZ_8IZ_8Haf8IZ_8HZv____8AWf8AXv8AU_-Vrv8AYv92mf-5yP_W3v8ASv8AQv8nbv-7HldHAAAACnRSTlMA7NmTk_zaoh7UuAxLUQAAAIZJREFUGJVFj9sCwyAIQ9mmqIi3rt3_f-qItW2e4KAJEJmiY-_ZRVoKshTOPqEuVVUl3XNtOeev4k2cc_QAEsnNBy9rx-gijhig2lyL9cLk8eMwcGix0gOULU9tBYAfAA-GaR8Iae0nMEVs3w3ssLDYuRhS6r18ekC6jlsgXOfGj236Ps__A7wiCPnj1HgsAAAAAElFTkSuQmCC.png",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJIb3cgZWFybHkgc2hvdWxkIEkgbGluZSB1cCBmb3IgRnJhbmtsaW4gQkJRPyIsImxrIjoiR2lWb2IzY2daV0Z5YkhrZ2RHOGdiR2x1WlNCMWNDQm1iM0lnWm5KaGJtdHNhVzRnWW1KeCIsImJzIjoiYy1OeTQ5TDJ5QzlYeU1uUFMxZklMRllveVVoVktDeE5MVTFWU0N4UmNDdEt6TXZPeWN4VGNFb3NTa3BOTGsyMWw5aHNiU1FpSlpRR2swaEtLb1FvNTRyajBnN1BBT3FCbXBHVVdseWlrSkpZcVZDU3I1Q2VEeUlSaGprRjJrdDBDeGpwU0dtVjQ5V0JiQXRYRUpjcTJQemN4T3pVWWt5WEtSU0RkT1duMkV0ODhEVlNrMUlwUjZoRkdJT21saXVLU3dmazk5VEVvcHhLaGVLTV9OS2NGQVZQQmFEU1ZJWFNBb1cwX0NJMFJ5OHROVktYVXMyQWF3RzZFVmt4c25zRkdBRSIsImlkIjoiZmNfeFFXWWFzeWJCdENodXI4UHJQT1NrUWdfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSk1qWjFMVXhRUWpKRE5sVllkRVYzZWkxQ1QxQnNla1JtWDBSSE9WOUdlVmwzZEU5Qk0wMHRTamRmYVdOd2VYSlBhM3BaUlVOWFNuaE9VR0Z0YURRNWJ6TnBkRkZPVFMxNlVXdGxTVWd6VkdwcVgwYzJXWFJ3UkVST1VSSVhlRkZYV1dGemVXSkNkRU5vZFhJNFVISlFUMU5yVVdjYUlrRkVjM0k1WmxSeGFWZEhOVnBFZEROdlJXWkNXSEZLYlZwdWRIbzVOQzFzYUhjIiwiZmN2IjoiMyIsImVpIjoieFFXWWFzeWJCdENodXI4UHJQT1NrUWciLCJxYyI6IkNpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRCQUFmZkdIQ0Q4IiwicXVlc3Rpb24iOiJIb3cgZWFybHkgc2hvdWxkIEkgbGluZSB1cCBmb3IgRnJhbmtsaW4gQkJRPyIsImxrIjoiR2lWb2IzY2daV0Z5YkhrZ2RHOGdiR2x1WlNCMWNDQm1iM0lnWm5KaGJtdHNhVzRnWW1KeCIsImJzIjoiYy1OeTQ5TDJ5QzlYeU1uUFMxZklMRllveVVoVktDeE5MVTFWU0N4UmNDdEt6TXZPeWN4VGNFb3NTa3BOTGsyMWw5aHNiU1FpSlpRR2swaEtLb1FvNTRyajBnN1BBT3FCbXBHVVdseWlrSkpZcVZDU3I1Q2VEeUlSaGprRjJrdDBDeGpwU0dtVjQ5V0JiQXRYRUpjcTJQemN4T3pVWWt5WEtSU0RkT1duMkV0ODhEVlNrMUlwUjZoRkdJT21saXVLU3dmazk5VEVvcHhLaGVLTV9OS2NGQVZQQmFEU1ZJWFNBb1cwX0NJMFJ5OHROVktYVXMyQWF3RzZFVmt4c25zRkdBRSIsImlkIjoiZmNfeFFXWWFzeWJCdENodXI4UHJQT1NrUWdfMiJ9"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Whether Franklin Barbecue in Austin, Texas, is worth the 3-to-5-hour line depends on if you view the morning wait as a fun social tradition or a waste of time. The brisket is world-class, but many locals argue other central Texas spots match the quality with a fraction of the wait.",
+    "snippet_highlighted_words": [
+     "depends on if you view the morning wait as a fun social tradition or a waste of time"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "The Food and Experience"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "The Brisket: Widely praised for its tender texture, rich smoke flavor, and peppery bark."
+     },
+     {
+      "snippet": "The Social Vibe: Many visitors enjoy the tailgate atmosphere, meeting people in line, and drinking coffee or beer together before doors open at 11:00 AM."
+     },
+     {
+      "snippet": "The Risk: Lines start forming before 8:00 AM, and if you arrive too late in the afternoon, popular items like brisket or beef ribs can sell out completely."
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "How to Skip or Reduce the Wait"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Pre-order: You can place an online pre-order weeks in advance to bypass the physical line, though it requires buying larger quantities (typically 5+ lbs of meat)."
+     },
+     {
+      "snippet": "Go on a Weekday: Tuesday through Thursday lines are generally shorter than weekend rushes."
+     },
+     {
+      "snippet": "Alternative Options: If you want top-tier Texas barbecue without hours in line, spots like Terry Black's BBQ, Interstellar BBQ, or La Barbecue offer exceptional food with much shorter waits."
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you are planning a trip to Austin, let me know:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "What days you will be in town"
+     },
+     {
+      "snippet": "How large your group is"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "I can help you decide whether to tackle the morning line or choose an alternative spot."
+   }
+  ],
+  "references": [
+   {
+    "link": "https://www.google.com/goto?url=CAESewHrOzAVecQPtY-g5fAQbp3oQy1u-l32DCodfENnZI2xPa5LTqMvTHLOsc5AYrq47FEX40zEjAHGkHwYxSW0fud_JLSpfysbOlUzS3l2YY4N47DHSHVkcspsOR2hIYHUV0Tyi0tOnhEBG-TVns0M_TYM4Pzw0FKumRTsIw",
+    "source": "reddit.com",
+    "index": 0
+   },
+   {
+    "link": "https://www.google.com/goto?url=CAESYAHrOzAVw8YrRUlh87Ko_7GwBVUbTMiZWGzhed4CavIj0QBUfiT9lffTQEhtgt81spNptVMMF3nU5aIaICT32nZxD9msPr4reEFRPrcDFiG6nrA3LZn-IjOsA0ybryuIhw",
+    "source": "feastio.com",
+    "index": 1
+   },
+   {
+    "link": "https://www.google.com/goto?url=CAESgwEB6zswFdA4g90ldHHvnXy6yAGTfk6uo3p8rIYEfXknEOQaxUBXsPKGvbrI7vVb9oWRbtLMV-tqvXu51st0YpuDiQ-K8-JxGg74nX3z_ivLod-d1j13ykwnQTk1v0zPGt57mGnIbx-m6lX_5mpEazdJtdR4n1o-rWa0LkFeFYzBHgLXXA",
+    "source": "atxfyi.com",
+    "index": 2
+   },
+   {
+    "link": "https://www.google.com/goto?url=CAESewHrOzAVkNyzE6ekXwQd5o-D0c4sYk-7dMJhuNJpSI3WfQqVnAlK-LFBjj-dg2mKpUiKGamBUAX8qKp_znWSsyT-W_sKoqkoBK9hmXTiN7rDJSeQfZN96i1D650GunblSz3FR41AIc4-ei_HJTYXniu_rewjNFeSzVi0YQ",
+    "source": "facebook.com",
+    "index": 3
+   },
+   {
+    "link": "https://www.google.com/goto?url=CAESYwHrOzAVV-usxIXr2zjuNPnU_hFQl7qhQGBWFlFpKUTatJcR5bUDWMOzGECba_HhFmwPGeEbHyUCkI4NZ2LVP0QP1T7K3BavE1YP4LwLf0NjOrrWSBe5Qz819npwHEI_xysHGg",
+    "source": "youtube.com",
+    "index": 4
+   },
+   {
+    "link": "https://www.google.com/goto?url=CAESaQHrOzAV50LerlI0blF1PiZAnv8jcVYBIAL2rdUYOrK7GQt3CKNbW71caBKY__EYihUYWy52Vx14D6ta91Djf6fvnwQ2eWUXuIDhCtX1zOGJXi97Jh7dHu4oR6YnM24DPfwKCrn8RnMlbg",
+    "source": "instagram.com",
+    "index": 5
+   },
+   {
+    "link": "https://www.google.com/goto?url=CAESYwHrOzAVelcwtu3oGYg-nhGyBxZra97INRBO7kuTyf9D2NZVG2pqs5tE3Tv8DAGctgoEhhiWbsvEEhG-mqfKb1cSzSqS8oNW1MjPoUZ_73kC1YOh4d3cQljEyFmLxdd2W6uJbA",
+    "source": "youtube.com",
+    "index": 6
+   },
+   {
+    "link": "https://www.google.com/goto?url=CAESdgHrOzAVsOTAQ23UuLliJyI5KF7HMVGLu5vXnEOobuCkzD_oAZSCQxAYN9zNWDEs3foYyZiQfRzABycyTX6K6EMwbaqSbbS1AeR32beKdOqLR4bYz_7iO26mTlpV_I_SVZAUebxop6Xnug0oEQDJ4rTeUUMCvLY",
+    "source": "facebook.com",
+    "index": 7
+   },
+   {
+    "title": "Is Franklin worth it? : r/BBQ - Reddit",
+    "link": "https://www.google.com/goto?url=CAESewHrOzAV-8YbCMk90KAKzp_fwihdJZhNI8seshUKbNsZj7lvD6bwljcI7SLtEZN5FVmUljVx_94w8RfPbUbk5V-mRTKFVC2_bmdmMhRbOL0pP2MCYqSfh8TlB3hLvOs8LQdkCEcDSW5SGy8AkSgogRfGdZCuRwJxmIY3bQ",
+    "snippet": "Franklin Line Experience: While many view the long wait at Franklin BBQ negatively, some see it as an enjoyable part of the experience, offering a chance to soc...",
+    "source": "Reddit",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLu_-sRUev68ZN_2WzwYFEHSVPh2o67Hb6Th2Aeiw8QyzGolCSOPLHbGDjIOA1SsjYZOyNNZF-XgJZ97RC-ejrCGXi93chvg1HOUiO",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 8
+   },
+   {
+    "title": "What I Experienced Eating at Franklin BBQ for the First Time",
+    "link": "https://www.google.com/goto?url=CAESYAHrOzAVYoWUPvxqhb2d_aw6pCSk2Gk7bu9TMSNCvc1gjeQv8ivTflFoIrnbqUAUdErQw3ORXLU7eQmdSP0QKYUze_Mfh6lqcfDQ0XqicAve25OwDnqC21PzCA9hsf6tlw",
+    "snippet": "Final Thoughts. In conclusion, my experience at Franklin Barbecue was a fun foodie adventure close to home. Waiting in line isn't a big deal, and I don't recomm...",
+    "source": "Feastio",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0hQ8LVBiVoxNysLsLz_3XGdqnqWtCYjCGDuYn6e_3r4d1sbttSCyz5cs5Qt3Tj9lZkgziD4LsDKAEoq3ImwLl0Pu0kEzViDleIEt",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://feastio.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 9
+   },
+   {
+    "title": "Is Franklin Barbecue's 5 Hour Wait Really Worth It? \u2014 ATX FYI",
+    "link": "https://www.google.com/goto?url=CAESgwEB6zswFRoL4S2Pj3wdiTC6wy2ptbED7wD4-LZDIAjyMl50ipF9-l7WZVWOvEV8k-Pl9yWBFhl0g4Y_6IJPEC5fd0UWPjlr6DvDt3ez8hvCUeZGJkBfGY5RXm5o5BR7anV8JcuxZGjWE-sksAy8DaobgGP9dYzJu0xNkUjcXRmwDfMSmQ",
+    "snippet": "Franklin Barbecue in Austin, Texas sells out of brisket every day they're open. The restaurant smokes about 2,000 pounds of brisket per day. The line length dep...",
+    "source": "ATX FYI",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxO9d_zKI7ea7QwQpwo2g8zBXq8QKb_orV3iqOXOkdGL5GdnQhj3UQlt7ZmOnnyeMJaQrqqn10Yaz4fn-K6ul1igxrIufoVUTlp6yb",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://atxfyi.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 10
+   },
+   {
+    "title": "Is Franklin BBQ Worth the Wait? - Facebook",
+    "link": "https://www.google.com/goto?url=CAESewHrOzAVrj1iLl_GGye1iMeBQyiovvQu5OayEE3SaKslRIXiheh9aU76Z1cVh1a28OLHA2r9eFGPMcWFi6BVhEP1YCExFInsSfh7GjNQCCbLF9_bN2o9B5Hmg5QBWyLnJTxfYdGP7XFxEpuwK2hdPguyBg8u-XbJcLoqrA",
+    "snippet": "Yes\u2014for most people the brisket at Franklin Barbecue is worth the wait at least once, but it depends on your patience and timing. Pitmaster Aaron Franklin's pep...",
+    "source": "Facebook",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1Npyadj4b0qpw0kwEQkgmSIZ2oY3Xa7rUrmVXhp_SWqnOBmWXjjzCXbLV9DRlkCOC0O8RsPVEvLAT4IUZ-Ng4UKweinwIhZMfZ-nw",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 11
+   },
+   {
+    "title": "We Put Franklin BBQ to the Test in 2026...Is It Still Worth it?",
+    "link": "https://www.google.com/goto?url=CAESZwHrOzAVKci0qvQnUwKv9YEMQXVzKw7I00gHQsttGOqiuoVErwpRg9EHF3PgFMA3J6ZDV5PrkgtA8FiE1_NDayh2RxfGK2Y2OsQTu-FMb6Ff0GGvMDR8DewcdElTKL_TCFA807u25ps",
+    "snippet": "again me and Bradley are on a little barbecue trip here in Austin Texas we've done Old School we've done new school we're now heading to probably the most famou",
+    "source": "YouTube",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMmFkhZm8pkJLCvOqmxeIwDNJLwEZFKpbh5Nrfl2MTThgJbhXDBJvWpk_Kda5P9mYokeHje4MsOUuyK88z1K9SS0BXtIzQjCjEDO2lsA",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 12
+   },
+   {
+    "title": "At this point, the line at Franklin Barbecue isn't just a wait\u2014it's a rite of ...",
+    "link": "https://www.google.com/goto?url=CAESaQHrOzAVagIZFno7KAGQUZ3vyFzMIeAiukZrNk52p5CXIf0d_PG5h_Z6PipoXCc5mXH1lFFQxmaO68LzS7VgAZZ_YXc9QDweeMBm1CMAWo6Hjl4kvyZ86LCy-p96szoK1ZBHeWxFssT4Ew",
+    "snippet": "hey guys so I knew this barbecue spa had to be good the second I saw the line wrapped around the building. and let me tell you it did not disappoint. they even",
+    "source": "Instagram",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVO9rPVgvytecuTjYN59Ufvqz3CDNOQhpTsz_R778KJX8WcwRPZZnj7TBWjdi_e4BrXmUS0c6meVro-UxNwhHvOaL9uPFb93xZZfVVmg",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.instagram.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 13
+   },
+   {
+    "title": "Franklin BBQ Epic Brisket Review \u2013 Still Worth the Hype or Overrated?",
+    "link": "https://www.google.com/goto?url=CAESaAHrOzAVaum6UahLYp2AwF7_NNFvrjJHUmWZEttMGN3KhvWP2H6I14oGNdjYY4A7kKBcC3UEs3FHHneuttQ8zEM5aVwbTEBDG_shLNP0Q0pcx98qkXcvcIeF4QuEmsfJvl_B25F_YWmJ",
+    "snippet": "so um yeah so it'll be interesting to see how long the line is but hey day two of Ethan and Justin's barbecue crawl is uh Franklin's that's a that's a good day",
+    "source": "YouTube",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUv5JT2oh0GI0mnFOy5Lb_myXb8HYLVRpdTvb7JDKTYJTQKRbkwljFUaos1hlJEqWAf8G-6U1RK6IKB4Bus5fPyeHNE9Wc099YB0shhg",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 14
+   },
+   {
+    "title": "Is waiting in line for Franklin Barbecue in Austin, Texas worth it? - Facebook",
+    "link": "https://www.google.com/goto?url=CAESdgHrOzAVSmtgoMxOqDSTX4ctaBU49J5_gu-ZzJ4y5uLPo6wRdnsT1UgwqIOOKctYKrZzIf4Ih2D_SLdYXK50SmjHHfskCDsN08szalzI3E_Gv76WqytVwoC-i7zhCA4hxgyPTNwgzHwhS6ciMT3utcwAHHbXHT4",
+    "snippet": "Minimizing Franklin Wait: Arriving early is recommended to reduce wait times and ensure availability of desired items. Many suggest arriving before 9 am, with s...",
+    "source": "Facebook",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknPbguIdViiPcQ_dEPlBPhJsTlxPYelao6t1DZaJ3pUtkiHe2cMFVOHrMkKhGcj3tGVvzWdzOl8mEp1SRg7jyWrN03ij7Fas645Yi",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "index": 15
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Is Franklin worth it? : r/BBQ",
+   "link": "https://www.reddit.com/r/BBQ/comments/10p564s/is_franklin_worth_it/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVecQPtY-g5fAQbp3oQy1u-l32DCodfENnZI2xPa5LTqMvTHLOsc5AYrq47FEX40zEjAHGkHwYxSW0fud_JLSpfysbOlUzS3l2YY4N47DHSHVkcspsOR2hIYHUV0Tyi0tOnhEBG-TVns0M_TYM4Pzw0FKumRTsIw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQFnoECBsQAQ&uoh=1",
+   "displayed_link": "130+ comments \u00b7 3 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "I'm taking a trip with my girlfriend to Austin, Texas in a couple months, and we're currently planning our spots. Is Franklin worth the wait? Im probably ...",
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Is Franklin's actually worth it! : r/Austin",
+      "link": "https://www.google.com/goto?url=CAESiAEB6zswFSwHLgOmKD8JKB_vH5vAoI5hdYHy2nFO8jxPqkvKovuqyFJt5acHDheiOZw3GH6RetHsYcTjQzd6kQQJWPz30v3l0ahp2BaxCigcUQo58PYPsBtx7VoxcYZkzOKDnigrBYzF6XjQutyM7EeDDSFEb4fQsWHtcWzGYj9ND2ci4aLRfpQr",
+      "answer_count": 67,
+      "date": "May 18, 2025"
+     },
+     {
+      "title": "Is Franklin's worth the wait? : r/austinfood",
+      "link": "https://www.google.com/goto?url=CAESiQEB6zswFQJgvp7K74LeVQNuyYp0XkgnH-uyJv4EkS5sJ2trbGh4BX8yJbkNK-9b1ZWlSJ9DRFSlSv-RxDBBN4giTn4GagosQFaQIth1qPHwnpFGKo0v2tumskW7P0O-vitTnJec3CCrZ4m3A5LRs_757CLxgP93vq9hEXB5qmOmdeosXozPtQ__Pw",
+      "answer_count": 162,
+      "date": "Oct 26, 2023"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "It's worth it. I waited 5+ hours on a Thursday morning. The line was actually fun. Lots of folks hanging out having beers. If you get there late ...",
+     "source_info_link": "https://www.reddit.com/r/BBQ/comments/10p564s/is_franklin_worth_it/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/BBQ/comments/10p564s/is_franklin_worth_it/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FBBQ%2Fcomments%2F10p564s%2Fis_franklin_worth_it%2F",
+   "source": "Reddit \u00b7 r/BBQ"
+  },
+  {
+   "position": 2,
+   "title": "Is Franklin BBQ Worth the Hype? We Stood in Line to Find Out.",
+   "link": "https://www.thetastyescape.com/is-franklin-bbq-worth-the-hype/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVUsO10DeMzVcMzWZi_5jaU6sB38U6oMN9LGUeKivyJiDPoiyAADVH9cWxcW3Mwlamq3VbyRHsxZcXforJUaDEMCiNwGvcnYbwO6KKu65xgW4CEgASJTZSzW3b_RalRSK7KGoPIbbIe260iLsYF9WQdmY&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQFnoECDYQAQ&uoh=1",
+   "displayed_link": "https://www.thetastyescape.com \u203a is-franklin-bbq-worth...",
+   "favicon": "https://serpapi.com/images/i/UklGRtwAAABXRUJQVlA4INAAAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0ygyfpgSH_0c_-2iAN7_ZVV2ABie-EnyrX3XLVWhjo1wq3gAD-8oU4ATdjze10XP7GNpQdUBUv5-_afDF8l_-L9nkEngVgYqDvvtRnR-5SV57-38gLw6sWYfK-V6r7m5vjSG8OWk3tdJ51_784Re09RRR6CfEAc3YC8TmEsdZMkwega5SasGD1yZS5jqay3kCPEu6FErUU386Fjs-knQjt8pS0sOsesAIn9ShWpEyFvqMHgAAA.webp",
+   "date": "Mar 2, 2026",
+   "snippet": "If you're visiting Austin and find yourself wondering if Franklin BBQ is worth the wait, the answer is hell yes. (Two hells in one post, so you ...",
+   "snippet_highlighted_words": [
+    "BBQ is worth the wait"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "If you're visiting Austin and find yourself wondering if Franklin BBQ is worth the wait, the answer is hell yes. (Two hells in one post, so you ...",
+     "source_info_link": "https://www.thetastyescape.com/is-franklin-bbq-worth-the-hype/",
+     "icon": "https://serpapi.com/images/i/UklGRtwAAABXRUJQVlA4INAAAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0ygyfpgSH_0c_-2iAN7_ZVV2ABie-EnyrX3XLVWhjo1wq3gAD-8oU4ATdjze10XP7GNpQdUBUv5-_afDF8l_-L9nkEngVgYqDvvtRnR-5SV57-38gLw6sWYfK-V6r7m5vjSG8OWk3tdJ51_784Re09RRR6CfEAc3YC8TmEsdZMkwega5SasGD1yZS5jqay3kCPEu6FErUU386Fjs-knQjt8pS0sOsesAIn9ShWpEyFvqMHgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.thetastyescape.com/is-franklin-bbq-worth-the-hype/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.thetastyescape.com%2Fis-franklin-bbq-worth-the-hype%2F",
+   "source": "thetastyescape.com",
+   "read_more_link": "https://www.google.com/goto?url=CAESxgEB6zswFYRWnmxB1jCLhkXkHaTA_35cREh4ECP8KHyGuwW8mpRcvZFytmkEk2NzP2EC-jrIq5WC1FtFuUSqZB_xY44SepKupHVvXl39y7XX9XLC529aqEVY1qN6otjqIkX6v8LpvFCc4obmpou0VcJ-sTZEen_SHcVm-EMwNMGWw8xpBzxY_9z1vJfERld2XED0dDSgpRL22OqCW1GaMuXux8qVR7QZN3UrgkOTgk4SrCWLZ-Ns64zgWbeU0lTB977Ny3IEmU8"
+  },
+  {
+   "position": 3,
+   "title": "Is Franklin Barbecue's 5 Hour Wait Really Worth It?",
+   "link": "https://atxfyi.com/austin/is-franklin-barbecues-5-hour-wait-really-worth-it",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFdA4g90ldHHvnXy6yAGTfk6uo3p8rIYEfXknEOQaxUBXsPKGvbrI7vVb9oWRbtLMV-tqvXu51st0YpuDiQ-K8-JxGg74nX3z_ivLod-d1j13ykwnQTk1v0zPGt57mGnIbx-m6lX_5mpEazdJtdR4n1o-rWa0LkFeFYzBHgLXXA&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://atxfyi.com \u203a austin \u203a is-franklin-barbecues-5-ho...",
+   "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACQBgCdASogACAAPtEutFooIagoGAEAGglsAJ0zMvcNgQYDbMXaABSkEeou5etK6LnloNLBiD5mHWqjCVIMAP72Av_hd8SopUg-Xckbi4v21MbJVMFspy37kDASS4p4eG16TKqKpp0Fa4ZcfehReHHDogDnjRg5M0zOoccsx8-Rs8ge0z_W1I8H0rpL7G_-9TcVLLe93YNVPTlAHT3J6Vu7tyl-Fnd3uGqNWlmngO8ueGEtmcB1Q9VwCm_5Pm6AB5wAqjuGLNI8wrbAdddJ18PZ_-x1t_2_bDXnZj34-ycw2EEEMpdPwRGptueqhXnJyv8FPuNwhIyFPJwdFMl0vBHLDI5gonofCmiDeMAkEppPKjsr7PCjFcJ-0cK_0070Ry86AAAA.webp",
+   "date": "Dec 13, 2019",
+   "snippet": "The line is worth it. You get to meet new people and bond over barbecue. You get THE FRANKLIN EXPERIENCE in the FrankLINE! Tips. Get there early ...",
+   "snippet_highlighted_words": [
+    "The line is worth it"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The line is worth it. You get to meet new people and bond over barbecue. You get THE FRANKLIN EXPERIENCE in the FrankLINE! Tips. Get there early ...",
+     "source_info_link": "https://atxfyi.com/austin/is-franklin-barbecues-5-hour-wait-really-worth-it",
+     "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACQBgCdASogACAAPtEutFooIagoGAEAGglsAJ0zMvcNgQYDbMXaABSkEeou5etK6LnloNLBiD5mHWqjCVIMAP72Av_hd8SopUg-Xckbi4v21MbJVMFspy37kDASS4p4eG16TKqKpp0Fa4ZcfehReHHDogDnjRg5M0zOoccsx8-Rs8ge0z_W1I8H0rpL7G_-9TcVLLe93YNVPTlAHT3J6Vu7tyl-Fnd3uGqNWlmngO8ueGEtmcB1Q9VwCm_5Pm6AB5wAqjuGLNI8wrbAdddJ18PZ_-x1t_2_bDXnZj34-ycw2EEEMpdPwRGptueqhXnJyv8FPuNwhIyFPJwdFMl0vBHLDI5gonofCmiDeMAkEppPKjsr7PCjFcJ-0cK_0070Ry86AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://atxfyi.com/austin/is-franklin-barbecues-5-hour-wait-really-worth-it&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fatxfyi.com%2Faustin%2Fis-franklin-barbecues-5-hour-wait-really-worth-it",
+   "source": "ATX FYI",
+   "read_more_link": "https://www.google.com/goto?url=CAESvwEB6zswFVZjwVFfeCg8BnaXRlB5ZvWXBRBWfxjwrrBCULMsMstGnAbYnbdsq9ykRizc-pGwDo-HPWbta5K725irmkqwTj5y3SJ4rL6_Mz_fSLAM1ZOuZLk_FSTica26ulonvxgiGSzA5xRo26q8Xsi0408vUyPliEs6t1fwld9uKEH9mTnBkUmZYqBc0i7Oiz2W8Ih8o3XFdneezH3E2iTD1ZIDXCtAiyM5L0L0IWedcB_9YlwyOj6zjmP_7orebA"
+  },
+  {
+   "position": 4,
+   "title": "Is waiting in line for Franklin Barbecue in Austin, Texas ...",
+   "link": "https://www.facebook.com/groups/RTGOOA/posts/2841088832724718/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVsOTAQ23UuLliJyI5KF7HMVGLu5vXnEOobuCkzD_oAZSCQxAYN9zNWDEs3foYyZiQfRzABycyTX6K6EMwbaqSbbS1AeR32beKdOqLR4bYz_7iO26mTlpV_I_SVZAUebxop6Xnug0oEQDJ4rTeUUMCvLY&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQFnoECEEQAQ&uoh=1",
+   "displayed_link": "40+ comments \u00b7 2 years ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Asking for a friend. Heading to Austin in a bit. Always been a desire to hit Franklin BBQ. Two questions. Do you really need to get there at 03:00 and ...",
+   "sitelinks": {
+    "list": [
+     {
+      "title": "What do all you Texans think of Franklin BBQ in Austin ...",
+      "link": "https://www.google.com/goto?url=CAESfwHrOzAVnQYqq7IinP7eE0Q19UOJ9iVC3mZrhoE9NI8t84cYwlSa_aB9YY_cdGWcv82CXa84tzpkMdGVCAdcGRKpPckgp_4oyabK83F2x-Nqzyzpc0A2fzDsIzMjfFlnSxKGlwx_lgyufawLnZYPJNpvz59wzH-LWi4IDGT9f4g",
+      "date": "Apr 3, 2024"
+     },
+     {
+      "title": "What's the wait like for Franklin BBQ in Austin? - Facebook",
+      "link": "https://www.google.com/goto?url=CAESfgHrOzAVBKcl86CraUElawFSIkcy1CsLf0O1UOGdIyfC4j2PsZA9EUoydlE38Eyo2b-pm1BTcH0nZm_uTM5SHLx1R_ISYMAl2usSfAi4zVhs6-gui0StZQpA2Gtrawuppaw-sTgXKVBVFUQXEp8yyFTkmjRfMCNnsN42zYejDQ",
+      "date": "Oct 20, 2024"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "I've waited in line at Franklin 47 times so yeah, I think it's worth it. The BBQ is always great but the experience is like tailgating ...",
+     "source_info_link": "https://www.facebook.com/groups/RTGOOA/posts/2841088832724718/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/RTGOOA/posts/2841088832724718/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2FRTGOOA%2Fposts%2F2841088832724718%2F",
+   "source": "Facebook \u00b7 Recteq Grill Owners Of America"
+  },
+  {
+   "position": 5,
+   "title": "The Ultimate Guide to Eating At Franklin Bbq in Austin",
+   "link": "https://www.femalefoodie.com/restaurant-reviews/franklin-bbq/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVgkFXuddq8t5L9cAUKc_LdefGedwHT7tyfNvoeeDlMPK-Yqg4tm4u7KTb3Wyx-1gD-CiU8HWRXj7ug7c1JmNd8H76WNssLe60IenqZSzRgAG3lBU7l6XnROvDHnG4youGTx2Vma_LV_05-QkGj40yJg&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQFnoECDIQAQ&uoh=1",
+   "displayed_link": "https://www.femalefoodie.com \u203a Restaurant Guides",
+   "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAADwBACdASocABwAPtEutFooIagoGAEAGglpAAQ_Lx5IN9xHEATCY2h225ESEkAO2AAA_vYC9j7Yj6wEB2x34KLnVHIGOfujtWI_mxnN51VAnAvdmXIJOudWTuhUpJQkZIkLNao5utm4UGj_rUs27FooqInGrjmuG59P_VKssB39Kn7bBPrp8F_lXs1SexCtC7cKtLlsM7aPm47HkdC8e7JWF_xWqPa6mMbCz5_PV8EvVQQLiTx8cjA_EtpeGNnU_7JiiBQHoAxJ7GNCkoRAAA.webp",
+   "snippet": "The only guide you need for Franklin Bbq, the best bbq in Austin, including tips for getting into the restaurant and if the wait is worth it.",
+   "snippet_highlighted_words": [
+    "Franklin Bbq, the best bbq in Austin"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The only guide you need for Franklin Bbq, the best bbq in Austin, including tips for getting into the restaurant and if the wait is worth it.",
+     "source_info_link": "https://www.femalefoodie.com/restaurant-reviews/franklin-bbq/",
+     "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAADwBACdASocABwAPtEutFooIagoGAEAGglpAAQ_Lx5IN9xHEATCY2h225ESEkAO2AAA_vYC9j7Yj6wEB2x34KLnVHIGOfujtWI_mxnN51VAnAvdmXIJOudWTuhUpJQkZIkLNao5utm4UGj_rUs27FooqInGrjmuG59P_VKssB39Kn7bBPrp8F_lXs1SexCtC7cKtLlsM7aPm47HkdC8e7JWF_xWqPa6mMbCz5_PV8EvVQQLiTx8cjA_EtpeGNnU_7JiiBQHoAxJ7GNCkoRAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.femalefoodie.com/restaurant-reviews/franklin-bbq/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.femalefoodie.com%2Frestaurant-reviews%2Ffranklin-bbq%2F",
+   "source": "Female Foodie"
+  },
+  {
+   "position": 6,
+   "title": "Aaron Franklin explains when the line is the shortest at ...",
+   "link": "https://www.facebook.com/100063490091735/posts/aaron-franklin-explains-when-the-line-is-the-shortest-at-franklin-barbecue-in-au/1626091082850546/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFawzE2TsHgZs_RrJh8uJby8J3VxreAAuOJnSAzBbc_hLF6rf0hvy6H9in5dnE2pwVhqNM-FuettYTNMT4KVRpN25JYHFuJVaCLPmEISJSIrtGDot560s1uEEWM08hARU5HObA_D6wlBqt3u10TR_89VznBnUN5k9o5OxgUu2oV6OAMyRqltMFMjSWcQNjoOgtpIwiYZz13H-kGcyZVcnLwaLnJkTxmz87_fd67tYt19fIClVfVVHBqJvLrxZdG0WlBxkUuuy&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQFnoECDUQAQ&uoh=1",
+   "displayed_link": "460+ reactions \u00b7 1 month ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Expect to wait in line for at least an hour, but the food will be absolutely worth it. Secret tip: Order online for pickup in advance to beat ...",
+   "snippet_highlighted_words": [
+    "Expect to wait in line for at least an hour"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Expect to wait in line for at least an hour, but the food will be absolutely worth it. Secret tip: Order online for pickup in advance to beat ...",
+     "source_info_link": "https://www.facebook.com/100063490091735/posts/aaron-franklin-explains-when-the-line-is-the-shortest-at-franklin-barbecue-in-au/1626091082850546/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/100063490091735/posts/aaron-franklin-explains-when-the-line-is-the-shortest-at-franklin-barbecue-in-au/1626091082850546/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2F100063490091735%2Fposts%2Faaron-franklin-explains-when-the-line-is-the-shortest-at-franklin-barbecue-in-au%2F1626091082850546%2F",
+   "source": "Facebook \u00b7 Kevin's BBQ Joints",
+   "read_more_link": "https://www.google.com/goto?url=CAESkwIB6zswFZNV6wA2sbkQGVsiA2xhpY197eg5ZUxvFf9wW33aZDJ_1wgbg6ngw9P-N7MYl0WBWVtsnqO_exHyFwBeh-sar0Ll2yURiN8FG1R2Z898S5aY1gIvdhXlEaj23L6U8r3RS0R4RDenVKm6yNS1kPktslRKA_xMw1UZlfritkYRUoSvAD6k-ifPznLHIjAHETsJzA1s_eGX4l8NPlFI08YgQeZ9VG790M_JOEYO3G37w2Sl3aRCX-SkBD51rXsLeGH742xe-WeF0vRAxJNi_ul1O3Z-zM-uRnBZUKUNaPP3ZRqzQR61OU_oR97BWAHUWl9UTykHhZnegD1G31EQg2gCh8NgGPVHA-HTLPZtx7M-tQ"
+  },
+  {
+   "position": 7,
+   "title": "What I Experienced Eating at Franklin BBQ for the First Time",
+   "link": "https://feastio.com/franklin-bbq-austin/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVw8YrRUlh87Ko_7GwBVUbTMiZWGzhed4CavIj0QBUfiT9lffTQEhtgt81spNptVMMF3nU5aIaICT32nZxD9msPr4reEFRPrcDFiG6nrA3LZn-IjOsA0ybryuIhw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://feastio.com \u203a Austin",
+   "favicon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAwBQCdASocABwAPtEutFooIagoGAEAGglsALsBi0f2Ab7UfTwt7TefxBeYejUWIVBYAAD-9gJHIwHlevjoKAmsp0q_1sb5gvawtKKaReHMjTEcHiEOYTGfSFWo-aluEz8xhwimC7qGSXkFXECjrvFr1OpkJj3wZMnh42E9jPDpyh7b--_0OkiB8HOUF-o9RMzHarYzAPWDJbJOPH0TSmHduMYrwsMJeAn687f89p06vdmvcplJvjc9p34L_6PPAhDSFmv_dX650PkJ5bDF3Zn8I3vasSF-x__WlAAA.webp",
+   "date": "Mar 15, 2022",
+   "snippet": "In conclusion, my experience at Franklin Barbecue was a fun foodie adventure close to home. Waiting in line isn't a big deal, and I don't ...",
+   "snippet_highlighted_words": [
+    "Franklin Barbecue was a fun foodie adventure close to home"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "In conclusion, my experience at Franklin Barbecue was a fun foodie adventure close to home. Waiting in line isn't a big deal, and I don't ...",
+     "source_info_link": "https://feastio.com/franklin-bbq-austin/",
+     "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAwBQCdASocABwAPtEutFooIagoGAEAGglsALsBi0f2Ab7UfTwt7TefxBeYejUWIVBYAAD-9gJHIwHlevjoKAmsp0q_1sb5gvawtKKaReHMjTEcHiEOYTGfSFWo-aluEz8xhwimC7qGSXkFXECjrvFr1OpkJj3wZMnh42E9jPDpyh7b--_0OkiB8HOUF-o9RMzHarYzAPWDJbJOPH0TSmHduMYrwsMJeAn687f89p06vdmvcplJvjc9p34L_6PPAhDSFmv_dX650PkJ5bDF3Zn8I3vasSF-x__WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://feastio.com/franklin-bbq-austin/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffeastio.com%2Ffranklin-bbq-austin%2F",
+   "source": "Feastio",
+   "read_more_link": "https://www.google.com/goto?url=CAESrgEB6zswFTOWEXId8u7CvD5lpDOH64kDXAwKE0CcdEADLaS9prwg9I2dOswdpHR5WUjUO68DQuOvcRihy60yh8IfK7IqFJ8-ko1gPD_RtOM1IGWsWqJ8yY-1DO8a7MaYXl62ZTnRw0XXpU4HZSLArKufdbDhWYKJPcMf6MrfMaD8loPKE1UkBOIdmkyChtrpp3hJoQz7JH1D_AM9IPWVMwONwPHjTTV8Rf1wmBhcbuQ"
+  },
+  {
+   "position": 8,
+   "title": "Is Franklin's Barbecue Worth the Wait?",
+   "link": "https://www.google.com/goto?url=CAESfAHrOzAVtYyKP7UfdzHXEsecrSflTgSPwlvF4iq1-v3zw_mEzRawdD2h4Dir4pUaB4TKSDYjch69n8ZSsRZYuEDTLME5r65Ie8xDIiwn5iAg9dEqn0l1zbKJwZb3DDgaDrW8yWSaV5RRYjrZ6SVaECdVkAu3dzu7KxhuH6c",
+   "displayed_link": "1.8M+ views \u00b7 1 year ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSge4Pz0uQy2Yu1Kr_yXfda5wpnuHDxSbJQnbWaazuXUJqYefGQRx76Zw&s",
+   "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglqAM7t3At_tZAJkQvdasA_TiHmb7n9FyAAAP7-zMa8xfDsmgP7xucvFaqjgucV4bdksbH7T5hWZ7Spp4joaSpJkn8f-b3-hzHaYTR3orLW5n-k7-6LIWmkysnxryZWSCxzHX2r67D70GXzxOu61ckD56q8XtZWK_x58R4ZRGkSqRdrXLaacnMarnQXOhN4g7KbuRJ_RBQPlFto--LuPK0SDJ5nzs4aUXU65BLOB25fWHRS9zx-6YMAAAA.webp",
+   "snippet": "The team at Franklin's was generous with their portions, and let me tell you\u2014the flavor did not disappoint! Each bite was packed with everything ...",
+   "duration": "0:32",
+   "about_this_result": {
+    "source": {
+     "description": "The team at Franklin's was generous with their portions, and let me tell you\u2014the flavor did not disappoint! Each bite was packed with everything ...",
+     "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAAAQBQCdASocABwAPtEwtFooIigoGAEAGglqAM7t3At_tZAJkQvdasA_TiHmb7n9FyAAAP7-zMa8xfDsmgP7xucvFaqjgucV4bdksbH7T5hWZ7Spp4joaSpJkn8f-b3-hzHaYTR3orLW5n-k7-6LIWmkysnxryZWSCxzHX2r67D70GXzxOu61ckD56q8XtZWK_x58R4ZRGkSqRdrXLaacnMarnQXOhN4g7KbuRJ_RBQPlFto--LuPK0SDJ5nzs4aUXU65BLOB25fWHRS9zx-6YMAAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfAHrOzAVtYyKP7UfdzHXEsecrSflTgSPwlvF4iq1-v3zw_mEzRawdD2h4Dir4pUaB4TKSDYjch69n8ZSsRZYuEDTLME5r65Ie8xDIiwn5iAg9dEqn0l1zbKJwZb3DDgaDrW8yWSaV5RRYjrZ6SVaECdVkAu3dzu7KxhuH6c&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfAHrOzAVtYyKP7UfdzHXEsecrSflTgSPwlvF4iq1-v3zw_mEzRawdD2h4Dir4pUaB4TKSDYjch69n8ZSsRZYuEDTLME5r65Ie8xDIiwn5iAg9dEqn0l1zbKJwZb3DDgaDrW8yWSaV5RRYjrZ6SVaECdVkAu3dzu7KxhuH6c",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTm1oEN6blF5yI-di2eUXwZ53sNSMaNCZJduQ",
+   "source": "TikTok \u00b7 Joshua weissman"
+  }
+ ],
+ "perspectives": [
+  {
+   "author": "raisedontexas1",
+   "source": "Facebook",
+   "extensions": [
+    "4 reactions "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlj3-O53uSykRpnsrl8foFLR-vh5KmWknizci0fCHUganK-UWQkEDDuQ30g&usqp=CAI&s"
+   ],
+   "title": "By 6am, the line outside Franklin Barbecue is already curling around the block on East 11th Street, and by early afternoon the brisket is gone. \ud83d\udd25 It's the single most talked about restaurant recommendation any visitor to Austin gets, and for good reason: Aaron F",
+   "link": "https://www.facebook.com/raisedontexas1/posts/by-6am-the-line-outside-franklin-barbecue-is-already-curling-around-the-block-on/122137040079349006/",
+   "date": "1 day ago"
+  },
+  {
+   "author": "r/austinfood",
+   "source": "Reddit",
+   "extensions": [
+    "70+ comments "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqlk9UHug777WsoPUnLbq4NLvr40R5m5_xalFoQE-kQodgp3zQDx6i8oSLFw&usqp=CAI&s"
+   ],
+   "title": "In town for the weekend and made the pilgrimage to Franklin Barbecue. It was 100% worth it.",
+   "link": "https://www.reddit.com/r/austinfood/comments/1vya7it/in_town_for_the_weekend_and_made_the_pilgrimage/",
+   "date": "1 week ago"
+  },
+  {
+   "author": "Wilsons BBQ",
+   "source": "YouTube",
+   "duration": "23:20",
+   "extensions": [
+    "117.7K+ views "
+   ],
+   "thumbnails": [
+    "https://img.youtube.com/vi/f3rIef9D6n0/hqdefault.jpg"
+   ],
+   "title": "We Put Franklin BBQ to the Test in 2026...Is It Still Worth it?",
+   "link": "https://www.youtube.com/watch?v=f3rIef9D6n0",
+   "date": "1 month ago",
+   "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQVgPjfwSS-amryatH0FR5Ut--pB7n38KwQjA"
+  },
+  {
+   "author": "r/BBQ",
+   "source": "Reddit",
+   "extensions": [
+    "140+ comments "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkmSSaDILlLMDg_mlhm3dK5b-byCPhcj-LjU7iz1pTF2aKld3qFLHWsfNDlQ&usqp=CAI&s"
+   ],
+   "title": "My tray of Franklin BBQ after 15 minutes in line",
+   "link": "https://www.reddit.com/r/BBQ/comments/1uxjsys/my_tray_of_franklin_bbq_after_15_minutes_in_line/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "Richard Moore",
+   "source": "Facebook",
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTV6uC8ppQnI44COJl_z5hvr6bDAWSn5_1BTDlV-3YW6Nxfc0Sn1_Q1fWjmA&usqp=CAI&s"
+   ],
+   "title": "Headed to Austin Tuesday for a few days. What is the wait like at Franklins on Tuesday's? Wanting to get there around 1",
+   "link": "https://www.facebook.com/groups/northtexasbbq/posts/27077431341936901/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "iamatexan",
+   "source": "Facebook",
+   "extensions": [
+    "10+ reactions "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw6RyL3O-piIYWFZtsQH2w9XWWFN92Euk7fPjXPoEjxGd8WbOuWUmXT7nRDw&usqp=CAI&s"
+   ],
+   "title": "FRANKLIN BARBECUE: How a Little Austin Trailer Became a Texas Barbecue Legend \ud83d\udd25\ud83e\udd69\u2b50 Texas has plenty of barbecue joints. Some are famous. Some are legendary. And then there\u2019s Franklin Barbecue \u2014 the Austin restaurant where grown adults willingly",
+   "link": "https://www.facebook.com/iamatexan/photos/franklin-barbecue-how-a-little-austin-trailer-became-a-texas-barbecue-legend-tex/1036508259171847/",
+   "date": "2 weeks ago"
+  },
+  {
+   "author": "100063490091735",
+   "source": "Facebook",
+   "duration": "1:07",
+   "extensions": [
+    "460+ reactions "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dBQr4tfljCAgnmseXZVk8XKB0uCpq81fS2vbtSCVNFgThlb2PWddluQujA&usqp=CAI&s=10"
+   ],
+   "title": "Kevin's BBQ Joints. . Aaron Franklin explains when the line is the shortest at Franklin Barbecue in Austin.",
+   "link": "https://www.facebook.com/100063490091735/videos/aaron-franklin-explains-when-the-line-is-the-shortest-at-franklin-barbecue-in-au/1777954703572053/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "Facebook",
+   "duration": "1:46",
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2TZamLsbdM5qIE9PbmahqADVQnxtx_8CivgkSCcloleH6TE7wlZpWtFQ6A&usqp=CAI&s=10"
+   ],
+   "title": "Foodie Justice",
+   "link": "https://www.facebook.com/61582337327128/posts/came-from-tampa-to-austin-in-search-for-the-best-bbq-today-im-at-franklin-barbec/122136736755077910/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "texasexplored",
+   "source": "Facebook",
+   "duration": "1:06",
+   "extensions": [
+    "7 reactions "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMYMoj2fYO5c8p8aAJNg69EF-jpJTxnKoARCSwNOpBuMNe9UWxVNoNF5tp_E&usqp=CAI&s=10"
+   ],
+   "title": "Texas Explored. . \ud83c\udf56\ud83d\udd25 There are barbecue restaurants and then there is Franklin Barbecue, and the distance between those two categories is measured in post oak smoke and sixteen hours of patience. Aaron Franklin started selling brisket from a trailer on the",
+   "link": "https://www.facebook.com/texasexplored/videos/-there-are-barbecue-restaurants-and-then-there-is-franklin-barbecue-and-the-dist/1828680191441996/",
+   "date": "Jun 15, 2026"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Is franklin barbecue worth the wait reddit",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Is+franklin+barbecue+worth+the+wait+reddit&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Is+franklin+barbecue+worth+the+wait+reddit"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin Barbecue menu",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Franklin+Barbecue+menu&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAhlEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+Barbecue+menu"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin's BBQ Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Franklin%27s+BBQ+Austin&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin%27s+BBQ+Austin"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin Barbecue photos",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Franklin+Barbecue+photos&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+Barbecue+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin BBQ pies",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Franklin+BBQ+pies&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+BBQ+pies"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin BBQ ranking",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Franklin+BBQ+ranking&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAhaEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+BBQ+ranking"
+  },
+  {
+   "block_position": 1,
+   "query": "Interstellar BBQ",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Interstellar+BBQ&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAhUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Interstellar+BBQ"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin BBQ reddit",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Franklin+BBQ+reddit&sa=X&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+BBQ+reddit"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=xQWYasybBtChur8PrPOSkQg&start=10&sa=N&sstk=AS6-VmLLtikH1yEWD7IhPTKm74CEWQTR0b18bfQdvsB4cK_j6GqrxatnCHoUlzhixQLAnSbL1Sx-ROAHt5wPFnbgo0c3TliIfYzwzw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ8NMDegQIRRAQ",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=xQWYasybBtChur8PrPOSkQg&start=10&sa=N&sstk=AS6-VmLLtikH1yEWD7IhPTKm74CEWQTR0b18bfQdvsB4cK_j6GqrxatnCHoUlzhixQLAnSbL1Sx-ROAHt5wPFnbgo0c3TliIfYzwzw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ8tMDegQIRRAE",
+   "3": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=xQWYasybBtChur8PrPOSkQg&start=20&sa=N&sstk=AS6-VmLLtikH1yEWD7IhPTKm74CEWQTR0b18bfQdvsB4cK_j6GqrxatnCHoUlzhixQLAnSbL1Sx-ROAHt5wPFnbgo0c3TliIfYzwzw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ8tMDegQIRRAG",
+   "4": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=xQWYasybBtChur8PrPOSkQg&start=30&sa=N&sstk=AS6-VmLLtikH1yEWD7IhPTKm74CEWQTR0b18bfQdvsB4cK_j6GqrxatnCHoUlzhixQLAnSbL1Sx-ROAHt5wPFnbgo0c3TliIfYzwzw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ8tMDegQIRRAI",
+   "5": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=xQWYasybBtChur8PrPOSkQg&start=40&sa=N&sstk=AS6-VmLLtikH1yEWD7IhPTKm74CEWQTR0b18bfQdvsB4cK_j6GqrxatnCHoUlzhixQLAnSbL1Sx-ROAHt5wPFnbgo0c3TliIfYzwzw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ8tMDegQIRRAK",
+   "6": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=xQWYasybBtChur8PrPOSkQg&start=50&sa=N&sstk=AS6-VmLLtikH1yEWD7IhPTKm74CEWQTR0b18bfQdvsB4cK_j6GqrxatnCHoUlzhixQLAnSbL1Sx-ROAHt5wPFnbgo0c3TliIfYzwzw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ8tMDegQIRRAM",
+   "7": "https://www.google.com/search?q=is+franklin+barbecue+worth+the+wait&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=xQWYasybBtChur8PrPOSkQg&start=60&sa=N&sstk=AS6-VmLLtikH1yEWD7IhPTKm74CEWQTR0b18bfQdvsB4cK_j6GqrxatnCHoUlzhixQLAnSbL1Sx-ROAHt5wPFnbgo0c3TliIfYzwzw&ved=2ahUKEwiMkqvw4s-WAxXQkO4BHay5JIIQ8tMDegQIRRAO"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+franklin+barbecue+worth+the+wait&start=60"
+  }
+ }
+}

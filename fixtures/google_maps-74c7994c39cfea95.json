@@ -1,0 +1,3221 @@
+{
+ "search_metadata": {
+  "id": "6a9804751dcfe2678884cc20",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/e7cCIjTbi-I2yZ5L95MLJq3YeCgUUURDKYbZX7Wsf4k/6a9804751dcfe2678884cc20.json",
+  "markdown_endpoint": "https://serpapi.com/searches/e7cCIjTbi-I2yZ5L95MLJq3YeCgUUURDKYbZX7Wsf4k/6a9804751dcfe2678884cc20.md",
+  "created_at": "2026-09-02 11:11:49 UTC",
+  "processed_at": "2026-09-02 11:11:49 UTC",
+  "google_maps_url": "https://www.google.com/maps/search/barbecue/@30.3178,-97.7318,12z/data=!3m1!4b1!4m2!2m1!6e5?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/e7cCIjTbi-I2yZ5L95MLJq3YeCgUUURDKYbZX7Wsf4k/6a9804751dcfe2678884cc20.html",
+  "prettify_html_file": "https://serpapi.com/searches/e7cCIjTbi-I2yZ5L95MLJq3YeCgUUURDKYbZX7Wsf4k/6a9804751dcfe2678884cc20.prettify",
+  "total_time_taken": 0.95
+ },
+ "search_parameters": {
+  "engine": "google_maps",
+  "type": "search",
+  "q": "barbecue",
+  "ll": "@30.3178,-97.7318,12z",
+  "google_domain": "google.com",
+  "hl": "en"
+ },
+ "search_information": {
+  "local_results_state": "Results for exact spelling",
+  "query_displayed": "barbecue"
+ },
+ "local_results": [
+  {
+   "position": 1,
+   "title": "Terry Black's Barbecue",
+   "place_id": "ChIJZSqCDhu1RIYRx1iRoCvCOsA",
+   "data_id": "0x8644b51b0e822a65:0xc03ac22ba09158c7",
+   "data_cid": "13851597096564644039",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b51b0e822a65%3A0xc03ac22ba09158c7&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b51b0e822a65%3A0xc03ac22ba09158c7&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.259712099999998,
+    "longitude": -97.7548241
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJZSqCDhu1RIYRx1iRoCvCOsA",
+   "provider_id": "/g/1ptw839c8",
+   "rating": 4.7,
+   "reviews": 26544,
+   "price": "$20\u201370",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant"
+   ],
+   "address": "1003 Barton Springs Rd, Austin, TX 78704",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 10:30\u202fAM",
+   "hours": "Closed \u00b7 Opens 10:30\u202fAM",
+   "operating_hours": {
+    "wednesday": "10:30\u202fAM\u20139:30\u202fPM",
+    "thursday": "10:30\u202fAM\u20139:30\u202fPM",
+    "friday": "10:30\u202fAM\u201310\u202fPM",
+    "saturday": "10:30\u202fAM\u201310\u202fPM",
+    "sunday": "10:30\u202fAM\u20139:30\u202fPM",
+    "monday": "10:30\u202fAM\u20139:30\u202fPM",
+    "tuesday": "10:30\u202fAM\u20139:30\u202fPM"
+   },
+   "phone": "(512) 394-5899",
+   "website": "https://terryblacksbbq.com/austin",
+   "description": "Famous family's old-school smoked meats. Spacious, casual stop for pit-smoked meats & housemade sides from famous 4th-generation pitmasters.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Great beer selection",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Comfort food",
+      "Quick bite",
+      "Wine"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Cozy",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Family-friendly",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "planning": [
+      "Usually a wait"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Paid street parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed inside",
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true
+   },
+   "user_review": "\"The BBQ was tasty, flavorful, and consistently good across the board.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlhKzT6w51Gl_hIJELtFsv5qMfk9SRmDL3Fa2KzhQovi18LYiSfffBSfxTibbw0dBu0cqxDidBEhIuNYGZG0B1zsaHoq06fyDB-tA6v3ec8ntpyNHf0pBsSME8la5_ySbLymC9uERseCn--=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/e8HNfHicHcTBboIwGADgJ6oUCQRNPFhBcKLZKMniLgZqS8lKC_4FhJfceW-zZN_h-_2R1nawdRwlvVVtTK34APzJjLZc2xUzrVN3gBggcPZp_l58KnleimDy3UTd5ektzuwRRr-_iO8Nzdso847l-rzIDzM2bpjdGiqEIFS8iqaqJvwgA2b9K2oeJJan4XpLvhJM3AXK1PQ4EHNEkN0Ho8dZqG03X1OBOwL0Eoeq9O8zrbK5PWyGOAd-0AjtJhdjjOT_DOk_yTdHoQ"
+  },
+  {
+   "position": 2,
+   "title": "The Smokin' Shack",
+   "place_id": "ChIJgy8xTQBNW4YRSBuTGhXdL3Y",
+   "data_id": "0x865b4d004d312f83:0x762fdd151a931b48",
+   "data_cid": "8516268503090797384",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x865b4d004d312f83%3A0x762fdd151a931b48&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x865b4d004d312f83%3A0x762fdd151a931b48&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.160082799999998,
+    "longitude": -97.7731092
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgy8xTQBNW4YRSBuTGhXdL3Y",
+   "provider_id": "/g/11vz2h0vtz",
+   "rating": 4.9,
+   "reviews": 162,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Barbecue area",
+    "Chicken wings restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "barbecue_spots",
+    "chicken_wings_restaurant"
+   ],
+   "address": "4412 Brandt Rd, Austin, TX 78744",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11:30\u202fAM",
+   "hours": "Closed \u00b7 Opens 11:30\u202fAM",
+   "operating_hours": {
+    "wednesday": "11:30\u202fAM\u20137\u202fPM",
+    "thursday": "11:30\u202fAM\u20137\u202fPM",
+    "friday": "11:30\u202fAM\u20137\u202fPM",
+    "saturday": "Closed",
+    "sunday": "Closed",
+    "monday": "Closed",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 487-4394",
+   "website": "https://the-smokin-shack.square.site/",
+   "extensions": [
+    {
+     "from_the_business": [
+      "Identifies as Black-owned",
+      "Identifies as veteran-owned"
+     ]
+    },
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot"
+     ]
+    },
+    {
+     "offerings": [
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "crowd": [
+      "Family-friendly",
+      "Groups"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Usually plenty of parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "curbside_pickup": true,
+    "no_contact_delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF2ejJoMHZ0ehgAOgMI8A0%3D&g2lbs=AEzIGDvCun2BkEXwSWO6JHE23NuUw1oei8clRSFTWFJxrEd6b7giGUhjN8TIv8p7ycURonNqkU5z&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Very good BBQ at a chill location\n\nTurkey Leg and smoked wings were amazing.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkX77LeMWHpocZwU63XN9o98scQvAqpsqkiAlk-t3t1s0C8UVB_CqM_sQy4rClur4DK75PFI26WpBiGMUp5oOiQtbI_i88Jpq8XnLEXzQAeShxRst56_3e9Rz9WFPNQtC87TLKi=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/MiMzBHicHcRbboJAFADQFY1gERhM_EDqA3mUoVKIPyROJjABmYF70eoGu4bupknPx_n9aRE1rA2jb61Fo1TTixnExNWAYsAFVzej0UA4EDD8Y56dy65y3Vgk5VErfnkUjlWlnvIocHb3Rw1jJ_2-I2jhEsyAFl_bOhiTGthzNQX9PK3eI9fO9uGbU-qtPCSFttWHZHgNa0npSY-0GuJd9WK--Gy_c0DbqS3h5S-v3Gcpw4C65ziSm8fSNE3S_s_J8Ac5DUPf"
+  },
+  {
+   "position": 3,
+   "title": "Franklin Barbecue",
+   "place_id": "ChIJM8w7rqS1RIYRhEz2-KuoqzE",
+   "data_id": "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84",
+   "data_cid": "3579139785445756036",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b5a4ae3bcc33%3A0x31aba8abf8f64c84&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b5a4ae3bcc33%3A0x31aba8abf8f64c84&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.270125,
+    "longitude": -97.73134189999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJM8w7rqS1RIYRhEz2-KuoqzE",
+   "provider_id": "/m/012vm5v8",
+   "rating": 4.7,
+   "reviews": 7237,
+   "price": "$20\u201370",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant"
+   ],
+   "address": "900 E 11th St, Austin, TX 78702",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20133\u202fPM",
+    "thursday": "11\u202fAM\u20133\u202fPM",
+    "friday": "11\u202fAM\u20133\u202fPM",
+    "saturday": "11\u202fAM\u20133\u202fPM",
+    "sunday": "11\u202fAM\u20133\u202fPM",
+    "monday": "Closed",
+    "tuesday": "11\u202fAM\u20133\u202fPM"
+   },
+   "phone": "(512) 653-1187",
+   "website": "https://franklinbarbecue.com/",
+   "description": "Busy BBQ joint with a retro vibe. Long lines form early for brisket, pulled pork & other smoked meats at this bustling spot.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Curbside pickup",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Gender-neutral restroom",
+      "Restroom"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Family-friendly",
+      "Groups",
+      "LGBTQ+ friendly",
+      "Tourists",
+      "Transgender safespace"
+     ]
+    },
+    {
+     "planning": [
+      "Usually a wait"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Paid street parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "service_options": [
+      "Delivery"
+     ]
+    },
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "curbside_pickup": true,
+    "delivery": false
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL20vMDEydm01djgYAjoDCPAN&g2lbs=AEzIGDuq8AFCvGTuVxxsEQFEJ5a8zk2bJG5y0tX6UTtLcZDrCl-49r8p0_ScyH6zO8sTxAYay3KQ&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJl4DJZT6D9dsj47o4rJw1NKPSTiOEii8mtdDCX1KUgfXjGn_cg7kFMiNHYVLr032qNpOoKPaXHSki7sOR4ofpG-2Tsue1w03FeSUTx8bayYPAsfBtSzDeF1mlGf0VOSJETS075Q=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/uixKl3icHcRRboIwGADgE1VaQVGTPagIBBSYrYp7WbSWUgWK_DW43XBH8DZL_B6-119pTAszy6pKeyC1lpV4gOi4boxozIDr2pItIA4IrHm4zdihjirHi77Y2Jte4Oq42uminiRxRplKV0pNanPxljmJd7LIr0HzzaV78zcqCY_7dYft4T1pUx1npzykN-VCunV00QZoyOAhSI9tX9Ade07Op59jNodiYeivJ3xSV0GB9ymNVoxid_T50ROMMSrfc9T8A4_uRBY"
+  },
+  {
+   "position": 4,
+   "title": "Two Goose",
+   "place_id": "ChIJqy58IPW1RIYRGHvu_ylyNyg",
+   "data_id": "0x8644b5f5207c2eab:0x28377229ffee7b18",
+   "data_cid": "2897910409949248280",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b5f5207c2eab%3A0x28377229ffee7b18&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b5f5207c2eab%3A0x28377229ffee7b18&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.273420899999998,
+    "longitude": -97.7535221
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJqy58IPW1RIYRGHvu_ylyNyg",
+   "provider_id": "/g/11mkvy9p6f",
+   "rating": 4.9,
+   "reviews": 196,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant"
+   ],
+   "address": "706 N Lamar Blvd, Austin, TX 78703",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 7\u202fAM",
+   "hours": "Closed \u00b7 Opens 7\u202fAM",
+   "operating_hours": {
+    "wednesday": "7\u202fAM\u20132\u202fPM",
+    "thursday": "7\u202fAM\u20132\u202fPM",
+    "friday": "7\u202fAM\u20132\u202fPM",
+    "saturday": "7\u202fAM\u20132\u202fPM",
+    "sunday": "10\u202fAM\u20132\u202fPM",
+    "monday": "Closed",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 631-4665",
+   "website": "https://twogoosemarket.com/",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "popular_for": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot"
+     ]
+    },
+    {
+     "offerings": [
+      "Coffee",
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Seating"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Usually somewhat difficult to find a space"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed",
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFta3Z5OXA2ZhgAOgMI8A0%3D&g2lbs=AEzIGDuhoAQleWsIN6cN3SKdDs2ILWxWGfNe_QKbHZ3WbSBPrs9ia1fjYam0QQtpdK90ai6VIYxZ&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Good atmosphere, friendly staff, great location and amazing bbq!\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWltUYLFb9scdFqBLzLuy2sH8xmjvNwyINt1ZZJV5q8kiKFCZySX9IosUJ9ClFUH-x44KTBD1sFfyUWPy406hW7MqwiAyXptpygdZZTCCns6Igd8FjJ0DaaY5m9lHBMtHOhkK4mfgoYYbrk=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/CxXcynicHcRNcoIwGADQE0VCiwqd6UJwMuFH67RQJDsNmCiBgF8sxkO6720607d4v09pzABvjqPk60xoLVRzg-bKdW-a3sy47hwxAOKAwFnRz11eKlNUGTkGwGsyhtkju9kXoP69u_xsJxtvjctY8j0f_fackojZr30QayiSIFKkoOjueWkerl0gJ1uUO-vhhSyXm3E6r-x-MIMVNWN5FPWwiEXtk0uC14dDNe8CRcONoR-yTb3uJHRVHa_t--RijJH8n6P-D5pxR7I"
+  },
+  {
+   "position": 5,
+   "title": "Stiles Switch BBQ",
+   "place_id": "ChIJcWkNdkjKRIYRDYaljkgdUqU",
+   "data_id": "0x8644ca48760d6971:0xa5521d488ea5860d",
+   "data_cid": "11912616161816446477",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644ca48760d6971%3A0xa5521d488ea5860d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644ca48760d6971%3A0xa5521d488ea5860d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.334574999999997,
+    "longitude": -97.72144499999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJcWkNdkjKRIYRDYaljkgdUqU",
+   "provider_id": "/g/1hc6dcdx_",
+   "rating": 4.6,
+   "reviews": 5822,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant"
+   ],
+   "address": "6610 N Lamar Blvd, Austin, TX 78752",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20138\u202fPM",
+    "thursday": "11\u202fAM\u20138\u202fPM",
+    "friday": "11\u202fAM\u20138:30\u202fPM",
+    "saturday": "11\u202fAM\u20138:30\u202fPM",
+    "sunday": "11\u202fAM\u20138\u202fPM",
+    "monday": "Closed",
+    "tuesday": "11\u202fAM\u20138\u202fPM"
+   },
+   "phone": "(512) 380-9199",
+   "website": "http://stilesswitchbbq.com/",
+   "description": "Old-fashioned BBQ & local craft beer. BBQ joint in Violet Crown shopping center for smoked meats & local draft beer amid old-school decor.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Live music",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "planning": [
+      "Usually a wait"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Paid street parking",
+      "Usually plenty of parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMWhjNmRjZHhfGAA6AwjwDQ%3D%3D&g2lbs=AEzIGDu550Lmyn9PmT-_XH9Kmz3f8MoAjPI5JrRNQ5JPlKUwrVEO3Xo2kScbcGqqRBZkNioBgdmu&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Great barbecue and sides with minimal lines.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnhOgOr38kp24pMcC4qh23BmMffF7XqfLcFo4J2kiTkjD20n0Al23qIkhq3WxfVVwctcyYFQOpYypmrWm8Q9E95OcdGuTJydsdyP0rdBjwUzxgSqXAIk1LIDbNkK52HiHkbIB1uNp_3PZtk=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Sd46-3icHcTbboIwGADgJ0JKi5ku2QXMMfAEKhPdzRJ_oNVCD7QE2Uvu2rcx2XfxPf6Ytcq8um7DyIRKSZuqN1UHUthK2AnI1qXKOGAc4wbxPssLwVKadmTGFfbVBt59zTAJ201dRy8nXa8hkv4S82vObwuMBAoaTHTCmSbFvT4eB7AwnqNdqs6jaruine3mH_NpCuVnny_H0pRjhroyvA1fv3d60Kcg4d46WVy2fDXF8TXmlyT0-q36Idm35W-DhxBy2P_giCeu3kfO"
+  },
+  {
+   "position": 6,
+   "title": "Iron Works Barbecue",
+   "place_id": "ChIJ46grVqi1RIYR3ErVpyIAF0U",
+   "data_id": "0x8644b5a8562ba8e3:0x45170022a7d54adc",
+   "data_cid": "4978448061926034140",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b5a8562ba8e3%3A0x45170022a7d54adc&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b5a8562ba8e3%3A0x45170022a7d54adc&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.262266999999998,
+    "longitude": -97.7389967
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ46grVqi1RIYR3ErVpyIAF0U",
+   "provider_id": "/m/020y_c5",
+   "rating": 4.3,
+   "reviews": 2863,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant"
+   ],
+   "address": "100 Red River St, Austin, TX 78701",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20139\u202fPM",
+    "thursday": "11\u202fAM\u20139\u202fPM",
+    "friday": "11\u202fAM\u20139\u202fPM",
+    "saturday": "11\u202fAM\u20139\u202fPM",
+    "sunday": "Closed",
+    "monday": "11\u202fAM\u20139\u202fPM",
+    "tuesday": "11\u202fAM\u20139\u202fPM"
+   },
+   "phone": "(512) 478-4855",
+   "website": "http://ironworksbbq.com/",
+   "description": "Beef ribs & other meats in rustic digs. Barbecued meats, including signature beef ribs, & specialty sauces in a historic former iron shop.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Curbside pickup",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Great beer selection",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Quick bite",
+      "Small plates",
+      "Wine"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Cozy",
+      "Historic",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Paid street parking",
+      "Usually difficult to find a space"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "curbside_pickup": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiQKIuICHzIdEhYiFNLX29IPDgoKL20vMDIweV9jNRgAOgMI8A0%3D&g2lbs=AEzIGDuVWX3uU_O5UpNbwUM0Uwzdf8GEWT4WeIBLJ8TuJkeeLis2YhbpD-DrXdu5IqPo_k0iTLfH&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"The BBQ was delicious and the serving sizes were extremely generous.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkdf0zOuSoQsCFmu9JVzdH29ZsqD3XAhGzqjM1flw4bNYHZNFvTrcCk_J4gOzo4qa5yspgzmteM8LHTW5tUAN3zCB-yMeECReD3TeCMbo4HD5WxyTMd9XLu6ckokaJGeU25o5e=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/k8k0iXicHcTdboIwGADQJ6qg0GUs2QWWaUMsTleH82bR8lkyfj6wZY6-oM_g25jsXJz7rbS2My-eV5fBRCPqGgYDF4WthdZOFDae7gxRhhgv5tt3mTdVcfbdevjAjWGLZojST1fwWXQwfRLs43Lp-h8xPdfX8JR98UO2-JUXxarvNNRrh2F_pKPptGssiOcVlzm1uzgLHJuTUcAb20ISSGDihCFPaP43SlFE-9XwpCqsjukSdjOKFF6vU9_3Sfm_Iu0Du-hFEw"
+  },
+  {
+   "position": 7,
+   "title": "Brotherton's Black Iron Barbecue",
+   "place_id": "ChIJjeCOoqvPRIYRLgydZUx81dQ",
+   "data_id": "0x8644cfaba28ee08d:0xd4d57c4c659d0c2e",
+   "data_cid": "15336300773644241966",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644cfaba28ee08d%3A0xd4d57c4c659d0c2e&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644cfaba28ee08d%3A0xd4d57c4c659d0c2e&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.445915,
+    "longitude": -97.651563
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJjeCOoqvPRIYRLgydZUx81dQ",
+   "provider_id": "/g/11cp7qs8qh",
+   "rating": 4.6,
+   "reviews": 1852,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Caterer",
+    "Restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "catering_service",
+    "restaurant"
+   ],
+   "address": "15608 Spring Hill Ln Ste 105, Pflugerville, TX 78660",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20133\u202fPM",
+    "thursday": "11\u202fAM\u20133\u202fPM",
+    "friday": "11\u202fAM\u20133\u202fPM",
+    "saturday": "11\u202fAM\u20133\u202fPM",
+    "sunday": "11\u202fAM\u20133\u202fPM",
+    "monday": "Closed",
+    "tuesday": "11\u202fAM\u20133\u202fPM"
+   },
+   "phone": "(512) 547-4766",
+   "website": "https://pflugervillebarbecue.com/",
+   "description": "Modest place for American BBQ. Unassuming locale for classic & creative American BBQ meat platters & sandwiches.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Cozy"
+     ]
+    },
+    {
+     "crowd": [
+      "Family-friendly",
+      "Groups"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Usually plenty of parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "no_contact_delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjcDdxczhxaBgAOgMI8A0%3D&g2lbs=AEzIGDvmd6WQY0snmEAWI4SIKtqu9oymNwzGsGoAUt5xXVf7HV26klN3N0AMJ0xzzz64598SXQB1&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Great BBQ and sides (try the green chili mac) in a low key setting.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEqsUY52ZzjZEVFgZqO9vrRbcUabTM0Zj_ffR5_GQ7p8GO9XxIYV50XlKGtz9G4QppBpn_jT1baLb9u-WNhhidjjMzlCH3zd-KSr9JxisY0K_4b5it8dPw7SP7xfGYGvSQCq3pFe9ozgC1CSzVNk2CmPIkliEpQNr6yyIohYjsq-kzfj9QPDb8=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Thx2lnicHcRLcoIwAADQEyEgUEhnumgRKUURRKmwYQy_EJAEEhVy056k2870Ld7PL-KcsldZ7pG2aghp-urOqqkgA68GvirITW4ok-hE5kV-35X6BjkjO6fGOhM4c5Jtk40H8JiOsDhf4WmvZDiv66ORu5FJLfcALrOXJoZy6X2XC-DqEaUfdMjxSYXXHQR36TtAqC0x3ove_tREKfnxBL7mlqWKn-vQaLlVhk8zDs25dlP3EUf2qNFtBYhobNWORRJ0a_sWel3fOjQKppdl8QhKMRulTtQYROEGWm9PVVEUCf1fSMMfvqNWJg"
+  },
+  {
+   "position": 8,
+   "title": "Cooper's Old Time Pit Bar-B-Que",
+   "place_id": "ChIJoZsHcQi1RIYRfyBnp0UxNMI",
+   "data_id": "0x8644b50871079ba1:0xc2343145a767207f",
+   "data_cid": "13993864117378031743",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b50871079ba1%3A0xc2343145a767207f&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b50871079ba1%3A0xc2343145a767207f&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.2649418,
+    "longitude": -97.7437436
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoZsHcQi1RIYRfyBnp0UxNMI",
+   "provider_id": "/g/11cjj6zd6n",
+   "rating": 4.4,
+   "reviews": 6717,
+   "price": "$20\u201360",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Bar",
+    "Barbecue area",
+    "Restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "bar",
+    "barbecue_spots",
+    "restaurant"
+   ],
+   "address": "217 Congress Ave., Austin, TX 78701",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u201310\u202fPM",
+    "thursday": "11\u202fAM\u201310\u202fPM",
+    "friday": "11\u202fAM\u201310\u202fPM",
+    "saturday": "11\u202fAM\u201310\u202fPM",
+    "sunday": "11\u202fAM\u201310\u202fPM",
+    "monday": "11\u202fAM\u201310\u202fPM",
+    "tuesday": "11\u202fAM\u201310\u202fPM"
+   },
+   "phone": "(512) 474-4227",
+   "website": "http://coopersbbqaustin.com/",
+   "description": "Popular straight-shooting smokehouse. Classic BBQ joint with picnic table seats serving brisket, ribs & more pulled straight from the pit.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Great beer selection",
+      "Serves local specialty",
+      "Sports"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Comfort food",
+      "Happy hour drinks",
+      "Hard liquor",
+      "Late-night food",
+      "Quick bite",
+      "Small plates",
+      "Wine"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Cozy",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "planning": [
+      "Usually a wait"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free street parking",
+      "Paid parking lot",
+      "Paid street parking"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "no_contact_delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFjamo2emQ2bhgAOgMI8A0%3D&g2lbs=AEzIGDsm3j8cVrs6SVTrnAPjsZ9a2t48k6Q5cY-sVuhvq5Jq7LZhpyeOYIZ2G2m6mQo0YIy3WBFO&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"The BBQ was delicious and Wade the bartender was friendly and helpful too!!!\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlrfEFjuuuMls5aXVZttEKUcYg5yWQ4EGhVVgRCvIN6DFslYKDhNQwMW5zlLxcvyxpRroXHI7K0wCXJDkSeCjTqRFGeVp-jDb7CCqn6ren-yNkB9mPk3LlymlGmK8rd0o7lcXi6ng=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/QVxSunicHcRNcoIwGADQE0XiKKDOuLDhR0UZpRawuzaNifCRYBJEvKFH6G0607d4vy9hbWsWjgNiMuJKcWCdYZoqaZm0I6oah7cGUYOMs1pnh1MB-hJGVdd1ezDuV5l_WhsmH_TM3aE4TsNY5DnPyH2TekFk4JwEIj32-8J9wu5B78OjzbQq1xs_wT0pt0H9zkh1umVRzPIWVcG3T8hNeppJNKT127w51JMdDA3ETTLTP1j5QMurJ_myH2OMkfifIvkHgtVGww"
+  },
+  {
+   "position": 9,
+   "title": "Brown's BBQ",
+   "place_id": "ChIJkx4fEd-0RIYR-0HzXJ0WzKw",
+   "data_id": "0x8644b4df111f1e93:0xaccc169d5cf341fb",
+   "data_cid": "12451351934897701371",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b4df111f1e93%3A0xaccc169d5cf341fb&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b4df111f1e93%3A0xaccc169d5cf341fb&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.2494622,
+    "longitude": -97.7668893
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJkx4fEd-0RIYR-0HzXJ0WzKw",
+   "provider_id": "/g/1q6h_qps0",
+   "rating": 4.8,
+   "reviews": 875,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant"
+   ],
+   "address": "1901 S Lamar Blvd, Austin, TX 78704",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20137\u202fPM",
+    "thursday": "11\u202fAM\u20137\u202fPM",
+    "friday": "11\u202fAM\u20137\u202fPM",
+    "saturday": "11\u202fAM\u20137\u202fPM",
+    "sunday": "11\u202fAM\u20135\u202fPM",
+    "monday": "Closed",
+    "tuesday": "11\u202fAM\u20137\u202fPM"
+   },
+   "phone": "(512) 517-8520",
+   "website": "http://www.brownsbbqatx.com/",
+   "description": "Barbecue trailer for boxed comfort food. This barbecue trailer parked next to Corner Bar dishes up brisket, chicken & comfort-food sides.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Usually somewhat difficult to find a space"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed",
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMXE2aF9xcHMwGAA6AwjwDQ%3D%3D&g2lbs=AEzIGDvsSxqx4JLpIAC3DKjW0UGKpwm_0Fn5SLuhOgcdKFJWMVgNw_ldP6iCNi4wpMT0XF1jca7E&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Outstanding BBQ at a fair price with minimal wait.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnh_5Vl2zLjFMOQg_T0kUN9qQVJxf0gqniQhpioRhkN8p4GZzYpuCKDuXJmX6LRjaXJs9MmJt_mOOQFSw8NJIGQZxCY3NFdshaapNBET112_E8yzDh6ImEkeZ9_puVqJV3wF9le=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Q36aX3icHcRdboIwAADgEyFFpoElPjgFZ6fFIkPkpSGsaxX6gy1BueDO4G1M9j18zz9urTbvrttyf8KUYi3tDb3VSloq7aRWwmXaOLVxjLv8TA_ZSXIyy9vpuLvG-wQzkoHmG4UdzuH9F7BOXjDXF5XyBgX6bVOOZ92vvtZ9AUUx36XXqoAm3AtoiUgSHB-HAMHtBpf31dlH8Y_hVaXRR5R53pREwWNc8_lWRA0tQ6L7vIO5P8RhSxeDBwBw-P-1I1-lSkUc"
+  },
+  {
+   "position": 10,
+   "title": "Micklethwait Barbecue",
+   "place_id": "ChIJB0cJf7m1RIYRLWbiT_M6QXM",
+   "data_id": "0x8644b5b97f094707:0x73413af34fe2662d",
+   "data_cid": "8304984004539606573",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b5b97f094707%3A0x73413af34fe2662d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b5b97f094707%3A0x73413af34fe2662d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.2732028,
+    "longitude": -97.6901652
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJB0cJf7m1RIYRLWbiT_M6QXM",
+   "provider_id": "/g/1262dhm6m",
+   "rating": 4.7,
+   "reviews": 2050,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Beer garden",
+    "Catering food and drink supplier"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "beer_garden",
+    "catering_food_and_drink_supplies"
+   ],
+   "address": "4602 Tanney St, Austin, TX 78721",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM Thu",
+   "hours": "Closed \u00b7 Opens 11\u202fAM Thu",
+   "operating_hours": {
+    "wednesday": "Closed",
+    "thursday": "11\u202fAM\u20139\u202fPM",
+    "friday": "11\u202fAM\u20139\u202fPM",
+    "saturday": "11\u202fAM\u20139\u202fPM",
+    "sunday": "11\u202fAM\u20139\u202fPM",
+    "monday": "Closed",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 953-3549",
+   "website": "http://craftmeatsaustin.com/",
+   "description": "Smoked sausage & more from a BBQ trailer. Trailer with outdoor picnic tables serving up BBQ meats, including combo plates & sandwiches.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Quick bite",
+      "Wine"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Family-friendly",
+      "Groups",
+      "LGBTQ+ friendly",
+      "Tourists",
+      "Transgender safespace"
+     ]
+    },
+    {
+     "planning": [
+      "Usually a wait"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "Has changing table(s)",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "On-site parking",
+      "Paid street parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed",
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "service_options": [
+      "Delivery"
+     ]
+    },
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": false
+   },
+   "user_review": "\"Best spot to eat a BBQ with a great service and lovely ambiance.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmiF1z_gMrXMOPwrifi0tc0efuH4TVKuLEH2tHCXwq4YYQOGsbsrn_5_RbnoFxrYCQL5L8BI1ZQ6VPDCIWEatoSWOlDvpkE5CYgHXTPGLk_9EABnvrVvzmNTjanw7misH-6TdFQ=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/zShkZnicHcRJDoIwAADAF1WKilviQRGsEQS0YfFCtGJBocW2gOGDvsHfmDiH-X5ypWq50LQyHw0o57TMGpkJwpnKmBoQXmm0loBIILUVOvo4qgpb71Pqitj1_E4U9wIqArN7g8Y43DeOhYYKmXH3GidJ4G3lVQqWGunxyrj9FokZOIYzW-_0czAJ_Y25i6yL4qfIKzdt_bQMM6Eoxv7WeaZza7VmrQjbvjrgx4V106qQCEzwzQ6WnQ4hBPl_AtgPnn5FMA"
+  },
+  {
+   "position": 11,
+   "title": "True Texas BBQ",
+   "place_id": "ChIJHRy7pDG1RIYRV1iBOMTle1M",
+   "data_id": "0x8644b531a4bb1c1d:0x537be5c438815857",
+   "data_cid": "6015654358207780951",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b531a4bb1c1d%3A0x537be5c438815857&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b531a4bb1c1d%3A0x537be5c438815857&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.2999743,
+    "longitude": -97.7193288
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHRy7pDG1RIYRV1iBOMTle1M",
+   "provider_id": "/g/11lz7l6ts8",
+   "rating": 4.8,
+   "reviews": 400,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Caterer",
+    "Restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "catering_service",
+    "restaurant"
+   ],
+   "address": "1000 E 41st St, Austin, TX 78751",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20139\u202fPM",
+    "thursday": "11\u202fAM\u20139\u202fPM",
+    "friday": "11\u202fAM\u20139\u202fPM",
+    "saturday": "11\u202fAM\u20139\u202fPM",
+    "sunday": "11\u202fAM\u20139\u202fPM",
+    "monday": "11\u202fAM\u20139\u202fPM",
+    "tuesday": "11\u202fAM\u20139\u202fPM"
+   },
+   "phone": "(737) 443-8100",
+   "website": "https://www.truetxbbq.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_restaurant&utm_content=425TT",
+   "extensions": [
+    {
+     "service_options": [
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Happy hour food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "crowd": [
+      "Family-friendly",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "payments": [
+      "Checks",
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Usually plenty of parking"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFsejdsNnRzOBgAOgMI8A0%3D&g2lbs=AEzIGDtjrFGsSLrEdQkUxP1bND37sR0Afdp8_XFogcdF1ZYBvWZFOvr13qwm9D_IR8IqhPiJ5biL&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Friendly staff, delicious bbq in a huge, modern setting.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm2ub1lOthjyycFBSqRXJ8MCHYs1Owo0t1oO5GOhAUIXGvpG_c6hl2X1uSpAnCiYaUslaxWxlr-Vpx5ZfHGV3Lh9_qhnI494zeFVoAy9w4vo4ZxG2nlA3k38fYcP9S8hLFF4evd=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/Ptnuh3icHcTdboIwGADQJ6pQqAZMvOhMKC4uGFEEbozrKp9bbastf76gz-DbmOxcnNcTnDN27nkSwkmjdSNFa8Wda-WEchOur15jLOIWWY-m283ucA3abywzB7_jyJOP_LYtP6OvZVpZnPXad1hnU5YB3a9K1hl25DOQQYnb3FC1vFSnvZWn4TDIOyrMMK3PKSvCNcTHG6gViclDJIWmY9yTTpN6YIGSNPwLo3PFN3EewTpJiOh-Fj32fR_B_xypN5A9RMg"
+  },
+  {
+   "position": 12,
+   "title": "Good BBQ Company",
+   "place_id": "ChIJ88OKMqi1RIYRTinlMRZXUhE",
+   "data_id": "0x8644b5a8328ac3f3:0x1152571631e5294e",
+   "data_cid": "1248155799573047630",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b5a8328ac3f3%3A0x1152571631e5294e&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b5a8328ac3f3%3A0x1152571631e5294e&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.2735763,
+    "longitude": -97.72004969999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ88OKMqi1RIYRTinlMRZXUhE",
+   "provider_id": "/g/11x6my_7sx",
+   "rating": 4.8,
+   "reviews": 385,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "type_id": "restaurant",
+   "type_ids": [
+    "restaurant"
+   ],
+   "address": "1819 E 12th St, Austin, TX 78702",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20134\u202fPM",
+    "thursday": "11\u202fAM\u201310\u202fPM",
+    "friday": "11\u202fAM\u201310\u202fPM",
+    "saturday": "11\u202fAM\u201310\u202fPM",
+    "sunday": "Closed",
+    "monday": "Closed",
+    "tuesday": "11\u202fAM\u201310\u202fPM"
+   },
+   "phone": "(512) 814-6098",
+   "website": "http://goodbbqcompany.com/",
+   "extensions": [
+    {
+     "from_the_business": [
+      "Identifies as veteran-owned"
+     ]
+    },
+    {
+     "service_options": [
+      "Outdoor seating",
+      "No-contact delivery",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "On-site parking",
+      "Paid parking lot",
+      "Paid street parking",
+      "Usually plenty of parking"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "no_contact_delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF4Nm15XzdzeBgAOgMI8A0%3D&g2lbs=AEzIGDtyVw7JXXHMA1jM1BpSv4B6AYud3F4ErBgqpS-0zhiBqumRPmIhUdSdkQ5mnv4UrHPwSowK&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Delicious barbecue with good portions at a reasonable price.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmIJawkbX-5uZdBttFLi1GYNg6oTt9mFo-wL0bwFSQlm0cWD0uX49bcU8RXCjnhBTDrjBpD95Pi_s-S0-HsMYERHbsMAZwMdLSPWgkkBwqRfUN72q9VYgku4tscbFGAE0vBjDzC88POBUjP=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/2fM9yHicHcTLjoIwFADQL6pUxweYzIKKiAa0w0PAjbEVi7yK3jJN5idn7d-YeBbn9V8q1cPSMJryaySkFE0xQPHkslNFp0ZctoboAXFAYNheSOO03e4uumYZmg2nK1HK9e_jTb4Xcxkrq3Ul0j5m2o1-mhbz1MFDNrUYT8wwW1VdSWLnWZHesWb0fgYUYeRBkK9Dj0Fgn3Rw9SOairom-hHekv1i8rCOuaiHqQLO3I29xr-kcv5WpkkPJKnotx5jjFH5maPuDXRTRpo"
+  },
+  {
+   "position": 13,
+   "title": "STACK CITY BBQ",
+   "place_id": "ChIJI7DezJXLRIYRzJn2Q3U07H4",
+   "data_id": "0x8644cb95ccdeb023:0x7eec347543f699cc",
+   "data_cid": "9145742621538687436",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644cb95ccdeb023%3A0x7eec347543f699cc&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644cb95ccdeb023%3A0x7eec347543f699cc&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.3713792,
+    "longitude": -97.7246673
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJI7DezJXLRIYRzJn2Q3U07H4",
+   "provider_id": "/g/11b6d950wp",
+   "rating": 4.5,
+   "reviews": 2406,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Bar",
+    "Breakfast restaurant",
+    "Caterer",
+    "Restaurant",
+    "Sandwich shop"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "bar",
+    "breakfast_restaurant",
+    "catering_service",
+    "restaurant",
+    "sandwich_shop"
+   ],
+   "address": "9012 Research Blvd C4, Austin, TX 78758",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 7\u202fAM",
+   "hours": "Closed \u00b7 Opens 7\u202fAM",
+   "operating_hours": {
+    "wednesday": "7\u202fAM\u20139\u202fPM",
+    "thursday": "7\u202fAM\u20139\u202fPM",
+    "friday": "7\u202fAM\u20139\u202fPM",
+    "saturday": "7\u202fAM\u20139\u202fPM",
+    "sunday": "7\u202fAM\u20139\u202fPM",
+    "monday": "7\u202fAM\u20139\u202fPM",
+    "tuesday": "7\u202fAM\u20139\u202fPM"
+   },
+   "phone": "(512) 351-9977",
+   "website": "https://dopebbq.com/",
+   "description": "Relaxed spot for barbecued pork & beer. Barbecue purveyor known for its food truck offers this casual space for pork sandwiches & beer.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Curbside pickup",
+      "No-contact delivery",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Great beer selection",
+      "Serves local specialty",
+      "Sports"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Happy hour drinks",
+      "Happy hour food",
+      "Hard liquor",
+      "Organic dishes",
+      "Quick bite",
+      "Salad bar"
+     ]
+    },
+    {
+     "dining_options": [
+      "Brunch",
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating",
+      "Table service"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Family-friendly",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs",
+      "Kids' menu"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Usually plenty of parking"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "curbside_pickup": true,
+    "no_contact_delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFiNmQ5NTB3cBgAOgMI8A0%3D&g2lbs=AEzIGDsj4T28LrBogm1UnPhDoo8--fa8jIuLEj35JjwIw8HORUPfJ4GjLo2g_U7KmAUP5Igog4Ca&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Super friendly staff, cool atmosphere and REALLY good BBQ.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMEVlxu6S4JzQFItGuZ-Lj2psX8q8ELIJ5DEOmLu6NdDof8Lxb5KtSMJhdIzR855eC9T0mrjbZ14o8Bw_f3Pn1pIWJ0E7Y980ovmYfN6pzUx_tcuFVQCTkLmveR0_av4ij-j6J=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/G1gcZnicHcRLcoIwAADQE0VCBRo704UKKmm0CvjBDaMhQJGQ1CTIcEHP4G0607d4r2eltVQfltVU41EpRNkwo9idilazVo-o4FYpFaAKKGu6irbJsVkHh6Y3XuzgYbcI9dKcAanfpDqhXxSQELt-8M2J8Ta5LwpE-qv7peM1rvJwiJDrsvkkgfxeX8-2I9DskRXjbWvL8Ihh8J5OEBQdT4uNJ4d9n2lqFofdPLkR3rEIZpfO-alB7eHPhw0hBNX_FLR_-dJDqg"
+  },
+  {
+   "position": 14,
+   "title": "Jims Smokehouse Four Points",
+   "place_id": "ChIJka7sI44xW4YRTEX-GGes-AU",
+   "data_id": "0x865b318e23ecae91:0x5f8ac6718fe454c",
+   "data_cid": "430283323214808396",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x865b318e23ecae91%3A0x5f8ac6718fe454c&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x865b318e23ecae91%3A0x5f8ac6718fe454c&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.4025516,
+    "longitude": -97.8551504
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJka7sI44xW4YRTEX-GGes-AU",
+   "provider_id": "/g/11h4ff428q",
+   "rating": 4.8,
+   "reviews": 578,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Restaurant",
+   "types": [
+    "Restaurant"
+   ],
+   "type_id": "restaurant",
+   "type_ids": [
+    "restaurant"
+   ],
+   "address": "6900 Ranch Rd 620 N, Austin, TX 78732",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20138\u202fPM",
+    "thursday": "11\u202fAM\u20138\u202fPM",
+    "friday": "11\u202fAM\u20138\u202fPM",
+    "saturday": "11\u202fAM\u20138\u202fPM",
+    "sunday": "11\u202fAM\u20138\u202fPM",
+    "monday": "11\u202fAM\u20138\u202fPM",
+    "tuesday": "11\u202fAM\u20138\u202fPM"
+   },
+   "phone": "(512) 783-4577",
+   "website": "https://www.jimssmokehousebbq.com/",
+   "description": "Basic food truck for BBQ meat & tacos. Sandwiches, tacos & smoked BBQ meat offered in a no-frills food truck that has a covered terrace.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "crowd": [
+      "Tourists"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Usually plenty of parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed inside",
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoNGZmNDI4cRgAOgMI8A0%3D&g2lbs=AEzIGDu1wDVz3hUAaSJzvrVdH8lhbIp-dYPPEP9r-ftXWqnhcxn5pllF9F1B0tpwYUdPvzUYEHE8&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Consistently delicious barbecue, always great service!\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkALwWv34KmztwNgnwINTlZUEW4pR1QbGocE43iFro3_cWtKk8vcWovRWDnJIfVDi1zLWVOsOEcLiZXqkRTGZy_R0n5XknQZIYHC_w_uvi39-2raRzAq12P5npDvRcWqS4LHzfm=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/oPCCtnicHcRLDoIwFADAE1XAYqImLoigIMRPRatsiL7wC9ACrW3kgp7B25g4i_l-Sik7sTSMpsSTgvOiyV4iG4AzmTE5Ad4aRScQCCQMxyfHmNZOpKnCdtiOUu8LpoN93CQXj9odsU7PLQfPxtVm4DgFKsN6roByRajLdkF-dStrjOj1IA4eRFVy62sSb5N3Skw2u9XslAR3f53q9KUqvEDT4UFGp7emxxnrXEWA9mc78se8XWnLNE1U_gfEfr6jRZg"
+  },
+  {
+   "position": 15,
+   "title": "True Texas BBQ",
+   "place_id": "ChIJKe57Q-a1RIYRrGEuTcT4LrM",
+   "data_id": "0x8644b5e6437bee29:0xb32ef8c44d2e61ac",
+   "data_cid": "12911530703709954476",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b5e6437bee29%3A0xb32ef8c44d2e61ac&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b5e6437bee29%3A0xb32ef8c44d2e61ac&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.3011751,
+    "longitude": -97.69886559999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJKe57Q-a1RIYRrGEuTcT4LrM",
+   "provider_id": "/g/11hm9j3f6x",
+   "rating": 4.7,
+   "reviews": 481,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "restaurant"
+   ],
+   "address": "1801 E 51st St, Austin, TX 78723",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20139\u202fPM",
+    "thursday": "11\u202fAM\u20139\u202fPM",
+    "friday": "11\u202fAM\u20139\u202fPM",
+    "saturday": "11\u202fAM\u20139\u202fPM",
+    "sunday": "11\u202fAM\u20139\u202fPM",
+    "monday": "11\u202fAM\u20139\u202fPM",
+    "tuesday": "11\u202fAM\u20139\u202fPM"
+   },
+   "phone": "(512) 236-1020",
+   "website": "https://www.truetxbbq.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_restaurant&utm_content=639TT",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "crowd": [
+      "Family-friendly",
+      "Groups",
+      "LGBTQ+ friendly",
+      "Tourists",
+      "Transgender safespace"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Usually plenty of parking"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFobTlqM2Y2eBgAOgMI8A0%3D&g2lbs=AEzIGDtbVZTfcXLuwY-Oa3FrQCEJ-Q8RNT839edodnpzrul49BZXyeBIfGhNgL9E3nphsh6Cn9kc&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"The BBQ was cooked perfectly, and the portions were generous for the price.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnx2wYSaMiatD-4BldXhrw3BiTznFIhfKZJangobx5zzXTmuM03nA5WMEid7jP9AqNH_v35fcHlsb9xGYlygRG67E3c6IvOJpJC1nZgFtnAIycJPVooRKT6QCILGaKemN9POTcv=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/4pyVInicHcRZroIwFADQFVXQCgYTP3BiEkVe4_RjsGKLKbdoKyAbdA1vNyaej_P_4VpXamwYguMek5KJ_KXyJ5Wgc9A9KkuDVQpRhZTh-mlC9tAOmuNfFheZnqPhVFwP_NngaUE6WAb8Fp3CDJi8tFbXHUj5ik0MrrWPF8V1dE8c97H2zzW2btQX6uK03lG8WerZowWmdlBvwiqc9eHElhrc4E3DZCdlGhF7OwtWXhbl5dpJNoTWk6ZvmibivymCL6q6RPc"
+  },
+  {
+   "position": 16,
+   "title": "Black's Barbecue Austin",
+   "place_id": "ChIJxZAwBIC1RIYRGSnQBuFng7M",
+   "data_id": "0x8644b580043090c5:0xb38367e106d02919",
+   "data_cid": "12935296770917804313",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b580043090c5%3A0xb38367e106d02919&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b580043090c5%3A0xb38367e106d02919&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.2985054,
+    "longitude": -97.7411186
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJxZAwBIC1RIYRGSnQBuFng7M",
+   "provider_id": "/g/1q6j438pz",
+   "rating": 4.4,
+   "reviews": 4154,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "American restaurant",
+    "Family restaurant",
+    "Takeout Restaurant",
+    "Southern restaurant (US)"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "american_restaurant",
+    "family_restaurant",
+    "meal_takeaway",
+    "southern_us_restaurant"
+   ],
+   "address": "3110 Guadalupe St #150, Austin, TX 78705",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20139\u202fPM",
+    "thursday": "11\u202fAM\u20139\u202fPM",
+    "friday": "11\u202fAM\u201310\u202fPM",
+    "saturday": "11\u202fAM\u201310\u202fPM",
+    "sunday": "11\u202fAM\u20139\u202fPM",
+    "monday": "11\u202fAM\u20139\u202fPM",
+    "tuesday": "11\u202fAM\u20139\u202fPM"
+   },
+   "phone": "(512) 524-0801",
+   "website": "https://www.blacksbbq.com/",
+   "description": "Buzzy barbecue hub for brisket & ribs. Acclaimed barbecue family offers brisket, ribs, sides & craft beers in a relaxed, wood-decked space.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Organic dishes",
+      "Quick bite",
+      "Small plates",
+      "Wine"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating",
+      "Table service"
+     ]
+    },
+    {
+     "amenities": [
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Cozy",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "College students",
+      "Family-friendly",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "planning": [
+      "Usually a wait"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Paid street parking",
+      "Usually somewhat difficult to find a space"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EiYKJOICITIfEhgiFtLX29IPEAoML2cvMXE2ajQzOHB6GAA6AwjwDQ%3D%3D&g2lbs=AEzIGDu3HsxO-CD-NWeTVeITI6zOr9cnBflw_PxsgAxYZs85UeGAIoJfvCily-f_3YQFh23AHSdb&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"Really good barbecue at a decent price.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlQ1LO9frJWlK4aLxOG-Jj7cBXtTpL8SvzQsThiberC5Ds2tKKws9P_kzHoZS9ecnxOMzO_UQzzd-Pg7AMo4p6ar1zp_HbGxsILJlTPEcGBUmXJv-bM_eXe1ipvwsUO9Jx8OqyL2OF_wyFF=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/HHma33icHcTbboIwGADgJ6qA84TJLjwMWCkpKETiTSNdBbdKO_4K2Jfc9d5myb6L7_enMUbD2nFk8zKplaqleIDouGqNaM2Eq7tTa0AcEDib6JDmJ5l5hPrXDp9kPLuQkYYIfy75tjS5JqtjbzPIm1slut18D1MTxwP4KfuykToffcHbkSaWsiKz9gOl9XKTqJleXDrPahZV4QjvBMs8fePhtriXuEdVwkQpvJvuByioj8cV_X6SKQ3Y8AyC18FzXRc1_3PU_gHxmUiE"
+  },
+  {
+   "position": 17,
+   "title": "KG BBQ",
+   "place_id": "ChIJf5JQtli1RIYR9XTsHPaGtbI",
+   "data_id": "0x8644b558b650927f:0xb2b586f61cec74f5",
+   "data_cid": "12877347101141136629",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b558b650927f%3A0xb2b586f61cec74f5&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b558b650927f%3A0xb2b586f61cec74f5&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.286754799999997,
+    "longitude": -97.7051671
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJf5JQtli1RIYR9XTsHPaGtbI",
+   "provider_id": "/g/11swmglk2g",
+   "rating": 4.7,
+   "reviews": 1668,
+   "price": "$20\u201330",
+   "extracted_price": 20,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant"
+   ],
+   "address": "3108 Manor Rd, Austin, TX 78723",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM Thu",
+   "hours": "Closed \u00b7 Opens 11\u202fAM Thu",
+   "operating_hours": {
+    "wednesday": "Closed",
+    "thursday": "11\u202fAM\u20138\u202fPM",
+    "friday": "11\u202fAM\u20138\u202fPM",
+    "saturday": "11\u202fAM\u20138\u202fPM",
+    "sunday": "11\u202fAM\u20135\u202fPM",
+    "monday": "Closed",
+    "tuesday": "Closed"
+   },
+   "phone": "(737) 294-8598",
+   "website": "https://www.kgbbq.com/",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Live music",
+      "Serves local specialty",
+      "Sports"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Coffee",
+      "Comfort food",
+      "Healthy options",
+      "Quick bite",
+      "Small plates"
+     ]
+    },
+    {
+     "dining_options": [
+      "Brunch",
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "Family-friendly",
+      "Groups",
+      "LGBTQ+ friendly",
+      "Tourists",
+      "Transgender safespace"
+     ]
+    },
+    {
+     "planning": [
+      "Usually a wait"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Paid street parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed",
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "user_review": "\"Highly recommend for a unique take on barbecue and a cool atmosphere.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkWoqQc0NlFBgWLJE9uJQYCL1Rpqt7pP9iInxVOUmPQO_ddmvb-Ub1GwtYsgEWzw60VwOhx6fy4szc24Sw6oG-VC3py-tmT8PD4CSuvCp_uN1bSHlo-19K1JOVSu5rX8ukgleZi=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/TvkcL3icHc5LEsEwAADQE0UTqlozFlR9yuiPFpvONCrtaJqQRHBBZ3Abxuat3-ddScnF0DCaqtchjJGmVKK8YdbKspUdzKhBuABYAGGMF3G4zS4Zu0YYbprZhGRr33OUHx3cNYr5VQ546NTL9pEGOxpGQX460XsBdgWaa3kQxMte2oKpDqqHdX6a4oW7ZqItNgep2-NPIOnWDqemm6i7y3O1QUWyaBhAzgr5QZqo_m1vq8uveKxHGkEIQfUXg_YLhGVE7g"
+  },
+  {
+   "position": 18,
+   "title": "Smokin' Brew-B-Q",
+   "place_id": "ChIJoUx2fEpNW4YRwJvTeuqX4z8",
+   "data_id": "0x865b4d4a7c764ca1:0x3fe397ea7ad39bc0",
+   "data_cid": "4603690277441608640",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x865b4d4a7c764ca1%3A0x3fe397ea7ad39bc0&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x865b4d4a7c764ca1%3A0x3fe397ea7ad39bc0&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.1655341,
+    "longitude": -97.6929205
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJoUx2fEpNW4YRwJvTeuqX4z8",
+   "provider_id": "/g/11qsrct04n",
+   "rating": 4.4,
+   "reviews": 314,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Catering food and drink supplier"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "catering_food_and_drink_supplies"
+   ],
+   "address": "6328 S Hwy 183, Austin, TX 78744",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 10:45\u202fAM",
+   "hours": "Closed \u00b7 Opens 10:45\u202fAM",
+   "operating_hours": {
+    "wednesday": "10:45\u202fAM\u201310\u202fPM",
+    "thursday": "10:45\u202fAM\u201310\u202fPM",
+    "friday": "10:45\u202fAM\u201311\u202fPM",
+    "saturday": "10:45\u202fAM\u201311\u202fPM",
+    "sunday": "10:45\u202fAM\u201310\u202fPM",
+    "monday": "10:45\u202fAM\u201310\u202fPM",
+    "tuesday": "10:45\u202fAM\u201310\u202fPM"
+   },
+   "phone": "(737) 217-9502",
+   "website": "http://www.smokinbrewbq.com/",
+   "description": "Bright food truck for hearty standards. Colorful food truck dishing up BBQ meats, generous burgers & pulled pork tacos, plus salad bowls.",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Great beer selection",
+      "Live music",
+      "Serves local specialty",
+      "Sports"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Cocktails",
+      "Comfort food",
+      "Happy hour drinks",
+      "Hard liquor",
+      "Quick bite",
+      "Small plates"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual",
+      "Trendy"
+     ]
+    },
+    {
+     "crowd": [
+      "Family-friendly",
+      "Groups",
+      "LGBTQ+ friendly",
+      "Tourists"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "On-site parking",
+      "Paid parking lot",
+      "Usually plenty of parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed",
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFxc3JjdDA0bhgAOgMI8A0%3D&g2lbs=AEzIGDuB0H22wzYzew0T-n790zl8ywNW6IBqR2NZHOuAkNA7jGx5-6kNCMqFmxiaq1ZgWL0h2nSg&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"The BBQ was delicious--and little salty, but good flavor and tender.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4U9c6salLAX9ms1QgBmRvMcWTAlo7oOLZVazw7eVpnkTJu3keKjr-v12ijTcH6L_QkvICS1ksVeX0QoMMspATDVrZgmDdiRcIRSgQgwLig8JCw1DIP6IU_bVdc7vCBLZAMnkBSErRd-o=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/mAPK53icHcTBboIwGADgJ6rQucBc4qHAEnElk1Kr4WLcT1OwpSUUIfEhd9_bmPgdvv-_dpoG_xkEpl2vlHPKyLuXIzg7STutwPWBGjwCj3xAduzAT-b9uIHIXw0l503vcamSns0FnDgxLnY_tBbXxxJLMVjN9_e1lt-3Ec34rbtx2EX0Uuo5TyusvZDnsHRF4QfCMzHWqs-ajkHOKlWqhXbqY58uOMsPUX68_IoG4jlNaE0Kq5Pqa2QNctsFh2GI2teA7BOPtEdh"
+  },
+  {
+   "position": 19,
+   "title": "B. Cooper Barbecue",
+   "place_id": "ChIJ8YcC2Cy1RIYRPSIJg8fhP-0",
+   "data_id": "0x8644b52cd80287f1:0xed3fe1c78309223d",
+   "data_cid": "17095630957534847549",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b52cd80287f1%3A0xed3fe1c78309223d&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b52cd80287f1%3A0xed3fe1c78309223d&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.2639186,
+    "longitude": -97.7299932
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8YcC2Cy1RIYRPSIJg8fhP-0",
+   "provider_id": "/g/11j4h8rjxq",
+   "rating": 4.8,
+   "reviews": 229,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Caterer"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "catering_service"
+   ],
+   "address": "@ Inn Cahoots, 1221 E 6th St, Austin, TX 78702",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 4\u202fPM Thu",
+   "hours": "Closed \u00b7 Opens 4\u202fPM Thu",
+   "operating_hours": {
+    "wednesday": "Closed",
+    "thursday": "4\u20138\u202fPM",
+    "friday": "4\u20138\u202fPM",
+    "saturday": "4\u20138\u202fPM",
+    "sunday": "4\u20138\u202fPM",
+    "monday": "Closed",
+    "tuesday": "Closed"
+   },
+   "phone": "(512) 690-6220",
+   "website": "http://bcooperbarbecue.com/",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Comfort food",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Bar onsite",
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "crowd": [
+      "Groups",
+      "LGBTQ+ friendly",
+      "Tourists",
+      "Transgender safespace"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    },
+    {
+     "payments": [
+      "Credit cards",
+      "Debit cards"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking lot",
+      "Free street parking",
+      "Paid parking lot",
+      "Usually plenty of parking"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "user_review": "\"Multiple bbq sauces to choose from too, sweet, vinegar, and spicy.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlbso5QXbpk7EILuB1ED7gWySoGskWyQfxDal0yWSy6xAPGsBn47DFSr88JewRSj7QyfyD8e-QOVD-BDT2zdgQoVjy7YnmYxicQEBX9JyX2kxobVcujZze-VMkKluHj-mOoNk3ulg=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/lTgHPHicHcTdboIwGADQJyqgzpWZeCEp6vyZVgigd9KVMlr6EUsj9Q19BN_GZOfivJ5133dm5vuqnngCQChuDb8x0D3Xvceg9UVnEDPI-Iv16ZjmqjQwpUXZSRx_72w0igkWuUtgZWTuaDWQqwpcnrjPYXFcmUh_YLJMbmG44fdT0mDqKkdCjughIygi6fjxKyhkjcNn3Z6HP0bjqPjauGIsBygzZpvLg6NsL7fKrhvUHuBHTqwS8_soCAJU_8-QfgMog0Zr"
+  },
+  {
+   "position": 20,
+   "title": "True Texas BBQ",
+   "place_id": "ChIJ3xB4PvW1RIYRVpX4RoSiJQE",
+   "data_id": "0x8644b5f53e7810df:0x125a28446f89556",
+   "data_cid": "82650857186301270",
+   "reviews_link": "https://serpapi.com/search.json?data_id=0x8644b5f53e7810df%3A0x125a28446f89556&engine=google_maps_reviews&hl=en",
+   "photos_link": "https://serpapi.com/search.json?data_id=0x8644b5f53e7810df%3A0x125a28446f89556&engine=google_maps_photos&hl=en",
+   "gps_coordinates": {
+    "latitude": 30.238429699999998,
+    "longitude": -97.75452899999999
+   },
+   "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ3xB4PvW1RIYRVpX4RoSiJQE",
+   "provider_id": "/g/11y9xm825h",
+   "rating": 4.7,
+   "reviews": 635,
+   "price": "$10\u201320",
+   "extracted_price": 10,
+   "type": "Barbecue restaurant",
+   "types": [
+    "Barbecue restaurant",
+    "Caterer",
+    "Delivery service"
+   ],
+   "type_id": "barbecue_restaurant",
+   "type_ids": [
+    "barbecue_restaurant",
+    "catering_service",
+    "delivery_service"
+   ],
+   "address": "2400 S Congress Ave, Austin, TX 78704",
+   "country": "United States",
+   "open_state": "Closed \u00b7 Opens 11\u202fAM",
+   "hours": "Closed \u00b7 Opens 11\u202fAM",
+   "operating_hours": {
+    "wednesday": "11\u202fAM\u20139\u202fPM",
+    "thursday": "11\u202fAM\u20139\u202fPM",
+    "friday": "11\u202fAM\u20139\u202fPM",
+    "saturday": "11\u202fAM\u20139\u202fPM",
+    "sunday": "11\u202fAM\u20139\u202fPM",
+    "monday": "11\u202fAM\u20139\u202fPM",
+    "tuesday": "11\u202fAM\u20139\u202fPM"
+   },
+   "phone": "(737) 610-5960",
+   "website": "https://www.truetxbbq.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_restaurant&utm_content=754TT",
+   "extensions": [
+    {
+     "service_options": [
+      "Outdoor seating",
+      "Delivery",
+      "Onsite services",
+      "Takeout",
+      "Dine-in"
+     ]
+    },
+    {
+     "highlights": [
+      "Fast service",
+      "Live music",
+      "Serves local specialty"
+     ]
+    },
+    {
+     "popular_for": [
+      "Lunch",
+      "Dinner",
+      "Solo dining"
+     ]
+    },
+    {
+     "accessibility": [
+      "Wheelchair accessible entrance",
+      "Wheelchair accessible parking lot",
+      "Wheelchair accessible restroom",
+      "Wheelchair accessible seating"
+     ]
+    },
+    {
+     "offerings": [
+      "Alcohol",
+      "Beer",
+      "Comfort food",
+      "Happy hour drinks",
+      "Quick bite"
+     ]
+    },
+    {
+     "dining_options": [
+      "Lunch",
+      "Dinner",
+      "Catering",
+      "Counter service",
+      "Dessert",
+      "Seating"
+     ]
+    },
+    {
+     "amenities": [
+      "Restroom",
+      "Wi-Fi",
+      "Free Wi-Fi"
+     ]
+    },
+    {
+     "atmosphere": [
+      "Casual"
+     ]
+    },
+    {
+     "crowd": [
+      "Family-friendly",
+      "Groups",
+      "Tourists"
+     ]
+    },
+    {
+     "payments": [
+      "Checks",
+      "Credit cards",
+      "Debit cards",
+      "NFC mobile payments"
+     ]
+    },
+    {
+     "children": [
+      "Good for kids",
+      "High chairs"
+     ]
+    },
+    {
+     "parking": [
+      "Free parking garage",
+      "Free parking lot",
+      "Free street parking",
+      "Usually plenty of parking"
+     ]
+    },
+    {
+     "pets": [
+      "Dogs allowed outside"
+     ]
+    }
+   ],
+   "unsupported_extensions": [
+    {
+     "dining_options": [
+      "Table service"
+     ]
+    },
+    {
+     "planning": [
+      "Accepts reservations"
+     ]
+    }
+   ],
+   "service_options": {
+    "dine_in": true,
+    "takeout": true,
+    "delivery": true
+   },
+   "order_online": "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5OXhtODI1aBgAOgMI8A0%3D&g2lbs=AEzIGDvfIkiihLs81c1Liqfn9oV1jlAaOS7pDUbOkrQKlIcIsWoP858yx1bzVAVSVGE8c0OTRjvh&hl=en-US&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=dgSYat6bAsmSwbkPnevouAo&ei=dgSYat6bAsmSwbkPnevouAo&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp",
+   "user_review": "\"The BBQ was flavorful, and cooked perfectly, and the portions were generous.\"",
+   "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn5hWn-F_rcsauV_bwhftcWECm_4TvvPRYwhWoWtMjeNhmThsAZZeBCfVWLgXA85kQzN4WR1qa4O1cEzUHQBPxNztplwYmKXYcNV8osKK_9gh2SRUYncR1TjO4SPKSxQIs3tso=w1000-h1000-c-n",
+   "serpapi_thumbnail": "https://serpapi.com/images/url/J0f4UXicHcTRDsEwFADQL6ptTILEwwghY7ZuVvOycFO9YWvHLZN9oH_wNxLn4Xw_aG1DE8epcNBTxqhKPkk-wGgrte2BqR3VEANi5AQrHmdCD1FotiwfQKdnXp5bvFgQi3ld-tnrFfOiRWGE3V5lhHWGFByPcja_5GKjDsFoeEu6yBfcu5_8nQeLbr9KZvE76mxTtUUdHgqI8pGhMCzHCvsp3xcauJddd34ah-k7WdPAkpm2nuu6DP8D0z_TO0X7"
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&ll=%4030.3178%2C-97.7318%2C12z&q=barbecue&start=20&type=search"
+ }
+}

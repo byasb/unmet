@@ -1,0 +1,401 @@
+{
+ "search_metadata": {
+  "id": "6a9806560d0b295d0eed8711",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/eWxBWx_wCCmVo-2Y_zFuxX9afXpXHDMTCj2JbLYUzyM/6a9806560d0b295d0eed8711.json",
+  "markdown_endpoint": "https://serpapi.com/searches/eWxBWx_wCCmVo-2Y_zFuxX9afXpXHDMTCj2JbLYUzyM/6a9806560d0b295d0eed8711.md",
+  "created_at": "2026-09-02 11:19:50 UTC",
+  "processed_at": "2026-09-02 11:19:50 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5a4ae3bcc33:0x31aba8abf8f64c84!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/eWxBWx_wCCmVo-2Y_zFuxX9afXpXHDMTCj2JbLYUzyM/6a9806560d0b295d0eed8711.html",
+  "prettify_html_file": "https://serpapi.com/searches/eWxBWx_wCCmVo-2Y_zFuxX9afXpXHDMTCj2JbLYUzyM/6a9806560d0b295d0eed8711.prettify",
+  "total_time_taken": 1.51
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84",
+  "hl": "en",
+  "sort_by": "qualityScore"
+ },
+ "place_info": {
+  "title": "Franklin Barbecue",
+  "address": "900 E 11th St, Austin, TX 78702, United States",
+  "rating": 4.7,
+  "reviews": 7237,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "brisket",
+   "mentions": 1242,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 190,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "limited seating",
+   "mentions": 9,
+   "id": "ChXOgcvmiCg"
+  },
+  {
+   "keyword": "long lines",
+   "mentions": 279,
+   "id": "Avtrs817wXg"
+  },
+  {
+   "keyword": "wait time",
+   "mentions": 798,
+   "id": "ALvakRP3QVw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 12,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 164,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "folding chairs",
+   "mentions": 47,
+   "id": "GBgWu9zdqAs"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 274,
+   "id": "BzYeemUSQh4"
+  },
+  {
+   "keyword": "turkey",
+   "mentions": 195,
+   "id": "UQwSWAznjHU"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCeE5rNVNSSEJUVkRSUFJXeEpSREV0TTJGeloyYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOjBxNk5SRHBTVDRPRWxJRDEtM2FzZ2c%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-28T20:01:10Z",
+   "iso_date_of_last_edit": "2026-06-28T20:01:10Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO0E_d7ROQkcKf1unTv81HPrNu2TnjAtXsU0mMrlAldl_OUTExDCMfGZuCHrJZ6qs8z5ilDPzuh3UlDj12F68Bh1uKjxA3Pj5T7864XpgQ7Tm9EH5O7hA3xYtUFmN0cAGyqjmBHxnjwh28h=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNzs6PTrFe1cgxi1tS7pRR1PJ_WoQKaLWT_4Ctwl4CgZwvBaOtMayCgLLjXJMqr_vnrxspkxX5YE7XUMdccsMO5VcZHS2TypgKwN9wXhUMIDSq9amqvQvq3dggJbAmgfc4ypa2H759BZCY=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOb3ksY5z21D7UuNEvqtDjHmEjvG5_DgW1n6QLf4_7UsPnqVuOhlMOvoYFU2tjzrOx4Rv_kVSfQlB--mV8FL66g3eMBXB-yAIpJNOSpRSaEg6t3awsgGMpQCrs31k0m6rfD9IuRPzjbjuEw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNXLTn2GLg5fbmqAzENvox2V9HjCKC-oodrZJTEm6H2C7tVmrNPJJyXPykkMUb5tuA4-DGK9XOrDhhpte1SVRM3LGo1gXFpXRtWNdGz9SgmH-za2Ya2FkfpNLYCjPhzyu7uq5tcqon4O3cn=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeE5rNVNSSEJUVkRSUFJXeEpSREV0TTJGeloyYxAB",
+   "user": {
+    "name": "Jarek",
+    "link": "https://www.google.com/maps/contrib/101981943918962164770?hl=en-GB",
+    "contributor_id": "101981943918962164770",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocI8MFjJ2arD89_1s4p3Mrv9kP8N8tkU6vL9Qh7fL4LAZ38EJg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 158,
+    "photos": 617
+   },
+   "snippet": "Long queue but worth the wait.\n\nService and atmosphere:\nVery good customer services. The team member kept people waiting in the queue well informed about the food and time to order.\nThe restaurant is small but you get the table as people leave in timely manner. There is also patio and tables outside.\n\nFood:\nGood effort. The BBQ meats were moist and well seasoned. My favourite were the pork ribs. I also enjoyed pinto beans which were on spicy and savoury side.\n\nPricing:\n$$$ - pretty pricy per pound of meats served.",
+   "extracted_snippet": {
+    "original": "Long queue but worth the wait.\n\nService and atmosphere:\nVery good customer services. The team member kept people waiting in the queue well informed about the food and time to order.\nThe restaurant is small but you get the table as people leave in timely manner. There is also patio and tables outside.\n\nFood:\nGood effort. The BBQ meats were moist and well seasoned. My favourite were the pork ribs. I also enjoyed pinto beans which were on spicy and savoury side.\n\nPricing:\n$$$ - pretty pricy per pound of meats served."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Brunch",
+    "price_per_person": "$50\u201360",
+    "food": 4,
+    "service": 5,
+    "atmosphere": 5,
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 1
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xoNk1FcFNaRVYwYkhWd1VXTnhZMmRQUkV0dE0xRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOlh6MEpSZEV0bHVwUWNxY2dPREttM1E%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "Edited 3 months ago",
+   "iso_date": "2026-05-05T20:35:50Z",
+   "iso_date_of_last_edit": "2026-05-08T01:52:01Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOzi5T9OmncTxJlyDK9NjiaUW_7R2zC26c3PiGD87dmPAXIKhYs-iZV-CpWwssXzFNLX-VmmliI3tHV1XmYk7Bz4Fle9Igkxmb45ChwC8TcYEV4drqx-9mn6UEYTPU9ZuGWigK-NdszImGi=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOnhMjN3-9_eY-PEPoJG5JoszLNCfeDOGm6hd05h9tdGVr-Fd28un6Um5g-YUSln3Eir3dQK6w4lVOOESEPJLA89WujDJM0z4Q_LnvAbGzLfjVzrdsMocdpjsqHrJYVUmC0qjV8fVUdNb59=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPtL6l3K2wixW9CHIChkkpHueVqcfSl8ihQOq9XCTPwX3dEignlLvWLxPe_1D7-LAsDGWjIMi6j50FMtOIPySdK7Apf0jY3QtIkFAxOSthasI_Fma5etj7pYwKYfhXWALD70UN1bCM--gOd=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMiwAqf5vVy0GBsHMSIAMonbklf9AE7sO5T_RGd0SUQIH7xLvtDRK3HHZWuskO0KXWQ_JdJCstK3N1M9e3p1WUvrnFB2JGnpRfSdd9nNkI0QhOBvBcpoQU4_qkCxrrS2BtkKHfnaKaU_X2V=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMSX-WD7RObLm7039yRvsVqBvi7vYM2nEP9s2RpounOtjMEOdPNNnuuc4wY8G0Gb8bmUkM5sQesIsRYfWi41S47iaTYZDrtH34m9wjOS9-l9BAcjQD7R7ueZEDNhfcJrenXD96fjftj2HfV=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOnm_9ODBQkpiya_xltWrrunoIxzxbBo2tJHYWziNY-ANmc7lxHQI450iz2v0lMKXLQvVuXpZl2v01WCV_af_cSJY1aW9LzNV4Jr3P0UgAugN9iz1xAk2WUTgma5Cq73ZFEw9ZGcaYDRBs7=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoNk1FcFNaRVYwYkhWd1VXTnhZMmRQUkV0dE0xRRAB",
+   "user": {
+    "name": "Danny DeBruine",
+    "link": "https://www.google.com/maps/contrib/111262755642010809574?hl=en-GB",
+    "contributor_id": "111262755642010809574",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJDhGXNLZ0RUWANK0NwTcb_lbYXryTlPw0uTKTKwTzJAwBo_w=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 229,
+    "photos": 339
+   },
+   "snippet": "Brother and I came to Austin to eat and Franklin was our first stop. Didn\u2019t have time to wait so we pre ordered the minimum five pounds of meat. Ended up finding some people to share with and none of the food was wasted. Can\u2019t imagine brisket getting any better than this. Moist, tender, melt in your mouth perfection. Ribs may have been the best I\u2019ve had as well. Pulled pork was nothing special until we put their vinegar bbq sauce on it and it was delicious. Sausage was good, but not great. Turkey was tender and very flavorful. Key lime tart was decent. The only side we tried was the potato salad which was refreshing as it had a nice mustard flavor. If you like bbq this is a must try. I can only assume that the people who talk bad about this place either don\u2019t know bbq or just like to be mean.",
+   "extracted_snippet": {
+    "original": "Brother and I came to Austin to eat and Franklin was our first stop. Didn\u2019t have time to wait so we pre ordered the minimum five pounds of meat. Ended up finding some people to share with and none of the food was wasted. Can\u2019t imagine brisket getting any better than this. Moist, tender, melt in your mouth perfection. Ribs may have been the best I\u2019ve had as well. Pulled pork was nothing special until we put their vinegar bbq sauce on it and it was delicious. Sausage was good, but not great. Turkey was tender and very flavorful. Key lime tart was decent. The only side we tried was the potato salad which was refreshing as it had a nice mustard flavor. If you like bbq this is a must try. I can only assume that the people who talk bad about this place either don\u2019t know bbq or just like to be mean."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 5
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tKc09UWTVkMHhwUjNreWVtcFdSbmxrYUhaRU1WRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOkJsOTY5d0xpR3kyempWRnlkaHZEMVE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-21T22:20:29Z",
+   "iso_date_of_last_edit": "2026-06-21T22:20:29Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPX30Qunj6H4CgLwsxqqSkfZj6uQv8eVUOLcZHSa5hhtcUtiMb3RdD0B_4QARhzDz6j04Rb0uQK80VPIzCOGITOLw3Gb_v06qFeOaQFtStSUsQoArdH0KxxuPVpTRRTc0YgUfITY7mMBsOE=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOyR7ifv6wJfbMRAtchBZSwdH6HMSe5ghFrodlvyIYvK54BqRBHRSB6l5jfa5E2ujs4FjVkkUYs-ejXZHw2x5gQI12Zd16DFT6s8VM9YEZz46G5-zeCexSiQ6yttJSGDzE_-pMsWfnDw1v4=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP7aHno_0AZPeH4D9EyWpewTlNDtOFmf-UgQPpqLiBBM9fq0JTzD0vSnA6Rhl7N3zC4VdlSiRww57bOYuKCpDtxmfNkRMy9wbcweiN8G4BGocqi2GXxKQHCagEnKXHGQBqesnMRoEU2R1Vg=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKc09UWTVkMHhwUjNreWVtcFdSbmxrYUhaRU1WRRAB",
+   "user": {
+    "name": "Josh Johnson",
+    "link": "https://www.google.com/maps/contrib/105905889312461728805?hl=en-GB",
+    "contributor_id": "105905889312461728805",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIYKFO_6xC7EwZB6rvVAPzwZlCsjX6ei6Z3ckvdzq7OImfFfA=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 4,
+    "photos": 11
+   },
+   "snippet": "Arrived at 8AM with about 40 people in-front of us. Let me tell you the 3 and a half hour wait was well worth it!!! My dad and I are BBQ enthusiast and have some competition experience and after my dad\u2019s first bite of the Beef Rib he said, \u201cI don\u2019t know how it could get any better than that!\u201d I have heard the hype of Franklin\u2019s for YEARS and it surpassed all my expectations! Brisket was the best I have ever had, Beef Rib was the same. Pork ribs blew my mind with the tenderness. Turkey was outstanding. Sausage was amazing. I do have to say that the sides are nothing special, just your typical BBQ sides. Stand-out were the beans for me, the rest I could do without. Toured the pits after, very friendly staff. I would recommend everyone to go to Franklin\u2019s BBQ and waiting in the long line before anywhere else! 10/10, will be back!",
+   "extracted_snippet": {
+    "original": "Arrived at 8AM with about 40 people in-front of us. Let me tell you the 3 and a half hour wait was well worth it!!! My dad and I are BBQ enthusiast and have some competition experience and after my dad\u2019s first bite of the Beef Rib he said, \u201cI don\u2019t know how it could get any better than that!\u201d I have heard the hype of Franklin\u2019s for YEARS and it surpassed all my expectations! Brisket was the best I have ever had, Beef Rib was the same. Pork ribs blew my mind with the tenderness. Turkey was outstanding. Sausage was amazing. I do have to say that the sides are nothing special, just your typical BBQ sides. Stand-out were the beans for me, the rest I could do without. Toured the pits after, very friendly staff. I would recommend everyone to go to Franklin\u2019s BBQ and waiting in the long line before anywhere else! 10/10, will be back!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$40\u201350",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Suitable for all group sizes"
+   },
+   "likes": 1
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sSU1VVnVkWEl5TjNFM1lWVTFVMmx3TWxCV1dYYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOmlIMUVudXIyN3E3YVU1U2lwMlBWWXc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-09T00:55:24Z",
+   "iso_date_of_last_edit": "2026-07-09T00:55:24Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN11LiGNdFU-_syvU-vy7EF6tc8wr2vibgj-z8GO5ifTLmXXyBQvkWC40xNKbmvQCVE-091pHDPqTN82ra1ZVLdZ66LAiNICgMhFgCiVvgABk3TCdyEByuE6H6-RmxV3bHT_VFKyf3AMR8=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNCcXqHPx33d9llxXU3x9aXbuuHMYNLZDXfPwq5SR-953QwZHVdyNh5WtjIE-1KtiAKFpLi20wrDt-09YQai-L-fjZ--FRQv6jAJXiPBsqAfFyYQXpNByBbDhaCX5dYRGd_0O718mxg3Q2j=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNdB9OX-9hhQyPASA4RjIRhwkuXdTHhyQ3bmy9xNVUoaMge-JCQhjoziNtKdgmK6IjfMgPB-tE2eMyFZ2q-ZhVz9UnoHQ0rVUcTz-6IQpVHFzX7OffqUc81KSluxbF7CL9yqHqrA0Ikwr0B=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOqbZqru2GsV9LIYC6oCT3WaKBs2ZWbMeDmYzOmw53qNMfxZMXXhsajVmB7EqGzXdTfXlCqD5ftlw1Z6nMnoR_NTQZv_UjVGShvGSqPcOb0MuAyVBSgIQqsC_6-VaJX-LMLD2vvd01VaWo8=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSU1VVnVkWEl5TjNFM1lWVTFVMmx3TWxCV1dYYxAB",
+   "user": {
+    "name": "Abdoul Sidibe",
+    "link": "https://www.google.com/maps/contrib/118009202532542753114?hl=en-GB",
+    "contributor_id": "118009202532542753114",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLRpDsywcdR3ys0Rch8szgHR0t4jvTEoq8H-UBVRvzeOn0Www=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 5,
+    "photos": 16
+   },
+   "snippet": "Franklin Barbecue feels like a place where the anticipation is part of the experience. The line outside can be long, but once you get inside and smell the smoke from the pits, it makes sense why people wait. The atmosphere is casual, loud, and full of barbecue fans comparing trays before they sit down.\n\nI ordered the brisket, ribs, sausage, and potato salad. The brisket was the clear highlight, with a smoky bark and tender slices that barely needed sauce. The ribs had a rich flavor and a little chew, while the sausage added a peppery snap. The potato salad was simple and creamy, which worked well against the heavier meat.\n\nThis is the kind of barbecue meal that feels memorable because it is straightforward and done really well. Nothing feels overly fancy, but every bite tastes like it took time.",
+   "extracted_snippet": {
+    "original": "Franklin Barbecue feels like a place where the anticipation is part of the experience. The line outside can be long, but once you get inside and smell the smoke from the pits, it makes sense why people wait. The atmosphere is casual, loud, and full of barbecue fans comparing trays before they sit down.\n\nI ordered the brisket, ribs, sausage, and potato salad. The brisket was the clear highlight, with a smoky bark and tender slices that barely needed sauce. The ribs had a rich flavor and a little chew, while the sausage added a peppery snap. The potato salad was simple and creamy, which worked well against the heavier meat.\n\nThis is the kind of barbecue meal that feels memorable because it is straightforward and done really well. Nothing feels overly fancy, but every bite tastes like it took time."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Other",
+    "price_per_person": "$70\u201380",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Moderate noise",
+    "vegetarian_options": "Vegetarian options are limited, mostly sides such as potato salad, beans, and coleslaw. This is definitely a barbecue-first restaurant.",
+    "dietary_restrictions": "The smoked meats themselves are fairly straightforward, but preparation details can matter.",
+    "parking": "Parking is available nearby",
+    "kid_friendliness": "The casual picnic-table atmosphere works well for families, especially if kids are comfortable with a lively, busy dining environment."
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGallVdHBOMnd5TlVaS04wVjZNMDVzV1hOMFduYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOjFjYUtpN2wyNUZKN0V6M05sWXN0Wnc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-05T22:28:59Z",
+   "iso_date_of_last_edit": "2026-05-05T22:28:59Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO4awbXnkD_GodAlUNROCGmmL8oyCoRvlw_I7JWmeh33HgKg6ynmcj0l98G46rfiEmxCqiXaxPrRqn-Aq4401p2d4oyjvEur-LCAnnbtmHzr7lWQDoGbvVVu_TKmTXMK6KLd-toOrLE7GfD=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMH65iwzUMQQY-ZKnzLuC4_VuBznxsdwVAJkTVK8sBhRMaG_62x1J2iYe7U6u96KRLrHbK4SFikgRAxRJiTSPAmXUnSIl0SqCwhv2H0lEUzzaNKUsPwa_Of44VOlFHq8xu5CJ3TaOk-uDqh=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGallVdHBOMnd5TlVaS04wVjZNMDVzV1hOMFduYxAB",
+   "user": {
+    "name": "Stacy Horton",
+    "link": "https://www.google.com/maps/contrib/115055477238894753451?hl=en-GB",
+    "contributor_id": "115055477238894753451",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVSBSR8HOoGGWjlNrZQSUpIfOj5rTG38lCeinsn6k3w446JHDt-ew=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 258,
+    "photos": 702
+   },
+   "snippet": "Excellent! The BBQ does have a heavy vinegar taste compared to a sweeter style like stubbs. We were able to try the Tipsy Texan all the way - it was perfect! Brisket was great and sausage was really good. They only have 3 sides potato salad was was a good southern yellow kind.",
+   "extracted_snippet": {
+    "original": "Excellent! The BBQ does have a heavy vinegar taste compared to a sweeter style like stubbs. We were able to try the Tipsy Texan all the way - it was perfect! Brisket was great and sausage was really good. They only have 3 sides potato salad was was a good southern yellow kind."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "Tipsy Texan"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2trd2FDMWFlV051U2twNWFFOXBTWEl3Ukd4Zk1YYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOkkwaC1aeWNuSkp5aE9pSXIwRGxfMXc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-08T22:00:57Z",
+   "iso_date_of_last_edit": "2026-04-08T22:00:57Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOHDrJ53Z84YTrAWjzYM5h8Aw8tB8ZLNtXxqKHSZ8yyJHYCh-Nj3ae-xjUvfF88gj7ObrpLYGXWgR5zV5jviRVC09vAA7OAFCzaFxVf90Jc3a4XMCF6sLvdxtePScx8jBHc0b4_phRY_Nw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM25hvV3lOmg2Wu6Ysu1X7FV-QQBkCy-QrMTHDaIoBHI7sSbcqmqXGFO3zVyV4zHl2_A6qvD16J9KNsvrw4gT_FLf3ySFchPZhOi-VY1p4naIaiFSwBExsdGvSzyCiMPpjmVikNqnmw9bYW=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP4RG6Z7zpQNX01GzOWd5Za_YRnLUoBQHDBsb-3NLc_kzgF8JBEGgZKLdVpBEgfxQEEuvAp7K06IKZA5uVQXDEqqT2BoB9nxfaKUdp7NfT5l4KCSTAEctLj7zTIsTER9oFzMlM2lUkTPWKl=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOYcyOwXweNYJvzbbXgX-M-Q3JhGNS1Y_ByGpixIkcWDdX4NITD9ZCcBf55gzXCT7mSUtm3L1S9znxarN-gt4O7L-VmB1tMLTPuKZO73RuVQckC8W5cn047VQT42W9ufErzv8VB-fHlo8Q=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOQrNvxIXp8uFXwh6-o7K-Wmhkt52wKa_ftaTO3nMIY4O51ZhjpOBSKVblmZhZRLkAWvrxiALO51q12FKHOlYcs9IVJ-hdHmuyVp64V94sCvYo_ylqthhKwfn6vAEjpZgTGATNKPePRPuk=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP2HOalGpx-lAGjKlrH0n8bsjFsyVy-JpQzXtmai9i1MWYZf_yqSj5kXciHKpfPb0qRjvf0iSTa0b7SdQFIxFvestK4R_dgU7tJV0RKFGrXGBm1tHhmmpe250IxPt9w30YIE1bnq28U7l-i=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trd2FDMWFlV051U2twNWFFOXBTWEl3Ukd4Zk1YYxAB",
+   "user": {
+    "name": "C J",
+    "link": "https://www.google.com/maps/contrib/106502045158261523566?hl=en-GB",
+    "contributor_id": "106502045158261523566",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIMLnsjpL9Oo5ja4ru4-M0etdNLrRqbAS_BuhTihlpBZfQEPg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 152,
+    "photos": 573
+   },
+   "snippet": "OMG why did we went so long to go here. Oh yeah , the long lines on the weekends. Went on Wednesday, got in line at 10am, the line moved quickly when they opened at 11am.  Took about 20 minutes to the counter.\nExcellent friendly and attentive service from start to finish. Hands down best brisket!!! So tender and flavourful!!! Same for the turkey and ribs too!! No knife needed, it\u2019s all so tender! The sausage had a nice snap! The awesomeness of the meat doesn\u2019t need any sauce, it\u2019s so delicious without it although the sauce is good. Next visit, we\u2019ll skip the side dishes and desserts. Tried the potato salad and coleslaw and didn\u2019t care for either.  They have a nice merchandise space while in line inside. We picked a couple of bbq sauce bottles for $4.00 each and a hat for $27.",
+   "extracted_snippet": {
+    "original": "OMG why did we went so long to go here. Oh yeah , the long lines on the weekends. Went on Wednesday, got in line at 10am, the line moved quickly when they opened at 11am.  Took about 20 minutes to the counter.\nExcellent friendly and attentive service from start to finish. Hands down best brisket!!! So tender and flavourful!!! Same for the turkey and ribs too!! No knife needed, it\u2019s all so tender! The sausage had a nice snap! The awesomeness of the meat doesn\u2019t need any sauce, it\u2019s so delicious without it although the sauce is good. Next visit, we\u2019ll skip the side dishes and desserts. Tried the potato salad and coleslaw and didn\u2019t care for either.  They have a nice merchandise space while in line inside. We picked a couple of bbq sauce bottles for $4.00 each and a hat for $27."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$70\u201380",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "Go All the Meats",
+    "parking_space": "Somewhat difficult to find parking"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pjd2FsUnVWblUyWm5JMVRWVk9WVVoxVGpSaE4wRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOjcwalRuVnU2ZnI1TVVOVUZ1TjRhN0E%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "7 months ago",
+   "iso_date": "2026-01-22T20:19:01Z",
+   "iso_date_of_last_edit": "2026-01-22T20:19:01Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmORE1-nfoTVDaFEmVcgKEW_Yc1DS0VccQHhMXgsxFDZGBjphpaZd1lb5UpYmuBl8RhJjysxEZbqkWyAmozhQzF3IPOTngJBaks67O8WDODeim2cLMv6dc2zEM2z3TqYUNkQv1uVadz1Vok=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMtuqhBuiQ3ZzNgAa9R3gwNbUTA9pnUKlhMH2oapi1isiYInlimgsY2F9o_CxDX_S_QI4w4THBEYM7YSuj1yuDr7KyHdWXzwx0NRO4hAc6al8OP--M7rAK1q73S9LhqBbiJ7VCyOq4WHLvv=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNvbfq_K5k8KdMEXSCfdjr_BW-T9WAUrpyMeIwTLb729Sn3Owl3s9dutbiPcNm0ovVoVg4rvg3D2eIrIBGEwnhuBP-vWv9cpkYkee4sgUD_OMBxyixaBo_qiDcOy_toPmrwabylJ1F3Bkg2=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOReDvWdoS9gieAklFjQRyHeKK6GcUCTlD-kzKYb2o1vhR35kRBJJ6DZ02QWzU3AAUttr33S_2QtZ3Rn4FyVzIg72himmIE2s-6OHN6BmgY8IWKuL92VWXvRtNRN2llfOgNBB6AZn6tEfcr=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjd2FsUnVWblUyWm5JMVRWVk9WVVoxVGpSaE4wRRAB",
+   "user": {
+    "name": "Michael Mills",
+    "link": "https://www.google.com/maps/contrib/102004478046821801398?hl=en-GB",
+    "contributor_id": "102004478046821801398",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK3pX_PCYCW5JexkLOXMK2Qx_MMlGpcgT-p8Y1W_QgrfF2eCA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 224,
+    "photos": 135
+   },
+   "snippet": "Not wanting to stand in line for hours was top priority, so we placed a to-go order and ate at one of the two benches by the to-go trailer in back. There was a 5 pound meat minimum so it ain't cheap to do it that way. No sides ordered, so I can't review those, but the meats were all top notch. Best brisket, turkey, and jalapeno cheddar sausage that we tried on a BBQ mecca type trip to Austin and Lockhart, TX. The flavor of each item was rich and delicious. The sleeper of the meats was the shredded beef brisket. That on a sandwich (bread provided) with the pickles and jalapeno and the espresso bbq sauce was phenomenal. They need to sell the espresso sauce in the bottle like the other sauce flavors.",
+   "extracted_snippet": {
+    "original": "Not wanting to stand in line for hours was top priority, so we placed a to-go order and ate at one of the two benches by the to-go trailer in back. There was a 5 pound meat minimum so it ain't cheap to do it that way. No sides ordered, so I can't review those, but the meats were all top notch. Best brisket, turkey, and jalapeno cheddar sausage that we tried on a BBQ mecca type trip to Austin and Lockhart, TX. The flavor of each item was rich and delicious. The sleeper of the meats was the shredded beef brisket. That on a sandwich (bread provided) with the pickles and jalapeno and the espresso bbq sauce was phenomenal. They need to sell the espresso sauce in the bottle like the other sauce flavors."
+   },
+   "details": {
+    "order_type": "Takeaway",
+    "price_per_person": "$50\u201360",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "BBQ Brisket",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21reFYwNW5aVjlsZFZobVoxWlhiM2hZZDBsbmRFRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOmkxV05nZV9ldVhmZ1ZXb3hYd0lndEE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "Edited 5 months ago",
+   "iso_date": "2026-03-04T17:03:53Z",
+   "iso_date_of_last_edit": "2026-03-15T16:45:39Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP8NFLsGQx8Z7AwiNWc81KLBrd9pk8_HsGVQLomMzRbaeuIm4qzUmr6GDsKBq1oB7JSX-CPnzMpk5wlJ9AA1nybNO_CODl5IEkhb6ExW0uOzvwg-JlYuxxdqRD1vbLxGMsuviOrEZXh9pJp=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPaUkPcZ5F8qlqNy85I7KXNRyXOlzCMPveLdWcccgqD5RSE-_zFX3U7i8NqXDofNxgIxqrybQc61tHTWLoU48CCBz3hgAF60TD38JSHQ74w-CZGO39N80xkNzUwlyvBh7aRuoObgswfecus=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNsLa4O72kpr0P7-c9ZZ27BoA44nKIZcMmpWdPOd4WcuvkgdpLdbJj5pgetKqAeEU9jrWfraaqP5JnWcKHwhyvxJI_DEQpZ3EDtwf8CpgUJm1ApkAXL0y47gVVAgZ9h7vLixOEEwI4BOyA=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMuG9vV_Gtkm7U9gau3qnHsd1gH2oSwgZv8geAp5zK5Wg_PoAvBOpJWo7tDTqjQEWAXQz_RfxxHAUVHWBX5COigK6zWgrxbpvoXlfeT43UxPwU6Q7eIrAVTz5M8sOrvV8AentDNmF_tfDQ=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmORbWtXxsXx-73LDshVI1MJQU4va-LjvHe-O2ZAyyxKL5iZjWndW5LQLbetfI4STDo2AHvgQv2m9o_tAKkpC1Qe0kjvE3C8063HjfWQqEsilIWZVu2XNGk9zVQT0jUNy2z4Y3g9hxHHsOZA=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNfTGqbRZkjN3Y3fCgc_-QCstHlaTDLvjw2zo2sb9aN1nx5ImJ6Bdr6DcHB3EmBM-ap7Z6hVkcVtFo397h92XsjWiBCkem_gRNc6tgLsm6BH3TqmLTj9RFxMRF1Eve0dKRs-v05OceocMa9=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21reFYwNW5aVjlsZFZobVoxWlhiM2hZZDBsbmRFRRAB",
+   "user": {
+    "name": "Dan Bob",
+    "link": "https://www.google.com/maps/contrib/109337445334217021217?hl=en-GB",
+    "contributor_id": "109337445334217021217",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJC2RNMu0UQECRW3mPnzrW77BeLPrSPR1hWj8MeK90b9nrA38pd=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 78,
+    "photos": 228
+   },
+   "snippet": "Have wanted to experience Franklins BBQ for years. Set out on a Tuesday ready to stand in line at 10:20. Opened promptly at 11 and we were ordering by noon. Well worth the wait as the brisket melted in our mouths, can only be described as buttery. Coleslaw was perfect, potato salad MEH. Didn\u2019t have beans or pies. No frills white bread onions pickles and jalapenos upon request. 4 sauces to choose from, recommend the original and spicy. The expresso sauce tasted like coffee grounds, didn\u2019t try the vinegar based sauce. Now that I\u2019ve been there and done that I can\u2019t recommend enough.",
+   "extracted_snippet": {
+    "original": "Have wanted to experience Franklins BBQ for years. Set out on a Tuesday ready to stand in line at 10:20. Opened promptly at 11 and we were ordering by noon. Well worth the wait as the brisket melted in our mouths, can only be described as buttery. Coleslaw was perfect, potato salad MEH. Didn\u2019t have beans or pies. No frills white bread onions pickles and jalapenos upon request. 4 sauces to choose from, recommend the original and spicy. The expresso sauce tasted like coffee grounds, didn\u2019t try the vinegar based sauce. Now that I\u2019ve been there and done that I can\u2019t recommend enough."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$40\u201350",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Suitable for all group sizes"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5a4ae3bcc33%3A0x31aba8abf8f64c84&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LAA8A____EhDrTpWQg7Dm-PBVSo4AAAAAGgn92PECYw2cZ6gYACIA&sort_by=qualityScore",
+  "next_page_token": "CjEIARIpCgoAP7_LAA8A____EhDrTpWQg7Dm-PBVSo4AAAAAGgn92PECYw2cZ6gYACIA"
+ }
+}

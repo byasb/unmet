@@ -1,0 +1,2116 @@
+{
+ "search_metadata": {
+  "id": "6a9805730a9156ea3cd9caa7",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/el5ujR2lrVGHSa0GXMAV1YFkOn0vQTnfMjBxWoXo9cw/6a9805730a9156ea3cd9caa7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/el5ujR2lrVGHSa0GXMAV1YFkOn0vQTnfMjBxWoXo9cw/6a9805730a9156ea3cd9caa7.md",
+  "created_at": "2026-09-02 11:16:03 UTC",
+  "processed_at": "2026-09-02 11:16:03 UTC",
+  "yelp_reviews_url": "https://www.yelp.com/biz/YZs1gNSh_sN8JmN_nrpxeA",
+  "raw_html_file": "https://serpapi.com/searches/el5ujR2lrVGHSa0GXMAV1YFkOn0vQTnfMjBxWoXo9cw/6a9805730a9156ea3cd9caa7.html",
+  "total_time_taken": 3.24
+ },
+ "search_parameters": {
+  "engine": "yelp_reviews",
+  "start": 0,
+  "num": "49",
+  "place_id": "YZs1gNSh_sN8JmN_nrpxeA"
+ },
+ "search_information": {
+  "total_results": 9066,
+  "business": "Terry Black's Barbecue"
+ },
+ "review_languages": [
+  {
+   "hl": "en",
+   "count": 9066
+  },
+  {
+   "hl": "es",
+   "count": 28
+  },
+  {
+   "hl": "fr",
+   "count": 2
+  },
+  {
+   "hl": "zh",
+   "count": 1
+  },
+  {
+   "hl": "pt",
+   "count": 2
+  },
+  {
+   "hl": "de",
+   "count": 2
+  },
+  {
+   "hl": "ja",
+   "count": 1
+  },
+  {
+   "hl": "tr",
+   "count": 1
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "user": {
+    "name": "Jade R.",
+    "user_id": "UY1iSxkL4u7NusiMOa_jtg",
+    "link": "https://www.yelp.com/user_details?userid=UY1iSxkL4u7NusiMOa_jtg",
+    "address": "TX, TX",
+    "friends": 0,
+    "photos": 1,
+    "reviews": 1
+   },
+   "comment": {
+    "text": "Triny was great!!! So helpful and very nice at the counter. She answered all my question and the food was delicious. It wasn't too packed so it was a good experience",
+    "language": "en"
+   },
+   "date": "2026-08-18T20:04:27Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vP2yJygVoHugpp01txxvpQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 2,
+   "user": {
+    "name": "Indra P.",
+    "user_id": "WjBi8blkTNXdbH67_KXRiQ",
+    "link": "https://www.yelp.com/user_details?userid=WjBi8blkTNXdbH67_KXRiQ",
+    "address": "78704 (South Austin), Austin, TX",
+    "friends": 0,
+    "photos": 1,
+    "reviews": 1
+   },
+   "comment": {
+    "text": "What can I say, this place is amazing. Great food, fabulous customer service and the inviting atmosphere is incredible. Shout out to Shawn at the register!",
+    "language": "en"
+   },
+   "date": "2026-07-20T17:47:49Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xIXfLUMuctEp3Hy_-D9itw/o.jpg",
+     "caption": "beef ribs Sausage  Brisket"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 3,
+   "user": {
+    "name": "Lorena V.",
+    "user_id": "A48kcDfHvO5qm4f59xsXug",
+    "link": "https://www.yelp.com/user_details?userid=A48kcDfHvO5qm4f59xsXug",
+    "address": "San Luis Obispo, CA",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 1
+   },
+   "comment": {
+    "text": "We loved Merly and the service she gave us! Food was amazing! The vibe was excellent!",
+    "language": "en"
+   },
+   "date": "2026-08-17T03:40:57Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 4,
+   "user": {
+    "name": "Connie W.",
+    "user_id": "EJREb1J4lTCdtqYu66DW6w",
+    "link": "https://www.yelp.com/user_details?userid=EJREb1J4lTCdtqYu66DW6w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HygyQZ0GPE3NdqDDhtNHSw/180s.jpg",
+    "address": "Raleigh, NC",
+    "friends": 1,
+    "photos": 29,
+    "reviews": 17
+   },
+   "comment": {
+    "text": "Being from Houston and Austin, and now living in Raleigh, North Carolina, I'm constantly homesick for great Texas BBQ...especially brisket!! NC has some fantastic BBQ spots of its own, but you can imagine my excitement knowing I'd be back in Texas last week!\n\nThere are so many great places to choose from, but some friends recommended Terry Black's BBQ on Barton Springs Road in Austin. I am so glad they did, because I was in for an absolute treat!!\n\nThe brisket - outstanding!!\nThe ribs - ridiculous!!\nThe sides - oh, so magnificent!!\n\nAnd the experience goes far beyond the food. The building is ALL Texas, the staff was friendly, fun, an absolutely awesome, and the great country music playing in the background made the whole experience even better. It truly felt like Texas BBQ heaven!!\n\nIt's hard to believe anyone could be in Austin and not know about this magical place. If you've never been - or you moved away from Austin like I have - GO NOW!! If you have been before - GO BACK!!\n\nThank you, Terry Black's BBQ, for an unforgettable meal and a much needed taste of home. I'll definitely be back the next time I'm in Austin!!\n\nLong live Texas BBQ!!!!",
+    "language": "en"
+   },
+   "date": "2026-08-31T10:20:43Z",
+   "rating": 5,
+   "tags": [
+    "5 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_hzlP0QMmvpyCFkPrumhlw/o.jpg",
+     "caption": "Slicing brisket and ribs - YUM!!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lK6blmdJyq71bXB7uwVBMg/o.jpg",
+     "caption": "The sides of BBQ heaven!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3vDqignu2rNfNoeK08kSxw/o.jpg",
+     "caption": "Outside where the magic happens!!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dYkkwfLb9UQSZOmjfSOnhw/o.jpg",
+     "caption": "Greatest staff ever!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yBZhLbNkrVaq_18SQaeqtg/o.jpg",
+     "caption": "Anticipation smiles!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 5,
+   "user": {
+    "name": "Enrique L.",
+    "user_id": "9425zlCKJsfASxhnj4iTIQ",
+    "link": "https://www.yelp.com/user_details?userid=9425zlCKJsfASxhnj4iTIQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_j-JbXSJdaWm7Cc1dysaIA/180s.jpg",
+    "address": "Downtown, San Diego, CA",
+    "friends": 0,
+    "photos": 11,
+    "reviews": 34
+   },
+   "comment": {
+    "text": "Not sure what the hype is all about. Food is less than mid. Dry ass meats. Everything was OVER SALTED! Prices are criminal.\n\nWhoever gave this place hype should be ashamed of themselves.\n\nNot returning.\n\nDo not recommend.",
+    "language": "en"
+   },
+   "date": "2026-08-28T16:23:36Z",
+   "rating": 1,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 6,
+   "user": {
+    "name": "Angelique S.",
+    "user_id": "jvpVDCY_VrdKH5mPnW47Zg",
+    "link": "https://www.yelp.com/user_details?userid=jvpVDCY_VrdKH5mPnW47Zg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/D88nYNavdg0TQTelorHeNQ/180s.jpg",
+    "address": "TX, TX",
+    "friends": 0,
+    "photos": 12,
+    "reviews": 10
+   },
+   "comment": {
+    "text": "The food was wonderful-the servers were happy, talkative, and very good at explaining options and prices!\nThe actual place itself...incredibly chaotic.\nThere was no difference in the 102 degree weather outside than when you walked into the restaurant. \nI felt awful looking at all of the employees literally dripping in sweat but still working their butts off.\nThe line was out the door but moved very quickly thanks to the employees guiding everyone.\nAfter paying and leaving the line, actually finding a table/seat was crazy.\nIt was so packed, with hardly any walking room. \nWe stood for a while and then eventually took the table from a family that finished.\nI would definitely visit again, but it's a hard pass on eating inside, I would prefer a pick up.\nIt was also a Saturday, so that could be an explanation on the chaos",
+    "language": "en"
+   },
+   "date": "2026-08-23T17:49:26Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J8fu_byNiYKSw4LGk8-amw/o.jpg",
+     "caption": "Outdoor sign"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U991yTYRITGuFfPLIWtuOA/o.jpg",
+     "caption": "Finished tray- packed turkey sandwich, giant pulled pork sandwich, pinto beans, potato salad, creamed corn."
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 7,
+   "user": {
+    "name": "I L G.",
+    "user_id": "QsM6NSWqiIy6yMsEbfJq2Q",
+    "link": "https://www.yelp.com/user_details?userid=QsM6NSWqiIy6yMsEbfJq2Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LFcyoxW_9IRuuwLzuLejeQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 73,
+    "photos": 738,
+    "reviews": 219,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "If you can't make it to Lockhart then Austin is a nice second stop. The Bbq was good and the joint was hopping. Reminded me of Austin, hot, crowded and expensive. But I still love it.",
+    "language": "en"
+   },
+   "date": "2026-09-01T14:15:15Z",
+   "rating": 4,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IZsyT93nlMNAMPnSw-dUKg/o.jpg",
+     "caption": "Entrance to Terry Black's in Austin"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VKqDqqdl0C5p8qs6H7wxjQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MD078lsmph-wcAznzppKfQ/o.jpg",
+     "caption": "Rebecca trying to decide"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3xpvtlsQyzU_3Q8mF4TyWw/o.jpg",
+     "caption": "Tshirts"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tmNeUV7Wy_fd2adIPpKswg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ycyg0-vApMFLVq4Vr90q7g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ncvEk6r7D3BP-NULk-mV3Q/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1Pv7N0TiE5Gem8GOsC3PPQ/o.jpg",
+     "caption": "Courtesy please"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JOFFqN3KpajrzVf4LwW1qQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CEJzgQ-OkTTEeCi2uZQlOA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 8,
+   "user": {
+    "name": "Menghai T.",
+    "user_id": "mLNDP8LocUG51E6SuUYS7w",
+    "link": "https://www.yelp.com/user_details?userid=mLNDP8LocUG51E6SuUYS7w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hzf_MYf0ZAH5o0r-vTZOgQ/180s.jpg",
+    "address": "Richmond, VA",
+    "friends": 35,
+    "photos": 1530,
+    "reviews": 663,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I came here on a Wednesday night around 6:30 and it moderately busy. They serve the BBQ very quickly. I got a family meal with ribs, briskets, and a sausages along with sides. Favorite side was the creamed corn. As for the BBQ, it was delicious! The ribs was super tender and flavorful with its crust. The brisket was seasoned and moist. The sausage was salty and savory. Some of the best BBQ I've had. \n\nFood(50%): 9.3\nStaff/service(25%): 7.0\nValue(25%): 8.0\nOverall: 8.4/10",
+    "language": "en"
+   },
+   "date": "2026-08-20T13:08:14Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SNw-BRPqZ80sNb5g-ICuMA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AHe_Iu4-tPmXloe1rfDY4Q/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eOjs-wrQLLAtR7e_KdN2Lw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 9,
+   "user": {
+    "name": "Phil P.",
+    "user_id": "Zspg6kfe3xU5I8UTM5sfuw",
+    "link": "https://www.yelp.com/user_details?userid=Zspg6kfe3xU5I8UTM5sfuw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dfMMRm_br1x0yhE7Cs-wxw/180s.jpg",
+    "address": "Oklahoma City, OK",
+    "friends": 6,
+    "photos": 113,
+    "reviews": 231,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Line generally moves quickly. Rustic interior with plenty of tables and booths.  Nice selection of sides with labels to identify those which are gluten free.  Meat is more expensive than other barbecue joints but always tender, moist and bursting with flavor. Love coming here when I am in town.",
+    "language": "en"
+   },
+   "date": "2026-08-30T00:12:12Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sZfj2PpHZfcbtw2h0Rg42w/o.jpg",
+     "caption": "Brisket and pork ribs with sides of pinto beans and potato salad. Everything was excellent!!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 10,
+   "user": {
+    "name": "Carmen P.",
+    "user_id": "WzapZ14heDzam075sjaz3w",
+    "link": "https://www.yelp.com/user_details?userid=WzapZ14heDzam075sjaz3w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Egyqyh2m4of84bjt6v-Igg/180s.jpg",
+    "address": "Dallas, TX",
+    "friends": 2,
+    "photos": 536,
+    "reviews": 132,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Been a while since we were here... \n\nThe parking situation is STILL horrible! \nThe people are (mostly) nice, but they treat the customers like they SHOULD already know the process! \n\nAnd that horribly loud, seizure-inducing music!! I wouldn't be surprised if it has truly triggered someone's seizures... seriously... at least turn it down; you can't even think! OR... is THAT the plan? Get people frazzled when they walk in, take their $$, and make them want to just EAT & LEAVE... as there's plenty of OTHER hungry cattle... I mean \"people\" lined up at the door?  SMH\n\nThe food is still good (not great) ... and more costly than ever... WTH, TB- BBQ? \nIt's not GOLD, not even close!!  WE should at least get what we ordered since y'all feel it's a \"Fort Knox for BBQ\"!\nOur \"lean Brisket\" was 20% FAT... (at least).  The veggie sides are small portions ... at $4.50 per side ($9 for 2 sides)! And you have to ASK them for bread. Look at the amount of Pickles... I asked for a \"few\"... you could save $$ here & give better side portions! Charge $1 for bread, OR get a $1 discount if you don't want bread! \n\nUs Cattle can get that kind of treatment at any old joint... and with better BBQ too! \n\nSadly, we will never return!",
+    "language": "en"
+   },
+   "date": "2026-08-14T17:56:32Z",
+   "rating": 3,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X6MS026iY48VXND8UQlKUw/o.jpg",
+     "caption": "The crazy rush in the cattle area... 11:00 and they're already buzzing... It's everyone for himself/herself!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BWB57kpyZx567sTMILdS4w/o.jpg",
+     "caption": "Definitely NOT a $30 meal!  It was SO not worth it!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 11,
+   "user": {
+    "name": "Keith B.",
+    "user_id": "p_IFsK4pHTKz1f6d2vUN_A",
+    "link": "https://www.yelp.com/user_details?userid=p_IFsK4pHTKz1f6d2vUN_A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UIE_Mq9toHW0vgekbkWxpg/180s.jpg",
+    "address": "Dallas, TX",
+    "friends": 1327,
+    "photos": 309,
+    "reviews": 251,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Food here was pretty good, we have one in the DFW, the beef ribs were tender and seasoned very well. Didn't need any sauce unless it was a preference. The brisket was decent as well. Some of the sides didn't have as much flavor but they weren't necessarily nasty, with some salt and pepper it could spruce up the flavor for them. \nService was decent there was a big line outside and it had to be organized into a style where you follow the line, order your cuts, then pay for it when you got to the register. \nThe place was lively and very loud, lots of people and commotion but overall good food and energy. \n\nPaid almost $150 for this plate and some drinks.",
+    "language": "en"
+   },
+   "date": "2026-08-09T21:49:26Z",
+   "rating": 5,
+   "tags": [
+    "1 photo",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eARqOV1h5zrhGJNx8HqxDQ/o.jpg",
+     "caption": "Beef Ribs, Brisket, Mac & Cheese, Beans and More"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 12,
+   "user": {
+    "name": "Ashley C.",
+    "user_id": "mDvkSBth03eZtn-NjsWPXg",
+    "link": "https://www.yelp.com/user_details?userid=mDvkSBth03eZtn-NjsWPXg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0BsMLh__6tf6fL6SLdP1WQ/180s.jpg",
+    "address": "Sacramento, CA",
+    "friends": 716,
+    "photos": 14779,
+    "reviews": 2623,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This was definitely a highlight of my visit to Austin! It absolutely lived up to the hype and I am so excited that we got to try it. I was expecting long lines, but we arrived shortly after 11 on a Sunday and it wasn't bad at all. It moved quickly and they were very efficient. \n\nWe ordered the family meal to share, and it came with a tray of meat and another tray of all the sides that were included. We also added on an order of the beef rib, which is an absolute must have here. Yes it's pricey but it's also huge, and it was so tender! The meat here doesn't even really need sauce, but I was still using so much of it because the sauces itself were so good. They have them available on each table, and you can choose from original, sweet, or spicy. My favorites were the sweet and spicy, and I especially liked mixing them up together. \n\nThe only note I have if anything is that the sausage was a little bit dry, but again easily solved by their delicious barbecue sauce and all the different side dishes. The macaroni and cheese was gooey perfection and I also really loved their potato salad because of the dill they put in it. The family meal also includes banana pudding, which was a yummy way to end the meal! It was such a treat to be able to try this place and I won't forget it!",
+    "language": "en"
+   },
+   "date": "2026-07-26T23:35:21Z",
+   "rating": 5,
+   "tags": [
+    "6 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7v5X6-7kBCMQBuks58EYjw/o.jpg",
+     "caption": "Family meal plus beef rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MqTly9PEc1C2JgyN7FSY_w/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6XORS80WQ_cxy9aPg_zSOA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0WX-2UXO_SClZtW2FBBDYw/o.jpg",
+     "caption": "Family meal sides"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/03ltAnMCLyOFHbWaUtolAw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4adxdtNhSqt_QFF7chSvMw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 13,
+   "user": {
+    "name": "Darren S.",
+    "user_id": "kGSl_YFiSQzJ6Fs_zlhusw",
+    "link": "https://www.yelp.com/user_details?userid=kGSl_YFiSQzJ6Fs_zlhusw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ap-qam68alrz6jJg1X6FWw/180s.jpg",
+    "address": "Glen Rock, NJ",
+    "friends": 43,
+    "photos": 718,
+    "reviews": 168,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Visited Terry Black's on an early Sunday afternoon, and got in before the early dinner rush. The crew helped me get in line, and the line was very efficient from start to finish.\n\nI order 3 meats: jalapeno & cheddar sausage, brisket, and the smoked pork ribs. THE DISAPPOINTMENT: the brisket! At first, when they served me the brisket, I was excited because they brought out a fresh one and I was the first to try from the new slab. Isn't there a rule to let meat \"rest\" before serving, to redistribute the juices? They sliced mine, and just from the look --- it wasn't my \"dream piece\". After I tried it, it was not fall-apart tender AND even a bit dry.\n\nJalapeno & Cheddar Sausage: Yikes, not my favorite either. The texture was borderline boudin --- and that is not a compliment. The snap was non-existant, and it was literally falling apart. I couldn't taste jalapeno nor cheddar. \n\nVINDICATION: Pork Ribs. These pork ribs were amazing; they were smoked to perfection, seasoned well, and held on to the bone but was still tender to eat. It paired perfectly with the variety of BBQ sauces available on table-tops at Terry Black's. Must get.\n\nI opted to sit outside, since it was less crowded. The only thing is the BIRDS. There are a number of birds waiting to eat any handouts from the customers, so keep a watchful eye over your food --- or you might have to fend off a hungry animal!\n\nTHE SIDES were great. Decent mac'n'cheese, lovely creamy corn. \n\nEMPLOYEES WERE AMAZING. Price was so-so. But glad to cross this place off my list. Hopefully next time, I get a more tender piece of brisket and my sausage doesn't fall apart when trying to eat. Praying this was a one-off!",
+    "language": "en"
+   },
+   "date": "2026-08-03T18:57:18Z",
+   "rating": 3,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r8A64yDF5oe24gjV5q9ZCA/o.jpg",
+     "caption": "Line"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wKfyXnMkx3TO7XvW348aMQ/o.jpg",
+     "caption": "Food"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/n3BpUZzDZ9jTxpvn6RURHw/o.jpg",
+     "caption": "Outside"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 14,
+   "user": {
+    "name": "Mike V.",
+    "user_id": "43z4Qvh2AzxDkMuFkuxLHQ",
+    "link": "https://www.yelp.com/user_details?userid=43z4Qvh2AzxDkMuFkuxLHQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bsy6m8A7knYt9z6hagavHQ/180s.jpg",
+    "address": "Georgetown, TX",
+    "friends": 165,
+    "photos": 1921,
+    "reviews": 202,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Definitely an austin staple that is simply put.....AMAZING!! \nRecently brought some family members who were visiting from out of town to Texas barbecue. Teri Blacks, once again, did not disappoint. From the gigantic beef, ribs, succulent, pork, ribs, brisket, super moist, turkey, and juicy sausage links, everything was a hit!\nThere was a huge line that moved very fast to get your sides and meets. Once we found a table, we got down to Business. Some of the sides included green beans, sweet corn, and amazing Mac and cheese! I'm usually not a side person, but the mac & cheese was phenomenal!\nMake sure to get here early because it gets packed every single day. Almost to the point of uncomfortable the seats are pretty close and packed. I didn't mind it this much because the food was well worth it.\nDefinitely worth it and I will be back",
+    "language": "en"
+   },
+   "date": "2026-07-31T19:11:19Z",
+   "rating": 5,
+   "tags": [
+    "3 photos",
+    "2 check-ins"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fYSU9bTo7TwetVz13fx8Sg/o.jpg",
+     "caption": "Blazin sides"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DOpgHsbkc_W5QfRB5DKEhQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gZ4fD8kh84OmvzIrnR4YoA/o.jpg",
+     "caption": "Meat sweats incoming!!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 15,
+   "user": {
+    "name": "Rehoboth C.",
+    "user_id": "02HfxIonzhD4nRX-MgY-ag",
+    "link": "https://www.yelp.com/user_details?userid=02HfxIonzhD4nRX-MgY-ag",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j8VtMs1d0t8NLaf7x2RSLQ/180s.jpg",
+    "address": "TX, TX",
+    "friends": 1,
+    "photos": 20,
+    "reviews": 33,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This is officially my new favorite barbecue spot! Every bite lived up to the hype. The ribs were fall-off-the-bone tender and packed with incredible flavor, while the brisket was juicy, smoky, and melted in my mouth.\n\nThe sides were just as impressive. The potato salad was absolutely amazing, and the cream corn was easily some of the best I've ever had from a barbecue restaurant. The mac and cheese was good, but a little too runny for my personal preference. It still had great flavor, just wasn't my favorite. The sausage was an unexpected standout--I usually skip sausage altogether, but this one was so good I'd order it again without hesitation. And don't even get me started on the banana pudding... it was absolutely insane. One of the best I've had.\n\nThe service was friendly, helpful, and efficient. Even with a packed house, the line moved surprisingly fast. The atmosphere inside has that authentic backyard cookout feel that makes the whole experience even better.\n\nOverall, this place is an easy 10/10. Amazing food, great service, and a welcoming atmosphere. If you're looking for top-tier barbecue, I can't recommend this spot enough.",
+    "language": "en"
+   },
+   "date": "2026-07-30T20:49:47Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mFTDu-HShFcwBNY4mySy6g/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 16,
+   "user": {
+    "name": "Kristen A.",
+    "user_id": "E-ucDIqrj8uIvi_i461WEA",
+    "link": "https://www.yelp.com/user_details?userid=E-ucDIqrj8uIvi_i461WEA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oQr7ucRZbLL0A-TS5JGwlQ/180s.jpg",
+    "address": "University Place, Houston, TX",
+    "friends": 0,
+    "photos": 66,
+    "reviews": 57,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I had the worst experience here. I came on Tuesday where it wasn't supposed to be too busy. However there was a large party that caused all of the staff to rush my group. As this was my first time here, I was very confused with how this was organized which made the process more difficult. Once I sat down with my food, I received the wrong type of sausage and had to go back to the front. Then once I ate it; it was dry... \nMy Mac and cheese was good though, but my friends said it was too watery for them. \nThis was overall an unfortunate experience here.",
+    "language": "en"
+   },
+   "date": "2026-07-29T16:12:12Z",
+   "rating": 2,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/abJ8J9Nm2SgF6653EviqUg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/52mIDoN6_jq4yoS9sSQ9dw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 17,
+   "user": {
+    "name": "Trinh T.",
+    "user_id": "hXSzBUjnORNXkaxwA1j-vg",
+    "link": "https://www.yelp.com/user_details?userid=hXSzBUjnORNXkaxwA1j-vg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JH90Wy_nb1LRXA7_o0G6iA/180s.jpg",
+    "address": "Arlington, TX",
+    "friends": 915,
+    "photos": 3934,
+    "reviews": 854,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Terry Black's Barbecue is a Texas style BBQ joint that serves some of the best brisket in the state.  There are multiple locations, but this location is the original.  While some BBQ joints are known for long lines, Terry Black's has a great system with multiple meat cutters which result in a line that keeps moving and a full belly.\n\nMy Overall Rating - 5 Stars (Atmosphere, Service, Food, Return)\n\nAtmosphere - If this is your first visit to Terry Blacks, take a tour of the smoker's on the side of the restaurant.  The smokers are fenced in, but you can walk around and inhale the smoke smell.  It will prime you as you get in line to order.  Terry Black's is 100% casual.  There is plenty of seating and it's always packed.  1 Star.\n\nService - Terry Black's proves that you don't have to have a long line to serve great BBQ.  All you need is a great system.  The line will snake you to first order your sides, where the friendly staff will get your order.  Once ready, you make your way to the meat cutters.  The friendly staff will cut your meats to order.  It's really an awesome show and they are experts at what they do.  1 Star.\n\nFood - Texas is known for its brisket, and Terry Black's has some of the best.  The bark is black and salty, and the meat is smokey and delicious.  Ask for fatty brisket and let it melt in your mouth.  The beef rib is also great.  Sold by the pound, the beef rib is great for sharing (and photos).  The flavor is beefier (and fattier) than the brisket.  All the sides are great, especially the banana pudding.  2 Stars.\n\nWill I Return? - Yes.  The original continues to deliver.  Terry Black's has expanded to Dallas and Lockhart.  My favorite location is the OG in Austin.  It you're in Austin and don't have 3 hours to stand in line for BBQ, come to Terry Black's.  1 Star.",
+    "language": "en"
+   },
+   "date": "2026-07-07T23:32:16Z",
+   "rating": 5,
+   "tags": [
+    "6 photos",
+    "2 check-ins"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NMVu5gVWPKHpbJnyoRt_-w/o.jpg",
+     "caption": "Smokers"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wqJQStF-GgWk1V1pwTnU4w/o.jpg",
+     "caption": "Brisket & Beef Rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ULXpUqxPzLKvbHXO1HsMbQ/o.jpg",
+     "caption": "Sides"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rC2wPrIRqEnndqoaMBMGdA/o.jpg",
+     "caption": "Sign"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U_XQJir10LqalRcFTPkCWA/o.jpg",
+     "caption": "Expert cut man"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N_ELcG3k7fS0oE184ZdHBQ/o.jpg",
+     "caption": "The best"
+    }
+   ],
+   "feedback": {
+    "useful": 7,
+    "funny": 5,
+    "cool": 7
+   }
+  },
+  {
+   "position": 18,
+   "user": {
+    "name": "Karson S.",
+    "user_id": "3LxSs_dQ37-LBRz07EDbyg",
+    "link": "https://www.yelp.com/user_details?userid=3LxSs_dQ37-LBRz07EDbyg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/T0xRrbA-5Uu9Qk-tkMWUGQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 61,
+    "photos": 874,
+    "reviews": 373,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Fast line for a Saturday night in the summer! Got to try the black margarita - caution it'll turn your tongue black! But it was good.\n\nAs usual the meats were the star of the show with the beef rib and brisket bunt ends standing out. Brisket and turkey were okay. Sides (mac and cheese + green beans) were very good, with potato salad being ok (just cubes of potatoes mixed with other seasonings). Snagged a table inside although it was slightly tight since there was a food tour taking up about 1/4 of the tables indoors.\n\nTeam serving the food was very nice!",
+    "language": "en"
+   },
+   "date": "2026-07-20T21:21:36Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nNs4XdVnNTaYHSWc926jjA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 19,
+   "user": {
+    "name": "Kent C.",
+    "user_id": "yZyZ2Fgx6CqFScw0kR_25g",
+    "link": "https://www.yelp.com/user_details?userid=yZyZ2Fgx6CqFScw0kR_25g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/k_7KmzZyIUmcgAbC9nM5kw/180s.jpg",
+    "address": "Temecula, CA",
+    "friends": 35,
+    "photos": 531,
+    "reviews": 163,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "When I asked the locals where they would go for barbecue, all of them recommended Terry Black's BBQ, which is not the number one rated, but always listed in the top 10 for Austin.  The place was busy with most of the inside seating taken up and over 50% of the outside seating. People do move through fairly quickly. Service overall was Rapid and they showed a lot of interest in where you're from and why you came. It's a really fun and noisy environment. The barbecue is fabulous. If I can figure out how to downsize the video I was invited by the pitmaster for him to walk me through the handling of a brisket, showing me what they look for before it's prepared and wrapped, and then served. If you go to Austin and you have any interest in eating barbecue, you cannot go wrong at Terry Black's!",
+    "language": "en"
+   },
+   "date": "2026-08-20T03:02:28Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iZ_7x9C1OfW0JrZPz1tlxA/o.jpg",
+     "caption": "Sliced brisket, jalape\u00f1o cheese sausage, pork spare rib, and mac & cheese"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gbmejst8LCHGx-tJSaLqSA/o.jpg",
+     "caption": "Trrry Black's BBQ Pit"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j7R_6KsCf_e-l9LH39PsKQ/o.jpg",
+     "caption": "Entrance to the restaurant"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ipRrd3p-8juEvx6xyGkJ4Q/o.jpg",
+     "caption": "Inside seating area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eCYSGK2kr7l0DO6HNM9Z-Q/o.jpg",
+     "caption": "More of the ordering line process"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3OHz02sdGmId7pypQPCPEA/o.jpg",
+     "caption": "Wind him through the order process"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ggxlnoip-5dDSJFFWhDB7Q/o.jpg",
+     "caption": "Outside parking area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vdxESsPkz14ddWHx7QCBHQ/o.jpg",
+     "caption": "Another pic of served to order"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ySKQma1-E-cttzGKcnS1CA/o.jpg",
+     "caption": "Gigantic analog smoking, shot inside the barbecuing pit"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1zEWlRW2bbsv8aNbRIP3DQ/o.jpg",
+     "caption": "This is where your meat is cut based on your choice and amount"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 20,
+   "user": {
+    "name": "Lloyd C.",
+    "user_id": "o-oKxfOPcdDs8j1IrYLYUA",
+    "link": "https://www.yelp.com/user_details?userid=o-oKxfOPcdDs8j1IrYLYUA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tU5MAYHy7w0PUP96a1xSHA/180s.jpg",
+    "address": "San Jose, CA",
+    "friends": 409,
+    "photos": 21145,
+    "reviews": 2407,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Finally had a chance to try one of the famous barbecue spots, Terry Black's Barbecue! They have a small parking lot that is always crowded! Open the door and get in line. Signage and QR code explaining how it works. Basically, line up gets your sides, dessert, drinks, and fixings. Then a server takes your tray and gets you into the meat area where you order your \"cue\".\n\nThe interior is bustling with activity. Two separate multi-user men and women's restrooms. They offer inside seating and outside patio seating. If you dine outside, be watchful of your food as the birds are very sneaky and bold in stealing your mac & cheese and/or cornbread! I personally saw this. The flies are bold themselves landing on your food while ignoring your shooing hand. \n\nThe service is friendly and helpful.\n\nSliced Brisket: Texas' finest slow-smoked brisket, handcrafted with their signature Central Texas method and smoked low & slow over post oak for melt-in-your-mouth tenderness and deep, smoky flavor. Sold by the pound, with one pound yielding 4-6 generous slices (5/5). Ok, this was one of the best tasting brisket ever!\n\nPork Ribs: Tender pork ribs with a sweet flavor and slight kick of heat, slow-smoked to perfection. Sold by the pound, about 3-4 ribs per pound (5/5). Wow, these were to die for!\n\nCream Corn: Sweet corn kernels simmered in a rich, creamy sauce with a touch of butter (5/5). \n\nCornbread: Sweet corn bread served hot! (4/5). The cornbread was cake-like and moist. \n\nYes, definitely one of the best barbecue places in Austin. It's a must visit place!\n\nCome support your business.\n\nMy 2300th review reserved for Terry Black's.",
+    "language": "en"
+   },
+   "date": "2026-06-27T05:24:26Z",
+   "rating": 5,
+   "tags": [
+    "10 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zSxTV5rnwbv77PnJdvtv8w/o.jpg",
+     "caption": "Corn Bread, Cream Corn, Pickles, Pork Rib, & Brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a_vorXui2rYWkAiTRXuswg/o.jpg",
+     "caption": "Pork Rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xPfZzBuEDd8jntEdXavoiQ/o.jpg",
+     "caption": "Interior"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YFwjyJC07WepMPo-v-8Lew/o.jpg",
+     "caption": "Cream Corn"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/71aesm4WLk-laYIXbOPPVg/o.jpg",
+     "caption": "Close-up of Cornbread"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VBhpC7O4zqPi3UvOztBYeQ/o.jpg",
+     "caption": "Business Hours"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NKZwuXFjkFPTdS608-pwMQ/o.jpg",
+     "caption": "Cornbread"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3mJdI3sCl9nB6vTIF0dTfw/o.jpg",
+     "caption": "Brisket & Pork Rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XXI8qFOGeA1XNoStDz4WNQ/o.jpg",
+     "caption": "FYI"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iYvAIHIuWHupMDz0khfG9A/o.jpg",
+     "caption": "Exterior"
+    }
+   ],
+   "feedback": {
+    "useful": 4,
+    "funny": 1,
+    "cool": 4
+   }
+  },
+  {
+   "position": 21,
+   "user": {
+    "name": "Nickolas A.",
+    "user_id": "uv7pcvW9YgtJkIjRYngJsw",
+    "link": "https://www.yelp.com/user_details?userid=uv7pcvW9YgtJkIjRYngJsw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SThGq97zYy2R97jfk49nFA/180s.jpg",
+    "address": "Midvale, UT",
+    "friends": 7,
+    "photos": 93,
+    "reviews": 41,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "If you're looking for Texas BBQ, Terry Black's is the place. We tried six different BBQ spots during our vacation in Texas, and Terry Black's was easily our favorite.\n\nEverything we had was packed with flavor, cooked perfectly, and lived up to the hype. You can tell why this place is so popular.\n\nThe restaurant was absolutely packed, but don't let that scare you. The staff has the process down to a science and keeps people moving incredibly fast.\n\nThis ended up being one of the highlights of our trip, and I honestly wish I could go back. If you're anywhere near Terry Black's, do yourself a favor and stop in.",
+    "language": "en"
+   },
+   "date": "2026-07-09T02:37:53Z",
+   "rating": 5,
+   "tags": [
+    "2 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K6cmird9_bLOt0ofD0kIVQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KqhmU4lAW7Zz3YmMAzA63g/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 22,
+   "user": {
+    "name": "Alana H.",
+    "user_id": "_jHp0nP--Y6NOimyrJ2luQ",
+    "link": "https://www.yelp.com/user_details?userid=_jHp0nP--Y6NOimyrJ2luQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/d9Tu5iEQb4feTj0Sh29_qg/180s.jpg",
+    "address": "Killeen, TX",
+    "friends": 27,
+    "photos": 232,
+    "reviews": 139,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The food was so tender and delicious.. \nWe heard the parking was a nightmare but we were lucky.. we pulled in and 1 was available.. everyone else waiting for someone to leave.. There is parking on both sides of the restaurant but still it is popular and super busy place.. \nThey have a QR code so yiu can take a look before going thru the line.. once you stand in line you get your tray and proceeded to get your sides.. then go to the counter with the meats.. the ladies there was so helpful.. the guy behind the counter was business only.. because they want to move the lines be prepared to know what you want when you get there.. it was super busy but we were lucky enough to find a table that fit our part of 6.. we shared 3 trays of food which was more than enough (we had leftovers) paid almost $300 for the 6 of us but it was so worth it!! We all agreed this was the best BBQ we've had in a long time.. We will definitely be back and of course recommend this place to visitors like us!!",
+    "language": "en"
+   },
+   "date": "2026-08-16T00:57:06Z",
+   "rating": 5,
+   "tags": [
+    "4 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4XMwg9Enf4lv76iiZxUuAg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ThvuQA7OwTqd6RW08RxHHw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/e2QWIYsPEbUoKdNGzkEPsw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VIqPHQXYiLEsbHGTHDRjwA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 23,
+   "user": {
+    "name": "Connor R.",
+    "user_id": "tkK-1Fon3sGuWtiimSoXDw",
+    "link": "https://www.yelp.com/user_details?userid=tkK-1Fon3sGuWtiimSoXDw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ihSmPp28l2U6i3a2l3JweQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 90,
+    "photos": 12,
+    "reviews": 19,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "4/5\n\nYou really can't go wrong with Terry Black's. The food is consistently delicious, and it's one of the best places to experience classic Texas barbecue.\n\nThe brisket and beef ribs are my go-to every time--they're always tender, flavorful, and cooked to perfection. The sausage is another favorite that's definitely worth ordering. For sides, the rice and mac and cheese are both excellent, and you have to finish the meal with the banana pudding. It's the perfect way to end an incredible barbecue feast.",
+    "language": "en"
+   },
+   "date": "2026-07-06T19:41:00Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 24,
+   "user": {
+    "name": "Katherine S.",
+    "user_id": "8J95SkTnSkvJ5GoLtawg7A",
+    "link": "https://www.yelp.com/user_details?userid=8J95SkTnSkvJ5GoLtawg7A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TMCZ0p6Y3PbtFNOWr8ltAw/180s.jpg",
+    "address": "Pasadena, CA",
+    "friends": 32,
+    "photos": 812,
+    "reviews": 263,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "First time to Texas and first thing is to get barbecue! Got here just before 5pm on a Sunday and there's a line that moves pretty fast.\n\nWhile you wait in line you can grab a margarita or beer to cool yourself off. \n\nYou first pick sides, after which you can pick up some bread and desserts. Then you'll be directed to the meat section where you can order meat by the pound. The smallest amount is 1/4 pound.\n\nI got green beans as a side and a sliced brisket sandwich. The sliced brisket is soooo tender and delicious, especially coupled with their barbecue sauce! \n\nThere are plenty of seating indoors and outdoors. If you decide to sit outdoors, just be careful with the birds - they might snatch mac and cheese from you! \n\nDefinitely a must if you are in Texas!",
+    "language": "en"
+   },
+   "date": "2026-06-29T01:10:10Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SfZpGPJTwLc_aYDRq6sIRg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7Wg-Xc0JOGFD8oGgX70HQQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7xrV6eOxiScH94i-P1bFAA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OQ1YKUgWzOV3VYI72IVjoA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YUiqT3ip07dDblQZH0xZew/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LrX7gWtE-q1AYVe0TY44BQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lnIkf8Lq9RZJRQlv5Mhflw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8k8jnmrkSh9fG-nNuaBs0A/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3-39SIF6Rq6vvbbgj6sV7A/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UqdXY-edEby7eofX6iiUDQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 25,
+   "user": {
+    "name": "Mina T.",
+    "user_id": "_Q9g3jtJugf5LY1YmhN0eQ",
+    "link": "https://www.yelp.com/user_details?userid=_Q9g3jtJugf5LY1YmhN0eQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tg8cyTUrNiv3mWyycYcpjQ/180s.jpg",
+    "address": "La Palma, CA",
+    "friends": 148,
+    "photos": 340,
+    "reviews": 204
+   },
+   "comment": {
+    "text": "They meat here was phenomenal. \nThe sides were not as great as I expected. I thought the cornbread was too dry.",
+    "language": "en"
+   },
+   "date": "2026-08-12T01:43:08Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p-du073chlQOCzb8D4hqCg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xpt4ZGW9kDG1NXItl_20WQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 26,
+   "user": {
+    "name": "Zarifa A.",
+    "user_id": "3WN8XlzAqN77h7ADcIRJSw",
+    "link": "https://www.yelp.com/user_details?userid=3WN8XlzAqN77h7ADcIRJSw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3-2qj6J9Sl56DjrzjSGwZA/180s.jpg",
+    "address": "Cerritos, CA",
+    "friends": 2209,
+    "photos": 1511,
+    "reviews": 447,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I was visiting Texas for the first time and a must try for me was some good BBQ! Terry Black's is #1 on yelp's top eats in Austin list, so of course, I had to stop by.\n\nWe came with a party of 6 and ordered the small family pack to share, which came with 3 pounds of meat alongside 5 pints of sides. Alongside this, we also ordered the beef ribs. Everything lived up to my high expectations! I find turkey to be generally dry sometimes, but even the turkey was super juicy and delicious.  Overall, I feel like you can't go wrong with anything on the menu. \n\nService here is a bit rushed but it's understandable with how busy they can get. I heard the lines can get long, however, when we came at around noon on a Friday, the line only took us around 20 minutes to get through. The ambiance overall is very casual.",
+    "language": "en"
+   },
+   "date": "2026-06-01T15:07:47Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iXmL_H1JfgFynXzvSxT0HA/o.jpg",
+     "caption": "3lbs of meat"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Iheczug8ZqSKp49bxJu9UA/o.jpg",
+     "caption": "Sides"
+    }
+   ],
+   "feedback": {
+    "useful": 5,
+    "funny": 1,
+    "cool": 6
+   }
+  },
+  {
+   "position": 27,
+   "user": {
+    "name": "David H.",
+    "user_id": "VavmGBO-qAYXPg2qVdndRw",
+    "link": "https://www.yelp.com/user_details?userid=VavmGBO-qAYXPg2qVdndRw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KULHgSh-q5gE_qGYA3RNFQ/180s.jpg",
+    "address": "Wrentham, MA",
+    "friends": 26,
+    "photos": 941,
+    "reviews": 548,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Came to visit our son in Aisyin and he suggested we have bbq from Terry Black's. We had earlier walked around the Botanical Garden near Barton Springs so this seemed like a good choice. We arrived just after 22 to find the lot full and a queue of cars waiting for people leaving. I had suggested going elsewhere but my wife said we should try since our son recommended place, but he was at work. Drove further down and found a garage nearby with no signage on rate, just a park by phone QR code.\n\nWalked into Terry's and the line was not too bad, but no tables available. We picked a lb of baby back ribs, lb of brisket, a sausage and three sides - cotija corn, green beans and mac and cheese.   Cashier was talkative and made suggestions so we followed his lead. Found a table and dug in - ribs were great, juicy, nice smoky flavor, good size; brisket was a little dry and nothing special with the sausage. Mac and cheese and street corn were good. Tried all three sauces and they were tasty. Left satisfied, but expensive. \n\nWalked back to the garage to find that the garage charged us $36 for a special event rate, of which there was no event going on in the area. No signage on rate or at their website. Called the help desk and the staff did not understand the question and after being transferred to 2 other people we gave up. Apparent the garage is looking to rip off people with an inflated rate for the area. Terry Black's probably doesn't care, but tourist or local will only get cheated once before they look for another rib joint like Franklin BBQ.\n\nFood was good, but its a conveyor belt type of service. Just someone behind the counter pushing uou thru the line. Few staff moving around in the dining area asking about needs or whether they like the food or not. I guess with the hype, they don't really need to care.",
+    "language": "en"
+   },
+   "date": "2026-06-20T02:29:55Z",
+   "rating": 3,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BqH5UhvWIrry3OBI_6mpMQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3YvRpyX8n8708M23eZWQjA/o.jpg",
+     "caption": "More of the lunch"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c8GE7fNZ0JeBtxZvhnlk3Q/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 28,
+   "user": {
+    "name": "Ryan N.",
+    "user_id": "xgEAbL2P24gsIaCc_s0Mbg",
+    "link": "https://www.yelp.com/user_details?userid=xgEAbL2P24gsIaCc_s0Mbg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xsEQXOqI3_swD41q8_Rhmg/180s.jpg",
+    "address": "South Jordan, UT",
+    "friends": 40,
+    "photos": 72,
+    "reviews": 33,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Wowwie!!!! I don't know if you can say you've had barbecue until you've had this place! The meat here was perfect the brisket was the best I've ever had. \n\nThe Mac and cheese was also perfect. I always get Mac and cheese and this was some of the best I've had in text between Austin and San Antonio. \n\nIt was busy but the line moved fast. Some of them employees were a little nicer than others but I get it they have a line to move through and just want to keep it moving! \n\nThe inside was very cool too! They had indoor and out door seating - great for big parties :) \n\nI will be coming back here again!!",
+    "language": "en"
+   },
+   "date": "2026-06-19T10:06:30Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FbgXsZp1PAuDqveP1i8BmQ/o.jpg",
+     "caption": "Outdoor Grills"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FbJc6Ufallx1g3V6NkyIwA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/syNo6_f-iYRW7YCVkuxPLA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 29,
+   "user": {
+    "name": "Erik S.",
+    "user_id": "uHWoMSw-4X9zwzVbouFnDA",
+    "link": "https://www.yelp.com/user_details?userid=uHWoMSw-4X9zwzVbouFnDA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aesjh2GeCPx4obZIpj6kjQ/180s.jpg",
+    "address": "Greensboro, NC",
+    "friends": 2112,
+    "photos": 10263,
+    "reviews": 969,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "You will straight up believe you have died, and gone to a heaven where the angels and the good lord themselves are smoking the best meats, furiously making tasty sides, and when you're given a chunk of brisket burnt ends... it's like a wink that you did good man. You did good. You belong here.\n\nThen you'll wake up just in time to order frantically at Terry Black's at the most FERVENT pace I have ever placed an order, and before you know your card will have been charged, and your head is still spinning what the hell just happened?!?!\n\nThat said, I guarantee, that whatever you agreed to in line is going to be freaking phenomenal. Truth, I have never seen a faster paced work environment and a line marching so quickly. When you stand outside you think you'll never get served, then a rip in the space time continuum has you in front of a helpful, but determined, employee in about 10 minutes. They serve an insane amount of folks here... and it just works, somehow.\n\nThe brisket... best I have ever had, even the chunk i reheated the next day, still off the charts.\nThe sausage, so hearty and flavorful, and a perfect compliment to the brisket which... of course you are getting brisket.\nMac N Cheese, really good, not gonna make my best ever list, but it's indeed very tasty and the cheese sauce while it looks like an easy mac, very clearly home cooking happening here.\nCole Slaw crisp, tad sweet, good balance for the meats.\nCornbread, make sure you get it.\nBanana Pudding... don't tell me you're too full. JUST GET IT.\n\nAnd as I said earlier... if you are graced with a chunk of brisket burnt ends. Be appreciative. The meat candy of the gods.\n\nHoly crap when can i come back?!?!?!",
+    "language": "en"
+   },
+   "date": "2026-05-22T19:27:59Z",
+   "rating": 5,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AWoPNFrBISG6nD9bkLgtUg/o.jpg",
+     "caption": "The spread"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KDbIKq4lsuhpUX_vtplBzw/o.jpg",
+     "caption": "Cold bevvys, but they also have a fountain and tea."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iJbeuGdoTWDyBWnnaCER7Q/o.jpg",
+     "caption": "Again. Be ready to order!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q_TLfzrtb4RRcazg2astEw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XxYKQe6qwhgrbWBhJAReyw/o.jpg",
+     "caption": "To go saucy sauces."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w7ereRCWoTjT34cbPGQzxA/o.jpg",
+     "caption": "The bounty we walked out with"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LrT2DZ6kONDz4whT8WTWlQ/o.jpg",
+     "caption": "BBQ Bounty"
+    }
+   ],
+   "feedback": {
+    "useful": 5,
+    "funny": 1,
+    "cool": 2
+   }
+  },
+  {
+   "position": 30,
+   "user": {
+    "name": "Neeta M.",
+    "user_id": "0V6F5kzRbZC6odU1r-OzYg",
+    "link": "https://www.yelp.com/user_details?userid=0V6F5kzRbZC6odU1r-OzYg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pylJrqZgeHUcPk_dQegphw/180s.jpg",
+    "address": "MONTE VISTA, CA",
+    "friends": 8,
+    "photos": 1622,
+    "reviews": 230,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Some of the popular BBQ places have lines in the morning and are sold out by 11am! You can come to Terry's till 10pm on a Saturday night and enjoy some incredible BBQ!\n\nWe got pork ribs, jalape\u00f1o sauce and brisket - along with corn bread, coleslaw and creamed corn.  Everything was very tasty - the meat was very tender and the spice rubs were incredible. The BBQ sauces on the table were original, sweet and spicy.\n\nLots of places to grab a seat, after you have picked up your meat. \n\nI checked off my BBQ for this trip and am super satisfied!",
+    "language": "en"
+   },
+   "date": "2026-06-14T02:49:24Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 31,
+   "user": {
+    "name": "Grisel D.",
+    "user_id": "RoUB67zc84Nwptu-apZndw",
+    "link": "https://www.yelp.com/user_details?userid=RoUB67zc84Nwptu-apZndw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8PcGuC6nyects13b0SCnsg/180s.jpg",
+    "address": "Edgewater, Miami, FL",
+    "friends": 238,
+    "photos": 137,
+    "reviews": 78,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Worth every penny. Budget around $50 per person, and I promise it's worth both the summer heat and the wait in line. The brisket was exactly what you want from a Texas BBQ spot: tender, smoky, and deeply satisfying. The jalape\u00f1o sausage was a hit, cheesy and so packed with flavor it practically fell apart on its own. Creamed corn was rich and texturally perfect, and the mac and cheese was the kind of creamy that makes you go back for another scoop. Solid beer and soda selection to wash it all down.\n\nThe space is lively and loud. It draws a tourist crowd, but Terry Black's earns that reputation. This is as close to an authentic Central Texas BBQ experience as it gets, and the food backs it up.",
+    "language": "en"
+   },
+   "date": "2026-06-13T22:22:31Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JOZFAMSKOxrLk54jFVJR6w/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/g8e2EjzhO11FqUy4gqcNQg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kkjumzVz7uq9wWxj5CptxQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OA4nirL27lq9zk-WmsLMrQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 32,
+   "user": {
+    "name": "Sydney H.",
+    "user_id": "BaYx_YadCkeNDNemhcZQ9w",
+    "link": "https://www.yelp.com/user_details?userid=BaYx_YadCkeNDNemhcZQ9w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RMbyBiZLIFmUU0wFzm_OYg/180s.jpg",
+    "address": "Irvine, CA",
+    "friends": 195,
+    "photos": 276,
+    "reviews": 103,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I'm not a fan of American BBQ but I'm glad to have tried this place! Came here with a large party at midday and found a seat in good time. Parking is difficult though, the lot is small. Quick service here as you order in a line. The portions are huge and you can easily share a meal with multiple people.\n\nContrary to popular opinion, I didn't care much for the brisket - it was a bit salty and fatty for my taste. The green beans were too salty for me as well. But the creamed corn, cornbread, mac and cheese, coleslaw, and rice were all super good. Especially loved the creamed corn! The ribs were tender and not chewy at all, and the sausage had a great smoky flavor + snap. I liked that each table also had squeeze bottles of different sauces to try!\n\nOverall a good BBQ place and quintessential to the Texas experience :)",
+    "language": "en"
+   },
+   "date": "2026-06-13T16:16:54Z",
+   "rating": 4,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aeIu2NVIFhzA6v0Ki5sqKA/o.jpg",
+     "caption": "Outside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZvAlx2ZLvAsD5zvpl7oipw/o.jpg",
+     "caption": "Brisket, ribs, sausages, and various sides :)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ae9VKYBMZNprvaza36-j0Q/o.jpg",
+     "caption": "Outside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dMH4kdiqAM9WG18Uwxi3Qw/o.jpg",
+     "caption": "Display case"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 33,
+   "user": {
+    "name": "Karen C.",
+    "user_id": "LpzxvOgATJpXpFMO746GQQ",
+    "link": "https://www.yelp.com/user_details?userid=LpzxvOgATJpXpFMO746GQQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GEr9TNBATdoY7SHQmZpbGg/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 208,
+    "photos": 1043,
+    "reviews": 651,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Much better the 2nd time around. Had friends come from Spain and specifically wanted Terry Blacks. Had my hesitations but still went.  \nWas very lucky to find a parking spot on a Tuesday night at dinner time.  I will say this, tourists can get aggressive about the parking or they just don't understand it. lol. \nGreeted immediately by the best hostess. Got thru the line very quickly.  We ordered 1 lb or both lean and not lean brisket. Burnt ends. Pork ribs and the sausage.  Wow!  All cooked to perfection.  It was a lively night so a tad loud but that is expected here. \nThe only thing I would suggest is for the sweet tea to be actually sweet.  Not sure if when the 3 batches we saw brewing got mixed up but definitely not sweet.  \nWill be happy now to bring friends back here.  It's a must stop bbq in Austin for sure.",
+    "language": "en"
+   },
+   "date": "2026-05-16T19:51:46Z",
+   "rating": 4,
+   "tags": [
+    "5 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0rMl7_pzDyXLdXBpQ5A_Aw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nKu5H_xN3AW3VrUgYMpFkQ/o.jpg",
+     "caption": "Meat sweats and sides"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fz6RkLC7LTWq58oFmdwMkg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ebhxLOwCNwT_bjKcDDiv9A/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gnTXQpcYw5AiNnLjYP9__g/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 3,
+    "funny": 0,
+    "cool": 4
+   }
+  },
+  {
+   "position": 34,
+   "user": {
+    "name": "Kevin V.",
+    "user_id": "L-cJMWJIU5yxqbbbqNAFkA",
+    "link": "https://www.yelp.com/user_details?userid=L-cJMWJIU5yxqbbbqNAFkA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/qA9Up8-VrmL7jntNQzkUDQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 307,
+    "photos": 732,
+    "reviews": 343,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I've gotten no response from management after trying to contact them about my awful visit, so i just knocked off another star based on the horrible customer service and overcooked meat.",
+    "language": "en"
+   },
+   "date": "2026-08-04T00:25:01Z",
+   "rating": 1,
+   "tags": [
+    "3 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Xg5xe-sEF9oYyecYDLqBQ/o.jpg",
+     "caption": "Yikes!  So tough."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ruEc703UCbprvr6bkmKY8g/o.jpg",
+     "caption": "Last piece of brisket I didn't even want to finish, it was so tough and over cooked."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ieywd9q1W6bfPCazGXFczw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 35,
+   "user": {
+    "name": "Diana L.",
+    "user_id": "13rOi3iY3AUftebDxEWgRw",
+    "link": "https://www.yelp.com/user_details?userid=13rOi3iY3AUftebDxEWgRw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/j8_i1xdQ-9JErCDcjTU2Mw/180s.jpg",
+    "address": "Santa Barbara, CA",
+    "friends": 74,
+    "photos": 742,
+    "reviews": 199,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Bbq galore and sides. You start by choose your sides such as collard greens, Mac and cheese and pasta salad, Cole slaw you name it along with a dessert such as banana pudding. Then you go and choose your protein such as ribs, brisket, sausage and other proteins. Pick your cut and they serve it. Ample seating for eating and super friendly staff and answer questions you may have. The ribs the meat comes right off the bone. The sausage delicious but not too spicy. Cole slaw delicious as well as the banana pudding. Comes with pickles serving.",
+    "language": "en"
+   },
+   "date": "2026-08-01T05:29:19Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3h2PD-q6jEoPvx7Ax5XeuQ/o.jpg",
+     "caption": "Tri tip ribs and Mac and cheese"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-IECGtJr2iDy-Yes5TMCeQ/o.jpg",
+     "caption": "Sausage cut into piece for easier consumption"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 36,
+   "user": {
+    "name": "Cam H.",
+    "user_id": "xm9k8iWspnwllZYVxdSgpQ",
+    "link": "https://www.yelp.com/user_details?userid=xm9k8iWspnwllZYVxdSgpQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QdDGlcqj1-zP6eyP7LHnRg/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 950,
+    "photos": 1142,
+    "reviews": 425,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I came back after trying different bbq spots in Austin. Terry blacks is still good but wouldn't say the best in town. Has cool vibes though and line moves quick! The briskets are great but ribs no longer tender for some reason. Their Mac and cheese was good too.",
+    "language": "en"
+   },
+   "date": "2026-07-23T17:45:32Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/T-CX2iC0x1NWx9d0AGAAbQ/o.jpg",
+     "caption": "Brisket, sausage"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-8DS4lDAfLicz0cU7_-0ag/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BkwM23ZBsF_oY_7ZUmiGHw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 37,
+   "user": {
+    "name": "Kenny Y.",
+    "user_id": "HS-o4trdMe7_TeNaZPm14A",
+    "link": "https://www.yelp.com/user_details?userid=HS-o4trdMe7_TeNaZPm14A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/crFFxxk7ji8RMrWhymeuRA/180s.jpg",
+    "address": "Burbank, CA",
+    "friends": 110,
+    "photos": 334,
+    "reviews": 146,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "got the beef ribs, burnt ends, jalape\u00f1o cheddar sausage, green beans and coleslaw.   the ribs were juicy off the bone and their bbq sauce was bold and flavorful.  \n\nline moved pretty quick on a weekday only waited about 10 minutes to place my order on a thursday night.\n\nplenty of seating inside and outside and can accommodate a big group.   there's a bar station to get drinks before heading to the regular line for sides and meats.\n\ninterior design is very texas country style with cafeteria style seating with benches and tables.",
+    "language": "en"
+   },
+   "date": "2026-07-30T20:50:02Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6OBhnv4Z1BRs_HvlEAnh5g/o.jpg",
+     "caption": "beef rib, jalape\u00f1o cheddar sausage, green beans, coleslaw"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 38,
+   "user": {
+    "name": "Madisyn F.",
+    "user_id": "xsILQNkYNEp0s9RxrQzu-Q",
+    "link": "https://www.yelp.com/user_details?userid=xsILQNkYNEp0s9RxrQzu-Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dAwZH87VA2YvNn00kT3hTA/180s.jpg",
+    "address": "Houston, TX",
+    "friends": 3,
+    "photos": 66,
+    "reviews": 39,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I had been seeing Terry Black's all over TikTok so I was genuinely excited to check it out while I was in Austin. I expected it to be busy and came prepared for that, but the overall experience left a lot to be desired.\n\nParking is limited right out front but if you walk down a bit there is a paid lot nearby, so that part was manageable. The issue started once we got in line. The whole process feels very rushed, and for the price point they are charging, that atmosphere is not it. Some of the workers did not seem to have much patience, and I did not appreciate the way we were spoken to when we got to the sides section. We ended up just getting a small potato salad and moving on.\n\nWhen we got to the meats, my mom got the brisket and I got a beef rib. I will say the experience at the meat counter was actually nicer. The man helping me asked which rib I wanted, let me pick a fattier one, and had a nicer tone. They weigh the meat to price it and leave the bone in, which I was not a fan of, but the rib looked incredibly tender and I was excited.\n\nOur total came out to $85 for one beef rib and a few slices of brisket. Pricey, but I paid it and headed back to my hotel ready to dig in. Unfortunately the meat was so overwhelmingly salty that I genuinely could not eat it. It was inedible to me, and my mom felt the same way about the brisket which made the whole situation feel like a complete waste of $85.\n\nThis was really disappointing overall. The hype did not match the experience for me.",
+    "language": "en"
+   },
+   "date": "2026-05-26T14:02:31Z",
+   "rating": 1,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eDNhhHll-gVF0Vi72wVS5w/o.jpg",
+     "caption": "Restaurant sign"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h60hT_NKpYmbeppCoXCkpg/o.jpg",
+     "caption": "Restaurant Sign"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 39,
+   "user": {
+    "name": "Maya D.",
+    "user_id": "14xZr6DVhM5mHj-Y3dZspw",
+    "link": "https://www.yelp.com/user_details?userid=14xZr6DVhM5mHj-Y3dZspw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/x49sVt8EGMRelCnSJdqvIA/180s.jpg",
+    "address": "Redondo Beach, CA",
+    "friends": 115,
+    "photos": 1164,
+    "reviews": 831,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This place is delicious every single time I visit. Service is quick and friendly. It can be tough getting a table inside when it's super hot outside. But as long as the tables keep turning over, you'll get a spot!",
+    "language": "en"
+   },
+   "date": "2026-07-24T23:15:55Z",
+   "rating": 5,
+   "tags": [
+    "2 photos",
+    "2 check-ins"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ALm-lZbTVClmH55jZILUsQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/veU0aoljJyfUHpevxoPh-g/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 40,
+   "user": {
+    "name": "Paul W.",
+    "user_id": "EYjwM0tac4gGNN6M-QOQ-A",
+    "link": "https://www.yelp.com/user_details?userid=EYjwM0tac4gGNN6M-QOQ-A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/eJeI5uoNx8hfsA51KaGGlA/180s.jpg",
+    "address": "Pearland, TX",
+    "friends": 58,
+    "photos": 86,
+    "reviews": 62
+   },
+   "comment": {
+    "text": "Meh.  The service is fast, the food is pricey.  $250 for 3 lbs of brisket, jalapeno sausages and sides.  \n\nGet the fatty brisket, the lean is dry and has the texture of pot roast.    The sides are quite good.   The Mac and cheese and coleslaw are great.   The burnt ends are very good.   Parking is impossible.\n\nBe ready to order quickly, the line goes fast.\nWe've definitely had better brisket at other places.   I don't think it's worth the hype.",
+    "language": "en"
+   },
+   "date": "2026-08-01T19:12:11Z",
+   "rating": 3,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k8QMaDI3Z21txz5sOY6OrQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X5QRQqwIT7SKUK-bMIJGBQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_jcXb2PXRn78yE5q5jgvCw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 41,
+   "user": {
+    "name": "Sierra L.",
+    "user_id": "TUsJFP9zOsYgZWy_8w3r6g",
+    "link": "https://www.yelp.com/user_details?userid=TUsJFP9zOsYgZWy_8w3r6g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fR5jgXZv19bqFHbmQ_B2lQ/180s.jpg",
+    "address": "Georgetown, TX",
+    "friends": 0,
+    "photos": 59,
+    "reviews": 39,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Terry Black's always hits the spot! The line always moves so fast and the workers are so friendly. A bonus is being able to order drinks while waiting for food if the line is extra long. We ordered all the staples- Mac n cheese (the cheese is so creamy and delicious), potato salad, brisket, sausage and smoked turkey. The meat is so tender and flavorful. The banana pudding is one of my favorite deserts in town- it's light and fluffy.\n\nParking can be limited but they have discounted parking with metropolis garages.",
+    "language": "en"
+   },
+   "date": "2026-05-18T00:34:07Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ba6DS3yEM2uuG_O7MhwJgw/o.jpg",
+     "caption": "Brisket, cheddar jalape\u00f1o sausage, turkey, Mac n cheese, potato salad, banana pudding"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 42,
+   "user": {
+    "name": "Garret F.",
+    "user_id": "pXyDAUMc5FF7lOywnRUV5A",
+    "link": "https://www.yelp.com/user_details?userid=pXyDAUMc5FF7lOywnRUV5A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lNAMdozq7pgEB3o9Ql4VSg/180s.jpg",
+    "address": "Vail, AZ",
+    "friends": 1,
+    "photos": 466,
+    "reviews": 153,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We visited the Austin location during graduation week and made for a very packed small parking lot.  Needless to say, we went early enough to get the last spot.  \nThe line to order was long but moved rather quickly. Ordering was easy and the meat cutters were friendly and helpful getting you what you want.  \nBbq was on point.  Ordered the beef rib bone, brisket, and some ribs.  Everything was juicy and perfectly smoked.",
+    "language": "en"
+   },
+   "date": "2026-05-16T03:52:10Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GnkKZiFaw59Y-RAJjSM9Vw/o.jpg",
+     "caption": "Outside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rG5B-AgR_b-tboefyKzzMQ/o.jpg",
+     "caption": "The line"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a20S8UDr-PTWUWdi3HzOJA/o.jpg",
+     "caption": "My order"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 43,
+   "user": {
+    "name": "Steven P.",
+    "user_id": "DE6hz6gzrq67IYwH7Rh6Zg",
+    "link": "https://www.yelp.com/user_details?userid=DE6hz6gzrq67IYwH7Rh6Zg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/EnZjRpsMb25xWbom91akOw/180s.jpg",
+    "address": "Tulsa, OK",
+    "friends": 231,
+    "photos": 1298,
+    "reviews": 267,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I love bbq and Texas does bbq well!  Terry Black's is legendary, and I was fortunate to try it for my first time. \n\nLunch on a Monday around 11:00 am was a good time to arrive - the line was short with just a few minutes wait.  30 minutes later it was filling fast though!\n\nI tried the potato salad, a piece of lean and a piece of fatty brisket, and one pork rib. \n\nThe potato salad was chunky which I like. It was not mustard though - I do prefer mustard.  It was still a nice potato salad and helped cut through the rich meats. \n\nThe lean brisket was a bit dry even though it was sliced to order.  The fatty brisket was tender and moist - my piece had a fairly decent fat pocket though, which I did not eat.  The Texas salt and pepper rub stood  out in a good way. \n\nThe pork rib was not my favorite. Maybe it was too smoky, maybe the texture was a bit soft too.  The bark was decent though.  \n\nPickles and onions were complimentary and help with the meat richness. \n\nBeverages were self serve and the team worked hard to keep the restaurant clean. \n\nOverall it was good, and I would recommend people try it.",
+    "language": "en"
+   },
+   "date": "2026-05-03T05:07:20Z",
+   "rating": 5,
+   "tags": [
+    "9 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/MnmDTKKf7StQQmvZ4HXfSg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YgaG9YZEnG1GF-JlRqz3dg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GF4lHFVchB247ca0IvEtFg/o.jpg",
+     "caption": "The Dino rib! (Guy next to me ordered this, a real $$$ treat!)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K1zzNtdB5AcCIcf7rzzWmQ/o.jpg",
+     "caption": "Brisket, pork rib and potato salad"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5kFtub7LaTkr95yq4Cs9gQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1OpcJhE5QapDfXqZXppZpg/o.jpg",
+     "caption": "Sliced to order!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N9OsTs1TGySxoNeyEhpDYQ/o.jpg",
+     "caption": "Dino ribs - great to share IMO"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UKn6eyJ8QH6LfXSjr8lo0w/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dG1yrCibHgcLV9U755aQww/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 44,
+   "user": {
+    "name": "Imelda M.",
+    "user_id": "uANLda8LRK0D8pzk_SYL2Q",
+    "link": "https://www.yelp.com/user_details?userid=uANLda8LRK0D8pzk_SYL2Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JM69Z3G6JigRPOL-xUGBfw/180s.jpg",
+    "address": "San Mateo, CA",
+    "friends": 316,
+    "photos": 4304,
+    "reviews": 118,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Food's amazing, service is great & ambiance us super casual and plenty of space even w/ long lines it goes by fast.  We got 1 slice of Brisket, 1 Pork Rib & 1 Beef Rib and he threw some extra to try, which was a nice you touch.  Also got sides of Corn Bread, Creamed Corn & Mac & Cheese plus pickled onions.  The Pork was good but not as fall-off-the-bone, we enjoyed the Beef ribs more and its as good as the Brisket.  The corn bread & M&C  was ok but the creamed corn was good, almost a dessert.  We also ordered a Black lime Margarita wasn't too bad and Big Red & Bourbon Margarita drink which we didn't like as much it tasted like medicine.",
+    "language": "en"
+   },
+   "date": "2026-07-21T02:29:41Z",
+   "rating": 4,
+   "tags": [
+    "9 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sIkGIwIkt-UwcvHc0OIsvg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U9m9p4Zko0Dtgyl7B19ToQ/o.jpg",
+     "caption": "Merch"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WokOEJwWs1dW3UyOc5B4rQ/o.jpg",
+     "caption": "Bbq Pit"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6N5TOegMYLtri6oV08_U0w/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b_dXLi92I0y4IbCa5WI_mA/o.jpg",
+     "caption": "Dining Area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/reD3fyBz3CiUD7B_Uw_VSw/o.jpg",
+     "caption": "Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0XWJjDQ0-KOiHL4mnMLqAA/o.jpg",
+     "caption": "Parking Lot"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LMif_8r2suWi8r_xAWUO8g/o.jpg",
+     "caption": "Drink Special for the nite"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o9XHhwXSSBlh-qtz0xQTzg/o.jpg",
+     "caption": "Side options"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 45,
+   "user": {
+    "name": "Earl H.",
+    "user_id": "u6oAlwJwpkQywvbTvPgWfQ",
+    "link": "https://www.yelp.com/user_details?userid=u6oAlwJwpkQywvbTvPgWfQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/YRKn5LHfvNTAsGN3kwWhCA/180s.jpg",
+    "address": "Las Vegas, NV",
+    "friends": 49,
+    "photos": 93,
+    "reviews": 46
+   },
+   "comment": {
+    "text": "I had a couple days in Austin and I knew Terry Blacks was going to be my first stop for barbecue. The burnt ends, pork ribs, brisket and beef rib was some of the best barbecue I've had. \n  The sides were really good, the cream corn was definitely the highlight for me. Great service, staff was super proud to show off the food for the camera! Overall I'd recommend Terry Blacks to anyone going to Austin!",
+    "language": "en"
+   },
+   "date": "2026-07-25T02:27:44Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/67uUUq-HTkx6UUTPlaCXPA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5NUxtS3hUSM4szlwmzFgmw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NGqsqFuNgkd7c9nb_e0nCw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 46,
+   "user": {
+    "name": "Pearl R.",
+    "user_id": "sB4-f1PPqbtTJIShxd3YeQ",
+    "link": "https://www.yelp.com/user_details?userid=sB4-f1PPqbtTJIShxd3YeQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Nus9ed3DN0RFjsA2MQ49bw/180s.jpg",
+    "address": "Santa Clara, CA",
+    "friends": 6,
+    "photos": 118,
+    "reviews": 32
+   },
+   "comment": {
+    "text": "The only BBQ in Austin worth the 40min wait in line for an earlier dinner rush. Parking was rough and packed on a Saturday. The line is pretty organized walking in, gets packed like sardines around the cashier area. 2lb beef rib was about $80. Tottaly worth it! Brisket here is always flavorful and not dry. Tried 1 pork rib since it was already alot on our tray. It was just as tender as the beef rib.  Love the flavored BBQ sauces they offer. Corn bread was moist. Peach cobbler was amazing. Green beans werent mushy. Potatoes salad perfectly seasoned. Cole slaw was fresh.   \nWe had to sit in the hot sun since all tables on the patio are first come first serve seating. Inside seating was just way too packed. Easy self grab to-go boxes on the patio. \nI like being able to see the BBQ cook out front. \nWill always come back for my fav BBQ tray.",
+    "language": "en"
+   },
+   "date": "2026-08-01T23:34:28Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EfPUXftRj3zP7dNcj82GwQ/o.jpg",
+     "caption": "My Tray of BBQ $152.00 without drinks."
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 47,
+   "user": {
+    "name": "Nick E.",
+    "user_id": "Fvy8SdxryB1Bj6MxEN4AOw",
+    "link": "https://www.yelp.com/user_details?userid=Fvy8SdxryB1Bj6MxEN4AOw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xCds1ZfblpaTgnkEA6O8mw/180s.jpg",
+    "address": "Seattle, WA",
+    "friends": 10,
+    "photos": 37,
+    "reviews": 32,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Terry Black's is such a consistent and safe bet for incredible Texas BBQ. The vibes are great, the service is excellent, and the food has never let me down. We feasted on a work outing this week getting the pork and beef ribs, brisket, jalape\u00f1o cheddar sausage as well as some of the sides. The meats are the star of the show and while the sides aren't bad, you go for the meats. There may be some more famous Michelin star BBQ spots but you aren't going to have to wait an hour or more here to indulge in Texas BBQ done right.",
+    "language": "en"
+   },
+   "date": "2026-07-18T02:06:49Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/y53sBbmvxFrVRD4e1W7z4w/o.jpg",
+     "caption": "Front entrance"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WyZhmCKreVM1V4a1u05vig/o.jpg",
+     "caption": "Meat sweats incoming"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 48,
+   "user": {
+    "name": "Leah M.",
+    "user_id": "TAz0-ThRCbZXLpmUvPm8-Q",
+    "link": "https://www.yelp.com/user_details?userid=TAz0-ThRCbZXLpmUvPm8-Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/v6HH8M_2v74zffqk64fbrA/180s.jpg",
+    "address": "Henderson, NV",
+    "friends": 43,
+    "photos": 692,
+    "reviews": 99,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This delish bbq spot was a few blocks from our air BNB where we stayed for a 17 person bachelorette party. The line wasn't too bad at 630pm on a Saturday night. It was very efficient getting thru the line. You pick your sides then go to the meat carving station. Highly recommend the Mac and cheese brisket and jalapeno cheddar sausage. The potato salad was good but not my favorite. I did hear from the bride the creamed corn was her favorite so I would try that next time. \n\nThey have lots of indoor and outdoor seating. Because we had 17 girls we ended up sitting on multiple picnic benches near each other but it was great for big groups. They have a bar inside with beer and wine and some frozen slushies. I don't remember if they had cocktails. \n\nOne thing I did really like was they listed which of the meats, sauces, and sides were vegetarian and which were gluten free. Being a gluten free girlie I loved knowing which items I could have confidently. The sauces are posted at all the tables to try. I loved the spicy one, I ended up buying two bottles and they're were at a great price! It was very busy but everything was very efficient, you got your own drink and they had to go boxes off to the side to grab as needed. Highly recommend this spot! We all loved it and it satisfied a huge bachelorette party!",
+    "language": "en"
+   },
+   "date": "2026-05-10T15:59:36Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qSTlwMv1wsJSZjSJILezGA/o.jpg",
+     "caption": "Interior"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OJUvWjJWCxf__yhdvZ7xhw/o.jpg",
+     "caption": "Exterior"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VHTrBkoxyD0D1G2CfqwO3A/o.jpg",
+     "caption": "Merch"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mohQWMxC4U8CijDaQ6vseg/o.jpg",
+     "caption": "Sides counter"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bJUlPRNrIjK7fM-or9Z8tA/o.jpg",
+     "caption": "Interior"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YRfEdOqzT1lkC-n5TcBIPQ/o.jpg",
+     "caption": "Interior"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z5GVu32nNW4OjdrGWs2AIg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Terbp4vPH2yTf9pYV9664g/o.jpg",
+     "caption": "Exterior"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1c4H42g3ayCzc5hmGPIiHQ/o.jpg",
+     "caption": "Potato salad, Mac and cheese, pickles and onions"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h9_QfBh-Bk9KCsva3XbXzQ/o.jpg",
+     "caption": "Sides counter"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 49,
+   "user": {
+    "name": "Judy M.",
+    "user_id": "rW7RTv3BphchKXb2rmaOdw",
+    "link": "https://www.yelp.com/user_details?userid=rW7RTv3BphchKXb2rmaOdw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_v9l_HOWOzlWSsbgrF_1lA/180s.jpg",
+    "address": "San Jose, CA",
+    "friends": 172,
+    "photos": 1170,
+    "reviews": 509,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We almost passed up coming to Terry Black's, but we came right before they opened. When they opened up there was a line, but that line moves pretty quickly. The only worry is probably parking, they do have a small lot but you likely can find spots across the street. \nTo the food... I was on a mission to try some Texas brisket. This spot was amazing and worth the trip. All the sides were also pretty good. I also loved the banana pudding, it is not too sweet. \nWe got the small family pack for the five of us, and we were not able to finish!",
+    "language": "en"
+   },
+   "date": "2026-04-19T21:09:05Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jYcQQ46078RlsfB55HPdag/o.jpg",
+     "caption": "All the fixings plus banana pudding & chocolate pudding"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 1,
+    "cool": 1
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=YZs1gNSh_sN8JmN_nrpxeA&start=49"
+ }
+}

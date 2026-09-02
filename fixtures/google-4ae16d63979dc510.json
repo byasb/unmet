@@ -1,0 +1,494 @@
+{
+ "search_metadata": {
+  "id": "6a98062a65f701cbad01c9f6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/SszWAyQyStSrx7n2qI7HV_prC0tIT48ghL_Ps1xltls/6a98062a65f701cbad01c9f6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/SszWAyQyStSrx7n2qI7HV_prC0tIT48ghL_Ps1xltls/6a98062a65f701cbad01c9f6.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/SszWAyQyStSrx7n2qI7HV_prC0tIT48ghL_Ps1xltls/6a98062a65f701cbad01c9f6.json_with_pixel_position",
+  "created_at": "2026-09-02 11:19:06 UTC",
+  "processed_at": "2026-09-02 11:19:06 UTC",
+  "google_url": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&oq=is+stiles+switch+bbq+worth+it&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/SszWAyQyStSrx7n2qI7HV_prC0tIT48ghL_Ps1xltls/6a98062a65f701cbad01c9f6.html",
+  "total_time_taken": 2.46
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "is stiles switch bbq worth it",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "us",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "is stiles switch bbq worth it",
+  "total_results": 123,
+  "time_taken_displayed": 0.27,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Ep.75 : 1st In Line At Stiles Switch Bbq!!!! Still Worth The Wait?",
+   "link": "https://www.google.com/goto?url=CAESaQHrOzAVc3WXec1q8x9W_AWGgzlWKbS_EVH0jOzUy47NgpePSmvKrIc-2jkamDIofXUWH12VoVUx9O5nu2rURP16lIZnckytIAe09opYPj99l_OplC8cCxej8reTCmofNRUvshfbjGmgxw",
+   "thumbnail": "https://i.ytimg.com/vi/5mINrIxsViY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3mG66Ce0FLITmT1xXMVSjRmDU9l4Q",
+   "channel": "bottlechucker",
+   "duration": "37s",
+   "platform": "YouTube",
+   "date": "Dec 30, 2025"
+  },
+  {
+   "position": 2,
+   "title": "Taste Test: Brits Try Stiles Switch BBQ in Texas for the First Time",
+   "link": "https://www.youtube.com/watch?v=Fk1XNsfbxfM",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvzOlHZXgt12tGXzGbKDHXsFCeBryxBdwLZAlMWItMoTuRGFyxOWMk8w&s",
+   "channel": "Mr H and Family",
+   "duration": "13:15",
+   "platform": "YouTube",
+   "date": "Jun 16, 2025",
+   "snippet": "The Brits try Stiles Switch BBQ in Texas for the first time, enjoying the jalapeno cheddar sausage, creamy mac and cheese, smoked turkey, and brisket.",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRe4f_T1BOe0sq9tJroKVE0XuiwHv77GsHF0Q"
+  },
+  {
+   "position": 3,
+   "title": "I reviewed Stile Switch BBQ for my food blog! : r/CedarPark",
+   "link": "https://www.reddit.com/r/CedarPark/comments/riyjev/i_reviewed_stile_switch_bbq_for_my_food_blog/",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUr420pLjly695q8W3uAGR9fRFzZLoF6dTd_CRVzKFDZQH0gTxsQL2Jw&s",
+   "channel": "Texas Food Dude",
+   "duration": "11:56",
+   "platform": "Reddit",
+   "date": "Dec 18, 2021",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRx8iNKT8j_WEU8XlqRNh3KipAudid5LM-YWw"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "What does Stiles Switch BBQ in Cedar Park have on their menu and what are the prices?",
+   "type": "ai_overview",
+   "page_token": "mqi1S3icHZFdkpowHMCnl9nHNQhsW2ecThGCspLdQMgf8tLhO0KQuOqKvvUue5o9Qk9T2xv8Pn5_qN2-__PlU55O-riYzS6Xy2M7jq2qH8txmOXH676clblSRV72i6evT8aPplx6B2-1Om8cmmjN3QjFifZC5hzAtyzwjSbq5QtNg1GoKg47dQYl59UtYAI7U441jrFe1722WBqttpxogatLiciZgEqLvWCQBtdwZ6BqLntqOmtIbFwAeY0Qn6JOYMFIw1LexMiaIBkn4eGQIjqlJmaCiZEZ-jlFx1Mx_4aY0d5CQ0aUV37d_TS3ELznHFuFwprERhanGeKu80aQ2PxjjedBEN8442i6homRAdc5v0moPelXvX0lSWCT-XdVuWoNQ2nQ4bTO3dai--AQMj4KIE0Nyua9wFtA093LLZTzTKMNMA9LAHzNU-Xf-Q9516PEl68Z44RG444m0a3s1JAw55iZootAWABCx0NFQ5CCDJNIuLx39WxxeWjK96X58P_R8lcznBb6bWz_ArtKn-I",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mqi1S3icHZFdkpowHMCnl9nHNQhsW2ecThGCspLdQMgf8tLhO0KQuOqKvvUue5o9Qk9T2xv8Pn5_qN2-__PlU55O-riYzS6Xy2M7jq2qH8txmOXH676clblSRV72i6evT8aPplx6B2-1Om8cmmjN3QjFifZC5hzAtyzwjSbq5QtNg1GoKg47dQYl59UtYAI7U441jrFe1722WBqttpxogatLiciZgEqLvWCQBtdwZ6BqLntqOmtIbFwAeY0Qn6JOYMFIw1LexMiaIBkn4eGQIjqlJmaCiZEZ-jlFx1Mx_4aY0d5CQ0aUV37d_TS3ELznHFuFwprERhanGeKu80aQ2PxjjedBEN8442i6homRAdc5v0moPelXvX0lSWCT-XdVuWoNQ2nQ4bTO3dai--AQMj4KIE0Nyua9wFtA093LLZTzTKMNMA9LAHzNU-Xf-Q9516PEl68Z44RG444m0a3s1JAw55iZootAWABCx0NFQ5CCDJNIuLx39WxxeWjK96X58P_R8lcznBb6bWz_ArtKn-I",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBTdGlsZXMgU3dpdGNoIEJCUSBpbiBDZWRhciBQYXJrIGhhdmUgb24gdGhlaXIgbWVudSBhbmQgd2hhdCBhcmUgdGhlIHByaWNlcz8iLCJsayI6IkdpMXpkR2xzWlhNZ2MzZHBkR05vSUdKaWNTQmpaV1JoY2lCd1lYSnJJRzFsYm5VZ2QybDBhQ0J3Y21salpYTSIsImJzIjoiYzJYUVBRdkNNQkFHWUZ3ek9ZbFVoQk5YUlJTY3hicUxvdUo4YVE4UzFGU1RxX1VuLUxOTlVoVV9ocENROS03aEVuRnZpTjFlSVVOZWtJTU42MlBZS3MyWmdqUmRnemF3b0J3dHJOQWVRT0dWb0REQWlyU0ZFNWtTME9SUUJRQXRoWHM0VzUyUm0wMUd5ZERWbktzNUtTLVFSZXNjck5qdEVfWHNFS25veFVtMGkwNV9EQkt0cEt5a01NV1didWpWYnRLcGZvbzg2M01PdVZpSzRhY2h5ZkdYa2hlVlliOWdYdnJoVFBUcW9scDU1eGh6c1JiVFB5OThpX1VITEMwYV92Nmh3V3ZPZHRKNnV4LVA1bHV6OFFBIiwiaWQiOiJmY19MQWFZYXJpeUZNdWpqOTRQaE9hNU1BXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgZG9lcyBTdGlsZXMgU3dpdGNoIEJCUSBpbiBDZWRhciBQYXJrIGhhdmUgb24gdGhlaXIgbWVudSBhbmQgd2hhdCBhcmUgdGhlIHByaWNlcz8iLCJsayI6IkdpMXpkR2xzWlhNZ2MzZHBkR05vSUdKaWNTQmpaV1JoY2lCd1lYSnJJRzFsYm5VZ2QybDBhQ0J3Y21salpYTSIsImJzIjoiYzJYUVBRdkNNQkFHWUZ3ek9ZbFVoQk5YUlJTY3hicUxvdUo4YVE4UzFGU1RxX1VuLUxOTlVoVV9ocENROS03aEVuRnZpTjFlSVVOZWtJTU42MlBZS3MyWmdqUmRnemF3b0J3dHJOQWVRT0dWb0REQWlyU0ZFNWtTME9SUUJRQXRoWHM0VzUyUm0wMUd5ZERWbktzNUtTLVFSZXNjck5qdEVfWHNFS25veFVtMGkwNV9EQkt0cEt5a01NV1didWpWYnRLcGZvbzg2M01PdVZpSzRhY2h5ZkdYa2hlVlliOWdYdnJoVFBUcW9scDU1eGh6c1JiVFB5OThpX1VITEMwYV92Nmh3V3ZPZHRKNnV4LVA1bHV6OFFBIiwiaWQiOiJmY19MQWFZYXJpeUZNdWpqOTRQaE9hNU1BXzMifQ%3D%3D"
+  },
+  {
+   "question": "What is the #1 barbecue in Texas?",
+   "type": "ai_overview",
+   "page_token": "cmUh53icHdBdboIwAADg7DI-KtThnIlZVuVHXMusbcG-LFhAlEqroihvu8tOtdMs2XeE7_tH7evq96kpm8ZcJoNB27b9ndY7lfelPg7Sy6OWA5kqtU1lNRm9jOy3Qk7dqwtnpwVcMWP4nFhr6jUZaK4ZlQAdSl8Cs0SgKbIE-vkcIs4MFR48MutyRx0JEsA_GRUrzMJZxDGXFPsceEhWY7BWvM3dsSOOzKGucrhfBjiAJj1ggBNy3gJRMF7ds4DPEgtHG6YtwkmxBgtnXZcfUaJtxOwb7siVAN0gV-n4sHO4FQYxwwEHnCVdeCWxvueUtNtaPDY1NJlvUwq4zjoydEuBVrEnNklociZwFptTRMkqdV9LzGzo70NIAvyIYsFopwRS7HkDxFL6ZkYqYaHuvcOg9FkS4m3nDXuFvE2Hvf_N6VdxbCbmrHd_Q46BTQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cmUh53icHdBdboIwAADg7DI-KtThnIlZVuVHXMusbcG-LFhAlEqroihvu8tOtdMs2XeE7_tH7evq96kpm8ZcJoNB27b9ndY7lfelPg7Sy6OWA5kqtU1lNRm9jOy3Qk7dqwtnpwVcMWP4nFhr6jUZaK4ZlQAdSl8Cs0SgKbIE-vkcIs4MFR48MutyRx0JEsA_GRUrzMJZxDGXFPsceEhWY7BWvM3dsSOOzKGucrhfBjiAJj1ggBNy3gJRMF7ds4DPEgtHG6YtwkmxBgtnXZcfUaJtxOwb7siVAN0gV-n4sHO4FQYxwwEHnCVdeCWxvueUtNtaPDY1NJlvUwq4zjoydEuBVrEnNklociZwFptTRMkqdV9LzGzo70NIAvyIYsFopwRS7HkDxFL6ZkYqYaHuvcOg9FkS4m3nDXuFvE2Hvf_N6VdxbCbmrHd_Q46BTQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGJhcmJlY3VlIGluIFRleGFzPyIsImxrIjoiR2h0M2FHRjBJR2x6SUhSb1pTQWpNU0JpWW5FZ2FXNGdkR1Y0WVhNIiwiYnMiOiJjMlhRUFF2Q01CQUdZRnd6T1lsVWhCTlhSUlNjeGJxTG91SjhhUThTMUZTVHFfVW4tTE5OVWhVX2hwQ1E5LTdoRW5GdmlOMWVJVU5la0lNTjYyUFlLczJaZ2pSZGd6YXdvQnd0ck5BZVFPR1ZvRERBaXJTRkU1a1MwT1JRQlFBdGhYczRXNTJSbTAxR3lkRFZuS3M1S1MtUVJlc2NyTmp0RV9Yc0VLbm94VW0waTA1X0RCS3RwS3lrTU1XV2J1alZidEtwZm9vODYzTU91VmlLNGFjaHlmR1hraGVWWWI5Z1h2cmhUUFRxb2xwNTV4aHpzUmJUUHk5OGlfVUhMQzBhX3Y2aHdXdk9kdEo2dXgtUDVsdXo4UUEiLCJpZCI6ImZjX0xBYVlhcml5Rk11amo5NFBoT2E1TUFfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIGJhcmJlY3VlIGluIFRleGFzPyIsImxrIjoiR2h0M2FHRjBJR2x6SUhSb1pTQWpNU0JpWW5FZ2FXNGdkR1Y0WVhNIiwiYnMiOiJjMlhRUFF2Q01CQUdZRnd6T1lsVWhCTlhSUlNjeGJxTG91SjhhUThTMUZTVHFfVW4tTE5OVWhVX2hwQ1E5LTdoRW5GdmlOMWVJVU5la0lNTjYyUFlLczJaZ2pSZGd6YXdvQnd0ck5BZVFPR1ZvRERBaXJTRkU1a1MwT1JRQlFBdGhYczRXNTJSbTAxR3lkRFZuS3M1S1MtUVJlc2NyTmp0RV9Yc0VLbm94VW0waTA1X0RCS3RwS3lrTU1XV2J1alZidEtwZm9vODYzTU91VmlLNGFjaHlmR1hraGVWWWI5Z1h2cmhUUFRxb2xwNTV4aHpzUmJUUHk5OGlfVUhMQzBhX3Y2aHdXdk9kdEo2dXgtUDVsdXo4UUEiLCJpZCI6ImZjX0xBYVlhcml5Rk11amo5NFBoT2E1TUFfMyJ9"
+  },
+  {
+   "question": "What is the best barbecue in downtown Austin?",
+   "type": "ai_overview",
+   "page_token": "RcbCoHicHdBfbpswAIBx9TJ9bHBoujVSNIkWiFBtauM_4JfJMQQSG3ATK4S89QY9xE6106zaDb7f9_nHHgbz9-6r896d14vFNE0P7Ti2tnnQY79Q53nQC62s3Slt1k8_nsCvvd7Elyp6OekIM-f4KwkKYSdqnGSlY1okU5NiIBgPq2W7kgFngsJHatqQBj7CIiFErE4sdrYMpEcD9jDlthYu321l35SS85KbctnNDbs6acaQC7Mi8U9fMzTodJyL3pbkZuZd4t53r91QAFkwAajawkAFztQ2S5Co06p_vuADeFOpz1QP3uCQvRcDvOYpFzrkVh2xR0sPG1oPMEwSHbowL0BAXwATMaiIrY1g46NOEW6GKKBHfos7Cb8Nsioz1zCJvrs_ckqwip87xECUHrKIbNGcC0moQCnc1oFcdgVm1xgDfhZH45WRkbT1Dd5IdL_Xl014___05ve-92t3Gtt_BxKMrw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RcbCoHicHdBfbpswAIBx9TJ9bHBoujVSNIkWiFBtauM_4JfJMQQSG3ATK4S89QY9xE6106zaDb7f9_nHHgbz9-6r896d14vFNE0P7Ti2tnnQY79Q53nQC62s3Slt1k8_nsCvvd7Elyp6OekIM-f4KwkKYSdqnGSlY1okU5NiIBgPq2W7kgFngsJHatqQBj7CIiFErE4sdrYMpEcD9jDlthYu321l35SS85KbctnNDbs6acaQC7Mi8U9fMzTodJyL3pbkZuZd4t53r91QAFkwAajawkAFztQ2S5Co06p_vuADeFOpz1QP3uCQvRcDvOYpFzrkVh2xR0sPG1oPMEwSHbowL0BAXwATMaiIrY1g46NOEW6GKKBHfos7Cb8Nsioz1zCJvrs_ckqwip87xECUHrKIbNGcC0moQCnc1oFcdgVm1xgDfhZH45WRkbT1Dd5IdL_Xl014___05ve-92t3Gtt_BxKMrw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgYmFyYmVjdWUgaW4gZG93bnRvd24gQXVzdGluPyIsImxrIjoiR2h0aVpYTjBJR0ppY1NCcGJpQmtiM2R1ZEc5M2JpQmhkWE4wYVc0IiwiYnMiOiJjMlhRUFF2Q01CQUdZRnd6T1lsVWhCTlhSUlNjeGJxTG91SjhhUThTMUZTVHFfVW4tTE5OVWhVX2hwQ1E5LTdoRW5GdmlOMWVJVU5la0lNTjYyUFlLczJaZ2pSZGd6YXdvQnd0ck5BZVFPR1ZvRERBaXJTRkU1a1MwT1JRQlFBdGhYczRXNTJSbTAxR3lkRFZuS3M1S1MtUVJlc2NyTmp0RV9Yc0VLbm94VW0waTA1X0RCS3RwS3lrTU1XV2J1alZidEtwZm9vODYzTU91VmlLNGFjaHlmR1hraGVWWWI5Z1h2cmhUUFRxb2xwNTV4aHpzUmJUUHk5OGlfVUhMQzBhX3Y2aHdXdk9kdEo2dXgtUDVsdXo4UUEiLCJpZCI6ImZjX0xBYVlhcml5Rk11amo5NFBoT2E1TUFfMyJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgYmFyYmVjdWUgaW4gZG93bnRvd24gQXVzdGluPyIsImxrIjoiR2h0aVpYTjBJR0ppY1NCcGJpQmtiM2R1ZEc5M2JpQmhkWE4wYVc0IiwiYnMiOiJjMlhRUFF2Q01CQUdZRnd6T1lsVWhCTlhSUlNjeGJxTG91SjhhUThTMUZTVHFfVW4tTE5OVWhVX2hwQ1E5LTdoRW5GdmlOMWVJVU5la0lNTjYyUFlLczJaZ2pSZGd6YXdvQnd0ck5BZVFPR1ZvRERBaXJTRkU1a1MwT1JRQlFBdGhYczRXNTJSbTAxR3lkRFZuS3M1S1MtUVJlc2NyTmp0RV9Yc0VLbm94VW0waTA1X0RCS3RwS3lrTU1XV2J1alZidEtwZm9vODYzTU91VmlLNGFjaHlmR1hraGVWWWI5Z1h2cmhUUFRxb2xwNTV4aHpzUmJUUHk5OGlfVUhMQzBhX3Y2aHdXdk9kdEo2dXgtUDVsdXo4UUEiLCJpZCI6ImZjX0xBYVlhcml5Rk11amo5NFBoT2E1TUFfMyJ9"
+  },
+  {
+   "question": "What is the best BBQ restaurant in Cedar Park, Texas?",
+   "type": "ai_overview",
+   "page_token": "hfOzNXicHdBNspowAADg6WXe8kkI0uKM05k8SBVLfCYh0Ww6kKhICKTI-NNdb9BD9FQ9Tae9wLf4fv7uLr398-FXM03-upjN7vf763kYzt3xVQ9uVl2fvZ7pquvqSttF_DEGn096md0O6G3UaFd6L1IasEA43RkrYBHQDHAakhVd0a-yNzHleFOKcuK9WlclkLuyWVVwHTIgGhGadxUkG9Ybb9w8VTKKRKumijcRC8FDZoqqME-VAxtqH__Ut0ImrAjJSPGniGKxL-ycsdTQGuRx3RGohEeyxai2xpZygkSSWy2SSdn5SLB_EmDnVWZiUyaQ9zQ4Zg037gyEpa3IEs4hihjMndwbXovisQcq1ymedCta4TqYNarYSawO-9wfS0WM9N-3nO6qLGlICdCXS47oijy3UrE6XN8Z7kIK_Fg7nHIw_DhwetUckeIJLluB6MtJ35bw5f_08tvJTQs_Due_4gWIZg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hfOzNXicHdBNspowAADg6WXe8kkI0uKM05k8SBVLfCYh0Ww6kKhICKTI-NNdb9BD9FQ9Tae9wLf4fv7uLr398-FXM03-upjN7vf763kYzt3xVQ9uVl2fvZ7pquvqSttF_DEGn096md0O6G3UaFd6L1IasEA43RkrYBHQDHAakhVd0a-yNzHleFOKcuK9WlclkLuyWVVwHTIgGhGadxUkG9Ybb9w8VTKKRKumijcRC8FDZoqqME-VAxtqH__Ut0ImrAjJSPGniGKxL-ycsdTQGuRx3RGohEeyxai2xpZygkSSWy2SSdn5SLB_EmDnVWZiUyaQ9zQ4Zg037gyEpa3IEs4hihjMndwbXovisQcq1ymedCta4TqYNarYSawO-9wfS0WM9N-3nO6qLGlICdCXS47oijy3UrE6XN8Z7kIK_Fg7nHIw_DhwetUckeIJLluB6MtJ35bw5f_08tvJTQs_Due_4gWIZg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQkJRIHJlc3RhdXJhbnQgaW4gQ2VkYXIgUGFyaywgVGV4YXM/IiwibGsiOiJHaFppWlhOMElHSmljU0JqWldSaGNpQndZWEpySUhSNCIsImJzIjoiYzJYUVBRdkNNQkFHWUZ3ek9ZbFVoQk5YUlJTY3hicUxvdUo4YVE4UzFGU1RxX1VuLUxOTlVoVV9ocENROS03aEVuRnZpTjFlSVVOZWtJTU42MlBZS3MyWmdqUmRnemF3b0J3dHJOQWVRT0dWb0REQWlyU0ZFNWtTME9SUUJRQXRoWHM0VzUyUm0wMUd5ZERWbktzNUtTLVFSZXNjck5qdEVfWHNFS25veFVtMGkwNV9EQkt0cEt5a01NV1didWpWYnRLcGZvbzg2M01PdVZpSzRhY2h5ZkdYa2hlVlliOWdYdnJoVFBUcW9scDU1eGh6c1JiVFB5OThpX1VITEMwYV92Nmh3V3ZPZHRKNnV4LVA1bHV6OFFBIiwiaWQiOiJmY19MQWFZYXJpeUZNdWpqOTRQaE9hNU1BXzMifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlNXeFNUM0JXVkhsSmJ6bFlZemswV0VzeFJFYzVURUZuVjBwYVlUQllUV1JqVFVWNlR6Z3laVVV3VVRSTk9VdzRhVWRHT0ZNNVlXdEJRbFppZDBacmVsRlplVTFpTVdaTVoyeE5VMEpMV2tVd2NEbGljVTlDWTB0SVp4SVdURUZoV1dGeWFYbEdUWFZxYWprMFVHaFBZVFZOUVJvaVFVUnpjamxtVkdZd1l6aG1OazVzWm1jeVEyRmFiMUJoVDB0elJrd3hlbUZpZHciLCJmY3YiOiIzIiwiZWkiOiJMQWFZYXJpeUZNdWpqOTRQaE9hNU1BIiwicWMiOiJDaDFwY3lCemRHbHNaWE1nYzNkcGRHTm9JR0ppY1NCM2IzSjBhQ0JwZEJBQWZhcHNEejgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgQkJRIHJlc3RhdXJhbnQgaW4gQ2VkYXIgUGFyaywgVGV4YXM%2FIiwibGsiOiJHaFppWlhOMElHSmljU0JqWldSaGNpQndZWEpySUhSNCIsImJzIjoiYzJYUVBRdkNNQkFHWUZ3ek9ZbFVoQk5YUlJTY3hicUxvdUo4YVE4UzFGU1RxX1VuLUxOTlVoVV9ocENROS03aEVuRnZpTjFlSVVOZWtJTU42MlBZS3MyWmdqUmRnemF3b0J3dHJOQWVRT0dWb0REQWlyU0ZFNWtTME9SUUJRQXRoWHM0VzUyUm0wMUd5ZERWbktzNUtTLVFSZXNjck5qdEVfWHNFS25veFVtMGkwNV9EQkt0cEt5a01NV1didWpWYnRLcGZvbzg2M01PdVZpSzRhY2h5ZkdYa2hlVlliOWdYdnJoVFBUcW9scDU1eGh6c1JiVFB5OThpX1VITEMwYV92Nmh3V3ZPZHRKNnV4LVA1bHV6OFFBIiwiaWQiOiJmY19MQWFZYXJpeUZNdWpqOTRQaE9hNU1BXzMifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "0MvA7HiczVXdkqI4FH6AfY7hplsBkVa7ipoKadTYaht_h76hAJEfQWyD0s7dvss-1T7NBhRFG7tr5mJqTwkhJ19OTpLz-f39j--ulv_-RZwoWpNHlo3juGyHoe1bZTMMWJ3sVya7CH2yMZ3vji9ZK8b2pS1h9jtJYEwicYzlSl2gq_rG3Td7W89rVAfOiy72AJPOljRDJ5ZHg797hNVY-lp-E55op0zK1qrciV9QfciNan2uXOEqQvmF1QMKAH_ObAUgADAYASXto0KU-nUgDAAENIyc9-HDGidHK8WBbDV8XPSDKfCQiAyTcDD5DcRoRx1hBnmyi6dSzMUebDBJfCBOe50kmeI9FtthByjJITV4G3pCF3rDcz9_vzIoNnx15CMAvDpQlPNp5tbqXMRRMM037S_BwK5jYCL35mGlOUyA_BOBJfoURQ0p0yrMQE1C94HYuU0LlmONDW141jUdM_3YkKSO4bjBhU3IN6dmV3Yqpeba3tfE9frNEMDO1zTMmgbF-aE-t-aao3Hf0z5f4UWuIdTq9ymBTHJiEMkzaKMDftzebnGJlLtlmc_oA09XfHW6STXJhSXnHKFF1xGcvfTM0fFinpM4x2Wy8oBAabn0nY-iQEdOay8-Op7ohw5wfEKcyxHDIvpkK59b_TCFVkMCt49r59YECJ3D5kbkGHwweJlDggJmNgYvSxqByxKBSE5SPiV9UbQ2zQND-gdDax8qbbl5cJuXHELgmjY0mg3TLRwsG1WOozn6IMoqbNMYw04CsCcyTYlCcDZpeASO8NW1K0VUlVWgosKRrw1-RZ7EcMaTq7LP06UdTVSE6i2AmvHmeSLojb3VCOvKrveKi-kRBsYvKIz5vyLQQX_UoyJA0CskUDX5-JxAqf7g2_qTfrZOBEo3MVGUGwSCBwJ91J9qBjnrzzWBZJQnkI0_059fJhD8lECHtpBAYTGB1jcIlOlPjkCX-qMU6U9GoN_RH_ib-pPyyTo0l2K09eybotQSS3X8_HMx3e79ftV_HbZ-9PuY9GcLC3wpSosgegz0uX-vufNHudKJ9vN7jTrCR2vOvEkuuSOR61u0id3IdO4M4-0uDjeRc-dGTOBvQonTq12Xb1a42mwAp0QdxJ2nTiQohhr6noOHD3AxfdXxcsAhvomeYWM744dVHARuSRQVw29VZg3f09qvXtTD8X4cAxWbI9zr48Z27YglcTGsVdqxticvesusbbtcNG577174tJ46IBI6K2U0Wa4adZFXhWA1jd_BNs2MSONmy6oJxo-egxi6J2JJPBNsTIkWXdUGfQxmdlKCalKa9AnpE9PnAWBFZoipaxbZSbplPOh1oy5yllirCCYT2NF-LVUFhqw2Ev8fVN46nQ",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0MvA7HiczVXdkqI4FH6AfY7hplsBkVa7ipoKadTYaht_h76hAJEfQWyD0s7dvss-1T7NBhRFG7tr5mJqTwkhJ19OTpLz-f39j--ulv_-RZwoWpNHlo3juGyHoe1bZTMMWJ3sVya7CH2yMZ3vji9ZK8b2pS1h9jtJYEwicYzlSl2gq_rG3Td7W89rVAfOiy72AJPOljRDJ5ZHg797hNVY-lp-E55op0zK1qrciV9QfciNan2uXOEqQvmF1QMKAH_ObAUgADAYASXto0KU-nUgDAAENIyc9-HDGidHK8WBbDV8XPSDKfCQiAyTcDD5DcRoRx1hBnmyi6dSzMUebDBJfCBOe50kmeI9FtthByjJITV4G3pCF3rDcz9_vzIoNnx15CMAvDpQlPNp5tbqXMRRMM037S_BwK5jYCL35mGlOUyA_BOBJfoURQ0p0yrMQE1C94HYuU0LlmONDW141jUdM_3YkKSO4bjBhU3IN6dmV3Yqpeba3tfE9frNEMDO1zTMmgbF-aE-t-aao3Hf0z5f4UWuIdTq9ymBTHJiEMkzaKMDftzebnGJlLtlmc_oA09XfHW6STXJhSXnHKFF1xGcvfTM0fFinpM4x2Wy8oBAabn0nY-iQEdOay8-Op7ohw5wfEKcyxHDIvpkK59b_TCFVkMCt49r59YECJ3D5kbkGHwweJlDggJmNgYvSxqByxKBSE5SPiV9UbQ2zQND-gdDax8qbbl5cJuXHELgmjY0mg3TLRwsG1WOozn6IMoqbNMYw04CsCcyTYlCcDZpeASO8NW1K0VUlVWgosKRrw1-RZ7EcMaTq7LP06UdTVSE6i2AmvHmeSLojb3VCOvKrveKi-kRBsYvKIz5vyLQQX_UoyJA0CskUDX5-JxAqf7g2_qTfrZOBEo3MVGUGwSCBwJ91J9qBjnrzzWBZJQnkI0_059fJhD8lECHtpBAYTGB1jcIlOlPjkCX-qMU6U9GoN_RH_ib-pPyyTo0l2K09eybotQSS3X8_HMx3e79ftV_HbZ-9PuY9GcLC3wpSosgegz0uX-vufNHudKJ9vN7jTrCR2vOvEkuuSOR61u0id3IdO4M4-0uDjeRc-dGTOBvQonTq12Xb1a42mwAp0QdxJ2nTiQohhr6noOHD3AxfdXxcsAhvomeYWM744dVHARuSRQVw29VZg3f09qvXtTD8X4cAxWbI9zr48Z27YglcTGsVdqxticvesusbbtcNG577174tJ46IBI6K2U0Wa4adZFXhWA1jd_BNs2MSONmy6oJxo-egxi6J2JJPBNsTIkWXdUGfQxmdlKCalKa9AnpE9PnAWBFZoipaxbZSbplPOh1oy5yllirCCYT2NF-LVUFhqw2Ev8fVN46nQ"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Stiles Switch BBQ - Landing Page",
+   "link": "https://stilesswitchbbq.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVwJhMyVinZcgaLBLKgjb0ObtVJdYLT2kYJv-4eadHyiA520wokxBcY5mL5Ab3VGDEoXggFKKv52vMjVT-dMAlqZ2dMdKaO78IVhJPXSeS4A&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://stilesswitchbbq.com",
+   "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACwBgCdASogACAAPtEwtFooIigoGAEAGglpAAUQIZD44vpHUK1xs5mLbLfG2VQiLf2HYvDLz4bbzIiW0fSeAAD-uF-5fgp4wv7r5rK6ffhJO3_IqE9oLqY3Z1aVqpa-jatfQyg82HXgftrWJHX5yJFc4PpH1rYRp3ev38-87Na3lx0nO_OY3F7Rx1DHHgxrERP6XFPgV6c0JJM2MuIQ8G-q-YyD9asvRtvgPHSepKKUam45eFx4_4cmgd7k8utMhQpfr4n7qNyA6T4b2Pc57WcxQqhnjB0jVU-_MkK1TkZ1-GrSs2tWUmUimUrKuEcm1qTHrV3RImGNOE17FUgNQE-gkEqQ0jBE-IUJpY1EQskKpLnduLUrh1eqBOvyWiCLoIkswBAA.webp",
+   "snippet": "We strive to make our website accessible to everybody. Learn More.",
+   "about_this_result": {
+    "source": {
+     "description": "We strive to make our website accessible to everybody. Learn More.",
+     "source_info_link": "https://stilesswitchbbq.com/",
+     "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACwBgCdASogACAAPtEwtFooIigoGAEAGglpAAUQIZD44vpHUK1xs5mLbLfG2VQiLf2HYvDLz4bbzIiW0fSeAAD-uF-5fgp4wv7r5rK6ffhJO3_IqE9oLqY3Z1aVqpa-jatfQyg82HXgftrWJHX5yJFc4PpH1rYRp3ev38-87Na3lx0nO_OY3F7Rx1DHHgxrERP6XFPgV6c0JJM2MuIQ8G-q-YyD9asvRtvgPHSepKKUam45eFx4_4cmgd7k8utMhQpfr4n7qNyA6T4b2Pc57WcxQqhnjB0jVU-_MkK1TkZ1-GrSs2tWUmUimUrKuEcm1qTHrV3RImGNOE17FUgNQE-gkEqQ0jBE-IUJpY1EQskKpLnduLUrh1eqBOvyWiCLoIkswBAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://stilesswitchbbq.com/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstilesswitchbbq.com%2F",
+   "source": "Stiles Switch BBQ",
+   "read_more_link": "https://www.google.com/goto?url=CAESpwEB6zswFRfiup5jbppxxNXOxoZTssgp9HtRGJqpKKNKhCg7oFCEaYD2ZhFThpiVgVCh7s01VgOiaQrMUnogRkvaBNl-caqYaOcUnQNzli-Vh9AjRzjmdGSyMYgXS-V9Tp01isoCmd3Xu_mJStQXq5C9KsEq5sS7Qqv86wQECj1I-SctrnDxxf7qLfPh7wP_PIDv_lFEcZyDHBMwaeEimJAhLeufADzvpg"
+  },
+  {
+   "position": 2,
+   "title": "stiles switch bbq : r/austinfood",
+   "link": "https://www.reddit.com/r/austinfood/comments/1sv43qz/stiles_switch_bbq/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVPJsQZ2aicxLEfZlCixsaLUSaD7_6KiSMQFdm_NSwG99bNn3U_zph6uk-Q0bcebPLmy_L_lakFKRRcMteE50YnsNFns90BKmRvBG3WNTpgeHpZSdTyGZqWGTfwU0rEwo6tgZJ0XHuN__VZ0tBd0k4zRFnFGaFkLZMUfw&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQFnoECDgQAQ&uoh=1",
+   "displayed_link": "80+ comments \u00b7 4 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+   "snippet": "Stiles is not top tier BBQ, but definitely a very solid option with minimal wait and reasonable prices. My parents especially liked the burrito ...",
+   "snippet_highlighted_words": [
+    "Stiles is not top tier BBQ"
+   ],
+   "sitelinks": {
+    "list": [
+     {
+      "title": "What's With The Stiles Switch Hype? : r/austinfood",
+      "link": "https://www.google.com/goto?url=CAESjgEB6zswFaPtBA5fiIf6SddX92Gm4U_1NgcrcaQ8DVsrdXP9sHE2fT7QBPGfU8yppVLtbI7b35vt9ZF_D6c1Z_U5ub6Gn2oJem4sxLwAcijVlE-VTBvOVriMoUSsHAQaxv9D3b5uhgHq_t8y98zvktAFcDbF1O7H91CuFcdCTDb0KO0gOSFYs709KBQrY595",
+      "answer_count": 45,
+      "date": "Jun 3, 2022"
+     },
+     {
+      "title": "Stiles Switch BBQ Austin TX",
+      "link": "https://www.google.com/goto?url=CAESggEB6zswFQnXjejbzAmx7K4nyCrRHmxC6A5aQg4dv2LPTV0KQB7o2Hur40K42x8j5lb69-rqMSwnKtngdyxIGmIPxHxi7pUd2wkFDI7kqB96qmzfJBqVeGvQuhi8Z8FGC5T1a4GNihFuqUz-pwFjHdYIBpl8yvR6jlhU7EwNt77AZvO2",
+      "answer_count": 69,
+      "date": "May 9, 2025"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Stiles is not top tier BBQ, but definitely a very solid option with minimal wait and reasonable prices. My parents especially liked the burrito ...",
+     "source_info_link": "https://www.reddit.com/r/austinfood/comments/1sv43qz/stiles_switch_bbq/",
+     "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/austinfood/comments/1sv43qz/stiles_switch_bbq/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Faustinfood%2Fcomments%2F1sv43qz%2Fstiles_switch_bbq%2F",
+   "source": "Reddit \u00b7 r/austinfood",
+   "read_more_link": "https://www.google.com/goto?url=CAESzgEB6zswFeEKQ0nolx478TcLIHoLe2Ap_NsOljbObKUnJKBjsC7Uy7B_xQozXrhXTJtYuXkm6ld-Yz7NqAUmX-xrTRdGCpPJ3mkupZMpSMmymrFJFSPgI9_tXWpX9UDYhUvJWDVmnP3eJAPswsEP6Ptl5snQ6OEZDv74eWMZP9dYYiHZqWExRsi-DTK6IgwYaB6nHJpgyZ5vqKxP_eGM_y-lPAOvPjElISWFX82Yjv5mkzy1w5-n44aAtuwgDkvXna3u0nwB5P5L47HFQ6LjiA"
+  },
+  {
+   "position": 3,
+   "title": "Stiles Switch BBQ & Brew | Austin TX",
+   "link": "https://www.facebook.com/StilesSwitchBBQ/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVdpvy3QW3TV4Qiy6iobJbZNgKH_q7U5WI36-wiFXYh5QLTMjlhQOepSxs68zbpuTYXVH0g_Z2dofSaysXeft2kCzEOTr-_fIrqXFdVtsLRfVHmKfPhVo4v1XYI0k&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQFnoECDMQAQ&uoh=1",
+   "displayed_link": "136.9K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "@texasmonthly 2025 Top 50 BBQ Joint. To all of you that support this little bbq show everyday we say it often, but thank you! Thank you @bbqsnob and Texas ...",
+   "snippet_highlighted_words": [
+    "BBQ",
+    "bbq",
+    "bbqsnob"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.7,
+      "reviews": 1023
+     },
+     "extensions": [
+      "4.7(1,023)"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "@texasmonthly 2025 Top 50 BBQ Joint. To all of you that support this little bbq show everyday we say it often, but thank you! Thank you @bbqsnob and Texas ...",
+     "source_info_link": "https://www.facebook.com/StilesSwitchBBQ/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/StilesSwitchBBQ/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2FStilesSwitchBBQ%2F",
+   "source": "Facebook \u00b7 Stiles Switch BBQ & Brew",
+   "read_more_link": "https://www.google.com/goto?url=CAESsQEB6zswFRgZDAWY9-Eqw1WOsA984w6gX3yTyWmvW1rPalpk8rC48CdzTe1u4cEtww1_rfYUwnXQ4QfCFMimw3i299CkIFTnPTWLcjnKVKI4ZC5quCggYOCZapm5CcwFekVAXbbG9pqE8i6KngxwDzMNuz67w-N7hvKs0glFO_kcS35VFqIUFCbx6l7lAxvOMZpzLJ7VPFRnWuKysyfELINYXh9D99HLavbdqR6s5hKEcP4"
+  },
+  {
+   "position": 4,
+   "title": "STILES SWITCH BBQ & BREW - Updated August 2026",
+   "link": "https://www.yelp.com/biz/stiles-switch-bbq-and-brew-austin",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVd_PhLb6hXgi98cQaLrQ1la7ZkILup1wgaThcbjL7ZKxxjDj5VZqMwwFRhz0egPEF4zxIuKxLoN2pNrpNT29DlNcWRcBtorWnkNmPrjWr-5h9TMYaZorCCJKQMwajjUi5sM8KfzPo26KHMZUqgA&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.yelp.com \u203a ... \u203a Restaurants \u203a Barbeque",
+   "favicon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp",
+   "snippet": "The moist brisket we had here was the star attraction and doesn't need any sauce as it was spiced perfectly with excellent bark and of course fork tender.",
+   "snippet_highlighted_words": [
+    "The moist brisket we had here was the star attraction"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.1,
+      "reviews": 2161,
+      "price_range": "$$"
+     },
+     "extensions": [
+      "4.1(2,161)",
+      "Price range: $$"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The moist brisket we had here was the star attraction and doesn't need any sauce as it was spiced perfectly with excellent bark and of course fork tender.",
+     "source_info_link": "https://www.yelp.com/biz/stiles-switch-bbq-and-brew-austin",
+     "icon": "https://serpapi.com/images/i/UklGRrABAABXRUJQVlA4IKQBAAAQCgCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7PyVoDbX_pnpgH-d6gDn0fY38jPAArVNoCrAlaPcgw9_NjrSLYDCki6HiaAYVj36NR_DgRtjmp6VzqLnAAD-9-_HVtEfZf1k5Fu5sOhI2730sfPBf_CG_gY7IjdRHgorclQN_UG5FGoT7nVAd5YwzrWsxH6TLxXCUq25cpJOT9z4h4CPS6djcg5y73xYO-MEdL5cmcD11oqlxpeUGrqvbq4UPXtKdespQXJb7V__FwiO42L4KCCpbG2JTSjKGoiWQ0R_KVZ3BS_P7vCXle1a3EM-Jy_Wd1KLIP7ksgtn7CFrwo3uYnAuucwyBN7n99OZNEeORetd5CcQppI2BuvU9UHgrzSFfAr9K9bl1C3aK0jdaqBhzHMfSa2nmKdWaae9fbEZIn9rcXQM_vzXw35X-i18LrAcA4uanHTpWKV416dVDFlmH6zJvcyipDEO-BFNQSfuLsAoa1S8UxXymJGxhbWVTBjsCAgl1zi98k2jrESorHzHlvvRHIUVkuNO4hqk0bPO5cfAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.yelp.com/biz/stiles-switch-bbq-and-brew-austin&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fstiles-switch-bbq-and-brew-austin",
+   "source": "Yelp",
+   "read_more_link": "https://www.google.com/goto?url=CAESvwEB6zswFSwH74WsJ4gTLvfQsZClioR2LjSzgsYstSf5_LMc-RFXM1AcxFTsMSfhnvtJV6Onc0lVCpBUMGoqyNEP4olNUusV2rON1DFs9l016zQZ9iLCccIkJs5J1GJU3K2mX96xjWXMNNA8qjrko7Mpg6BCCM4IqC5yoM4de_Xp3clmufxaCIDKk_57lJ4e5NWTmvSj9MYTfgmi3j9s8KO6JjbqePtBJALZjOudFFISXIJ5DMMeh_DKXid_nvZqRw"
+  },
+  {
+   "position": 5,
+   "title": "Stiles Switch Bbq & Brew - Cedar Park Restaurants",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55599-d21387927-Reviews-Stiles_Switch_Bbq_Brew-Cedar_Park_Texas.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqwEB6zswFdsijdB5GKQfEs_BmDgGBXaFxql_hMTz9aHtaM0nbp77nCROxw1wprfVnCzp8Ei8q63F6x20KPeBRlwlO--nbjiLSXKPHcB7P1entwVpCjulk9l0adEPT96mtHtcJkt6Rwf3AevIqEwkzW_t5fXBpWt6HSCPtPyQuYosAzqLEtBxvv-MQK8OTH7c3l0dQVr01Q1Hkprtlt27-gfSbOtAhIY7K-TFkh4&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://www.tripadvisor.com \u203a Restaurant_Review-g555...",
+   "favicon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp",
+   "snippet": "For the stiff pricing there compared to other bbq places, needless to say, and the so not worth it bbq, we won't be back. Read more. Written February 20 ...",
+   "snippet_highlighted_words": [
+    "For the stiff pricing there compared to other bbq places"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 3.8,
+      "reviews": 17,
+      "price_range": "$$-$$$"
+     },
+     "extensions": [
+      "3.8(17)",
+      "Price range: $$ - $$$"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "For the stiff pricing there compared to other bbq places, needless to say, and the so not worth it bbq, we won't be back. Read more. Written February 20 ...",
+     "source_info_link": "https://www.tripadvisor.com/Restaurant_Review-g55599-d21387927-Reviews-Stiles_Switch_Bbq_Brew-Cedar_Park_Texas.html",
+     "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y43UHrqeAN4sRoIQDV4vgCTRvB1tMXw-Ape1f4gxv7fJIlmAA_FHCFlLdcABXyY72clExk4RdAtev8mLy_Ws-uojgoLjRWQZ0Gku77ttm-gMJFu3wFcz6gfhtA_OZN_79epZAT2R1__0YegM5bI2MS1sgfHl64Ymve17rG-lDfFSkP0pfcGpBIipy0siH9dzFV4xzcVO-6OrAR2QkZyrGrsLlkJJACSgyoWsgnNLLc5mXcbTqYXfBtftqxSxjvuV-6f1iJrv9NKKGGVrzr55G7G76DtPh7l8RrCfPlKt4k-QrcVlba5dWvj71G5MmPPx1ZbpHL-xUS1c4Ve8M_Co8xZoYJUKG-Z3wfFCGQUJmSLSO4_79-i6ze-Ay_IbZCcAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.tripadvisor.com/Restaurant_Review-g55599-d21387927-Reviews-Stiles_Switch_Bbq_Brew-Cedar_Park_Texas.html&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tripadvisor.com%2FRestaurant_Review-g55599-d21387927-Reviews-Stiles_Switch_Bbq_Brew-Cedar_Park_Texas.html",
+   "source": "Tripadvisor",
+   "read_more_link": "https://www.google.com/goto?url=CAES-gEB6zswFd0F_4LdHYFPuKZo_1BVfXg5ryqz5Kkt0BmFWXiRyj1tyTMDO9x1UNTSNKhbvTVLaJRdJLzzLTojOSlDFFsz0i3mUkuNwAU-F5DwPMfbsMPrWoIFlO1iMGDq4uT19qq-uZBSTxDjZE-2eq1wYk7gENYkCP2WG8NsjA8zC3jiZn2OAS_abW88zW3vbhnfwYJ06oA6KUTI_oclaaMPULcvNmMY7VcD3KvI5JLwlzeZZ7NKnBkR0KP-ZG6HET19Rar3CWSClRE4WiwjHCe-vZtI9dYzIf_wLubG_UHEctHsPm9yRKZhsZOuv5L6CpPIrMTacEtVKdn3"
+  },
+  {
+   "position": 6,
+   "title": "Stiles Switch BBQ | The House of Salt & Smoke",
+   "link": "https://houseofsaltandsmoke.com/2026/05/31/stiles-switch-bbq/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVSV3VbEP__4rjjxo6BdHeSB608MxejmbKRsf8DO5F8j5ULNdwE3EDD8wIx0fbgb_6qBoTSr6QpO2XAUFdORLTAtF5ODvdUv9fxzWp_tWmZoQIslT5nB5SDzSk0ghiyMx34fPVUW-SMPgVb6l-1f2_oA&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://houseofsaltandsmoke.com \u203a 2026/05/31 \u203a stiles-...",
+   "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABwBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQEMAz144Ky7yhRm_DpZmqfWB3wl5ArzUAAP66IOy9jiEDefJhTV03hZbCZxqA9Lt5M80gO8s4Obgs_ZO59oa4kb5jESTnl7BlS2TsCxzBEyuM0ni5RiUSFW_yc6q06X9UIG527nAk3isa2GGb1J7tGxrj41602LjzjgYrWrkX8ENOGoQnce4cWXy-mLEP76pdxisapqVe7H7K_j_r0FO4Ky56Ihv8BtxsobKpHeq1tlU65crgRLhXqrZMoarxdxn2B5mtvCMS28w4l5TOW31pea8ilXDIzJefd0wYFA3nxkyNzDegCZauvc1iDEKJ4P7PGc7NBvDRnVsudSymg5RrwMFf3pUscabs0e72HqxFA65uGHxzXld8EOjI5IAAAA.webp",
+   "date": "May 31, 2026",
+   "snippet": "Overall Rating and is it worth a visit: 8.75 to 9/10 and Yes. We rolled in later in the afternoon around 2:30, and we could tell from the ...",
+   "snippet_highlighted_words": [
+    "is it worth a visit: 8.75 to 9/10"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Overall Rating and is it worth a visit: 8.75 to 9/10 and Yes. We rolled in later in the afternoon around 2:30, and we could tell from the ...",
+     "source_info_link": "https://houseofsaltandsmoke.com/2026/05/31/stiles-switch-bbq/",
+     "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABwBQCdASocABwAPtE-tFooIigoFAEAGglAE6ZQEMAz144Ky7yhRm_DpZmqfWB3wl5ArzUAAP66IOy9jiEDefJhTV03hZbCZxqA9Lt5M80gO8s4Obgs_ZO59oa4kb5jESTnl7BlS2TsCxzBEyuM0ni5RiUSFW_yc6q06X9UIG527nAk3isa2GGb1J7tGxrj41602LjzjgYrWrkX8ENOGoQnce4cWXy-mLEP76pdxisapqVe7H7K_j_r0FO4Ky56Ihv8BtxsobKpHeq1tlU65crgRLhXqrZMoarxdxn2B5mtvCMS28w4l5TOW31pea8ilXDIzJefd0wYFA3nxkyNzDegCZauvc1iDEKJ4P7PGc7NBvDRnVsudSymg5RrwMFf3pUscabs0e72HqxFA65uGHxzXld8EOjI5IAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://houseofsaltandsmoke.com/2026/05/31/stiles-switch-bbq/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fhouseofsaltandsmoke.com%2F2026%2F05%2F31%2Fstiles-switch-bbq%2F",
+   "source": "houseofsaltandsmoke.com"
+  }
+ ],
+ "perspectives": [
+  {
+   "author": "r/BBQ",
+   "source": "Reddit",
+   "extensions": [
+    "100+ comments "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzxPgDDCWmmwHUtQ6nlyyJT0fKbeGHeRN1HMe4CahFTSrh7GZzBhdsL8uIA&usqp=CAI&s"
+   ],
+   "title": "Stiles Switch BBQ in Cedar Park, TX. Texas Trinity Family Pack (feeds 8-10 people) $210",
+   "link": "https://www.reddit.com/r/BBQ/comments/1uveyme/stiles_switch_bbq_in_cedar_park_tx_texas_trinity/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "Ron Vaisbort",
+   "source": "Facebook",
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTV6uC8ppQnI44COJl_z5hvr6bDAWSn5_1BTDlV-3YW6Nxfc0Sn1_Q1fWjmA&usqp=CAI&s"
+   ],
+   "title": "Ok how is the line on Tuesdays for lunch at Stiles Switch BBQ in Austin? Think I have ruled out Franklins after last post",
+   "link": "https://www.facebook.com/groups/northtexasbbq/posts/27106301035716598/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "hamoni_usa",
+   "source": "Instagram",
+   "duration": "1:00",
+   "extensions": [
+    "1.9K+ likes "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3ClTHr4Wx2VM6bjZBygJeUDdMh2UP9C6gcuW_ea6LlN_DkR8R97LQr5bXPp4&usqp=CAI&s=10"
+   ],
+   "title": "\ud83d\udd25 The Ultimate Local BBQ Spot in Austin! \u3010Stiles Switch BBQ\u3011 If you want to experience real-deal Texas BBQ like a true local, this place needs to be on your radar! The legendary brisket and pork ribs are seriously elite\u2014so incredibly juicy and flavorful that I low-key wanted to keep this hidden gem to myself. \ud83e\udd2b On top of that, the whole venue gives off major cinematic vibes, making it the perfect backdrop for your meal. Trust me, you don\u2019t want to miss this! \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 \ud83c\udfe0\ufe0f Stiles Switch BBQ \ud83d\udccd 6610 N Lamar Blvd, Austin, TX 78757 \ud83d\udcd5 Premium Texas BBQ Plates & Sides (Prices vary) \u23f0\ufe0f Tue - Thu, Sun: 11:00 AM - 8:00 PM / Fri - Sat: 11:00 AM - 8:30 PM \ud83d\udca4 Closed on Mondays #austinfood #texasbbq #bbq #instafood",
+   "link": "https://www.instagram.com/reel/DZvz3XeNm2L/",
+   "date": "Jun 18, 2026"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Is stiles switch bbq worth it reddit",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Is+stiles+switch+bbq+worth+it+reddit&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhNEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Is+stiles+switch+bbq+worth+it+reddit"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ locations",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Stiles+Switch+BBQ+locations&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+locations"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ reviews",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Stiles+Switch+BBQ+reviews&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhOEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+reviews"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ Menu",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Stiles+Switch+BBQ+Menu&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhSEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+Menu"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ Menu with prices",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Stiles+Switch+BBQ+Menu+with+prices&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhREAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+Menu+with+prices"
+  },
+  {
+   "block_position": 1,
+   "query": "The Switch by Stiles Switch BBQ",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=The+Switch+by+Stiles+Switch+BBQ&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhQEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Switch+by+Stiles+Switch+BBQ"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ photos",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Stiles+Switch+BBQ+photos&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhPEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+photos"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ hours",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&hl=en&gl=us&q=Stiles+Switch+BBQ+hours&sa=X&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ1QJ6BAhMEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+hours"
+  }
+ ],
+ "discussions_and_forums": [
+  {
+   "title": "What's With The Stiles Switch Hype?",
+   "link": "https://www.google.com/goto?url=CAESjgEB6zswFaPtBA5fiIf6SddX92Gm4U_1NgcrcaQ8DVsrdXP9sHE2fT7QBPGfU8yppVLtbI7b35vt9ZF_D6c1Z_U5ub6Gn2oJem4sxLwAcijVlE-VTBvOVriMoUSsHAQaxv9D3b5uhgHq_t8y98zvktAFcDbF1O7H91CuFcdCTDb0KO0gOSFYs709KBQrY595",
+   "date": "4 years ago",
+   "extensions": [
+    "r/austinfood",
+    "40+ comments"
+   ],
+   "source": "Reddit",
+   "answers": [
+    {
+     "link": "https://www.google.com/goto?url=CAESjgEB6zswFaPtBA5fiIf6SddX92Gm4U_1NgcrcaQ8DVsrdXP9sHE2fT7QBPGfU8yppVLtbI7b35vt9ZF_D6c1Z_U5ub6Gn2oJem4sxLwAcijVlE-VTBvOVriMoUSsHAQaxv9D3b5uhgHq_t8y98zvktAFcDbF1O7H91CuFcdCTDb0KO0gOSFYs709KBQrY595"
+    }
+   ]
+  },
+  {
+   "title": "Stiles Switch BBQ review and menu items",
+   "link": "https://www.google.com/goto?url=CAESfgHrOzAViNNq8y_0xZ3GeejXswhhcX5nqxug9ocHyhXMYzDbPsWzwfVW8VLf6JeaG8xL5G3aeMunrAVsTQgyNJrv6O4HWuEoWryIooOdajbhMW45wOs9mlYMcfdz3aVPyvRgE9js9vojkEA9dnwc01ct48SfaNwNSqGyaKGpng",
+   "date": "6 months ago",
+   "extensions": [
+    "North Texas BBQ Addicts",
+    "10+ comments"
+   ],
+   "source": "Facebook",
+   "answers": [
+    {
+     "link": "https://www.google.com/goto?url=CAESfgHrOzAViNNq8y_0xZ3GeejXswhhcX5nqxug9ocHyhXMYzDbPsWzwfVW8VLf6JeaG8xL5G3aeMunrAVsTQgyNJrv6O4HWuEoWryIooOdajbhMW45wOs9mlYMcfdz3aVPyvRgE9js9vojkEA9dnwc01ct48SfaNwNSqGyaKGpng"
+    }
+   ]
+  },
+  {
+   "title": "Stiles Switch BBQ on North Lamar review",
+   "link": "https://www.google.com/goto?url=CAESfwHrOzAVTBLW7d4gzt4JBbF4pFvxvEimgebwtOx2A-h12VjVpzGM2IpRuLf2vvMv-lCDo92zFwPZZOjTTyKGTe3NLWR5mjnkVEnSOIztIYx4yba3GtsszgPNoYaBZVRMr6fZxYQHCeMHdqrJqmUVHIO3-a3jEbKS_SQSQBrbVKQ",
+   "date": "7 months ago",
+   "extensions": [
+    "Good Eats Austin",
+    "30+ comments"
+   ],
+   "source": "Facebook",
+   "answers": [
+    {
+     "link": "https://www.google.com/goto?url=CAESfwHrOzAVTBLW7d4gzt4JBbF4pFvxvEimgebwtOx2A-h12VjVpzGM2IpRuLf2vvMv-lCDo92zFwPZZOjTTyKGTe3NLWR5mjnkVEnSOIztIYx4yba3GtsszgPNoYaBZVRMr6fZxYQHCeMHdqrJqmUVHIO3-a3jEbKS_SQSQBrbVKQ"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=10&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8NMDegQISRAU",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=10&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAE",
+   "3": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=20&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAG",
+   "4": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=30&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAI",
+   "5": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=40&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAK",
+   "6": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=50&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAM",
+   "7": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=60&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAO",
+   "8": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=70&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAQ",
+   "9": "https://www.google.com/search?q=is+stiles+switch+bbq+worth+it&sca_esv=aeb6a8b850e5723c&hl=en&gl=us&ei=LAaYariyFMujj94PhOa5MA&start=80&sa=N&sstk=AS6-VmIMg4u4LJLNsEhHOX1IwY15YFsTqLrfg4rzqvy8VxYqtA8fAg4tjvkRos0S93eKF3MjSCMp__7HUUzahD-6XN00GKJgS0u7gQ&ved=2ahUKEwi4-Meh48-WAxXL0cMFHQRzDgYQ8tMDegQISRAS"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=is+stiles+switch+bbq+worth+it&start=80"
+  }
+ }
+}

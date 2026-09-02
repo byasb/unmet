@@ -1,0 +1,425 @@
+{
+ "search_metadata": {
+  "id": "6a98057c7bf2f9228b3a1591",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/F9O44ilGdb0B7aWjYNq3dnqL5Vlm2mfWe0KZP2zQwXE/6a98057c7bf2f9228b3a1591.json",
+  "markdown_endpoint": "https://serpapi.com/searches/F9O44ilGdb0B7aWjYNq3dnqL5Vlm2mfWe0KZP2zQwXE/6a98057c7bf2f9228b3a1591.md",
+  "created_at": "2026-09-02 11:16:12 UTC",
+  "processed_at": "2026-09-02 11:16:12 UTC",
+  "yelp_url": "https://www.yelp.com/search?find_desc=Micklethwait+Craft+Meats&find_loc=Austin%2C+TX%2C+USA",
+  "raw_html_file": "https://serpapi.com/searches/F9O44ilGdb0B7aWjYNq3dnqL5Vlm2mfWe0KZP2zQwXE/6a98057c7bf2f9228b3a1591.html",
+  "total_time_taken": 2.01
+ },
+ "search_parameters": {
+  "engine": "yelp",
+  "find_desc": "Micklethwait Craft Meats",
+  "find_loc": "Austin, TX, USA"
+ },
+ "filters": {
+  "price": [
+   {
+    "text": "$",
+    "value": "RestaurantsPriceRange2.1"
+   },
+   {
+    "text": "$$",
+    "value": "RestaurantsPriceRange2.2"
+   },
+   {
+    "text": "$$$",
+    "value": "RestaurantsPriceRange2.3"
+   },
+   {
+    "text": "$$$$",
+    "value": "RestaurantsPriceRange2.4"
+   }
+  ],
+  "category": [
+   {
+    "text": "Food Trucks",
+    "value": "foodtrucks"
+   },
+   {
+    "text": "BBQ & Barbecue",
+    "value": "bbq"
+   },
+   {
+    "text": "Tex-Mex",
+    "value": "tex-mex"
+   },
+   {
+    "text": "Food",
+    "value": "food"
+   }
+  ],
+  "distance": [
+   {
+    "text": "Within 2 miles",
+    "value": "g:-97.78329849243164,30.282936335784672,-97.73214340209961,30.327397491366572"
+   },
+   {
+    "text": "Bird's-eye View",
+    "value": "g:-97.86003112792969,30.21635515266855,-97.65541076660156,30.394199462058317"
+   },
+   {
+    "text": "Within 4 blocks",
+    "value": "g:-97.76091814041138,30.302372046570763,-97.75452375411987,30.307929692159156"
+   },
+   {
+    "text": "Within 1 mile",
+    "value": "g:-97.77050971984863,30.294053515036044,-97.74493217468262,30.316284093102404"
+   },
+   {
+    "text": "Within 5 miles",
+    "value": "g:-97.80887603759766,30.260549927069945,-97.7065658569336,30.349472368261814"
+   }
+  ]
+ },
+ "ads_results": [
+  {
+   "block_position": "top",
+   "place_ids": [
+    "NplrGF_5kZx5K67CgxqaKg",
+    "marufuku-ramen-austin"
+   ],
+   "title": "Marufuku Ramen",
+   "link": "https://www.yelp.com/adredir?ad_business_id=NplrGF_5kZx5K67CgxqaKg&amp;campaign_id=224090848&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fen.yelp.ch%2Fbiz%2Fmarufuku-ramen-austin&amp;request_id=31ad8b31046266c3&amp;signature=c563e43970faa51bd02011cca821cd0dbb6ccf3320c850ce7a776da1b5a51b0a&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=NplrGF_5kZx5K67CgxqaKg&start=0",
+   "categories": [
+    {
+     "title": "Ramen",
+     "link": "https://www.yelp.com/search?find_desc=Ramen&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 559,
+   "neighborhoods": "Austin",
+   "open_state": "Closed until 11:00",
+   "phone": "(512) 503-5003",
+   "snippet": "Visited Austin for Memorial Day weekend and came here for dinner Saturday night based on high reviews on Yelp. We were promptly greeted upon arrival\u2026",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/adredir?ad_business_id=NplrGF_5kZx5K67CgxqaKg&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fen.yelp.ch%2Fbiz%2Fmarufuku-ramen-austin%3Fshow_platform_modal%3DTrue&amp;request_id=31ad8b31046266c3&amp;signature=31aa62c5711214f92d526bdeb89461d288da9fe5f6afe42994e2b73b44c949e2&amp;slot=0"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/79VT4f8ji9BCTvVGpOrZ1w/ls.jpg"
+  },
+  {
+   "block_position": "bottom",
+   "place_ids": [
+    "DV92UfXz_Lzyl4qi1w5c-w",
+    "cedar-valley-hot-stuffed-pizza-shop-austin"
+   ],
+   "title": "Cedar Valley Hot Stuffed Pizza Shop",
+   "link": "https://www.yelp.com/adredir?ad_business_id=DV92UfXz_Lzyl4qi1w5c-w&amp;campaign_id=223983611&amp;click_origin=search_results&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fen.yelp.ch%2Fbiz%2Fcedar-valley-hot-stuffed-pizza-shop-austin&amp;request_id=31ad8b31046266c3&amp;signature=8860f536cfb7b90c4eefd28966a0d4f6e25ca69aeb9b438be5415e05ad93c342&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=DV92UfXz_Lzyl4qi1w5c-w&start=0",
+   "categories": [
+    {
+     "title": "Pizza",
+     "link": "https://www.yelp.com/search?find_desc=Pizza&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "rating": 5.0,
+   "reviews": 2,
+   "neighborhoods": "Austin",
+   "phone": "(512) 288-4243",
+   "snippet": "Cedar Valley Hot Stuffed Pizza",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/L73pmQhswXNxTqZJ3O7hwg/ls.jpg"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "place_ids": [
+    "sjgbSELDpzaabRe8bZwUbw",
+    "micklethwait-craft-meats-austin"
+   ],
+   "title": "Micklethwait Craft Meats",
+   "link": "https://www.yelp.com/biz/micklethwait-craft-meats-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=sjgbSELDpzaabRe8bZwUbw&start=0",
+   "categories": [
+    {
+     "title": "Food Trucks",
+     "link": "https://www.yelp.com/search?find_desc=Food+Trucks&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.5,
+   "reviews": 1200,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00 tomorrow",
+   "snippet": "Used sparingly, bread can be a nice complement for a good BBQ meal, and Micklethwait's is, bar none...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/zW2wAr58hy5M3qxC4rfh_w/ls.jpg"
+  },
+  {
+   "position": 2,
+   "place_ids": [
+    "YZs1gNSh_sN8JmN_nrpxeA",
+    "terry-blacks-barbecue-austin"
+   ],
+   "title": "Terry Black's Barbecue",
+   "link": "https://www.yelp.com/biz/terry-blacks-barbecue-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=YZs1gNSh_sN8JmN_nrpxeA&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Southern",
+     "link": "https://www.yelp.com/search?find_desc=Southern&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.5,
+   "reviews": 9100,
+   "neighborhoods": "Bouldin Creek",
+   "open_state": "Closed until 10:30",
+   "snippet": "NC has some fantastic BBQ spots of its own, but you can imagine my excitement knowing I'd be back in...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XT81AQCAwt2t_Rt_sbaKTg/ls.jpg"
+  },
+  {
+   "position": 3,
+   "place_ids": [
+    "EPkf96UcG2W3ttlQphWUGQ",
+    "la-barbecue-austin-3"
+   ],
+   "title": "la Barbecue",
+   "link": "https://www.yelp.com/biz/la-barbecue-austin-3?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=EPkf96UcG2W3ttlQphWUGQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.3,
+   "reviews": 3200,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00",
+   "snippet": "My family enjoys hunting for great Texas BBQ. We have completed the 2017 and 2021 TX Monthly Top 50...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Kbva2hytfmTfDeXsftHEOA/ls.jpg"
+  },
+  {
+   "position": 4,
+   "place_ids": [
+    "MGzro82Fi4LYvc86acoONQ",
+    "franklin-barbecue-austin"
+   ],
+   "title": "Franklin Barbecue",
+   "link": "https://www.yelp.com/biz/franklin-barbecue-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=MGzro82Fi4LYvc86acoONQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$$",
+   "rating": 4.5,
+   "reviews": 6500,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00",
+   "snippet": "Voted as one of America's best BBQ by many publications, Franklin BBQ also has the wait time that is...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/MsXhN-6ehWVBsykS3TP5ng/ls.jpg"
+  },
+  {
+   "position": 5,
+   "place_ids": [
+    "-zfm3zSoMNkLXyBZqseczw",
+    "interstellar-bbq-austin"
+   ],
+   "title": "Interstellar BBQ",
+   "link": "https://www.yelp.com/biz/interstellar-bbq-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=-zfm3zSoMNkLXyBZqseczw&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 883,
+   "neighborhoods": "Lake Creek Village",
+   "open_state": "Closed until 11:00",
+   "snippet": "Great by itself but also amazing with the house made bbq sauce. There was two bbq sauce.",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/GYFw3UqbfxwOgRRDL3EJDw/ls.jpg"
+  },
+  {
+   "position": 6,
+   "place_ids": [
+    "zDVjN3dC9EfQno21m3O8Pg",
+    "stiles-switch-bbq-and-brew-austin"
+   ],
+   "title": "Stiles Switch BBQ & Brew",
+   "link": "https://www.yelp.com/biz/stiles-switch-bbq-and-brew-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=zDVjN3dC9EfQno21m3O8Pg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Chicken Wings",
+     "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.1,
+   "reviews": 2200,
+   "neighborhoods": "Brentwood",
+   "open_state": "Closed until 11:00",
+   "snippet": "He liked the BBQ flavor and enjoyed the Mac &amp; Cheese. I tried the Mustard and the Balsamic BBQ...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/zDVjN3dC9EfQno21m3O8Pg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/SOB12FqU1NyAiLlEkvJNPw/ls.jpg"
+  },
+  {
+   "position": 7,
+   "place_ids": [
+    "k8KHoiDklnXDtXvLyxbd-w",
+    "blacks-barbecue-austin-austin"
+   ],
+   "title": "Black's Barbecue Austin",
+   "link": "https://www.yelp.com/biz/blacks-barbecue-austin-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=k8KHoiDklnXDtXvLyxbd-w&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.0,
+   "reviews": 1000,
+   "neighborhoods": "University of Texas",
+   "open_state": "Closed until 11:00",
+   "snippet": "There are certain criteria that absolutely define what Central Texas BBQ tastes and looks like.",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/k8KHoiDklnXDtXvLyxbd-w?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/0MSF6NxW2Anx4n4W8DCLdw/ls.jpg"
+  },
+  {
+   "position": 8,
+   "place_ids": [
+    "mWDRxwPt8HgOdrNyckv99A",
+    "rollin-smoke-bbq-austin"
+   ],
+   "title": "Rollin Smoke BBQ",
+   "link": "https://www.yelp.com/biz/rollin-smoke-bbq-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=mWDRxwPt8HgOdrNyckv99A&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Food Trucks",
+     "link": "https://www.yelp.com/search?find_desc=Food+Trucks&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.5,
+   "reviews": 436,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until Noon",
+   "snippet": "The Main Event: Pitmaster Excellence The true test of a Texas BBQ joint is the holy trinity, and...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/mWDRxwPt8HgOdrNyckv99A?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/iyMU5cHYgp_wxeSp_ZvVNw/ls.jpg"
+  },
+  {
+   "position": 9,
+   "place_ids": [
+    "cxQEW0JaFDqOqkavm4zKXg",
+    "browns-bar-b-que-austin"
+   ],
+   "title": "Brown's Bar-B-Que",
+   "link": "https://www.yelp.com/biz/browns-bar-b-que-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=cxQEW0JaFDqOqkavm4zKXg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Food Trucks",
+     "link": "https://www.yelp.com/search?find_desc=Food+Trucks&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.7,
+   "reviews": 484,
+   "neighborhoods": "78704 (South Austin)",
+   "open_state": "Closed until 11:00",
+   "snippet": "Good bbq, friendly service! My husband and I are eating a lot of bbq while we're both doing a keto...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/cxQEW0JaFDqOqkavm4zKXg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/zY2plspN5agyVIRHA9mPwQ/ls.jpg"
+  },
+  {
+   "position": 10,
+   "place_ids": [
+    "tG7C9aZpYmj0-Z8hZC-0cg",
+    "stack-city-bbq-and-beer-austin"
+   ],
+   "title": "Stack City BBQ & Beer",
+   "link": "https://www.yelp.com/biz/stack-city-bbq-and-beer-austin?osq=Micklethwait+Craft+Meats",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=tG7C9aZpYmj0-Z8hZC-0cg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Beer Bars",
+     "link": "https://www.yelp.com/search?find_desc=Beer+Bars&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.3,
+   "reviews": 1400,
+   "neighborhoods": "Austin",
+   "open_state": "Closed until 11:00",
+   "snippet": "Disclaimer I am not a BBQ snob but when I have a \"cheat\" day that food best be good!",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/tG7C9aZpYmj0-Z8hZC-0cg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/5bJKctF8YmvYu-RAqDMjWg/ls.jpg"
+  }
+ ],
+ "pagination": {
+  "next": "https://en.yelp.com.hk/search?find_desc=Micklethwait+Craft+Meats&find_loc=Austin%2C+TX%2C+USA&start=10"
+ },
+ "serpapi_pagination": {
+  "next_link": "https://serpapi.com/search.json?engine=yelp&find_desc=Micklethwait+Craft+Meats&find_loc=Austin%2C+TX%2C+USA&start=10",
+  "next": "https://serpapi.com/search.json?engine=yelp&find_desc=Micklethwait+Craft+Meats&find_loc=Austin%2C+TX%2C+USA&start=10"
+ }
+}

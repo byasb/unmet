@@ -1,0 +1,272 @@
+{
+ "search_metadata": {
+  "id": "6a9805d7c29c3d38c3b074e8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/osq_c3MzAfjfWcOE_1LDgkjokrXkxiNkhFnbLaTwpag/6a9805d7c29c3d38c3b074e8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/osq_c3MzAfjfWcOE_1LDgkjokrXkxiNkhFnbLaTwpag/6a9805d7c29c3d38c3b074e8.md",
+  "created_at": "2026-09-02 11:17:43 UTC",
+  "processed_at": "2026-09-02 11:17:43 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644ca48760d6971:0xa5521d488ea5860d!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/osq_c3MzAfjfWcOE_1LDgkjokrXkxiNkhFnbLaTwpag/6a9805d7c29c3d38c3b074e8.html",
+  "prettify_html_file": "https://serpapi.com/searches/osq_c3MzAfjfWcOE_1LDgkjokrXkxiNkhFnbLaTwpag/6a9805d7c29c3d38c3b074e8.prettify",
+  "total_time_taken": 0.84
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644ca48760d6971:0xa5521d488ea5860d",
+  "hl": "en",
+  "sort_by": "qualityScore"
+ },
+ "place_info": {
+  "title": "Stiles Switch BBQ",
+  "address": "6610 N Lamar Blvd, Austin, TX 78752",
+  "rating": 4.6,
+  "reviews": 5822,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 110,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "corn casserole",
+   "mentions": 155,
+   "id": "Gz7R5f49uKk"
+  },
+  {
+   "keyword": "plenty of seating",
+   "mentions": 5,
+   "id": "BFlOp_P68ow"
+  },
+  {
+   "keyword": "brussel sprouts",
+   "mentions": 165,
+   "id": "AQ46EgX7FGk"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 519,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 116,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "prime rib",
+   "mentions": 55,
+   "id": "GAzyJGYn518"
+  },
+  {
+   "keyword": "frito pie",
+   "mentions": 44,
+   "id": "AJ1Y7e6nLWM"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 102,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "jalapeno cheddar sausage",
+   "mentions": 26,
+   "id": "OasyD1EAEyc"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tka1VVaGpUVlphVTIxa2QzVjZRWEpIYURCM2FVRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOkdkUUhjTVZaU21kd3V6QXJHaDB3aUE%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-18T01:49:09Z",
+   "iso_date_of_last_edit": "2026-07-18T01:49:09Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMJBlZt4YPtZtPtBhnP-SCKwHsyXR2jNWsNyS8G5pMidfVMoLa254hB4DOuTKxKE0SU6-7PZrAmoK0S1PTCaSuFC35V0YlEkc1n6N0vW-o2Tqy4mMfdZHG4RNsdIanIlCC8VIDTJagOIeWb=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOAVVBZlQTN8_HTPeIsuTqPCB9kyp1jxVFZho-xDW1W_p0hUEWMvWeFmHW4aCWl1dClCYzsFLq_LHyNlNUcRTWyjo_FD7YWJVGzuIKYr-Ideoy2eHTvXJynM6hyiswQ8SjEEYY-WHjFrhi7=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMhRyBUV3gSDhtt3NEQ_uhkh_AKbzWgn97ctZwwN2AM_LiCIKIvDRceMhE8XeSHRC5UZUgiveOdSwpqDbsRAa-CBZiF1gOLrQ-SFvh3M-tP9ouW3W6tP3uBZgKO4n77aDMXa1skJt9nzLkq=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPuaStfNvHk_3njPzVqjsh9oDnps_jPtduX5FudLPEhZO90WD4VuEmxcykn-2mR0VkEb4PMohY5yr60rkXa0QRGkwPnY6mIy_nOerJvGJgVDoviw8JsW-OPM1Mb_TB2tjSgtdBJAB3blOh7=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOfzJzgChMpoOaNHOBucaMkKTMvy6_TXVbbg47drkBuggMXHjkh8r_zhrDDZgqXYIarWzOcWcc2wSRBT0v1m0-mrFt2aqnPJcEpPSop58StglBIqRQUW0K2bAo87APprh89zdVIBT8om5ee=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tka1VVaGpUVlphVTIxa2QzVjZRWEpIYURCM2FVRRAB",
+   "user": {
+    "name": "Michael Barton",
+    "link": "https://www.google.com/maps/contrib/110063207238250789189?hl=en-US",
+    "contributor_id": "110063207238250789189",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVY_f0SsmBebSzTk4iRa30Rm9yj3OfHp9LWA-M_30-k5NMY30djKg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 1830,
+    "photos": 9783
+   },
+   "snippet": "As far as upper level BBQ goes, the meats here are mid. However, the sides are fantastic! If you compare Stiles Switch to general BBQ then the meat cuts are wonderful and the sides are absolutely phenomenal.\n\nThe classic red meats here are lower tier 2, upper tier 3. The brisket I had was half dry, half fatty with no consistency. The ribs were good enough but I couldn't tell you anything in depth about their flavors. The turkey was best because it was juicy and very well marinade. The sides, especially the corn casserole, were great and I'd eat them any time. Weirdly, the house mustard was by far the best thing and is nearly drinkable.",
+   "extracted_snippet": {
+    "original": "As far as upper level BBQ goes, the meats here are mid. However, the sides are fantastic! If you compare Stiles Switch to general BBQ then the meat cuts are wonderful and the sides are absolutely phenomenal.\n\nThe classic red meats here are lower tier 2, upper tier 3. The brisket I had was half dry, half fatty with no consistency. The ribs were good enough but I couldn't tell you anything in depth about their flavors. The turkey was best because it was juicy and very well marinade. The sides, especially the corn casserole, were great and I'd eat them any time. Weirdly, the house mustard was by far the best thing and is nearly drinkable."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "wait_time": "10-30 min",
+    "vegetarian_options": "Some of the sides are vegetarian",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free parking lot"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21vMGNtbEhNMXBKTjJGVVIwcFBabUpMU0Roa1JGRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOmo0cmlHM1pJN2FUR0pPZmJLSDhkRFE%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-21T17:26:55Z",
+   "iso_date_of_last_edit": "2026-04-21T17:26:55Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNj7RUHkgBXDjDRyiMFxReF8RScimRXQFi17xrXmVjTosohQxDX-K6sVCSLUUEtXE5SEXrOdjrpW9Nj_gzt-L0_3ot4JlVFH_WkjYnSkwCLuTsVadnC5foLRjYXPT8ZTHWQ05dpRD21tL86=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP68SOqQEvpz3yeTp9-j9B3i-DKY7X1n5P4v1hwEizlsO0IPni-UTUJonxeMxOtFSttpd9K7XzwrJqTHNqCw1Kqagh7MbToO0ePQWfV6C-Ok4sQt9c8iDnskg-fSOQbn5NKRGI4jG6Qt6O_=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN1An_Bu8BMnKW2Qi2XNyVe8EndsdVW-Red8dxPDJ5fnNOcvvYW9KTf2tJ99SULbaS_bOrLUWhRvSMBjQqcndgEN45D4suADGD1sQH6lQiSTP6rnMAt3YFR4T1p4pIDyS7Qvy3E5T8yL152=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM6PXRdgus-sn5u0KdZoIgJJhIWHxBs3Kc7GmdIf_nr11KtwyhpVAlL6hl6OtBWXevpHVwhMNar3F8ntlnG56njBgeFNaXHL3ymPYP4-UpYAoG4zXg6vX6NnOxMgDAoUWsVgzMuv_VMRgiz=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmODJv1ekzvk40VfEMa3BIwn2Gg-yDTSuxJOgVDUXAzZCJeqgNnk60oFF5L1VYlgiuGJB9laMHExtxwm3YdK1rk6wtY-CNhv1FQmJ6rC2A1BrT9MMejXpMe0G_YPDLsZl48IxyeFurHuW-s=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMGNtbEhNMXBKTjJGVVIwcFBabUpMU0Roa1JGRRAB",
+   "user": {
+    "name": "Neal Bernard",
+    "link": "https://www.google.com/maps/contrib/101508036766820936964?hl=en-US",
+    "contributor_id": "101508036766820936964",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWt-tLBf_PGOP323YyAARSdfEIOjyAJin3SAGkX2SQUCr1ge0y0=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 978,
+    "photos": 2706
+   },
+   "snippet": "The pork ribs were really good along with the moist brisket. The guys at the counter serving were very helpful and even gave some of my guess who were from out of town samples. I enjoyed the coleslaw and the tater tot casserole. It is a little pricey but worth it.",
+   "extracted_snippet": {
+    "original": "The pork ribs were really good along with the moist brisket. The guys at the counter serving were very helpful and even gave some of my guess who were from out of town samples. I enjoyed the coleslaw and the tater tot casserole. It is a little pricey but worth it."
+   },
+   "details": {
+    "price_per_person": "$100+",
+    "food": 4,
+    "service": 4,
+    "atmosphere": 4,
+    "recommended_dishes": "Brisket and Pork Ribs"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wbWJYZDBhSFpSTW5KU1QyNXdNak41ZG1Kc1NGRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOmpmbXd0aHZRMnJST25wMjN5dmJsSFE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-06T19:15:44Z",
+   "iso_date_of_last_edit": "2026-07-06T19:15:44Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN3Kr8TNN0KwK8jHHVSjq4nqeOuZy8s8sHq3-jTC6xbhFDwkBZuUCJQI3kRu5hE2XFJZ6i2VcEANKz4g6Ve0VnmN7zRzOscv3JS57BPFqymGe7kK1T0_1X7ej262-U5ubfq2zbv7_pIe0-v=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmONfznqCulgaPj00NUA3nIEiHyWzru8bB1PdQgJ-dcSia1TSjdizB4RPsvM_NP68ojaEmI5ACK3Tue3ez6DlwEeQS0udygiaErnKSUqUsksM2M7QqEIpBxujuAui-ZO52GKBbAPhqvW0br_=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNnbGhziCGha_3zVUZgLSgyVvG2OXkyo0whlFnKt1AAIBEq-Qwb-2qke1jwkOVjRC9nQaMBepBhlo3eWMaO5yE3JUrJfJizcu2aKEAL5gk_VZ3nJrDfQQS4J5g_4pzhy091dzkWP2KymdRK=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMiXAY3DpbzKjaFteMhT-kHwsH2fDytURsF1mGW0jmcckfHHJtjDAQR8OqPr0zqaagxywyzSUvvynM25_qjYAAq7fTKZG7KtdqtDvue0nhZpEjNkYX3Wz01o-vitCmyqhJ5XY4yfHGx-UjN=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbWJYZDBhSFpSTW5KU1QyNXdNak41ZG1Kc1NGRRAB",
+   "user": {
+    "name": "Rosemary McKnight",
+    "link": "https://www.google.com/maps/contrib/105701947613703466922?hl=en-US",
+    "contributor_id": "105701947613703466922",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUO6kgWVEEH_LiOVGbKyXmP6lR43TIYaU6i76UkbCQzo9NSOgrj=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 893,
+    "photos": 2450
+   },
+   "snippet": "The food is amazing! I had the Smokehouse Club sandwich and Garlic Parmesan Cheese smokey wings with Ranch and celery sticks. Perfect for a group of any size.",
+   "extracted_snippet": {
+    "original": "The food is amazing! I had the Smokehouse Club sandwich and Garlic Parmesan Cheese smokey wings with Ranch and celery sticks. Perfect for a group of any size."
+   },
+   "details": {
+    "price_per_person": "$30\u201340",
+    "group_size": "Suitable for all group sizes",
+    "wait_time": "No wait",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xNFdHcGhjMFJsUzFGbVkxVTJaaTFRZDFCTE1WRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOm14WGphc0RlS1FmY1U2Zi1Qd1BLMVE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-31T17:44:09Z",
+   "iso_date_of_last_edit": "2026-07-31T17:44:09Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNXfWSnMGnANY1ky3uR2ga7eoaO9pmVEeywkV0EDCRXiChCCnoH1pfBIlhUf3-FL0Vnay4AaBBOqP1Saq6fEItNTwMlWt4K1GKXpcgVmozGhgDLoiXuphF0JaOTvUo3g168JKUWjZfNm40=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOf4avk2TdfIK53yu4WboWl4sWI7Mu8rxFb3cSx4K4OqDq1UNlvE_uFi_4tg1O0kOt7I165pD_FHFmCSkq_h4HSuff3g2z3hLf2tCRr7Eq39uloNFMz2iIMwTu83FpF0xFKuB2aryKvGbYV=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOtnXqrxjZfjt-_2E3Adca8n5DXcTT8_uczKnSzGn1MtH8RQvpclQg_IszIGTBxqR77Y7XK-2P2ph1D3mBJlAZ7SjfKy4fm_TdgLTbpHrMYVunQp70lKhsxPUK22BGiq2iUts22lyo4680d=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNFdHcGhjMFJsUzFGbVkxVTJaaTFRZDFCTE1WRRAB",
+   "user": {
+    "name": "Matt O'Dwyer",
+    "link": "https://www.google.com/maps/contrib/115871065129899737235?hl=en-US",
+    "contributor_id": "115871065129899737235",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWkW3UsEnU2vSKqI4aJezzmNoIHfTCIxklMmzfcdB0c3j9l1-7Ccg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 147,
+    "photos": 133
+   },
+   "snippet": "Really excellent everything. All the food was fantastic, but the star of the show for me were the serrano glazed burnt ends. Just melt in your mouth delicious! Service was friendly and fast. The wait while we were here was never more than 5-10 minutes for food. Really excellent.",
+   "extracted_snippet": {
+    "original": "Really excellent everything. All the food was fantastic, but the star of the show for me were the serrano glazed burnt ends. Just melt in your mouth delicious! Service was friendly and fast. The wait while we were here was never more than 5-10 minutes for food. Really excellent."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "seating_type": "Indoor dining area, Outdoor patio / terrace, Booth seating",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free parking lot"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sQlprNUJlbU5DYm1wclVXRkpObmd5YVhWSGEwRRAB!2m1!1s0x0:0xa5521d488ea5860d!3m1!1s2@1:CAIQACodChtycF9oOmlBZk5BemNCbmprUWFJNngyaXVHa0E%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-04T00:18:55Z",
+   "iso_date_of_last_edit": "2026-06-04T00:23:48Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN6AQYDqfR_zIMI8bky_sraumZQCClNz4k1on4ibo9TO2ChHLeJ-zPVvkWjHyEw-t1w1xOAjHoJMVObdT6BnyN0JX5aA_V5hFTmG9ZmZWJMYL17aYz6A602p5QH73oH-d9Gb0mmVLeHAgW-=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sQlprNUJlbU5DYm1wclVXRkpObmd5YVhWSGEwRRAB",
+   "user": {
+    "name": "Hye Na Lee",
+    "link": "https://www.google.com/maps/contrib/116475330296478052750?hl=en-US",
+    "contributor_id": "116475330296478052750",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX7uvLLMrU9cNHycNI2FT1lO6nruNU0jLuajdKuQKE6xgsQMhdWfA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 29,
+    "photos": 34
+   },
+   "snippet": "I went there after being recommended by a local, and it was more delicious than I expected. The restaurant was big, and I liked beef much better than pork. It was always hard to eat because the meat was dry and dry when I ate elsewhere, but the moistness and tenderness were excellent. The sauce is delicious and the price is not cheap, but I'm satisfied.",
+   "extracted_snippet": {
+    "original": "I went there after being recommended by a local, and it was more delicious than I expected. The restaurant was big, and I liked beef much better than pork. It was always hard to eat because the meat was dry and dry when I ate elsewhere, but the moistness and tenderness were excellent. The sauce is delicious and the price is not cheap, but I'm satisfied."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$40\u201350",
+    "group_size": "Suitable for all group sizes",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644ca48760d6971%3A0xa5521d488ea5860d&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LACbS____EhB8vNo1YwEnjvRN3hkAAAAAGgn92PUCYY5jwUwYACIA&sort_by=qualityScore",
+  "next_page_token": "CjEIARIpCgoAP7_LACbS____EhB8vNo1YwEnjvRN3hkAAAAAGgn92PUCYY5jwUwYACIA"
+ }
+}

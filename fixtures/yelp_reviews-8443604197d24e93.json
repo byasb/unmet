@@ -1,0 +1,1778 @@
+{
+ "search_metadata": {
+  "id": "6a98056bf607a99e76d256f9",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/6A62EgaAMQX5BkHO63Zm4TUcAHzOrcEiM0wwEI6VrOA/6a98056bf607a99e76d256f9.json",
+  "markdown_endpoint": "https://serpapi.com/searches/6A62EgaAMQX5BkHO63Zm4TUcAHzOrcEiM0wwEI6VrOA/6a98056bf607a99e76d256f9.md",
+  "created_at": "2026-09-02 11:15:55 UTC",
+  "processed_at": "2026-09-02 11:15:55 UTC",
+  "yelp_reviews_url": "https://www.yelp.com/biz/zDVjN3dC9EfQno21m3O8Pg",
+  "raw_html_file": "https://serpapi.com/searches/6A62EgaAMQX5BkHO63Zm4TUcAHzOrcEiM0wwEI6VrOA/6a98056bf607a99e76d256f9.html",
+  "total_time_taken": 1.74
+ },
+ "search_parameters": {
+  "engine": "yelp_reviews",
+  "start": 0,
+  "num": "49",
+  "place_id": "zDVjN3dC9EfQno21m3O8Pg"
+ },
+ "search_information": {
+  "total_results": 2158,
+  "business": "Stiles Switch BBQ & Brew"
+ },
+ "review_languages": [
+  {
+   "hl": "en",
+   "count": 2158
+  },
+  {
+   "hl": "es",
+   "count": 2
+  },
+  {
+   "hl": "de",
+   "count": 1
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "user": {
+    "name": "Melissa W.",
+    "user_id": "LLOy3bfpKinBs9kh4mcVaQ",
+    "link": "https://www.yelp.com/user_details?userid=LLOy3bfpKinBs9kh4mcVaQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4PGuOjRalI6Uor6VzQ6Adg/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 5,
+    "photos": 434,
+    "reviews": 251,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I was a vegetarian for many years, and only started eating meat again recently. Despite the fact that I have lived in the neighborhood for 15 years, this was my first visit to Stiles Switch. I know, I know. I have no idea what I was waiting for. It is delicious!\n\nWhile everything we tried was good, my favorite the brussels sprouts. We also had turkey breast and brisket, both of which were good. \n\nThey have a nice selection of beer as well as Austin Eastciders cider. There is both indoor and outdoor seating, although it's a little too warm for anyone to be sitting outside the evening we were there.\n\nThe staff was friendly and did a great job of checking on us. The restaurant is clean and organized. I will definitely be back!",
+    "language": "en"
+   },
+   "date": "2026-08-06T18:40:20Z",
+   "rating": 5,
+   "tags": [
+    "4 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZupUgMsDEEegyainlVuQLg/o.jpg",
+     "caption": "Dining area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y8PDyRdxkdpHbvJTe644MQ/o.jpg",
+     "caption": "1 Meat Plate"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Z9lc3RUPWwXsKjtrGPmv1g/o.jpg",
+     "caption": "Music legends"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Xd0a_HPpA429na4kg04l5g/o.jpg",
+     "caption": "Pit crew"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 2,
+   "user": {
+    "name": "Kobe H.",
+    "user_id": "VvPcKqurW50QeJzXCNE8ow",
+    "link": "https://www.yelp.com/user_details?userid=VvPcKqurW50QeJzXCNE8ow",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/I1OizW2Y1SWDDMWscERVzg/180s.jpg",
+    "address": "Seattle, WA",
+    "friends": 0,
+    "photos": 47,
+    "reviews": 15
+   },
+   "comment": {
+    "text": "Looks great! Flavor is solid, nothing super special I would say though. Coming from Seattle, I know my taste buds are a little bougie so I am probably biased but never the less. \n\nThe pricing seemed a bit much? $30 for 2 small slabs of meat and a tiny helping of the \" burnt ends \" which had no meat... and only fatty end pieces lol... not to mention the guy at the counter serving it didnt have the best attitude with us - I would have to strongly guess he gave us the bad cuts on purpose. They should drop the sides quantity or amount to drop the pricing.. Maybe we looked like out of towners and got down played but I wouldnt come here again unless for the sandwich.",
+    "language": "en"
+   },
+   "date": "2026-08-11T19:37:29Z",
+   "rating": 2,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sKMH1s--Xj2LOuUgT_31OQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 3,
+   "user": {
+    "name": "Bruce M.",
+    "user_id": "M42RCJIr3WIi7umRpDg2kA",
+    "link": "https://www.yelp.com/user_details?userid=M42RCJIr3WIi7umRpDg2kA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/K_3AHL94y48-N2CXefzA5Q/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 14,
+    "photos": 561,
+    "reviews": 313,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We rode our bikes to Stiles switch for dinner. It is the first time that I had been there in quite a while, and it was delicious. We had turkey breast and brisket, and I liked the brisket a bit better.  \n\nThey have a good selection of sides, and my girlfriend loved the brussels sprouts. They also have a very good selection of desserts. I had the chocolate cake, which was delicious.\n\nIn addition to soft drinks, they serve beer, cider, seltzer, and canned wine. They have a nice indoor seating area as well as an outdoor patio when it is not summer in Texas.\n\nThe prices are fair and the food came out quickly. The staff was friendly and the restaurant was very clean.",
+    "language": "en"
+   },
+   "date": "2026-08-06T00:56:17Z",
+   "rating": 5,
+   "tags": [
+    "3 photos",
+    "2 check-ins"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XkitcW2HE-eW9nq9OID1Og/o.jpg",
+     "caption": "Brisket plate with Brussel sprouts.   they were my girlfriend's fav"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CTw4oUcPQJxOpNtvUXYgiw/o.jpg",
+     "caption": "Inside seating area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0KjxNkX-kYnP2w_c6wjBcw/o.jpg",
+     "caption": "Drink cooler"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 4,
+   "user": {
+    "name": "Sherrill J.",
+    "user_id": "BVx7fw-HHj9AMIf9Tr5MIg",
+    "link": "https://www.yelp.com/user_details?userid=BVx7fw-HHj9AMIf9Tr5MIg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/wHfUvzvkHlEvaEpTL5UHzQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 15,
+    "photos": 590,
+    "reviews": 194,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I had a beer after ordering a French Dip with Au Jus and fries. Very tender and flavorful. Counter service was great. Good location and enjoyable environment. Brought home a half pound of Smoked Turkey and a Cheddar Jalape\u00f1o Sausage (no photos). Both of the to go orders are awesome. The French Dip was great.",
+    "language": "en"
+   },
+   "date": "2026-08-25T21:41:54Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TgJrqmba7LHplwEQmlsj1g/o.jpg",
+     "caption": "French dip with fries and Au jus"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S0p-u5UJUAUqbZeHvtFVsg/o.jpg",
+     "caption": "Fresh draft beer"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 5,
+   "user": {
+    "name": "Darren S.",
+    "user_id": "kGSl_YFiSQzJ6Fs_zlhusw",
+    "link": "https://www.yelp.com/user_details?userid=kGSl_YFiSQzJ6Fs_zlhusw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ap-qam68alrz6jJg1X6FWw/180s.jpg",
+    "address": "Glen Rock, NJ",
+    "friends": 43,
+    "photos": 718,
+    "reviews": 168,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "If you only had to order 1 thing at Stiles Switch: IT'S THE OAK SMOKED CHICKEN WINGS. For the sauce, you only live once --- try the Alabama White Sauce.\n\nListen, I've been on a BBQ Crawl throughout Austin, and only came to Stiles Switch for the wings, but now I regret not trying more. The wings were smoked to perfection, had a slight crunch from the flash fry --- and let's talk about that sauce. THAT SAUCE WAS AMAZING. It's odd seeing white sauce-coded wings, but after a while you get used to it.\n\nIt's served with a side of ranch, but honestly it's unnecessary. The white sauce has just enough creaminess, with a slight tang that is addicting. If I could repeat any food from this trip, these wings and the migas tacos from Veracruz would be my top contenders.\n\nAlso --- if you're lucky --- they might sneak in an additional wing or two intro your order. ;). Thanks Stiles Switch BBQ & Brew for this surprising dish!",
+    "language": "en"
+   },
+   "date": "2026-08-03T18:45:07Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vWk3qLlr_i4GEyJ0nZ4ZJg/o.jpg",
+     "caption": "Inside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OV_PQg51QMov_n9aXVT0ew/o.jpg",
+     "caption": "Oak Smoked Chicken Wings"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 6,
+   "user": {
+    "name": "Michael B.",
+    "user_id": "0F1zRJXKhWm1YO5QvWMgAA",
+    "link": "https://www.yelp.com/user_details?userid=0F1zRJXKhWm1YO5QvWMgAA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GMvFir2Rhxx-YyZ5M_HmlA/180s.jpg",
+    "address": "San Antonio, TX",
+    "friends": 28,
+    "photos": 3471,
+    "reviews": 646,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "As far as upper level BBQ goes, the meats here are mid. However, the sides are fantastic! If you compare Stiles Switch to general BBQ then the meat cuts are wonderful and the sides are absolutely phenomenal. \n\nThe classic red meats here are lower tier 2, upper tier 3. The brisket I had was half dry, half fatty with no consistency. The ribs were good enough but I couldn't tell you anything in depth about their flavors. The turkey was best because it was juicy and very well marinade. The sides, especially the corn casserole, were great and I'd eat them any time. Weirdly, the house mustard was by far the best thing and is nearly drinkable.",
+    "language": "en"
+   },
+   "date": "2026-07-18T01:50:06Z",
+   "rating": 3,
+   "tags": [
+    "6 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0sU0iyqbG7vsoss1bWweNQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kt5pN1vkyM2PV8LnMi0KaA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/aXxz5c1clvr-Eh-T2PM0jQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5m8ZQnQT-bOSUXScYvCebg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/okWjukLbeJPhxZakkXTFAQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Kg5mClblmWC4keQe3fgQ2A/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 7,
+   "user": {
+    "name": "Christa C.",
+    "user_id": "aolL6JktUdLoiKO5lr4t4A",
+    "link": "https://www.yelp.com/user_details?userid=aolL6JktUdLoiKO5lr4t4A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/urt6MdgHYiwXQvKhxHmdPQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 4,
+    "photos": 205,
+    "reviews": 113,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Finally had a chance to try out this bbq spot. It is off N Lamar with plenty of parking space. We came on a late Saturday afternoon and there was still plenty of food available. While the food was good, it wasn't my favorite bbq spot in austin. We got the brisket, beef ribs, tot casserole and Brussels sprouts. The Brussels sprouts were probably the most flavorful and our favorite.",
+    "language": "en"
+   },
+   "date": "2026-08-05T17:21:30Z",
+   "rating": 3,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7V-PM5O4_i1fI85xsgfcQA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4mjL_OhWT-Zp4mR_BkSesg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 8,
+   "user": {
+    "name": "Amy G.",
+    "user_id": "VMuvh0otnR-YOz2abRl2tw",
+    "link": "https://www.yelp.com/user_details?userid=VMuvh0otnR-YOz2abRl2tw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SsmBwArUt-O1lUk8MWfLbw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 461,
+    "photos": 1061,
+    "reviews": 326,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I still love Stiles Switch but skip the wings next time you're there! I decided to try something different, and ordered the garlic parmesan wings. What I got was a plate of grease, garlic, and tough chicken skin with a little bit of meat underneath. Fortunately the sides of creamed corn and tater tot casserole were delicious and completely made up for disappointing meat. My husband and friend liked their brisket. We also tried the special sausage of the month - beef chimichurri sausage. It pretty much tasted like sausage. \nWe ate outside so we could have a decent conversation but once some other guests came out and added to the noise of the music from the speakers, it was pretty loud out there too. \nOverall, the meal was delicious and convenient, so I'd still call it a win (with a lesson.)",
+    "language": "en"
+   },
+   "date": "2026-05-28T19:21:52Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 9,
+   "user": {
+    "name": "Kenneth B.",
+    "user_id": "PBVRRQ7booskJTrsRRi0Lg",
+    "link": "https://www.yelp.com/user_details?userid=PBVRRQ7booskJTrsRRi0Lg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/S3Pzh12NBYCEemBYwmtXXw/180s.jpg",
+    "address": "Goliad, TX",
+    "friends": 32,
+    "photos": 206,
+    "reviews": 94,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We are on a tour of top 50 Texas BBQ restaurants in the Austin area this week and I have waited until after the last of the 3 we visited to begin writing my reviews. I'm starting here because of the food and the fact that this is a local favorite. \nEverything here is top notch, from the fact that there isn't a line to wait in for more than a few minutes, the counter service with your meats cut in front of you and ample seating areas both inside and out. \nThe moist brisket we had here was the star attraction and doesn't need any sauce as it was spiced perfectly with excellent bark and of course fork tender. Although I usually don't like pork ribs that are sauced, these were cooked perfectly with a \"bite off the bone\" scrumptious flavor. \nThe pork belly bites were delicious with a chimi churri sauce that accentuated the taste. Their sausage is also very tasty. \nIf you want Texas Monthly top 50 BBQ without the long lines this is the place for you. We will be back.",
+    "language": "en"
+   },
+   "date": "2026-07-26T20:05:56Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CHBkobKadhRYF898vTs6RA/o.jpg",
+     "caption": "Tater tot casserole and onions and pickles"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lu_HNtilPy6ml-owlLNXMA/o.jpg",
+     "caption": "Dining area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FOCV0AutgY7RTbakoB3JOg/o.jpg",
+     "caption": "Order counter and menu board"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VeyeHteXRFtNuvuZDYoNSA/o.jpg",
+     "caption": "Brisket, sausage, and pork ribs"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 10,
+   "user": {
+    "name": "Raquel M.",
+    "user_id": "dPzjgTt1PEOsUrHgqIM12Q",
+    "link": "https://www.yelp.com/user_details?userid=dPzjgTt1PEOsUrHgqIM12Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7bbuZj4IQ_u73G1wAu5DKA/180s.jpg",
+    "address": "Dallas, TX",
+    "friends": 3,
+    "photos": 500,
+    "reviews": 174,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This place was so delicious! We shared a 3 meat plate & a 2 meat plate along with a hot dog. The smoked turkey was awesome along with the regular sausage. The brisket was good, the pulled pork needed seasoning but was very moist, the ribs were also good & flavorful. Loved the tater tot casserole & Mac & cheese. The Cole slaw needed seasoning. But overall I was very pleased with everything & adding a little bit of salt to something fixed it right up. The staff was very friendly & I didn't feel rushed. They also cleaned up & had tables available very quickly.",
+    "language": "en"
+   },
+   "date": "2026-07-06T17:28:57Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ycoq-r0VTPtG_Nbv8BlwwQ/o.jpg",
+     "caption": "3 meat plate"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LIUuTDTuAbAu3XmlRTenCw/o.jpg",
+     "caption": "4th of July hot dog"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_vPetafV7rZp144s1g_bCA/o.jpg",
+     "caption": "2 meat plate"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 11,
+   "user": {
+    "name": "Andrew P.",
+    "user_id": "KspPkJsSnrDBoPl7YDMGRA",
+    "link": "https://www.yelp.com/user_details?userid=KspPkJsSnrDBoPl7YDMGRA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L8vIjt3UJQmwy-0u4Gc32g/180s.jpg",
+    "address": "Chicago, IL",
+    "friends": 203,
+    "photos": 691,
+    "reviews": 221,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Fantastic Texas Style BBQ\n\nMy return trip to Austin after a decade plus, I had to get bbq. After work on a Wednesday, I decided to stop by and get my fix. This location is in a strangely empty/ not busy strip, so parking was plentiful and it looked very plan outside. However when you walked through that doors, the smells and ambiance changes you. The staff have the friendly Texan charm and give you a big welcome and are helpful in choosing your meal. \n\nPrime rib special comes with 2 sides and a bread. The roll is a little lukewarm and semi-hard. For sides, I ordered them corn pudding and Brussels sprouts. The sprouts are drenched in a sauce, tasty but heavy. The corn pudding is more in the bready side, but quite nice. You can get some onions and jalape\u00f1os as accoutrements. The kick provides a nice foil to the heaviness of the meats. \n\nAnd that leaves the meat. The prime rib was delicious. Soft and tender with an amazing smokiness. \n\nI also ordered a half pound of brisket. It's a lean cut, so a bit dry when compared to fatty cut. But amazing and worth a repeat. Both meats made my dinner and bbq addiction complete.",
+    "language": "en"
+   },
+   "date": "2026-04-26T23:05:01Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TZdDP4zxo2YPHnwvBrahRA/o.jpg",
+     "caption": "Smoked Prime Rib Plate"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 12,
+   "user": {
+    "name": "James D.",
+    "user_id": "XKit6eCJfgxbxT8KQADNpg",
+    "link": "https://www.yelp.com/user_details?userid=XKit6eCJfgxbxT8KQADNpg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/686WBoC4kbcb_oUEXuiFZg/180s.jpg",
+    "address": "The Colony, TX",
+    "friends": 5,
+    "photos": 67,
+    "reviews": 56,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Stopped by to pickup some bbq Togo today. Got to try their brisket and pork belly burnt ends. \n\nPluses:\nPork belly was tasty in the spicy sauce\nFree brisket end slice offered to be added by the slicer\nEasy containers available for sauces Togo\nMustard bbq sauce was interesting and good.\n\nMinuses:\nPork belly was a bit dry despite me asking for fatty. Definitely not a top 25 brisket I've had in Texas and not something I'd go out of my way\n\nPork belly didn't stand out as a bbq specific dish. I've had similar elsewhere from non bbq places or at home. Compared to goldees, they aren't even close to peak pork belly.\n\nBase bbq sauce they put in my bag was very liquidy and not really fitting anything I was wanting for bbq.\n\nOne of the guys was giving the carver attitude when asked to help get another brisket from the back and idk what was up with him but doing that at all, especially in front of customers, just leaves a bad taste in my mouth . The carver is just doing her job.",
+    "language": "en"
+   },
+   "date": "2026-04-14T21:33:16Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hYVTW9f6KqvoDHkcxXC8Jw/o.jpg",
+     "caption": "Sliced Brisket and Smoked Pork Belly Burnt Ends"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 13,
+   "user": {
+    "name": "Hal F.",
+    "user_id": "1qTs5ORJidXl2mNLN-QkxQ",
+    "link": "https://www.yelp.com/user_details?userid=1qTs5ORJidXl2mNLN-QkxQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fSopg4m7sDWqrhiA-0Hg0g/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 34,
+    "photos": 71,
+    "reviews": 432,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This is not my first visit to Stiles Switch, each time was good. Food is delicious, bbq quality and taste is incredible, service is good and sides, Mac & cheese, and my favorites the corn casserole, the Brussels sprouts and potato salad. Today we reached a higher level. The service was amazing, so attentive and present.  The food, as usual outstanding. Thank you Dwayne and the team for making our lunch a lovely experience.",
+    "language": "en"
+   },
+   "date": "2026-08-01T04:14:49Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 14,
+   "user": {
+    "name": "Jesse S.",
+    "user_id": "0BAB2ODYCbNK508vkCRHdg",
+    "link": "https://www.yelp.com/user_details?userid=0BAB2ODYCbNK508vkCRHdg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/L54SwI7yKW08nBZGbaFQLA/180s.jpg",
+    "address": "Corpus Christi, TX",
+    "friends": 0,
+    "photos": 13,
+    "reviews": 191,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Tasty barbecue options are abound in Austin and Stiles Switch BBQ is ranked up high on my review list of barbecue spots. My first visit was on a weekday afternoon and it was lively. Lots of people, and that can complicate seating but they do offer outdoor options. The parking has some similar space issues, but don't let any of that deter you. It's worth the small wait for the food. Everything was tasty, the staff were friendly and the pricing is on par with the area. I will recommend it, try it!",
+    "language": "en"
+   },
+   "date": "2026-07-26T16:10:40Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 15,
+   "user": {
+    "name": "Lisa R.",
+    "user_id": "T5KBc5QbwZ-Oj9ApE4vZJA",
+    "link": "https://www.yelp.com/user_details?userid=T5KBc5QbwZ-Oj9ApE4vZJA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/h_s1BE49c7HhQ4I2gfix4g/180s.jpg",
+    "address": "Kansas City, KS",
+    "friends": 1166,
+    "photos": 8849,
+    "reviews": 1284,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I came here with two fellow Longhorns and three Aggies before the Texas A&M at Texas game last Friday. When we went up to order, Longhorns got a burnt orange koozie and Aggies got a maroon one, a nice touch! Eric R. and I (the only split couple) shared a two meat plate with double brisket, mac n cheese, and corn pudding. We were also given a sample of pinto beans and serrano brussel sprouts. The plate was adorned with onions (raw and pickled), pickles, and jalapenos, plus topped with two slices of eggy bread and a side of BBQ jus. I got a topo chico as wel.\n\nAt the table, there were other flavored, thicker BBQ sauces including balsamic and chile lime. I went with the chile lime and it was really good. As a Texan and brisket snob, I thought the brisket was really delicious! I enjoyed the sides but the brisket was indeed the star of the show. It was nice to have eggy bread and not boring white bread too. Eric R. also tried Carlie M.'s sausage and said it was good. I would like to return to try the beef rib when I know I could take some back or share it with more people. Hook em horns!",
+    "language": "en"
+   },
+   "date": "2025-12-04T20:16:37Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/giwn9jYninnduCKblbIbPw/o.jpg",
+     "caption": "Brisket x2 plate"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 16,
+   "user": {
+    "name": "Ashley J.",
+    "user_id": "CmLWvwsnM-Gzclx_bpL54Q",
+    "link": "https://www.yelp.com/user_details?userid=CmLWvwsnM-Gzclx_bpL54Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6XPHPrbbzimH9XAVyXZoBg/180s.jpg",
+    "address": "Hartford, CT",
+    "friends": 335,
+    "photos": 326,
+    "reviews": 143,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Perfect family joint for Texas BBQ vibes. \n\nCame with a big group 5 adults, 4 kids (all under 5). Was easy to get a big area for us and the kids loved watching the guys serve the food from the booth. \n\nCorn casserole was SO GOOD - like beyond what we anticipated. \nPerfect portion sizes and bang for our buck. \nThis northerner enjoyed the sweet tea for sure.",
+    "language": "en"
+   },
+   "date": "2026-01-23T00:08:29Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0cVAWTrLwB1hZLhTKw0k2g/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 17,
+   "user": {
+    "name": "Max G.",
+    "user_id": "RqgOD4--lA6x00jXRJdb0g",
+    "link": "https://www.yelp.com/user_details?userid=RqgOD4--lA6x00jXRJdb0g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tjqkCEFSSt9zT8Z_E4UKJw/180s.jpg",
+    "address": "Studio City, CA",
+    "friends": 79,
+    "photos": 65,
+    "reviews": 805,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I first visited Stiles Switch in 2019 and found the food to be pretty bad. This time around, it was a bit better, but still not worthy of the Texas Monthly Top 50. \n\nWe ordered brisket, ribs, and sausage.  The brisket and ribs were flavorful, but overcooked. The sausage was pretty bad. \n\nThe staff was friendly.  There's plenty of indoor seating.",
+    "language": "en"
+   },
+   "date": "2025-12-20T18:27:14Z",
+   "rating": 3,
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 18,
+   "user": {
+    "name": "Nick R.",
+    "user_id": "HeeozuTFkEbNgmupaTqdJg",
+    "link": "https://www.yelp.com/user_details?userid=HeeozuTFkEbNgmupaTqdJg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ULdJlCVGNbW0qxsdUjGi8Q/180s.jpg",
+    "address": "Houston, TX",
+    "friends": 88,
+    "photos": 868,
+    "reviews": 334,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Switch BBQ in Austin, Tx.\n\nBeen to @stilesswitchbbq a few times over the past few years. Never too crowded, a great selection of items and a very homey atmosphere. Loved the burnt ends, might go light on the jalapeno in the Frito Pie if I ordered it again. Prices here are also exceptional and everyone is super friendly.",
+    "language": "en"
+   },
+   "date": "2026-01-17T18:26:30Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vUAR0ob_Sqzl_PShNVqgEA/o.jpg",
+     "caption": "Frito Pie and fixings"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ngl4vGuFVg2StgBoV4meOg/o.jpg",
+     "caption": "Brisket, burnt ends, sausage, cucumber and tomato salad, and mac n cheese"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/k2iFsjh9m5ecL5xzWfExUA/o.jpg",
+     "caption": "Menu and front counter"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 19,
+   "user": {
+    "name": "Daphne M.",
+    "user_id": "jzO1qDO2OP6R_KPml0jdvQ",
+    "link": "https://www.yelp.com/user_details?userid=jzO1qDO2OP6R_KPml0jdvQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yD7xhqsuxdFXUwQ-K7Keng/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 260,
+    "photos": 399,
+    "reviews": 184,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Located in the oldest shopping center in #centraltexas which also was used in the movie Dazed and Confused in the 90s where it appeared as The Emporium. The ribs both baby back and beef were delish, the brisket was nice and juicy, Mac was decent, the corn cake thing - that was DIVINE. And I like the chile relleno sausage but it didn't have much poblano flavor to it, wish there was more! The staff were nice.",
+    "language": "en"
+   },
+   "date": "2026-05-03T22:07:04Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-A-a4jL7XncH5LzjtayKxQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DNB8HVNUkozI3yBZkVhLwg/o.jpg",
+     "caption": "Front parking"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 20,
+   "user": {
+    "name": "Matt L.",
+    "user_id": "M6zIWnQEhjkmMg2OwSKd0w",
+    "link": "https://www.yelp.com/user_details?userid=M6zIWnQEhjkmMg2OwSKd0w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UTftv-28S18kOyjr05O18w/180s.jpg",
+    "address": "Brooklyn, NY",
+    "friends": 25,
+    "photos": 1204,
+    "reviews": 414,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Pretty good BBQ and good enough for me to come twice in a trip. Some sides are better than others, so the thing that knocks it down a star is consistency.",
+    "language": "en"
+   },
+   "date": "2026-05-03T16:14:23Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-jCc1Z0Z0yzPp7fMplQatQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 21,
+   "user": {
+    "name": "Darral W.",
+    "user_id": "kJFeKTKmSQ_3cWEEutojQg",
+    "link": "https://www.yelp.com/user_details?userid=kJFeKTKmSQ_3cWEEutojQg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dYiOts-pTYhTnPbBSNxKDQ/180s.jpg",
+    "address": "TX, TX",
+    "friends": 0,
+    "photos": 2,
+    "reviews": 5
+   },
+   "comment": {
+    "text": "These people PI$$ED me off.  I drove all the way over here for this f'n sandwich (the brisket sandwich with like onions and mustard and sausage etc).\n\nSo they told me, \"oh we only make that on every other Tuesday and sometimes just once a month.\"  I'm like F that. I only drove all the way over here (20 mins) for that one sandwich.  \n\nI said,  \"y'all make it too difficult so I won't be coming back\" and then the arrogant pr_ck behind the counter had the nerve to say \"OK, have a good day.\"  No apologies for the fact that I drove all the way over here for that sandwich and certainly didn't offer to take it to management to suggest making the sandwich more often.  The guy came off like an arrogant \"hat\" as if to say we do pretty well around here without your business. We don't need your money so they won't get it, EVER.\n\nThere are way too many other great barbecue places to put up with this level of arrogance. I can get great bbq at Terry Blacks or Black BBQ.  I only wanted that ONE sandwich.  Duces!",
+    "language": "en"
+   },
+   "date": "2026-07-31T18:44:07Z",
+   "rating": 1,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 22,
+   "user": {
+    "name": "Colter H.",
+    "user_id": "XIA5S-U1TwxyGQJvz_1eEA",
+    "link": "https://www.yelp.com/user_details?userid=XIA5S-U1TwxyGQJvz_1eEA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/mmi-KIu1fqRf_cUs3DqxUA/180s.jpg",
+    "address": "Denver, CO",
+    "friends": 108,
+    "photos": 136,
+    "reviews": 229,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "A+++ all around. Best brisket bark I've ever had; the spicy/peppery Ribs weren't far behind. \n\nDon't miss the Potato salad and Tater Tot Casserole -- It'll change your life.",
+    "language": "en"
+   },
+   "date": "2025-12-30T00:04:36Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gdYCQaEgsLrL93jcpE2Afw/o.jpg",
+     "caption": "3 Meat Plate -- Brisket, Pulled Pork, St. Louis Pork Ribs, Potato Salad, Cheesy Tater Tot Casserole"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 23,
+   "user": {
+    "name": "Lisa H.",
+    "user_id": "Qp0SXUQTiNlqzsWi-0bs6w",
+    "link": "https://www.yelp.com/user_details?userid=Qp0SXUQTiNlqzsWi-0bs6w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/rvblBe1BoMrfhNrHVjdx0w/180s.jpg",
+    "address": "Houston, TX",
+    "friends": 4,
+    "photos": 157,
+    "reviews": 179,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I havee been to Stiles Switch twice now! The first time, I came just for the chicken wings. \n\nChicken Wings:\nI got the Alabama white flavor and the lemon pepper. I remember both were pretty good and very heavily seasoned. Lemon pepper was indeed lemon peppery. It was a nicely cooked, tender, juicy and succulent chicken wing. It's oak smoked, so you get a bit of that smoky flavor encapsulating the wing adding a bit more depth to the flavors. Alabama white was a creamy sauce almost like a gravy.\n\n3 Meat BBQ Plate:\n- Brisket: Decently tender, could use more flavor though with the seasoning. Very thinly cut\n- Pork Rib: A nice sticky, sweet pork rib with a good char and bark on the outside. Good crust. It is decently tender, while not fall off the bone, it was good.\n- Sausage: This, I wouldn't get again. It was big, juicy, and had a nice snap, but there was something off putting about the after taste that I can't quite pinpoint.\n\n- BBQ Sauce: A tangier bbq sauce, on the liquidier side\n- Corn casserole: Creamy, yummy, and sweet\n- Mac and Cheese: needs more flavor. I wouldn't get this one again\n\nI also ordered banana pudding, but unfortunately they forgot to give it to me (I ordered delivery)",
+    "language": "en"
+   },
+   "date": "2026-04-26T22:25:13Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 24,
+   "user": {
+    "name": "Generous Y.",
+    "user_id": "9QkIzdrfiqjEjLnGDQntcg",
+    "link": "https://www.yelp.com/user_details?userid=9QkIzdrfiqjEjLnGDQntcg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/bK6hzw1VWcxwbD3VPpq9fQ/180s.jpg",
+    "address": "Seattle, WA",
+    "friends": 85,
+    "photos": 3104,
+    "reviews": 1132,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Texas BBQ has a high bar and Stiles Switch is renowned for being a top tier spot comparable or close to the famous ones. I haven't visited those spots yet but have had Texas BBQ outside of Austin. Massive benefit is that wait times are drastically lower because everyone's too busy hyping up the other spots. Large parking lot, large indoor seating, and minimal wait. \n\nI snagged a beef rib because it's the thing you have to try when you're in town. They brought out two large ribs and gave me a choice. It was about $32/lb at this time and each rib is roughly in the 1.25lb range. First time here and you can get barbecue sauce, bread, pickles, onions, jalapenos, and pickled onions on the side.\n\nI wanted to order more but was slightly full from a bakery and coffee shop, so I wasn't actually sure I could finish the rib. I would've loved to try the brisket and compare it to previous experiences, but had to settle for one item. \n\nBeef Rib - it's truly as filling as it looks. I was expecting the meat to fall off the bone a little smoother but there was some friction. Still tender and delicious, there was a hefty amount of fat compared to meat which I felt could've been better balanced or better, more meat than full fat. My first bite was overly salty but after that, it was fairly balanced. These were just some small nuances but the overall experience was tender with fatty bits melting in your mouth.",
+    "language": "en"
+   },
+   "date": "2025-12-23T01:55:46Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mz7qUxbU-L_Em3e_0_0gYQ/o.jpg",
+     "caption": "Beef Rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R-GW5yaUhFdY6XRX_qfhpQ/o.jpg",
+     "caption": "Beef Rib"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 25,
+   "user": {
+    "name": "Steve B.",
+    "user_id": "WKWl469Cmihx0H1qEZqGnA",
+    "link": "https://www.yelp.com/user_details?userid=WKWl469Cmihx0H1qEZqGnA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/K7C5_4JuEJ6ActGDwvvq7g/180s.jpg",
+    "address": "Tucson, AZ",
+    "friends": 12,
+    "photos": 670,
+    "reviews": 214,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I have been working my way through the central Texas BBQ joints. Fo the most part hitting the small joints outside of Austin . Today I was in the city and it was early so Stiles Switch here I come . I got the 2 meat plate with sides. Wow, I mean yowza wow. As I am speaking today these guys are #1 and at a whole top tier level . Brisket was outstanding, bark,smoke ring , tender,moist , a perfect 10. The one not to sleep on was the pork belly burnt ends. Honestly I could get a double order and eat until I got sick. Just go. Stand in line do the tradition and over order and over eat. \n\n\nOutstanding Texas BBQ.",
+    "language": "en"
+   },
+   "date": "2025-12-18T21:20:45Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0TcnfxvVICSr42OwDLlqrQ/o.jpg",
+     "caption": "2 Meat Plate  Brisket, Pork belly burnt ends"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 26,
+   "user": {
+    "name": "Samantha J.",
+    "user_id": "p33qfQYk2r9TNXnIrX69Aw",
+    "link": "https://www.yelp.com/user_details?userid=p33qfQYk2r9TNXnIrX69Aw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kv9EETDvNx8v0Z_STt7IdA/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 224,
+    "photos": 980,
+    "reviews": 122,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We've been to Stiles n' Switch more times than we can count, and are so sad and a little shocked we haven't left a review until now! But this allows us to speak from multiple instances of experience!\n\nWhat keeps us coming back is the consistency. These folks do a hell of a job making sure there's plenty of every meat throughout the entire day, so when you show up craving something specific, you can actually order it. Everything from the juicy, flavorful turkey to the big, meaty beef ribs and the fall apart in your mouth brisket is always spot on!\n\nBut it doesn't stop at amazing BBQ. They're constantly rolling out weekly specials and fun menu items: 1/2lb smoked burgers with wild new flavors like a fried mozzarella burger (totally delicious and worth the calories), chimichurri picanha, smoked prime rib, banh mi's, cheesesteaks, etc... You can get a traditional meat plate or an incredible sandwich, but they also keep giving you new reasons to come back. It's no surprise they land on the Texas Top 50 list every year!\n\nWe've even had their bites at Texas Top 50 events and multiple Troubadour Festival, and they're always one of our standouts. They've mastered flavor, quality, and that perfect mix of traditional + creative.\n\nInside, you get that classic Texas BBQ experience where you order at the counter, pick out your meats, grab a canned beer, if that's your vibe, and claim a table. And yes, they have dessert... and YES, the chocolate cake is our FAV!\n\nAnother favorite thing they do each year is the 12 Days of Smoked Meats, where they roll out a different specials every day. Think collabs with Olamaie and El Dorado Caf\u00e9 and wild creations like a chicken-fried beef rib. It's legendary and a MUST do!\n\nThe service is always pure Texas hospitality. They greet you as soon as you walk in, help you figure out what to order if you need help, keep the tables clean, and make sure everyone is happy and full. We usually go right when they open and have noticed there's a solid local lunch crowd, but even if the line looks long, it moves fast.\n\nWhenever we have family in town, this is one of the first places we bring them... or we take them to their sister restaurant, The Switch in Dripping Springs, which is also A MUST!\n\nIf you haven't experienced Stiles n' Switch yet, you're absolutely missing out. Our go to's are the brisket, beef rib, pork belly, and turkey (basically the entire menu) and if there's a monthly sausage, we always add that too. Even the fries are delicious! And don't skip the creative sides like the cucumber tomato salad, sweet serrano fried Brussels sprouts, or cheesy tater tot casserole!\n\nStiles n' Switch is the real deal. Always has been, always will be!",
+    "language": "en"
+   },
+   "date": "2025-12-08T20:44:16Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BjiLi_qxIvaxyUKbcr0Rag/o.jpg",
+     "caption": "Cucumber Tomato Feta Salad"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QKRtCHC6s32elK6v4XoT2A/o.jpg",
+     "caption": "Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WLve-XmHY-ZFgbHMXT74Lg/o.jpg",
+     "caption": "Chicken Fried Beef Rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/vMaJXSMhuigTsNRu4VDoUQ/o.jpg",
+     "caption": "Brisket Flauta for 12 days of Smoked Meats"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/r9VSOZC45P4TjJsJQfmIuw/o.jpg",
+     "caption": "Serrano Glazed Brussel Sprouts"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3M6jTwxbjHRMAa1r1zGaNw/o.jpg",
+     "caption": "Smoked Pork Belly"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u2qIiuHnfvuGDq5FnU-WTw/o.jpg",
+     "caption": "3 Meat plate"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xJekLTzP-Hlt2tqGWj195g/o.jpg",
+     "caption": "Dirty Birdie Burrito"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iw7-YTZt5iCxdkhzen4DYA/o.jpg",
+     "caption": "Cuban Sandwich"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_TxDcGU1ax3AQMUADmlt3w/o.jpg",
+     "caption": "Epic Troubadour Bite"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 27,
+   "user": {
+    "name": "Zachary S.",
+    "user_id": "z7NK-aOTTqvpOo7DWv2t5Q",
+    "link": "https://www.yelp.com/user_details?userid=z7NK-aOTTqvpOo7DWv2t5Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oU4aMcBLdy6CrnSUc7RyzQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 68,
+    "photos": 1282,
+    "reviews": 379,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I've been wanting to go to Stiles Switch this month for one specific reason: Pimento Cheese Sausage. They do monthly specialty sausages, and that one interested me the most. With the month almost over and no pimento cheese sausage yet, I made a buzzer-beater move and went on October 29. Stiles Switch off Lamar has a decent-sized parking lot with enough space to park even on a busy Wednesday night.\n\nInside, Stiles Switch feels like a classic BBQ joint with wooden walls and LED signs across the building. One of the best parts of Stiles Switch is that they're open through the evening, so you can easily get a nice BBQ meal at dinner instead of on a Saturday morning. There was a decent line when we got in, but it moved steadily. Getting there at 6:45 pm, we were seated with our trays before 7 pm.\n\nThe staff were very friendly and helped me get another stamp on my Texas Monthly Passport. After I got my tray, I realized there was practically nowhere to sit. There are plenty of tables, but it was quite busy. Luckily, a table had just opened up, and I was able to grab it.\n\nMy cousin's fianc\u00e9e ordered one of their specialty sandwiches while my cousin ordered the Wednesday prime rib plate. The menu has something for everyone.\n\nHere's a rundown of what I got:\n\nBrisket: Both the lean and moist cuts were great. They were tender and full of flavor. I ate all the brisket on my tray even though I thought I would explode; it was that good.\n\nPork Ribs: The bark growled at me like a husky, and it was fantastic. It wasn't super noteworthy, but it was well done and worth the purchase.\n\nPimento Cheese Sausage: This is what dreams are made of. It now sits high on my list of specialty sausages from all the different BBQ joints I've visited. It's not too spicy compared to hot links I've had, but the cheesy flavor really adds to the link. I was a big fan of it. It was also served with a side of pimento cheese and crackers, which the table got to enjoy. The pimento itself had a surprise kick that made it more flavorful and memorable.\n\nTater Tot Casserole: I need this catered at my family's Thanksgiving. It's phenomenal and easily one of the best sides I've had so far in my BBQ journey.\n\nBrussels Sprouts: These also, shockingly, had a good kick to them, but they were glazed and heavenly. I always love sides like these at a BBQ joint because I'll always destroy them without a second thought.\n\nI keep going back to Stiles Switch because it's consistently high-quality yet still accessible compared to Austin's other heavy hitters. It reminds me of my hometown favorite, Stanley's in Tyler, and that is one of the highest compliments I can give.\n\nRIYL: A little bit of everything for everyone.",
+    "language": "en"
+   },
+   "date": "2025-11-01T17:48:56Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hxqgpu5NTxQDFdRYkxqw8g/o.jpg",
+     "caption": "3 Meat Plate"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 28,
+   "user": {
+    "name": "Ness S.",
+    "user_id": "1Iv3fyJSC5qk1zpzhPUdWA",
+    "link": "https://www.yelp.com/user_details?userid=1Iv3fyJSC5qk1zpzhPUdWA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0KiBwbU1Yk1T5VtI2590lQ/180s.jpg",
+    "address": "Dublin, OH",
+    "friends": 132,
+    "photos": 1189,
+    "reviews": 1015,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Pretty good but I was surprised that it wasn't better. The brisket was solid, as were the there meats but I wouldn't say this is anywhere close to the best bbq I've eaten. The ambiance is casual -- you order at the counter and they bring the food to you.",
+    "language": "en"
+   },
+   "date": "2026-06-27T22:23:33Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 29,
+   "user": {
+    "name": "Sid G.",
+    "user_id": "PBj09Im7iEADTOvflqk-bA",
+    "link": "https://www.yelp.com/user_details?userid=PBj09Im7iEADTOvflqk-bA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DlDQ-4x-aqxm-Q8Lbn84yw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 17,
+    "photos": 34,
+    "reviews": 105,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Amazing food, great bbq. The service was very friendly and the restaurant has relaxing vibe. Very crucial to enjoy the BBQ",
+    "language": "en"
+   },
+   "date": "2026-06-16T14:45:39Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 30,
+   "user": {
+    "name": "Nick F.",
+    "user_id": "irWzphvTdRffa7-MHBRSpw",
+    "link": "https://www.yelp.com/user_details?userid=irWzphvTdRffa7-MHBRSpw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/lXY1FHU4us0hZfyi6ID1Hg/180s.jpg",
+    "address": "Centerville, OH",
+    "friends": 14,
+    "photos": 19,
+    "reviews": 40,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "They keep getting better with age. Hopefully, I'm the same. I started going to Stiles Switch 10 years ago and I have gone back numerous times. I am a huge fan. The thing that impresses me the most is that they do it every single day. You're going to go to some places that sell out within three hours, but these guys keep it going from 11 to 8 every single day (except Monday) and the food is incredible. I really like the brisket and the corn pudding. I'm also a big fan of their fries. If you get a chance to go in on Thursday, they will have a brisket burger of some type. Do yourself a favor, get one, because they are incredible. I've always loved the lights strung above the restaurant, which kind of gave it a cool feel. The people are one of the best parts of the entire experience, though. Over the years, I've gotten to know Duane and the rest of the crew and they are the best in the business as far as I'm concerned. Do yourself a favor, go and enjoy some of the best barbecue in Austin.",
+    "language": "en"
+   },
+   "date": "2026-06-14T13:37:53Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/swPtvPkD1IUdwfBVn7DWPw/o.jpg",
+     "caption": "Brisket, corn, pudding, fries, and smoked brisket burger"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jObi5OUct75Uhj2Lxe_EOw/o.jpg",
+     "caption": "Brisket, corn pudding, fries"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 31,
+   "user": {
+    "name": "Ben M.",
+    "user_id": "NdtSAcl03rYvi4djdKbjvg",
+    "link": "https://www.yelp.com/user_details?userid=NdtSAcl03rYvi4djdKbjvg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/OQ3uDOxLVDitVsh4MOoKmA/180s.jpg",
+    "address": "Reno, NV",
+    "friends": 116,
+    "photos": 15,
+    "reviews": 164,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I'm a big fan of Texas BBQ, and Stiles Switch delivered in spades. We ordered 4 beef ribs ($35 per rib) and they were absolute perfection. Meltingly tender and pleasantly - not overly - smokey, they wiggled like a bowl of jello, and fell from the bone with the slightest tug. Amazing!\n\nWe also ordered the The Texas Trinity ($105), which came with \n1 lb Brisket (juicy and tender), 1 lb Pork Ribs (firmer and snappy), 1/2 lb Sausage (the special of the day, pimento cheese sausage was our favorite), and 2 quarts of sides (corn casserole and tater tot casserole for the win!). We ate like kings for two days off this heaping platter of goodness, what a treat!",
+    "language": "en"
+   },
+   "date": "2026-03-23T15:02:24Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 32,
+   "user": {
+    "name": "Seven O.",
+    "user_id": "zHBIaTnqGbfQ3-TAp3BFVw",
+    "link": "https://www.yelp.com/user_details?userid=zHBIaTnqGbfQ3-TAp3BFVw",
+    "address": "Austin, TX",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 6
+   },
+   "comment": {
+    "text": "Food is amazing and service is top notch. It's rare to have such amazing customer service.  Highly recommend!",
+    "language": "en"
+   },
+   "date": "2026-08-22T17:57:51Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 33,
+   "user": {
+    "name": "Tracey Z.",
+    "user_id": "wtSIKrgSZ1ZfpROKbJXcNQ",
+    "link": "https://www.yelp.com/user_details?userid=wtSIKrgSZ1ZfpROKbJXcNQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0GhCuFPTM1QZY_mscjQ-Dw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 350,
+    "photos": 1585,
+    "reviews": 783,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Great bbq! I have driven past this spot many times and never realized what I was missing!\n\nGood food, lots of options for meat. Tried the turkey which was good texture, not dry, good flavor!",
+    "language": "en"
+   },
+   "date": "2026-02-06T19:36:31Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 34,
+   "user": {
+    "name": "Ike S.",
+    "user_id": "qO0cRVQ7OmzI0AriLz9YxQ",
+    "link": "https://www.yelp.com/user_details?userid=qO0cRVQ7OmzI0AriLz9YxQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Dwc7xiOIdSKooPGKWwdvQg/180s.jpg",
+    "address": "Salado, TX",
+    "friends": 15,
+    "photos": 468,
+    "reviews": 131,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Hit Stiles Switch as we waited on a car service. The line was long but it went fast as the ordering was assembly line. The service was fast and even with the busy line, staff weren't overwhelmed and greeted us pleasantly. We weren't rushed as we asked questions about the menu. We ended up ordering the 3 meat plate (turkey, ribs & brisket) and had mac and cheese & cucumber tomato salad as sides. The meats are definitely the star of the order. All were flavorful.\nThe portions were nice enough to feed the 2 of us. We were so glad that we both didn't get an entree. The sides were a bit lacking for our tastes but I'm sure they were great to other palates. \n\nThe 3 meat plate was $31.00, which we thought was kind of steep. I think that most places that I  have been to had different prices before and after a TM review. This is only my theory. I have never visited before but we assumed this is normal for this location and TM fame. With 2 drinks and tax, our total came to over $40. \n\nOverall the BBQ was pretty good and I'll definitely visit again if I'm nearby.",
+    "language": "en"
+   },
+   "date": "2025-08-11T22:41:01Z",
+   "rating": 3,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vqy-QtNxFDc5ga3G9ZeU6g/o.jpg",
+     "caption": "Turkey"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nu1yXgwpLLyqN4_VwzBnxw/o.jpg",
+     "caption": "Brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FCk_cKasgUxhVKDf9GAwNg/o.jpg",
+     "caption": "Receipt"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lTmB1Oh6o0w0YjU41_m3xg/o.jpg",
+     "caption": "3 meat plate closeup of mac n cheese & cucumber tomato salad"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 35,
+   "user": {
+    "name": "Priscilla L.",
+    "user_id": "lX9ekRw5ti1CT_HZg4-T2g",
+    "link": "https://www.yelp.com/user_details?userid=lX9ekRw5ti1CT_HZg4-T2g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Ae4Mo6TGx1Doz4y7cja99g/180s.jpg",
+    "address": "San Francisco, CA",
+    "friends": 290,
+    "photos": 6164,
+    "reviews": 684,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "When we arrived late into our hotel, the front desk recommended a good BbQ place about 15 minutes away called Stiles Switch BBQ & Brew. We never heard of it before and so why not, let's see what Austin is about on being the best place for BBQ. \nI was searching reviews online like Yelp and this place was still great. They made the list of best barbecue previous years. This place didn't go by the pound to measure costs which can be confusing, so I was happy with normal ordering like I want ribs, Mac and cheese and roasted Brussels sprouts . \n\nOutside was an open small strip mall attached to one row of shops and parking outside was dirt, as it gave its nice atmosphere. When we entered it was wow! Long line along the sides of the building to the cashier, but line moved normally and you can see things they have on sale. You can read article on them being in Best barbecue magazine previously, so they are also well known when compare to many bbq places in Texas. After my first experience with real Texas bbq, I can easily say Texas is number one in my book and forget the other 49 states. I have never ate anything where everything tasted A+ from appetizers, sauce and meats! So tender and favorable! Ok sorry I am getting ahead of myself. But yes here is the photo of my food. \n\nFriendly service and always busy with one hour left before closing we made it!  I am glad our Drury Hotel recommended this place to us.  Our day one of visiting Texas in April 2025 and experiencing Texas Hospitality and excellent quality of food has been excellent!",
+    "language": "en"
+   },
+   "date": "2025-07-11T15:46:29Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GyOcy7-B-Q6vAgv8u7GRyQ/o.jpg",
+     "caption": "2 meat combo with 2 sides Sliced Brisket and pork ribs, corn and Brussel sprouts"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 1,
+    "cool": 3
+   }
+  },
+  {
+   "position": 36,
+   "user": {
+    "name": "John M.",
+    "user_id": "nVM-1jEnDQPDSOR1w9_Uxg",
+    "link": "https://www.yelp.com/user_details?userid=nVM-1jEnDQPDSOR1w9_Uxg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/GwqX_MGTF0GKmh4D48zhSQ/180s.jpg",
+    "address": "Brunswick, GA",
+    "friends": 4,
+    "photos": 4,
+    "reviews": 47
+   },
+   "comment": {
+    "text": "Amazing brisket and sausage. True Texas BBQ and vibe. I didn't know I needed Balsamic & Chile Lime sauce in my life until I came here. \n\nNow I need to plan on being in Austin for their 12 Days of Christmas!",
+    "language": "en"
+   },
+   "date": "2026-06-15T13:30:46Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 37,
+   "user": {
+    "name": "Tim J.",
+    "user_id": "SPiKMjXV8oiZldjRbtvSHg",
+    "link": "https://www.yelp.com/user_details?userid=SPiKMjXV8oiZldjRbtvSHg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a_X0oHQd1bp5KDFl5y1sww/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 25,
+    "photos": 278,
+    "reviews": 208,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Stiles Switch delivers some of the best BBQ in Austin--perfectly smoked brisket, fall-off-the-bone ribs, and sausage with a satisfying snap. I appreciate that they serve french fries and mac and cheeses. Lively atmosphere, fast counter service, manageable lines.\nDon't shy away from the daily specials.. try the picanha with chimichurri, smoked wings,  and Thursday burger special. \nThis place nails it.",
+    "language": "en"
+   },
+   "date": "2025-08-03T11:32:19Z",
+   "rating": 5,
+   "tags": [
+    "5 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L7KbjIOCsYZ49rVEpwyagg/o.jpg",
+     "caption": "Smoked wings"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LvrgWEmAK0FtZVMtJXwlaw/o.jpg",
+     "caption": "Wings and the turkey sandwich"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/wCfCbmHsd_6w8A0Jr4GEVg/o.jpg",
+     "caption": "Switch Original Sausage and smoked picanha w chimichurri"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/06wCZ_D_zJqKsJ6J-r13Hg/o.jpg",
+     "caption": "burger special w fries"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c9g0-Bpm5K0fJ3RXAG_O0Q/o.jpg",
+     "caption": "smoked picanha w chimichurri/ sausage"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 38,
+   "user": {
+    "name": "Mike R.",
+    "user_id": "sqn1W6NyblfOBat7Vpis8g",
+    "link": "https://www.yelp.com/user_details?userid=sqn1W6NyblfOBat7Vpis8g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RdablH9EWdTpCscaeb80pw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 176,
+    "photos": 811,
+    "reviews": 412,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "When people ask me where to get BBQ in Austin, Stiles Switch is my default answer.  I was in central Austin and needed lunch... and wanted a good lunch. I headed over to the switch and their special that day was a mushroom bacon cheeseburger made from brisket trimmings in a blend. A burger at a BBQ place? I know their BBQ is good, and I knew they wouldn't have a burger special if it wasn't good, too.\n\nNarrator: \"It was.\"\n\nAmazingly good beef, perfectly cooked to medium, great size, awesome toppings... all I had to add was a little mustard sauce (don't ever skip the mustard sauce here!).\n\nBonus? Perfect breading and crunch on the onion rings, which paired well with their balsamic bbq sauce.  Mmmm.....\n\nIt's not often... but every time I come, I'm impressed even more.  5 more months until the 12 Meats of Christmas!",
+    "language": "en"
+   },
+   "date": "2025-07-25T18:26:37Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eKaDt2SPkesF1vycO51xWQ/o.jpg",
+     "caption": "Chili Lime BBQ and Mustard Sauce"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ncwsn9GY-hpkp2_Owm_p9A/o.jpg",
+     "caption": "Burger, close-up!  Fresh veggies!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5Z-bimuHuThYHRmus5MJuQ/o.jpg",
+     "caption": "Balsamic BBQ"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Iuo5V40Naz3_nsLe-nd-2w/o.jpg",
+     "caption": "Mushroom Bacon Burger and Onion Rings"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 39,
+   "user": {
+    "name": "Diann U.",
+    "user_id": "KtTXKGxVt2YYM2_BaE__TQ",
+    "link": "https://www.yelp.com/user_details?userid=KtTXKGxVt2YYM2_BaE__TQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BPec-SPvFxPz-5m1mHYcuA/180s.jpg",
+    "address": "East Bay, CA",
+    "friends": 554,
+    "photos": 6300,
+    "reviews": 696,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Great food, awesome and friendly staff, and a relaxed, welcoming ambiance. Perfect place to stop by for a quick BBQ--highly recommend.",
+    "language": "en"
+   },
+   "date": "2026-01-02T23:49:32Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u7B--ppThupy2-nzEExdOA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 40,
+   "user": {
+    "name": "Shan L.",
+    "user_id": "7zwZFHboB7nJWDBKPN7evA",
+    "link": "https://www.yelp.com/user_details?userid=7zwZFHboB7nJWDBKPN7evA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nvbcdEnBkKWO8Ek_xuQ4PA/180s.jpg",
+    "address": "South Jordan, UT",
+    "friends": 244,
+    "photos": 545,
+    "reviews": 247,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This place has good BBQ, good service and a fun ambiance. I wouldn't say it was necessarily life changing BBQ by any means, I've had better across Austin but it's nice they're open late and have lots of options. The sides were all fantastic, the desserts were good and my favorite meat was probably the sausage. It could have been that we arrived a couple hours before closing, I would imagine it's better during the day versus evening hours perhaps. Overall it was still good BBQ and it's still better than anything I can get locally at home.",
+    "language": "en"
+   },
+   "date": "2025-12-12T06:02:11Z",
+   "rating": 4,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oqI3n9uwToBSGEY7Wzi9Cw/o.jpg",
+     "caption": "Pork"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o9uZ7kXYtib7H0lmBSQrzA/o.jpg",
+     "caption": "Pork, sausage, brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zXbi4QQVCwWrBdKH39dkJQ/o.jpg",
+     "caption": "Fries, Mac and cheese, coleslaw. Potatoes"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ukefx5h3CEg7m_yVFcpTwg/o.jpg",
+     "caption": "Mac and fries"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 41,
+   "user": {
+    "name": "Joey T.",
+    "user_id": "p2lzjUMFdYAx77KNVkZSfA",
+    "link": "https://www.yelp.com/user_details?userid=p2lzjUMFdYAx77KNVkZSfA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/PmhNxhElFSAOTArOmHeEVA/180s.jpg",
+    "address": "Simi Valley, CA",
+    "friends": 261,
+    "photos": 97,
+    "reviews": 1116,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The best part about Stiles Switch is that they are going to have nearly everything you want even late into the day and there isn't always a line for hours and it absolutely punches in the same class as the other slightly more famous locations. The value you're getting for your dollar and your time here wins, often. \n\nThe cheesy tatter tott casserole and pachanna (if they have it) should not be skipped over.",
+    "language": "en"
+   },
+   "date": "2025-10-29T08:43:08Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 42,
+   "user": {
+    "name": "Kevin S.",
+    "user_id": "TH8uMheO70hFdza1Rjgi8w",
+    "link": "https://www.yelp.com/user_details?userid=TH8uMheO70hFdza1Rjgi8w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/vX0ZxppS-jNWv0xvjkF1GA/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 752,
+    "photos": 173,
+    "reviews": 187
+   },
+   "comment": {
+    "text": "Stile Switch is probably the most underrated BBQ spot in all of Austin. It's personally my favorite spot as well! \n\nThe line is hardly ever THAT long and it moves pretty quickly. In all my times going, I've never had to wait longer than 20 minutes to order my food! \n\nAll of the BBQ is solid. Love their brisket, sausage, wings (specialty!!!) and their specials that they offer regularly as well. \n\nAs far as sides go, we all know that's what makes or breaks a BBQ spot. The brussel sprouts and tater tot casserole are my favorites. The Mac and cheese is great. And the deserts... *muah* get the banana pudding!",
+    "language": "en"
+   },
+   "date": "2025-11-09T16:56:12Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p55--W4RL_uGyUZINchXzw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 43,
+   "user": {
+    "name": "L H.",
+    "user_id": "LKKKWuX68swSJSztDqsfXg",
+    "link": "https://www.yelp.com/user_details?userid=LKKKWuX68swSJSztDqsfXg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/l3iGVAesQvrLTCGNYGuZNw/180s.jpg",
+    "address": "Pflugerville, TX",
+    "friends": 0,
+    "photos": 1,
+    "reviews": 7
+   },
+   "comment": {
+    "text": "I'm a 5th generation Texan - born and raised.  I know good barbecue. My husband and I judge every other BBQ joint's brisket against Stiles Switch's because theirs is the absolute BEST!  No one else even comes close.  I also love the pinto beans and corn casserole.",
+    "language": "en"
+   },
+   "date": "2026-07-27T18:26:46Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 44,
+   "user": {
+    "name": "Patti R.",
+    "user_id": "WYG5PDlwRvRrXPQcwFKWeg",
+    "link": "https://www.yelp.com/user_details?userid=WYG5PDlwRvRrXPQcwFKWeg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Hh_gPL7mS4ZlmaUu_DOeDQ/180s.jpg",
+    "address": "Pflugerville, TX",
+    "friends": 64,
+    "photos": 313,
+    "reviews": 222
+   },
+   "comment": {
+    "text": "Lives up to the hype! Overall really good food. Not everything was a smash, but we left well-fed and happy.\n\nI have to first comment on the staff. Everyone was so happy and friendly. They seem to genuinely be having a good time and it felt really nice to experience that atmosphere and feel so welcomed.\n\nNow to the food. Overall, it was super yummy. There were a few things we probably wouldn't order again, but we'd definitely want to come back!\nSpecial of the day: prime rib with duck fat potatoes and green beans. Homemade horseradish sauce made this dish, as prime rib lacked somewhat in flavor and potatoes were salty.\nTurkey: got mixed reviews from the table with some finding it slightly lacking in flavor and others finding it super delicious\nRibs: fall off the bone yum!\nBrisket (moist): delicious, no sauce needed\nBeef rib: so very good, no sauce needed\nCorn casserole: favorite of the table!\nTater tot casserole: seriously addicting - very cheesy - need more of this in my life\nMac and cheese: wouldn't order again - table hardly ate any of it\nCole slaw: really fresh and tasty!\nPinto beans: pretty good - could've used a bit more flavor\n\nThe bbq sauces available at the table were balsamic and chile lime. Not bad, but would have liked to see a more traditional sauce available, too. \n\nLots of great pickles, jalape\u00f1os, and pickled onions (raw onions available, but we didn't ask for any). Bread was not on short supply. Both banana and chocolate pudding desserts were delicious too!",
+    "language": "en"
+   },
+   "date": "2026-01-04T23:12:26Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vu7ADqyZHxfNiz-xsSV7mA/o.jpg",
+     "caption": "Prime Rib Special with duck fat potatoes and green beans"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/1w6ODmK0Dgv6r2z0R5iO7A/o.jpg",
+     "caption": "Cheesy Tater Tot Casserole Corn Casserole Mac & Cheese Pinto Beans Switch Cole Slaw"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9zACf-MUmqXYAUnfg3q3jA/o.jpg",
+     "caption": "Beef Ribs St. Louis Pork Ribs Brisket (moist) Smoked Turkey Breast"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 45,
+   "user": {
+    "name": "Tammy D.",
+    "user_id": "Fr_EFCMpyG9G_P7LmtmQuQ",
+    "link": "https://www.yelp.com/user_details?userid=Fr_EFCMpyG9G_P7LmtmQuQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ugvxcHKNMp2YlaHHRzAMcA/180s.jpg",
+    "address": "Troy, MI",
+    "friends": 13,
+    "photos": 1263,
+    "reviews": 315,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "It was our first time here. It was difficult to see the menu behind the counter and with people in front of you. The pork sandwich was big and flavor just ok. A bone was found in the sandwich. Luckily, a tooth wasn't broken.\nThe burrito was good. The macaroni and cheese not hot, only warm and not a lot of flavor.\nLoud place with the tables too close together.\nThe photo of the bone is on my husband's phone so no photo.",
+    "language": "en"
+   },
+   "date": "2025-05-18T02:12:34Z",
+   "rating": 3,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2jLvJ3fjd-17R-NSy7-PEQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WrS1ZxxPyrLoGmMuyp0C8g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZU-Cl0OwpCBK7Kb-qWIDIQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yo8N3Hb5IN2BWblO7Fv4nQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 46,
+   "user": {
+    "name": "Sonia S.",
+    "user_id": "v_VYWUzfNKSQ33CFj-yDRw",
+    "link": "https://www.yelp.com/user_details?userid=v_VYWUzfNKSQ33CFj-yDRw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/QFD_ua9I0n8WVGTgmsNSLA/180s.jpg",
+    "address": "San Jose, CA",
+    "friends": 3,
+    "photos": 69,
+    "reviews": 62,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Visiting Austin and had plans to try a different BBQ place but decided not to because it recently went viral and I figured the wait would be ridiculous. I did a quick search and found Stiles, not too far from the airport and great reviews. \n\nMy party and I arrived on Wednesday at 3pm and walked right up to the counter, the staff was welcoming, friendly and helpful. \n\nWe ordered:\n\nJalape\u00f1o sausage\nPimento sausage\nBrisket\nBeef rib\nPork ribs\nMac and cheese \nCucumber tamari salad\nBrussel sprouts \n\nThis came with bread and pimento cheese as well.\n\nThe beef rib, brisket and brussel sprouts were the stars of the show! The meat was tender and perfectly seasoned. When someone in my party ordered the brussel sprouts I questioned them, but I was blown away by how delicious they were. They are a must try item for sure. \n\nI'm not a fan of sausage, pork or mac and cheese so I can't give them a fair rating but the rest of my party enjoyed them and had no complaints. \n\nI was also pleasantly surprised by their mustard, I even tried to purchase it but they don't have them for sale. The lady at the register gave me a container and told me I can fill it with mustard and I did. Unfortunately, I can't remember her name but she was young and maybe Latina. She was great!\n\nOverall a great experience and I can't wait to be back.",
+    "language": "en"
+   },
+   "date": "2025-05-11T00:30:29Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nGgE0brts4zI-2SGDGs_2g/o.jpg",
+     "caption": "Beef rib, brisket, pork ribs, sausage, mac and cheese, cucumber salad, brussel sprouts"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 47,
+   "user": {
+    "name": "Kim H.",
+    "user_id": "XdsArzApagnmjqr5K3ZpiA",
+    "link": "https://www.yelp.com/user_details?userid=XdsArzApagnmjqr5K3ZpiA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_M-ZH4UGdkhLAQ7fNbpMBg/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 17,
+    "photos": 835,
+    "reviews": 272,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Open on a Tuesday! Order at the counter, we got to try a couple of free samples. The largest beef ribs I've ever seen. They are $33 lb but I have no idea what the weight was bc I wasn't the one paying. Easily 3 people can share one. Also got the pork ribs to try. I thought they were good but someone in party said they were too spicy for them. The oak smoked wings were also really good if you order at least 12 you can order more than one flavor. Love that they have French fries as a side and the brussel sprouts had a ton of flavor and they said it's their 2nd most popular side. The pork belly burnt ends also delish and the 1/2lb is plenty for 3 people. I didn't try the beans bc I'm not a fan but my party said they good and complimented the bbq bc they were not overpowering in flavor. \n\nThey also serve beer!",
+    "language": "en"
+   },
+   "date": "2025-05-07T13:52:45Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w8m7PqHdsYSgJgmHzGGvEQ/o.jpg",
+     "caption": "Beef Ribs Online 1.25 Smoked Pork Belly Burnt Ends St. Louis Pork Ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qpMvFQjfajieRVyOW_jcPQ/o.jpg",
+     "caption": "Sides. Fresh cut French Fries, Pinto Beans Sweet Serrano Fried Brussel Sprouts Cheesy Tater Tot Casserole"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/COHirMOnQHCimorUprD84w/o.jpg",
+     "caption": "Oak Smoked Wings (12ct) lemon pepper and honey bbq"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 48,
+   "user": {
+    "name": "Lauren D.",
+    "user_id": "eWMoLoqQEkTx-frWDGQ3pA",
+    "link": "https://www.yelp.com/user_details?userid=eWMoLoqQEkTx-frWDGQ3pA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/z1G47YFRIajITikPcSpvKw/180s.jpg",
+    "address": "TX, TX",
+    "friends": 234,
+    "photos": 1029,
+    "reviews": 352,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "What a yummy bbq place! I have lived here for a couple of years and have never been till today! We came here with a few friends and got a few items! I will be coming back to try other items next time! The service was fast and great! The line was pretty quick, we were in the line for about 8 minutes!\nThe burnt ends were very tasty as was the corn casserole. The wings were somewhat salty and would have been perfect with sweet sauce I would have been stunned. We were all stunned by the food and how tasty it was! We left spending $52 for some delicious BBQ!\nParking was tricky but we also came at a busy time. The sandwich was good as well, the fries were super tasty as was the new chicken sandwich they were featuring! We sat outside because it was a perfect day! Next time I would love to try their potato salad and another cut of meat!",
+    "language": "en"
+   },
+   "date": "2025-03-03T00:04:16Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rqynUIcRxlR95O-SLEtl0w/o.jpg",
+     "caption": "The sign"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 49,
+   "user": {
+    "name": "Erika V.",
+    "user_id": "THmpXXuR5Sv5fZipCLTvMQ",
+    "link": "https://www.yelp.com/user_details?userid=THmpXXuR5Sv5fZipCLTvMQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/AnOdC1pKZs7hl0_8jSTzjQ/180s.jpg",
+    "address": "Santa Barbara, CA",
+    "friends": 280,
+    "photos": 650,
+    "reviews": 312,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I was really looking forward to the food here. I ordered through DoorDash and the presentation was nice, but half the meat was fat, which I tossed, the meat was super salty, I felt heavy after (yes, I realize what I ordered, but other bbq doesn't make me feel this way) and I doubt I'll eat the leftovers. Mac n cheese was bland and I was ultimately very underwhelmed.",
+    "language": "en"
+   },
+   "date": "2025-10-08T22:57:10Z",
+   "rating": 3,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fmkwGdMgEEq8bKnxbrIsGA/o.jpg",
+     "caption": "All the fat I tossed"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_E_lZDvUK2E14-hv7_ShwQ/o.jpg",
+     "caption": "2 meat plate with pulled pork and pork belly burnt ends, mac n cheese and pinto beans"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7RuA1xJctg3JGrfH89GMpw/o.jpg",
+     "caption": "2 meat plate with pulled pork and pork belly burnt ends, mac n cheese and pinto beans"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mZqhzyZOrlBNgjuFZ62h4w/o.jpg",
+     "caption": "2 meat plate with pulled pork and pork belly burnt ends, mac n cheese and pinto beans"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=zDVjN3dC9EfQno21m3O8Pg&start=49"
+ }
+}

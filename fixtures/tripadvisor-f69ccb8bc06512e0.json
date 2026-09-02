@@ -1,0 +1,457 @@
+{
+ "search_metadata": {
+  "id": "6a98053e7223f4289fcac79a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_TXp6S9OnKwushdZwsOpMmsuJnK8WNzUOrQuHOuR80U/6a98053e7223f4289fcac79a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_TXp6S9OnKwushdZwsOpMmsuJnK8WNzUOrQuHOuR80U/6a98053e7223f4289fcac79a.md",
+  "created_at": "2026-09-02 11:15:10 UTC",
+  "processed_at": "2026-09-02 11:15:10 UTC",
+  "tripadvisor_url": "https://www.tripadvisor.com/Search?q=Franklin+Barbecue+Austin&ssrc=r&geo=1&offset=0&limit=30",
+  "raw_html_file": "https://serpapi.com/searches/_TXp6S9OnKwushdZwsOpMmsuJnK8WNzUOrQuHOuR80U/6a98053e7223f4289fcac79a.html",
+  "prettify_html_file": "https://serpapi.com/searches/_TXp6S9OnKwushdZwsOpMmsuJnK8WNzUOrQuHOuR80U/6a98053e7223f4289fcac79a.prettify",
+  "total_time_taken": 1.19
+ },
+ "search_parameters": {
+  "engine": "tripadvisor",
+  "q": "Franklin Barbecue Austin",
+  "tripadvisor_domain": "www.tripadvisor.com",
+  "ssrc": "r",
+  "offset": 0,
+  "limit": 30
+ },
+ "places": [
+  {
+   "position": 1,
+   "title": "Franklin Barbecue",
+   "place_type": "EATERY",
+   "place_id": "1899234",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d1899234-Reviews-Franklin_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=1899234&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.6,
+   "reviews": 1797,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/01/c8/b4/inside-resaturant-well.jpg",
+   "highlighted_review": {
+    "mention_count": 85
+   }
+  },
+  {
+   "position": 2,
+   "title": "la Barbecue",
+   "place_type": "EATERY",
+   "place_id": "3736794",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d3736794-Reviews-La_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=3736794&tripadvisor_domain=www.tripadvisor.com",
+   "description": "la Barbecue was established in 2012 by LeAnn Mueller. Formerly a food truck we now have a home and share a building with the Quickie Pickie on E. Cesar Chavez. Drinks, beer and wind by Quickie Pickie and BBQ by la Barbecue.",
+   "rating": 4.5,
+   "reviews": 708,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b1/80/c7/photo1jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 43
+   }
+  },
+  {
+   "position": 3,
+   "title": "Black's Barbecue Austin",
+   "place_type": "EATERY",
+   "place_id": "7347326",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d7347326-Reviews-Black_s_Barbecue_Austin-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=7347326&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Located just outside of the UT campus in Austin's lively neighborhood known as The Drag, lies The Original Black's BBQ Austin. Our legendary Texas-style BBQ is cooked fresh on the old Lockhart pits and hand-delivered to the Austin location hot and fresh every day.",
+   "rating": 4.4,
+   "reviews": 379,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fe/41/19/photo0jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 4,
+   "title": "Micklethwait Craft Meats",
+   "place_type": "EATERY",
+   "place_id": "6474859",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d6474859-Reviews-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=6474859&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.6,
+   "reviews": 253,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/be/49/eb/caption.jpg",
+   "highlighted_review": {
+    "mention_count": 5
+   }
+  },
+  {
+   "position": 5,
+   "title": "Lamberts Downtown Barbecue",
+   "place_type": "EATERY",
+   "place_id": "800621",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d800621-Reviews-Lamberts_Downtown_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=800621&tripadvisor_domain=www.tripadvisor.com",
+   "description": "BBQ ALWAYS, LIVE MUSIC OFTEN<br /><br />Located on the corner of 2nd and Guadalupe Streets in downtown Austin (a block away from Town Lake & Moody Theater), in a historic 1873 Victorian building once home to J.P. Schneider general store, Lamberts features modern Texas classics including expertly smoked barbecue, grilled prime steaks, simple yet elegant apps and mains, and homestyle sides. We are open daily for lunch and dinner.<br /><br />The two-story dining room features an open kitchen, two bars (with one of the best whiskey selections in town) as well as an outdoor patio surrounding our Mill Scale smoker. The design includes black leather banquettes and repurposed sinker pine table tops. The vibe is laid-back Austin and not afraid to get a little rowdy at times\u2014especially when there's live music Upstairs at Lamberts. <br /> <br />*If booking an outdoor table, please note that patio seating is weather contingent. During those times, we will do our best to accommodate indoor seating depending on availability.",
+   "rating": 4.2,
+   "reviews": 1073,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/48/f4/85/cozy-booth-seatings.jpg",
+   "highlighted_review": {
+    "mention_count": 2
+   }
+  },
+  {
+   "position": 6,
+   "title": "Terry Black's Barbecue",
+   "place_type": "EATERY",
+   "place_id": "6856168",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d6856168-Reviews-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=6856168&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Spacious, casual stop for pit-smoked meats & housemade sides from famous 4th-generation pitmasters.",
+   "rating": 4.5,
+   "reviews": 1877,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f3/4b/6c/caption.jpg",
+   "highlighted_review": {
+    "mention_count": 5
+   }
+  },
+  {
+   "position": 7,
+   "title": "Leroy and Lewis BBQ",
+   "place_type": "EATERY",
+   "place_id": "17520064",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d17520064-Reviews-Leroy_and_Lewis_BBQ-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=17520064&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.3,
+   "reviews": 42,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/20/97/50/caption.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 8,
+   "title": "Southside Market & Barbeque - Bastrop",
+   "place_type": "EATERY",
+   "place_id": "7255914",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55451-d7255914-Reviews-Southside_Market_Barbeque_Bastrop-Bastrop_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=7255914&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.1,
+   "reviews": 228,
+   "location": "Bastrop, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/77/68/a6/southside-market-barbeque.jpg"
+  },
+  {
+   "position": 9,
+   "title": "Vic's Barbecue",
+   "place_type": "EATERY",
+   "place_id": "484136",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d484136-Reviews-Vic_s_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=484136&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 3.7,
+   "reviews": 63,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/73/53/b3/vic-s-barbecue.jpg"
+  },
+  {
+   "position": 10,
+   "title": "BBQ on the Brazos",
+   "place_type": "EATERY",
+   "place_id": "4105532",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55689-d4105532-Reviews-BBQ_on_the_Brazos-Cresson_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=4105532&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.6,
+   "reviews": 79,
+   "location": "Cresson, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/c1/70/ce/photo0jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 11,
+   "title": "Iron Works",
+   "place_type": "EATERY",
+   "place_id": "469571",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d469571-Reviews-Iron_Works-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=469571&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.1,
+   "reviews": 1070,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/f1/5c/0c/nothing-fancy-decor-which.jpg",
+   "highlighted_review": {
+    "mention_count": 3
+   }
+  },
+  {
+   "position": 12,
+   "title": "Cooper\u2019s Old Time Pit Bar-b-Que",
+   "place_type": "EATERY",
+   "place_id": "9788694",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d9788694-Reviews-Cooper_s_Old_Time_Pit_Bar_b_Que-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=9788694&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.3,
+   "reviews": 1057,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/21/a3/1d/photo3jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 2
+   }
+  },
+  {
+   "position": 13,
+   "title": "Stubb's Bar-B-Q",
+   "place_type": "EATERY",
+   "place_id": "469591",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d469591-Reviews-Stubb_s_Bar_B_Q-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=469591&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 3.9,
+   "reviews": 1077,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/ea/a3/72/stubb-s-bar.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 14,
+   "title": "Fat Buddies Ribs & BBQ",
+   "place_type": "EATERY",
+   "place_id": "592413",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g49146-d592413-Reviews-Fat_Buddies_Ribs_BBQ-Franklin_North_Carolina.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=592413&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.1,
+   "reviews": 522,
+   "location": "Franklin, North Carolina",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/cf/e3/42/fat-buddies-ribs-bbq.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 15,
+   "title": "The County Line",
+   "place_type": "EATERY",
+   "place_id": "484052",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d484052-Reviews-The_County_Line-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=484052&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.1,
+   "reviews": 368,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/64/24/7e/hill-patio.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 16,
+   "title": "Opie's Barbecue",
+   "place_type": "EATERY",
+   "place_id": "438053",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56699-d438053-Reviews-Opie_s_Barbecue-Spicewood_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=438053&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.5,
+   "reviews": 358,
+   "location": "Spicewood, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/d3/14/e3/photo4jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 17,
+   "title": "Loro Asian Smokehouse & Bar",
+   "place_type": "EATERY",
+   "place_id": "14003849",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d14003849-Reviews-Loro_Asian_Smokehouse_Bar-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=14003849&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Asian smokehouse meets Texas barbecue. With a menu you won't find anywhere else and plenty of seating, Loro will be your new favorite place in South Austin. Loro is brought to you by James Beard Award winners, Chef Tyson Cole of Uchi and Aaron Franklin of Franklin Barbecue.",
+   "rating": 4.3,
+   "reviews": 211,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/17/4c/bb/photo4jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 3
+   }
+  },
+  {
+   "position": 18,
+   "title": "Cattleack Barbeque",
+   "place_type": "EATERY",
+   "place_id": "4628566",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55711-d4628566-Reviews-Cattleack_Barbeque-Dallas_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=4628566&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.6,
+   "reviews": 160,
+   "location": "Dallas, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/32/69/36/22.jpg"
+  },
+  {
+   "position": 19,
+   "title": "Snow's BBQ",
+   "place_type": "EATERY",
+   "place_id": "918708",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56162-d918708-Reviews-Snow_s_BBQ-Lexington_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=918708&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.6,
+   "reviews": 156,
+   "location": "Lexington, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d8/b8/ba/photo1jpg.jpg"
+  },
+  {
+   "position": 20,
+   "title": "Donn's Bar-B-Que",
+   "place_type": "EATERY",
+   "place_id": "484723",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d484723-Reviews-Donn_s_Bar_B_Que-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=484723&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4,
+   "reviews": 62,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/95/7b/8a/photo0jpg.jpg"
+  },
+  {
+   "position": 21,
+   "title": "Kerlin BBQ",
+   "place_type": "EATERY",
+   "place_id": "6120849",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d6120849-Reviews-Kerlin_BBQ-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=6120849&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.7,
+   "reviews": 59,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/8d/19/13/photo1jpg.jpg"
+  },
+  {
+   "position": 22,
+   "title": "Brown's Bar-B-Que",
+   "place_type": "EATERY",
+   "place_id": "7251827",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d7251827-Reviews-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=7251827&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.7,
+   "reviews": 54,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/4b/b2/df/caption.jpg"
+  },
+  {
+   "position": 23,
+   "title": "Rudy's BBQ",
+   "place_type": "EATERY",
+   "place_id": "4162531",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d4162531-Reviews-Rudy_s_BBQ-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=4162531&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Rudy's \"Country Store\" and Bar-B-Q serves Real Texas Bar-B-Q seven days a week. They offer breakfast, lunch, dinner and group meals.",
+   "rating": 4.5,
+   "reviews": 247,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/15/5b/24/inside-view.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 24,
+   "title": "Oklahoma Joe's BBQ",
+   "place_type": "EATERY",
+   "place_id": "2521649",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g51224-d2521649-Reviews-Oklahoma_Joe_s_BBQ-Broken_Arrow_Oklahoma.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=2521649&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Family-owned barbecue restaurant in Broken Arrow, serving up our founder's world-championship recipes everyday!",
+   "rating": 4.2,
+   "reviews": 435,
+   "location": "Broken Arrow, Oklahoma",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4d/d0/17/20190424-182834-largejpg.jpg"
+  },
+  {
+   "position": 25,
+   "title": "Salt Lick BBQ",
+   "place_type": "EATERY",
+   "place_id": "476522",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55764-d476522-Reviews-Salt_Lick_BBQ-Driftwood_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=476522&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.4,
+   "reviews": 3490,
+   "location": "Driftwood, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/5a/75/e8/salt-lick-bbq.jpg",
+   "highlighted_review": {
+    "mention_count": 7
+   }
+  },
+  {
+   "position": 26,
+   "title": "LeRoy and Lewis Barbecue",
+   "place_type": "EATERY",
+   "place_id": "27482443",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d27482443-Reviews-LeRoy_and_Lewis_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=27482443&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Join us for a Special Steak Dinner Experience featuring our locally sourced steaks, butchered and aged in house. Steaks will be pre-selected by our team based on party size and current inventory. Steaks are $90 per pound and on average are 2.5-3.5 pounds each. Guests will be offered a tour of our BBQ pit to learn our steak smoking and grilling process. Steaks are cooked to temperature desired and served family style. Our servers can customize guest's experience at the time of arrival with appetizers, select BBQ meats, sides, dinner menu entrees, and desserts for an additional cost based on availability. <br />  <br />Wines by the glass, Special Wine Bottles, Local Beers and low ABV Cocktails can be ordered at the bar or from your server and are priced on the menu accordingly. We do NOT allow BYOB of any kind.  <br /><br />",
+   "rating": 4,
+   "reviews": 7,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/81/2c/84/caption.jpg"
+  },
+  {
+   "position": 27,
+   "title": "Peter's BBQ",
+   "place_type": "EATERY",
+   "place_id": "2337145",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55797-d2337145-Reviews-Peter_s_BBQ-Ellinger_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=2337145&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.4,
+   "reviews": 98,
+   "location": "Ellinger, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/51/4f/photo1jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 28,
+   "title": "Louie Mueller Barbecue",
+   "place_type": "EATERY",
+   "place_id": "476676",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56747-d476676-Reviews-Louie_Mueller_Barbecue-Taylor_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=476676&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Louie Mueller Barbecue has been described as a \"cathedral of smoke\" due to producing the finest BBQ in all of Texas since the restaurant opened its doors in 1949. Founder Louie Mueller handed over the reins to his son Bobby in 1974, who ran the smoker for over three decades before his son (third generation owner/pitmaster) Wayne Mueller took control in 2007. It was also around this time that the Central Texas BBQ restaurant was honored by the James Beard Foundation with an American Classics award, an honor given only to our nation's most beloved and best regional restaurants.",
+   "rating": 4.3,
+   "reviews": 454,
+   "location": "Taylor, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/44/12/ba/20171113-151801-largejpg.jpg",
+   "highlighted_review": {
+    "mention_count": 4
+   }
+  },
+  {
+   "position": 29,
+   "title": "Salt Lick BBQ",
+   "place_type": "EATERY",
+   "place_id": "1201485",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56584-d1201485-Reviews-Salt_Lick_BBQ-Round_Rock_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=1201485&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.1,
+   "reviews": 1231,
+   "location": "Round Rock, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/9f/08/e8/photo1jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 2
+   }
+  },
+  {
+   "position": 30,
+   "title": "The Green Mesquite BBQ & More",
+   "place_type": "EATERY",
+   "place_id": "3722367",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d3722367-Reviews-The_Green_Mesquite_BBQ_More-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=3722367&tripadvisor_domain=www.tripadvisor.com",
+   "description": "The Green Mesquite BBQ & More provides barbeque food to the Austin, TX area.",
+   "rating": 4,
+   "reviews": 200,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/0f/77/03/rustic-decor.jpg"
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor&limit=30&offset=30&q=Franklin+Barbecue+Austin&ssrc=r&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

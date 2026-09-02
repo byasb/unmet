@@ -1,0 +1,435 @@
+{
+ "search_metadata": {
+  "id": "6a9806352f47f87bdacb88b4",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/mGmN_7gPj8oVtf0HjaZjeJh5mlaIP3NFtLHGdfeC7_Q/6a9806352f47f87bdacb88b4.json",
+  "markdown_endpoint": "https://serpapi.com/searches/mGmN_7gPj8oVtf0HjaZjeJh5mlaIP3NFtLHGdfeC7_Q/6a9806352f47f87bdacb88b4.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/mGmN_7gPj8oVtf0HjaZjeJh5mlaIP3NFtLHGdfeC7_Q/6a9806352f47f87bdacb88b4.json_with_pixel_position",
+  "created_at": "2026-09-02 11:19:17 UTC",
+  "processed_at": "2026-09-02 11:19:17 UTC",
+  "google_url": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&oq=stiles+switch+vs+franklin+barbecue&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/mGmN_7gPj8oVtf0HjaZjeJh5mlaIP3NFtLHGdfeC7_Q/6a9806352f47f87bdacb88b4.html",
+  "total_time_taken": 5.14
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "stiles switch vs franklin barbecue",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "us",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "stiles switch vs franklin barbecue",
+  "total_results": 130,
+  "time_taken_displayed": 0.36,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Austin has a lot of great barbecue. But if we're being honest, it ...",
+   "link": "https://www.instagram.com/reel/DW2FZX-gXTo/",
+   "thumbnail": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/rC9XU9wMCHA-hRyLOlA22JVzElkqaTDBeLp19ou8gP0.jpeg",
+   "channel": "Infatuation Austin",
+   "duration": "0:12",
+   "platform": "Instagram",
+   "date": "Apr 7, 2026"
+  },
+  {
+   "position": 2,
+   "title": "Ranking The Top Texas BBQ in Austin! . . . - #texasbbq",
+   "link": "https://www.facebook.com/HereBeBarr/videos/ranking-the-top-texas-bbq-in-austintexasbbq-austin-austinfoodie-bbq-food/948385817829299/",
+   "thumbnail": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/9J1S3ieUivVuvrMJ9HeJtjG0QzafRKD-loe4p_TvSW0.jpeg",
+   "channel": "Here Be Barr",
+   "duration": "1:16",
+   "platform": "Facebook",
+   "date": "Mar 22, 2026"
+  },
+  {
+   "position": 3,
+   "title": "Austin BBQ Blind Ranking. Agree or completely wrong? # ...",
+   "link": "https://www.instagram.com/reel/DVfEIeGApFi/",
+   "thumbnail": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/CKksqSIGg1-Egq81RNhaWxJO9rAjiERYoJq4AqQS1ws.jpeg",
+   "channel": "Scott McCord || Realtor in Austin Texas",
+   "duration": "0:23",
+   "platform": "Instagram",
+   "date": "Mar 4, 2026"
+  },
+  {
+   "position": 4,
+   "title": "Alternatives to Franklin's : r/BBQ",
+   "link": "https://www.reddit.com/r/BBQ/comments/5g3w7o/alternatives_to_franklins/",
+   "thumbnail": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/kOyusX2S_o8eqWIzuAt-AHC6UdmUeoODCz3AYHJpGTw.jpeg",
+   "channel": "Eater",
+   "duration": "7:50",
+   "platform": "Reddit",
+   "date": "Dec 2, 2016",
+   "snippet": "Skip the 4-hour line at Franklin Barbecue & try 3 great alternatives: Ironworks, Love Barbecue, and House Park Barbecue.",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLMSNdl1Yyg52hLCUQsphFjXG6lLYKOPHFzw"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Is Franklin Barbecue worth the wait?",
+   "type": "ai_overview",
+   "page_token": "hd9J4nicHdBRboIwAADQ7DL7nBTEZSZmCUpREru1pS32Z8EWZdBKHUyUv91lp9pptuwC7-N9fZv3U_Nzd6n63nXzyWQYhodj2x5N-aBaOym620lNVGHMvlDNfPY4A88HtYg_N9HyvIkwc46viEctWemMJ7g2CPFqSxIdshGP1Dc1aqBkIlwy1gFkQydFCnaCR0K4bM-u3j6e3lQAtzTQFxJrWtorwGNq9WgKuaooT-Q6C9xGLIFTSeoh2E6lzykGkMqM3FBgUMmqpuBprQH2My8NadIMZF3lLwkZyyw9y5xvStHnbJUWhSADtubPferECbLcC33B1LSsuciszJF_jeJKv0ofyl0OX8uYX4mnBw0hLoW8sQRElLTvmJFR1cay2nQ8cGdqAUcWJXoJppxXGMUQaljFW__Y6-H-oC6L4P7_c_F2sP3cfbTHX6iagog",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hd9J4nicHdBRboIwAADQ7DL7nBTEZSZmCUpREru1pS32Z8EWZdBKHUyUv91lp9pptuwC7-N9fZv3U_Nzd6n63nXzyWQYhodj2x5N-aBaOym620lNVGHMvlDNfPY4A88HtYg_N9HyvIkwc46viEctWemMJ7g2CPFqSxIdshGP1Dc1aqBkIlwy1gFkQydFCnaCR0K4bM-u3j6e3lQAtzTQFxJrWtorwGNq9WgKuaooT-Q6C9xGLIFTSeoh2E6lzykGkMqM3FBgUMmqpuBprQH2My8NadIMZF3lLwkZyyw9y5xvStHnbJUWhSADtubPferECbLcC33B1LSsuciszJF_jeJKv0ofyl0OX8uYX4mnBw0hLoW8sQRElLTvmJFR1cay2nQ8cGdqAUcWJXoJppxXGMUQaljFW__Y6-H-oC6L4P7_c_F2sP3cfbTHX6iagog",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IklzIEZyYW5rbGluIEJhcmJlY3VlIHdvcnRoIHRoZSB3YWl0PyIsImxrIjoiR2lOcGN5Qm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjNiM0owYUNCMGFHVWdkMkZwZEEiLCJicyI6ImMyMk9NUXZDTUJDRmNiM0pPU3FjVm5GU01ic0VPZ2dkSEFTaGM2TFJoSlpXazBqdHZ6ZXBWUWk0SGJ6dmUtX2dBUFBNNHQ3d3FpaDFoU2szUXA2ZkVwdmFPSVZPLVl0cngtaUNKTnJpOWN1Sl94eHdXRWQxNlJHRmRFNGFqX0FLVDlLWUZ0T1NuNHVsRFNtakc3S0tpc1VqTWx4bmlON3dLV1F3eXhWMzZLMHdtMnk3bGJzbkpPb3c4ZUtXMFlSTW01Z0t6VF9LQlFwMk1NNVZHNWpvWTF2anJhNHZqRTdJcVBuazBYOTlQaHk4QVEiLCJpZCI6ImZjX09nYVlhcU94RXFHR3B0UVB5ZnJQbUFJXzQifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IklzIEZyYW5rbGluIEJhcmJlY3VlIHdvcnRoIHRoZSB3YWl0PyIsImxrIjoiR2lOcGN5Qm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjNiM0owYUNCMGFHVWdkMkZwZEEiLCJicyI6ImMyMk9NUXZDTUJDRmNiM0pPU3FjVm5GU01ic0VPZ2dkSEFTaGM2TFJoSlpXazBqdHZ6ZXBWUWk0SGJ6dmUtX2dBUFBNNHQ3d3FpaDFoU2szUXA2ZkVwdmFPSVZPLVl0cngtaUNKTnJpOWN1Sl94eHdXRWQxNlJHRmRFNGFqX0FLVDlLWUZ0T1NuNHVsRFNtakc3S0tpc1VqTWx4bmlON3dLV1F3eXhWMzZLMHdtMnk3bGJzbkpPb3c4ZUtXMFlSTW01Z0t6VF9LQlFwMk1NNVZHNWpvWTF2anJhNHZqRTdJcVBuazBYOTlQaHk4QVEiLCJpZCI6ImZjX09nYVlhcU94RXFHR3B0UVB5ZnJQbUFJXzQifQ%3D%3D"
+  },
+  {
+   "question": "Is Franklin BBQ better than Terry Black's BBQ?",
+   "type": "ai_overview",
+   "page_token": "wPrTPnicHdBrbtowAABg7TL9WWLSdAIJVUtJIKwx-O34zxTsQIidh0rUPP7tCjvDTrXTrOp3hO_3X3dr7L9vf8q-7-7rxWIYhsdr215d8ajbepHfp0YvdO7cOdd2_fz9Gbxc9Cb60OHruw4R6zq-xR7h3bao-ztdBqes-QEEUz6puaUVmzXHfcpjazgv4d5kfDaT9MNegi6RPofYrQZdG1jYMTVO7dP5IHOLSbrnJyoSP2twRG-gZHWZpLJ9StlKpnXQExBN6bILsoZ7rOFH7NtJSHxgPMzpDDMtzAyFK4k0T7riAi5XPzOaDJSNQNtRIQJexdZJBWCtPJCcmWnVDnhvMo6NPByRhQGJOsuB2VFhJlXBiYkYRqU5qWWsMhmfioiP2DODiWNUCDWxHQgJbm-I4VlXrubRodI7NECBAPVGdJRhdt5b8CZDQKrw8ymoGHq46I-N__B1vfl1qft1995e_wMEKIyD",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wPrTPnicHdBrbtowAABg7TL9WWLSdAIJVUtJIKwx-O34zxTsQIidh0rUPP7tCjvDTrXTrOp3hO_3X3dr7L9vf8q-7-7rxWIYhsdr215d8ajbepHfp0YvdO7cOdd2_fz9Gbxc9Cb60OHruw4R6zq-xR7h3bao-ztdBqes-QEEUz6puaUVmzXHfcpjazgv4d5kfDaT9MNegi6RPofYrQZdG1jYMTVO7dP5IHOLSbrnJyoSP2twRG-gZHWZpLJ9StlKpnXQExBN6bILsoZ7rOFH7NtJSHxgPMzpDDMtzAyFK4k0T7riAi5XPzOaDJSNQNtRIQJexdZJBWCtPJCcmWnVDnhvMo6NPByRhQGJOsuB2VFhJlXBiYkYRqU5qWWsMhmfioiP2DODiWNUCDWxHQgJbm-I4VlXrubRodI7NECBAPVGdJRhdt5b8CZDQKrw8ymoGHq46I-N__B1vfl1qft1995e_wMEKIyD",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IklzIEZyYW5rbGluIEJCUSBiZXR0ZXIgdGhhbiBUZXJyeSBCbGFjaydzIEJCUT8iLCJsayI6ImM1UFN6U3hXU0N0S3pNdk95Y3hUU0VvcVZFaEtMU2xKTFZJb3lVak1Vd0F5aWlvVmtuSVNrN1BWaTBHeUFBIiwiYnMiOiJjMjJPTVF2Q01CQ0ZjYjNKT1NxY1ZuRlNNYnNFT2dnZEhBU2hjNkxSaEpaV2swanR2emVwVlFpNEhienZlLV9nQVBQTTR0N3dxaWgxaFNrM1FwNmZFcHZhT0lWTy1ZdHJ4LWlDSk5yaTljdUpfeHh3V0VkMTZSR0ZkRTRhal9BS1Q5S1lGdE9TbjR1bERTbWpHN0tLaXNVak1seG5pTjd3S1dRd3l4VjM2SzB3bTJ5N2xic25KT293OGVLVzBZUk1tNWdLelRfS0JRcDJNTTVWRzVqb1kxdmpyYTR2akU3SXFQbmswWDk5UGh5OEFRIiwiaWQiOiJmY19PZ2FZYXFPeEVxR0dwdFFQeWZyUG1BSV80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IklzIEZyYW5rbGluIEJCUSBiZXR0ZXIgdGhhbiBUZXJyeSBCbGFjaydzIEJCUT8iLCJsayI6ImM1UFN6U3hXU0N0S3pNdk95Y3hUU0VvcVZFaEtMU2xKTFZJb3lVak1Vd0F5aWlvVmtuSVNrN1BWaTBHeUFBIiwiYnMiOiJjMjJPTVF2Q01CQ0ZjYjNKT1NxY1ZuRlNNYnNFT2dnZEhBU2hjNkxSaEpaV2swanR2emVwVlFpNEhienZlLV9nQVBQTTR0N3dxaWgxaFNrM1FwNmZFcHZhT0lWTy1ZdHJ4LWlDSk5yaTljdUpfeHh3V0VkMTZSR0ZkRTRhal9BS1Q5S1lGdE9TbjR1bERTbWpHN0tLaXNVak1seG5pTjd3S1dRd3l4VjM2SzB3bTJ5N2xic25KT293OGVLVzBZUk1tNWdLelRfS0JRcDJNTTVWRzVqb1kxdmpyYTR2akU3SXFQbmswWDk5UGh5OEFRIiwiaWQiOiJmY19PZ2FZYXFPeEVxR0dwdFFQeWZyUG1BSV80In0%3D"
+  },
+  {
+   "question": "What is the #1 BBQ place in Texas?",
+   "type": "ai_overview",
+   "page_token": "o7QozHicHdBdToMwAADgeJk9OgpzxiWLSWfL5gKMrj-sLwbabR0UqFpFefMunsrTaLzA9_B9fdtL1_xcvRvv3etiOh2G4frc92d7vFZ9Oy1fPzs1VaW1Vamaxfx2Du5PaoneNnD1vIE5c44_kICiPqxiBZJC17Qxko26o9TknOU3SSC7NMBcR8iXlPiq0G0RSMfAnThEumPgcVVxiUlt90XUzDLs3mg8i_LCPpOAhHwNa90YkVqTVRhulQB1FfFVHtlEhQ5KkdIy0h-iJpcEbLzoXEZGs-UxTtIOjRpoeGwcT2ODFfPtgeKGAjZwAYzC7kYjv60Cu06Rxwf-Z1nYIaN3MsTyUODdEfEPEuhBY5wfhfxkMYB70l9yRkZV25btwQMTLstisCNhMFTobuRcjgr5eYKhy5ifsXxyUu_LaPL_uXw6tX7hXvrzL6IJgl4",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=o7QozHicHdBdToMwAADgeJk9OgpzxiWLSWfL5gKMrj-sLwbabR0UqFpFefMunsrTaLzA9_B9fdtL1_xcvRvv3etiOh2G4frc92d7vFZ9Oy1fPzs1VaW1Vamaxfx2Du5PaoneNnD1vIE5c44_kICiPqxiBZJC17Qxko26o9TknOU3SSC7NMBcR8iXlPiq0G0RSMfAnThEumPgcVVxiUlt90XUzDLs3mg8i_LCPpOAhHwNa90YkVqTVRhulQB1FfFVHtlEhQ5KkdIy0h-iJpcEbLzoXEZGs-UxTtIOjRpoeGwcT2ODFfPtgeKGAjZwAYzC7kYjv60Cu06Rxwf-Z1nYIaN3MsTyUODdEfEPEuhBY5wfhfxkMYB70l9yRkZV25btwQMTLstisCNhMFTobuRcjgr5eYKhy5ifsXxyUu_LaPL_uXw6tX7hXvrzL6IJgl4",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIEJCUSBwbGFjZSBpbiBUZXhhcz8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0FqTVNCaVluRWdjR3hoWTJVZ2FXNGdkR1Y0WVhNIiwiYnMiOiJjMjJPTVF2Q01CQ0ZjYjNKT1NxY1ZuRlNNYnNFT2dnZEhBU2hjNkxSaEpaV2swanR2emVwVlFpNEhienZlLV9nQVBQTTR0N3dxaWgxaFNrM1FwNmZFcHZhT0lWTy1ZdHJ4LWlDSk5yaTljdUpfeHh3V0VkMTZSR0ZkRTRhal9BS1Q5S1lGdE9TbjR1bERTbWpHN0tLaXNVak1seG5pTjd3S1dRd3l4VjM2SzB3bTJ5N2xic25KT293OGVLVzBZUk1tNWdLelRfS0JRcDJNTTVWRzVqb1kxdmpyYTR2akU3SXFQbmswWDk5UGh5OEFRIiwiaWQiOiJmY19PZ2FZYXFPeEVxR0dwdFFQeWZyUG1BSV80In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlICMxIEJCUSBwbGFjZSBpbiBUZXhhcz8iLCJsayI6IkdpRjNhR0YwSUdseklIUm9aU0FqTVNCaVluRWdjR3hoWTJVZ2FXNGdkR1Y0WVhNIiwiYnMiOiJjMjJPTVF2Q01CQ0ZjYjNKT1NxY1ZuRlNNYnNFT2dnZEhBU2hjNkxSaEpaV2swanR2emVwVlFpNEhienZlLV9nQVBQTTR0N3dxaWgxaFNrM1FwNmZFcHZhT0lWTy1ZdHJ4LWlDSk5yaTljdUpfeHh3V0VkMTZSR0ZkRTRhal9BS1Q5S1lGdE9TbjR1bERTbWpHN0tLaXNVak1seG5pTjd3S1dRd3l4VjM2SzB3bTJ5N2xic25KT293OGVLVzBZUk1tNWdLelRfS0JRcDJNTTVWRzVqb1kxdmpyYTR2akU3SXFQbmswWDk5UGh5OEFRIiwiaWQiOiJmY19PZ2FZYXFPeEVxR0dwdFFQeWZyUG1BSV80In0%3D"
+  },
+  {
+   "question": "Why is Franklin BBQ so good?",
+   "type": "ai_overview",
+   "page_token": "6oW1xHicHdBdToMwAADgeJk9CgzFsGQxKf9N6FJ-CvTFQGHAaAEHrmNv3sVTeRoTvyN83z-8H4ffp7xb13k5KIqU8rmdppY3z2wSSrlsI1NYyXlVsuFgvBna-5kdnUUCa5IAp_NM7EiNBQ_jjNxPHsoaTm9MJSMatK241HbsrEnjUVyotKwfJK_08E5EfW1812mGSY9zNIYOdZMEGqVnXhuX3TO__oztQKY2CbLMFVSdO5oDo3h0VrEPZOIXshBaQEdwa_JhT8RdRz7coxH1ca_1KIdGlFKr9Dtcc7iFlzqoknZlHGhFamal08auao4F4R1LzZcod_1IB2pKwCsdIa5SF3o9BJGPtlNGY5xpXyxBVqK7M-7VjV0iB2smZA9kY1EvZDCj3Zndjvruf-z4cRbrYb5O7R8b9XjC",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6oW1xHicHdBdToMwAADgeJk9CgzFsGQxKf9N6FJ-CvTFQGHAaAEHrmNv3sVTeRoTvyN83z-8H4ffp7xb13k5KIqU8rmdppY3z2wSSrlsI1NYyXlVsuFgvBna-5kdnUUCa5IAp_NM7EiNBQ_jjNxPHsoaTm9MJSMatK241HbsrEnjUVyotKwfJK_08E5EfW1812mGSY9zNIYOdZMEGqVnXhuX3TO__oztQKY2CbLMFVSdO5oDo3h0VrEPZOIXshBaQEdwa_JhT8RdRz7coxH1ca_1KIdGlFKr9Dtcc7iFlzqoknZlHGhFamal08auao4F4R1LzZcod_1IB2pKwCsdIa5SF3o9BJGPtlNGY5xpXyxBVqK7M-7VjV0iB2smZA9kY1EvZDCj3Zndjvruf-z4cRbrYb5O7R8b9XjC",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IldoeSBpcyBGcmFua2xpbiBCQlEgc28gZ29vZD8iLCJsayI6IkdodDNhSGtnYVhNZ1puSmhibXRzYVc0Z1ltSnhJSE52SUdkdmIyUSIsImJzIjoiYzIyT01RdkNNQkNGY2IzSk9TcWNWbkZTTWJzRU9nZ2RIQVNoYzZMUmhKWldrMGp0dnplcFZRaTRIYnp2ZS1fZ0FQUE00dDd3cWloMWhTazNRcDZmRXB2YU9JVk8tWXRyeC1pQ0pOcmk5Y3VKX3h4d1dFZDE2UkdGZEU0YWpfQUtUOUtZRnRPU240dWxEU21qRzdLS2lzVWpNbHhuaU43d0tXUXd5eFYzNkswd20yeTdsYnNuSk9vdzhlS1cwWVJNbTVnS3pUX0tCUXAyTU01Vkc1am9ZMXZqcmE0dmpFN0lxUG5rMFg5OVBoeThBUSIsImlkIjoiZmNfT2dhWWFxT3hFcUdHcHRRUHlmclBtQUlfNCJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVTFiRmxPZFRoeFNYZEdRMGgyVTBveFVIUlpVVXhvVFdrNFRqbENYM0pETWpadFJEUlNUVzVDTjBGdVJ6aExlR0ZDY2xoNldXaGxTM1pmYVdnMk16bDNNbVpWWWpWRWEzSlFlRE5FT1cxVVQwaENaVTVRTTB4TVFSSVhUMmRoV1dGeFQzaEZjVWRIY0hSUlVIbG1jbEJ0UVVrYUlrRkVjM0k1WmxSbVVtbHpibVYyUnpWUFRVOWlTSGxuTUdwNmFYUmpiREUxUzFFIiwiZmN2IjoiMyIsImVpIjoiT2dhWWFxT3hFcUdHcHRRUHlmclBtQUkiLCJxYyI6IkNpSnpkR2xzWlhNZ2MzZHBkR05vSUhaeklHWnlZVzVyYkdsdUlHSmhjbUpsWTNWbEVBQjk4WWNJUHciLCJxdWVzdGlvbiI6IldoeSBpcyBGcmFua2xpbiBCQlEgc28gZ29vZD8iLCJsayI6IkdodDNhSGtnYVhNZ1puSmhibXRzYVc0Z1ltSnhJSE52SUdkdmIyUSIsImJzIjoiYzIyT01RdkNNQkNGY2IzSk9TcWNWbkZTTWJzRU9nZ2RIQVNoYzZMUmhKWldrMGp0dnplcFZRaTRIYnp2ZS1fZ0FQUE00dDd3cWloMWhTazNRcDZmRXB2YU9JVk8tWXRyeC1pQ0pOcmk5Y3VKX3h4d1dFZDE2UkdGZEU0YWpfQUtUOUtZRnRPU240dWxEU21qRzdLS2lzVWpNbHhuaU43d0tXUXd5eFYzNkswd20yeTdsYnNuSk9vdzhlS1cwWVJNbTVnS3pUX0tCUXAyTU01Vkc1am9ZMXZqcmE0dmpFN0lxUG5rMFg5OVBoeThBUSIsImlkIjoiZmNfT2dhWWFxT3hFcUdHcHRRUHlmclBtQUlfNCJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "-_v5GHiczVZdcuI4ED7AnmP9kgnGYH6SKteULBQQgRANkEBeXLYQxoAxWAZD3uYue6o9zcoGgyEm2ZmHre3CSGp9brWk_vj4-dfcWcz-_mM3CYIlv5flMAxztufZc5ajniubfLeg8tibc59Ovttzbc2lyVxjC2m30YoS5VpeYo7Wsc2hueps0apeXwbkeTf2n12Apfh1zbBMzqYi-nbKZUMWX7M_izUxyPEcW-TK_XAGhqteb9bOFfLKXa4jm64AgP_ObAQwAAR0AYrHOBM1_DoQAQACEUZP-8h-jaOjHuNAsho5LPrBENwnosMoHIw-z6VgIxxeAqnZ2a8KzNkebNCPfCCMR80omew9Ztt-BzjKITZ4HXpEZ3q90zh9vzrINnJx5F0AplWA0Ok0U2s1z-IgIvKNxzPwbFcJoNi5elhxDn2gv2Mww5-ihGH0osIE9MDFPrA8skXB5mXLF40iO3RC447PozqGvbu81ygpL3fzzrRZuQ3HgcX1qVcd-jPV5A-hTC2Bm3vmiI2MiZH_Ho-VglLK3xUr1W8xgSg_MoinGeSbQOk11mtyy3OtnK4k9IHHK7443aia9MySmxygWdfhnLzizPHh3B-jOIdlkvKAANUd8Z2OguBEj2svPDhqomMCEh4Rp3IkMIs-ycqn1jyERjHcPqydWhNgfAqbmtFD8MHgeQ4RCtBkDp6XNAbnJQKxHqV8TPqsaG2RB4HiB0bUPkQN_WHvpuccwuCSNiKaDeMt7C2ZRYfZFH2wYBWxRYwfzQhg93WRkoCQ5KUfB2CXXFw7yqKqPgRDnDnztcGvyBMZSXhyUfZpuiC3tTYKNlHecNXtvm8p3RYeW8ZyVpuQbHp4rvULCkP_VwTa68_woAgQtDMJpEadzwkU6w-5rj9xt34kULyJPkJXCAT3BPqoP2oCOenPJYF0nCaQTT7Tn18mEPyUQPs2k0BeNoGWVwiU6E-KQOf6g7L0JyHQ7-gP_E39ifnE9s25GK2n9lVRQjWnh4PCjjk9tfQK2WuFdHu8tdjQfyFKYze4d83R_JvhjO71QjPYjb4ZwuHds5G00njgzBm_4aET0MnNht-MfXMxE383byzTtxhdM8md-56WNyvrwtb0Or0aZtUeccqNnV6uFZ5etpW3Wwv7aAD6YQsYt5O3DZ4q_qDrMMc039zJ4AmuesgFauexpJLuaOnxcfhwO60qvr964E1mvNbawdBRQEdtDkt6Oa_Sad9ZvCt2EOrUqlY6uP3S3rqDcr3RWi5gd1xuv42bxTgzrgWM-ZvBAJsNVRIb40xTJNenmqg81QZPBLzaUR0Oo_oUjyeeUDxlQJAucWoajG80k1lls2pVS3lWqhSKVHLtYLfU1KLEF76m_AM8jEEF",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-_v5GHiczVZdcuI4ED7AnmP9kgnGYH6SKteULBQQgRANkEBeXLYQxoAxWAZD3uYue6o9zcoGgyEm2ZmHre3CSGp9brWk_vj4-dfcWcz-_mM3CYIlv5flMAxztufZc5ajniubfLeg8tibc59Ovttzbc2lyVxjC2m30YoS5VpeYo7Wsc2hueps0apeXwbkeTf2n12Apfh1zbBMzqYi-nbKZUMWX7M_izUxyPEcW-TK_XAGhqteb9bOFfLKXa4jm64AgP_ObAQwAAR0AYrHOBM1_DoQAQACEUZP-8h-jaOjHuNAsho5LPrBENwnosMoHIw-z6VgIxxeAqnZ2a8KzNkebNCPfCCMR80omew9Ztt-BzjKITZ4HXpEZ3q90zh9vzrINnJx5F0AplWA0Ok0U2s1z-IgIvKNxzPwbFcJoNi5elhxDn2gv2Mww5-ihGH0osIE9MDFPrA8skXB5mXLF40iO3RC447PozqGvbu81ygpL3fzzrRZuQ3HgcX1qVcd-jPV5A-hTC2Bm3vmiI2MiZH_Ho-VglLK3xUr1W8xgSg_MoinGeSbQOk11mtyy3OtnK4k9IHHK7443aia9MySmxygWdfhnLzizPHh3B-jOIdlkvKAANUd8Z2OguBEj2svPDhqomMCEh4Rp3IkMIs-ycqn1jyERjHcPqydWhNgfAqbmtFD8MHgeQ4RCtBkDp6XNAbnJQKxHqV8TPqsaG2RB4HiB0bUPkQN_WHvpuccwuCSNiKaDeMt7C2ZRYfZFH2wYBWxRYwfzQhg93WRkoCQ5KUfB2CXXFw7yqKqPgRDnDnztcGvyBMZSXhyUfZpuiC3tTYKNlHecNXtvm8p3RYeW8ZyVpuQbHp4rvULCkP_VwTa68_woAgQtDMJpEadzwkU6w-5rj9xt34kULyJPkJXCAT3BPqoP2oCOenPJYF0nCaQTT7Tn18mEPyUQPs2k0BeNoGWVwiU6E-KQOf6g7L0JyHQ7-gP_E39ifnE9s25GK2n9lVRQjWnh4PCjjk9tfQK2WuFdHu8tdjQfyFKYze4d83R_JvhjO71QjPYjb4ZwuHds5G00njgzBm_4aET0MnNht-MfXMxE383byzTtxhdM8md-56WNyvrwtb0Or0aZtUeccqNnV6uFZ5etpW3Wwv7aAD6YQsYt5O3DZ4q_qDrMMc039zJ4AmuesgFauexpJLuaOnxcfhwO60qvr964E1mvNbawdBRQEdtDkt6Oa_Sad9ZvCt2EOrUqlY6uP3S3rqDcr3RWi5gd1xuv42bxTgzrgWM-ZvBAJsNVRIb40xTJNenmqg81QZPBLzaUR0Oo_oUjyeeUDxlQJAucWoajG80k1lls2pVS3lWqhSKVHLtYLfU1KLEF76m_AM8jEEF"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "How does Stiles Switch BBQ compare to Franklin's? : r/Austin",
+   "link": "https://www.reddit.com/r/Austin/comments/6x8csy/how_does_stiles_switch_bbq_compare_to_franklins/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFaskBqmVTkOLWkWz7W8E3D4cymiva4YhfkREPn_uZ3so7EtTq2dVDn_gKODXNwjbgAnwuF0jPRoP5gBl6s7SMyxdSBJ76ao9aboRccnZ3exV8mSKxBP1CDGmaEr88RaykPSG5Xf4c1S0nBLvEe-sVmco_zYxVurca0DWWqQjVYKa3IRAfxkIt2EsoJevotWsk720Yg&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQFnoECCcQAQ&uoh=1",
+   "displayed_link": "30+ comments \u00b7 9 years ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "In my experience for brisket Rudy's beats Stiles Switch. Stiles Switch is Tasty to me and. But Stiles is convenient for me. It's not franklin ...",
+   "snippet_highlighted_words": [
+    "Stiles Switch is Tasty to me"
+   ],
+   "sitelinks": {
+    "list": [
+     {
+      "title": "What's With The Stiles Switch Hype? : r/austinfood - Reddit",
+      "link": "https://www.google.com/goto?url=CAESjgEB6zswFYkMFCAbYesCKWBlipf7A9_jivIASHnnSgUevI3Z0hwDO2oZvo7WnDtUOo-hlYd2wRVrN-JpFV3QzpowNVVUNiJ7sgZr_E8fgvupvAzwkrITUg6csdBV_NqrR7WNzuVIZxuslI0DnlzTVKhA2MjGXQHlcFmV38N3h3mX2wcq7_V4CDfLEO5maazW",
+      "answer_count": 45,
+      "date": "Jun 3, 2022"
+     },
+     {
+      "title": "stiles switch bbq : r/austinfood - Reddit",
+      "link": "https://www.google.com/goto?url=CAESfwHrOzAVEFTHCbLXtTAtLV1c79t97Lv0eIUMG54oj9ix-9hd-UqiXb6QMqK4RZUgqxpvCtRltT4_4_GUFDpRxTi9Juet8oBLwvUHxcROix6tHOhVmyLi2oCyOVttCPmvNrZlULZgJQzmVx1mpEQCf5mGgIZN1mQU6Qf1Zgi5HGA",
+      "answer_count": 89,
+      "date": "Apr 25, 2026"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "In my experience for brisket Rudy's beats Stiles Switch. Stiles Switch is Tasty to me and. But Stiles is convenient for me. It's not franklin ...",
+     "source_info_link": "https://www.reddit.com/r/Austin/comments/6x8csy/how_does_stiles_switch_bbq_compare_to_franklins/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/Austin/comments/6x8csy/how_does_stiles_switch_bbq_compare_to_franklins/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FAustin%2Fcomments%2F6x8csy%2Fhow_does_stiles_switch_bbq_compare_to_franklins%2F",
+   "source": "Reddit \u00b7 r/Austin"
+  },
+  {
+   "position": 2,
+   "title": "Stiles Switch BBQ - Landing Page",
+   "link": "https://stilesswitchbbq.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVN8tVnYMRjCJSjyDGLpzHCwJuHjwJu9_A2kK32dys7zfA085ulArQYDTBkjuEQpY1XekxEkM70RMF4n9Z7-b_8vazimZgvm7UeogHqaRUYQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQFnoECCMQAQ&uoh=1",
+   "displayed_link": "https://stilesswitchbbq.com",
+   "favicon": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/Rqc7D83WdgJve-k86EmqeU0LQ7CeTd4GQy1eLcE7pyA.png",
+   "snippet": "Stiles Switch BBQ - Landing Page ; Stiles Switch BBQ. Austin, TX ; Cedar Park. Cedar Park, TX ; THE SWITCH. Dripping Springs, TX ...",
+   "snippet_highlighted_words": [
+    "Stiles Switch BBQ"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Stiles Switch BBQ - Landing Page ; Stiles Switch BBQ. Austin, TX ; Cedar Park. Cedar Park, TX ; THE SWITCH. Dripping Springs, TX ...",
+     "source_info_link": "https://stilesswitchbbq.com/",
+     "icon": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/Rqc7D83WdgJve-k86EmqedXHR9FQOJ8w85otbP9LnA2bqP6RRDOm3UKmHTQSOSB3.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://stilesswitchbbq.com/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fstilesswitchbbq.com%2F",
+   "source": "Stiles Switch BBQ",
+   "read_more_link": "https://www.google.com/goto?url=CAES8QEB6zswFZhffgvw0Qs6DNH6ck82NzFTiEIwDokYzkkkrTSdVJ5HQCpCslGou3IpEl4HHPUuByiXCRgd8ik28SbnWLeDqvx10Gafkdmfze4Qt8xxKuCPkxdt0tWuZ7jTb6PyXyKikQRkq8OpkP4-sjbYqafLWLbvHjyyR8Qv7oLBgV_DBNntAy9sJCRgNmK1zQLGEJLeK29axr3MtCQ8qvZq3LFo5_hE7Psp1yEuveLyBvPQKJMc_xh7ocu0DNFL7FjtPZQbliSKLtu-c3lnRsmsiKfiko4IQwjuFwkGgVk-FdMzQbegd69TJQ2ovHJrIbIz"
+  },
+  {
+   "position": 3,
+   "title": "What brisket in Austin is comparable to or better than ...",
+   "link": "https://www.facebook.com/groups/northtexasbbq/posts/7721946617911996/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVo59gkf17pWeJgau4GyLNANuChlaLX0FUIbPQebBITlxqDiGpPD8_OurE68n38YhvP-BefSaR8ZFecGu4gG1SQ4_PZVkL-tVhipjOB584oCwGkn1PerOcDB_oUBjxU2nIu12J0ceDXKUB6_ZvkX5V5JH2DM1pUGLQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQFnoECDcQAQ&uoh=1",
+   "displayed_link": "120+ comments \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Who's brisket in Austin, would you say is comparable to if not better than Franklin's? I am bringing a friend down from MN to try the best Texas has ...",
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Which is better, Franklin's BBQ or Terry Black's in Austin, Texas?",
+      "link": "https://www.google.com/goto?url=CAESfQHrOzAV5bATinOOukLlN2cRstB9pdBnUnWZ53G9jrBnw97Jmb358tFGVRM6Pw_iTxGAJZiEwfkkQ1FqLaOWFD7979AtEec5NTK2Ns3DVj0xDGXAomjGymc4nMvxKSsnUKyBF00XJjgf7dNs8wZs09HSsDfC8ELRBkeunGCe",
+      "date": "Mar 14, 2024"
+     },
+     {
+      "title": "What's the best Austin BBQ spot for dinner besides Stiles ...",
+      "link": "https://www.google.com/goto?url=CAESfQHrOzAVGReudMjm8LX0AzIPVGPr6KFc27FWF9j-FqCZICm2BcHkFtwe2v-52MMPzPOdqz2qGCrjiTe7Q8lh6CqViPITKz0j0ED9EZlC5iYpj-Rc6Kis2v5ED8ckABCPgL29jKVhGwX1kxgKiZQqLJ3fxVoBMzb5_dgnq9DJ",
+      "date": "Nov 7, 2024"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Stiles Switch are top recommendations for brisket in Austin, Switch is also pretty good. Franklin has absolutely nailed it. The brisket, ribs, ...",
+     "source_info_link": "https://www.facebook.com/groups/northtexasbbq/posts/7721946617911996/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/northtexasbbq/posts/7721946617911996/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fnorthtexasbbq%2Fposts%2F7721946617911996%2F",
+   "source": "Facebook \u00b7 North Texas BBQ Addicts"
+  },
+  {
+   "position": 4,
+   "title": "Terry Black's BBQ and Franklin's BBQ. In this epic culinary ...",
+   "link": "https://www.google.com/goto?url=CAESygEB6zswFZePBCf7ttNepd8rbfr-5gz9DZEgkAh6ZdJpNSDniyBRvPokjoa3M17M9sobQ4tXgc7VJq_b2GU65qrYSbalg4NG1ZghzHQY1VaQI7HhVDESeEgma0p_2VdFKXEg8f0ONA34TOYDT3odPtqfola_sSgbav2CJtb5gy9FfKosBoQ025jmA7JNkkVye1SWSiD-7aPBs5JKJct_GHLpycJyKPo0RmGZtlbl8ulae54pSDaaIt0LXIEJl_UqIhe54STKVd9hmrGr",
+   "displayed_link": "1.4K+ reactions \u00b7 2 years ago",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8G4d5q_VBKVTRFjW6RopzzpzMoIFqODWbZfiCfOLzevWgifyFe0PkiA&s",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Franklin Barbecue ribs are even better. The video is a comprehensive food review of Stiles Switch BBQ & Brew in Austin, Texas.",
+   "duration": "3:01",
+   "about_this_result": {
+    "source": {
+     "description": "Franklin Barbecue ribs are even better. The video is a comprehensive food review of Stiles Switch BBQ & Brew in Austin, Texas.",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    }
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESygEB6zswFZePBCf7ttNepd8rbfr-5gz9DZEgkAh6ZdJpNSDniyBRvPokjoa3M17M9sobQ4tXgc7VJq_b2GU65qrYSbalg4NG1ZghzHQY1VaQI7HhVDESeEgma0p_2VdFKXEg8f0ONA34TOYDT3odPtqfola_sSgbav2CJtb5gy9FfKosBoQ025jmA7JNkkVye1SWSiD-7aPBs5JKJct_GHLpycJyKPo0RmGZtlbl8ulae54pSDaaIt0LXIEJl_UqIhe54STKVd9hmrGr&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESygEB6zswFZePBCf7ttNepd8rbfr-5gz9DZEgkAh6ZdJpNSDniyBRvPokjoa3M17M9sobQ4tXgc7VJq_b2GU65qrYSbalg4NG1ZghzHQY1VaQI7HhVDESeEgma0p_2VdFKXEg8f0ONA34TOYDT3odPtqfola_sSgbav2CJtb5gy9FfKosBoQ025jmA7JNkkVye1SWSiD-7aPBs5JKJct_GHLpycJyKPo0RmGZtlbl8ulae54pSDaaIt0LXIEJl_UqIhe54STKVd9hmrGr",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRoqeAh20oerD9VjdiyZfuviOjzaAzPcLwkAg",
+   "source": "Facebook \u00b7 Strictly Dumpling"
+  },
+  {
+   "position": 5,
+   "title": "If you had to choose one... Franklin BBQ or Salt Lick?",
+   "link": "https://www.bbq-brethren.com/threads/if-you-had-to-choose-one-franklin-bbq-or-salt-lick.256412/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFUJEToUOULz4-hKWMaeig3jC6er5QnnCd8GZ0EYw-qireAxc3IiYOeN2JY9dabyGNcmaphr9BxCbkayd6j2sZkZxg0r-ax3NM4V76ySeszBR9bBmJrTXtYgwtXjexTZyQCC4Udqn5PHjUOsB0EQqW8VoOZv_ToZwK8970bYOnF32NDnfcOMNYtjTxYP4tzgi_icN&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQFnoECDIQAQ&uoh=1",
+   "displayed_link": "https://www.bbq-brethren.com \u203a threads \u203a if-you-had-t...",
+   "favicon": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/Rqc7D83WdgJve-k86EmqeY-DEN9w_UUnBSO0KG776No.jpeg",
+   "date": "Jan 24, 2018",
+   "snippet": "I'd go with la Barbeque or my favorite, Stiles Switch. You'll get great BBQ and they won't have to stand in line for hours at Franklin's.",
+   "snippet_highlighted_words": [
+    "Stiles Switch"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I'd go with la Barbeque or my favorite, Stiles Switch. You'll get great BBQ and they won't have to stand in line for hours at Franklin's.",
+     "source_info_link": "https://www.bbq-brethren.com/threads/if-you-had-to-choose-one-franklin-bbq-or-salt-lick.256412/",
+     "icon": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/Rqc7D83WdgJve-k86EmqeZmZ-Caq7dGf11jpAnOcenUhPHKr4_luQU5SalthnLVj.jpeg"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.bbq-brethren.com/threads/if-you-had-to-choose-one-franklin-bbq-or-salt-lick.256412/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bbq-brethren.com%2Fthreads%2Fif-you-had-to-choose-one-franklin-bbq-or-salt-lick.256412%2F",
+   "source": "THE BBQ BRETHREN FORUMS",
+   "read_more_link": "https://www.google.com/goto?url=CAES5gEB6zswFV6UjAt6FLQCedezQ2NtcUu2dE-cwQ0fjwYZEeGLoFfbaRkpKLBy8nkX2GJjHwZdOlUEs0sQ6kEtCy3ul5VSrDgfHTt6UKGfFL-GrOhlJLqqSxkdQJho5v165CLuSv_HVFqPHcmqR3GsSvMZqnNSmyAXoSiAxCsD5ieyj0lWgp6nbIHyDwfgTI-OETOhEJ-3I0b6aMEtsm17W3kFstEF5BRx-LbdvzdulBVh0w_7lIHUR_tm_uW3KHrGxkDiE9gIbq8Wc8-XeuGEzR7zQJ0Dvt6PS8CEY-ziuJ0XgTX0dwqHdQ"
+  },
+  {
+   "position": 6,
+   "title": "Franklin Barbecue Competitors and Alternatives",
+   "link": "https://www.owler.com/company/franklinbarbecue/competitors",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVaYOSo72nCyhqSJtngAMBl1rhtXQ1-GmxogCntYbE63X8oXGoXpTYgO8vrWk1Y-V2EvgIhWv6tHBQmn40G8gNfpfTQ2z6SPu8CgGUIpzWuHECKbS0ATOeGFpWo8myUToXWH7s2DAC6D6AGG9QBQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://www.owler.com \u203a company \u203a competitors",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAMAAAA3HE0QAAAAMFBMVEVHcEwQo6MQpKQQo6MPoaEQpKQPoaEQoqIKZWUPoqIPmJgPnp4NiIgPoqIQpKQQo6ObnSHkAAAAD3RSTlMAv-vYXIV0TAiyIC4PmPgP4CEgAAAA3ElEQVQokY1TWxaFIAjEt_nI_e_2pgiG1TmXL2TIGUYCoCi2mrPtcRCc1QMbERGOxzvcLOJJf-CTIM2j8iFYZxZ-IkFBaW7SQWI5AQvjrBOssIIgDDzCPUatFTwMzgQy_CBFA3rqMb2GzbOjz6VH5tiOwB-RjEwSFQ9rmYQv1pRUYf2QVqnTsthWS3Sebj5eGvhmbpAUjbUxhRTZw0iRcsw-fZFj5uVZuozSbg2h_7P6-7FOqn09N7u6L8zc32Uq6txXztwpX5ZWSdGPtfewh_hxanngQL-eVi6I8g9hYRkHT9yZGgAAAABJRU5ErkJggg.png",
+   "snippet": "Stiles Switch BBQ is perceived as one of Franklin Barbecue's biggest rivals. Stiles Switch BBQ was founded in 2011, Stiles Switch BBQ generates $ less revenue ...",
+   "snippet_highlighted_words": [
+    "Stiles Switch BBQ is perceived as one of Franklin Barbecue's biggest rivals"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Stiles Switch BBQ is perceived as one of Franklin Barbecue's biggest rivals. Stiles Switch BBQ was founded in 2011, Stiles Switch BBQ generates $ less revenue  ...",
+     "source_info_link": "https://www.owler.com/company/franklinbarbecue/competitors",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAMAAAA3HE0QAAAAMFBMVEVHcEwQo6MQpKQQo6MPoaEQpKQPoaEQoqIKZWUPoqIPmJgPnp4NiIgPoqIQpKQQo6ObnSHkAAAAD3RSTlMAv-vYXIV0TAiyIC4PmPgP4CEgAAAA3ElEQVQokY1TWxaFIAjEt_nI_e_2pgiG1TmXL2TIGUYCoCi2mrPtcRCc1QMbERGOxzvcLOJJf-CTIM2j8iFYZxZ-IkFBaW7SQWI5AQvjrBOssIIgDDzCPUatFTwMzgQy_CBFA3rqMb2GzbOjz6VH5tiOwB-RjEwSFQ9rmYQv1pRUYf2QVqnTsthWS3Sebj5eGvhmbpAUjbUxhRTZw0iRcsw-fZFj5uVZuozSbg2h_7P6-7FOqn09N7u6L8zc32Uq6txXztwpX5ZWSdGPtfewh_hxanngQL-eVi6I8g9hYRkHT9yZGgAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.owler.com/company/franklinbarbecue/competitors&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.owler.com%2Fcompany%2Ffranklinbarbecue%2Fcompetitors",
+   "source": "Owler"
+  },
+  {
+   "position": 7,
+   "title": "Best BBQ in Austin",
+   "link": "https://www.bogleheads.org/forum/viewtopic.php?t\\u003d240784",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVONZKOCFtnk9vMfC380lExb-y_7z3E7QebcAJkd6bjZBx4H6GGQwaq0HZymCgUpGRphdRrw44UPknvLFigA1e7th4N2NX7Uy_OFmzIRHuq5dy1eDV050YcdoespKRTB9EHWa2uobNWsej-g&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://www.bogleheads.org \u203a forum \u203a viewtopic",
+   "favicon": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/Rqc7D83WdgJve-k86EmqeZd7diY7oeCdNw8PJhfXMk4.png",
+   "date": "Feb 7, 2018",
+   "snippet": "Franklin's is the best in Austin, . Franklin using prime cuts of brisket. Stiles Switch is fantastic. Their brisket is in the same league as ...",
+   "snippet_highlighted_words": [
+    "Franklin's is the best in Austin"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Franklin's is the best in Austin, . Franklin using prime cuts of brisket. Stiles Switch is fantastic. Their brisket is in the same league as  ...",
+     "source_info_link": "https://www.bogleheads.org/forum/viewtopic.php?t=240784",
+     "icon": "https://serpapi.com/searches/6a9806352f47f87bdacb88b4/images/Rqc7D83WdgJve-k86EmqeUl_sfXJRpECMEA9lwQAvyftbTYV4TQaAA8f8sQvnoRn.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.bogleheads.org/forum/viewtopic.php?t=240784&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.bogleheads.org%2Fforum%2Fviewtopic.php%3Ft%3D240784",
+   "source": "Bogleheads"
+  },
+  {
+   "position": 8,
+   "title": "What's the best BBQ in Austin? Here's the ultimate guide",
+   "link": "https://jesspryles.com/guide-to-austin-bbq/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVjuZwlXQK4qzVJf7AEpgSFIwjVH0w-6ElKnm8xhlmMJ17-T3uiCTE26zkDx58KgMaq2R0nnCKjCZIHFRqdgw-YrbXQXAZRen0zFoXwQaA_kpt7M-L8L0Tdzoj81QwYQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://jesspryles.com \u203a guide-to-austin-bbq",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAByklEQVR4AcTVM5RdURSA4dh2ujippor72GqDJk6VJjaq2LaNOn2acGzb9p6_2DPrrDO8mPv-tb6Ha98eIhJSXtuBbQhZ__EbIWkAGlQ_BN4RiDqIwEuEqHgE2iiIoVGHBdZViOUiAisLghQlyEQgTYWokzgDUZPR7T0zzvsgDNHfgqfo9oogiDCGRUJQBMe9RDTiVRqyVAGKVDkqIWpfD01_i6pUJca8uchSqYhXn9FjPJIgDtSjD5rro8PEgXiMQ0tPIIZyfFJPcV9dwhbYbcF53DOmfavzV0AMTNN2a1BtbyXcZh_dKixHh41DPETVYD2ctl7nFRXj9Gl5H2J4gq5mn85bcNUKVEFUEoagvQa5OeSdNQq5EDSgD9qrl04jyPPzBZVjnMfOijQ2wJfGQNQZmM3HQpgdh6iJ8Nx5iDIP6R00qofG8GF-v6LjIMjS_7OQCbFkI0ynSYcgCZ7qgwYIHuKc_hcVg0iIasRF3DL-D4DrdkJULkQ14DSaO2q9C_Igaj9c9xNiSccM2E1FMsTyB66rsQ7vLXTWJZ1WVB1ctRiiCjAHXS3MOmWb4LjvELxFL7jpCRrxw-35XwyvNc0OiE_jkhzw7jkAABSzUlodGQQAAAAASUVORK5CYII.png",
+   "snippet": "The neighbourhood location of Stiles Switch means you may avoid the touristy lines of the spots closer to downtown. If there is a line, it moves fast. Try the ...",
+   "snippet_highlighted_words": [
+    "Stiles Switch"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The neighbourhood location of Stiles Switch means you may avoid the touristy lines of the spots closer to downtown. If there is a line, it moves fast. Try the ...",
+     "source_info_link": "https://jesspryles.com/guide-to-austin-bbq/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAByklEQVR4AcTVM5RdURSA4dh2ujippor72GqDJk6VJjaq2LaNOn2acGzb9p6_2DPrrDO8mPv-tb6Ha98eIhJSXtuBbQhZ__EbIWkAGlQ_BN4RiDqIwEuEqHgE2iiIoVGHBdZViOUiAisLghQlyEQgTYWokzgDUZPR7T0zzvsgDNHfgqfo9oogiDCGRUJQBMe9RDTiVRqyVAGKVDkqIWpfD01_i6pUJca8uchSqYhXn9FjPJIgDtSjD5rro8PEgXiMQ0tPIIZyfFJPcV9dwhbYbcF53DOmfavzV0AMTNN2a1BtbyXcZh_dKixHh41DPETVYD2ctl7nFRXj9Gl5H2J4gq5mn85bcNUKVEFUEoagvQa5OeSdNQq5EDSgD9qrl04jyPPzBZVjnMfOijQ2wJfGQNQZmM3HQpgdh6iJ8Nx5iDIP6R00qofG8GF-v6LjIMjS_7OQCbFkI0ynSYcgCZ7qgwYIHuKc_hcVg0iIasRF3DL-D4DrdkJULkQ14DSaO2q9C_Igaj9c9xNiSccM2E1FMsTyB66rsQ7vLXTWJZ1WVB1ctRiiCjAHXS3MOmWb4LjvELxFL7jpCRrxw-35XwyvNc0OiE_jkhzw7jkAABSzUlodGQQAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://jesspryles.com/guide-to-austin-bbq/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fjesspryles.com%2Fguide-to-austin-bbq%2F",
+   "source": "Jess Pryles",
+   "read_more_link": "https://www.google.com/goto?url=CAESvwEB6zswFQbWB_fmLGy1wWItUmkMPfQqfn9qQunUSQbdi7bcUI1ik5L8kqDNfkbgnI9c2OrlGx4ATlZaZKoSaExt-ub4zGdunofxM9TQoyOWpasWsY2y-weaxc8QOJ6HnL7KIcVl883DJTk4YxMnA4vEWIOwL9VZLtCp4b4FghLKWnfMKJqJl4FQeJ3LnCo574dVYqe-WXnNdqHGI0PWkxdTJHD4dvXQkkO2cXLP4MIB041RYEe3MwdauR468IogeA"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Stiles switch vs franklin barbecue review",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Stiles+switch+vs+franklin+barbecue+review&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAgtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+switch+vs+franklin+barbecue+review"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles switch vs franklin barbecue reddit",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Stiles+switch+vs+franklin+barbecue+reddit&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAg-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+switch+vs+franklin+barbecue+reddit"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ locations",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Stiles+Switch+BBQ+locations&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+locations"
+  },
+  {
+   "block_position": 1,
+   "query": "The Switch BBQ menu",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=The+Switch+BBQ+menu&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAg2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Switch+BBQ+menu"
+  },
+  {
+   "block_position": 1,
+   "query": "The Switch by Stiles Switch BBQ",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=The+Switch+by+Stiles+Switch+BBQ&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAg1EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Switch+by+Stiles+Switch+BBQ"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ Menu with prices",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Stiles+Switch+BBQ+Menu+with+prices&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAgwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+Menu+with+prices"
+  },
+  {
+   "block_position": 1,
+   "query": "Stiles Switch BBQ hours",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Stiles+Switch+BBQ+hours&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAgvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Stiles+Switch+BBQ+hours"
+  },
+  {
+   "block_position": 1,
+   "query": "The Switch by stiles Switch BBQ photos",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=The+Switch+by+stiles+Switch+BBQ+photos&sa=X&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ1QJ6BAguEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Switch+by+stiles+Switch+BBQ+photos"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=OgaYaqOxEqGGptQPyfrPmAI&start=10&sa=N&sstk=AS6-VmIaGwBWqtYbW8UHyZB2za3m_3zLcFvh2A12YWMfW2ZLwcmwtexalYi1_YemJDRFRrAkc9rfGjN8ICcZUrr3W_u6PvbqdIx-jQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ8NMDegQIKhAQ",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=OgaYaqOxEqGGptQPyfrPmAI&start=10&sa=N&sstk=AS6-VmIaGwBWqtYbW8UHyZB2za3m_3zLcFvh2A12YWMfW2ZLwcmwtexalYi1_YemJDRFRrAkc9rfGjN8ICcZUrr3W_u6PvbqdIx-jQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ8tMDegQIKhAE",
+   "3": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=OgaYaqOxEqGGptQPyfrPmAI&start=20&sa=N&sstk=AS6-VmIaGwBWqtYbW8UHyZB2za3m_3zLcFvh2A12YWMfW2ZLwcmwtexalYi1_YemJDRFRrAkc9rfGjN8ICcZUrr3W_u6PvbqdIx-jQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ8tMDegQIKhAG",
+   "4": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=OgaYaqOxEqGGptQPyfrPmAI&start=30&sa=N&sstk=AS6-VmIaGwBWqtYbW8UHyZB2za3m_3zLcFvh2A12YWMfW2ZLwcmwtexalYi1_YemJDRFRrAkc9rfGjN8ICcZUrr3W_u6PvbqdIx-jQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ8tMDegQIKhAI",
+   "5": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=OgaYaqOxEqGGptQPyfrPmAI&start=40&sa=N&sstk=AS6-VmIaGwBWqtYbW8UHyZB2za3m_3zLcFvh2A12YWMfW2ZLwcmwtexalYi1_YemJDRFRrAkc9rfGjN8ICcZUrr3W_u6PvbqdIx-jQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ8tMDegQIKhAK",
+   "6": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=OgaYaqOxEqGGptQPyfrPmAI&start=50&sa=N&sstk=AS6-VmIaGwBWqtYbW8UHyZB2za3m_3zLcFvh2A12YWMfW2ZLwcmwtexalYi1_YemJDRFRrAkc9rfGjN8ICcZUrr3W_u6PvbqdIx-jQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ8tMDegQIKhAM",
+   "7": "https://www.google.com/search?q=stiles+switch+vs+franklin+barbecue&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=OgaYaqOxEqGGptQPyfrPmAI&start=60&sa=N&sstk=AS6-VmIaGwBWqtYbW8UHyZB2za3m_3zLcFvh2A12YWMfW2ZLwcmwtexalYi1_YemJDRFRrAkc9rfGjN8ICcZUrr3W_u6PvbqdIx-jQ&ved=2ahUKEwijtpyo48-WAxUhg4kEHUn9EyMQ8tMDegQIKhAO"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=stiles+switch+vs+franklin+barbecue&start=60"
+  }
+ }
+}

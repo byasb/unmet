@@ -1,0 +1,413 @@
+{
+ "search_metadata": {
+  "id": "6a98054516a5a805362b35c5",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/cE8y2X_d-TGU9MWkahC9n_7U2LPBMQTIwwhG4MYiwaQ/6a98054516a5a805362b35c5.json",
+  "markdown_endpoint": "https://serpapi.com/searches/cE8y2X_d-TGU9MWkahC9n_7U2LPBMQTIwwhG4MYiwaQ/6a98054516a5a805362b35c5.md",
+  "created_at": "2026-09-02 11:15:17 UTC",
+  "processed_at": "2026-09-02 11:15:17 UTC",
+  "tripadvisor_reviews_url": "https://www.tripadvisor.com/7363750",
+  "raw_html_file": "https://serpapi.com/searches/cE8y2X_d-TGU9MWkahC9n_7U2LPBMQTIwwhG4MYiwaQ/6a98054516a5a805362b35c5.html",
+  "prettify_html_file": "https://serpapi.com/searches/cE8y2X_d-TGU9MWkahC9n_7U2LPBMQTIwwhG4MYiwaQ/6a98054516a5a805362b35c5.prettify",
+  "total_time_taken": 0.28
+ },
+ "search_parameters": {
+  "engine": "tripadvisor_reviews",
+  "place_id": "7363750",
+  "tripadvisor_domain": "www.tripadvisor.com"
+ },
+ "search_information": {
+  "total_reviews": 456
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "title": "Worst BBQ",
+   "snippet": "The prices are ridiculous and they don\u2019t tell you how much a pound everything is. There is no smoke flavor and their bbq sauce is horrible.  Will never go back to any of their joints.  I\u2019ve eaten BBQ all over the United States and this is the worst all around.",
+   "rating": 1,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 1
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 1
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 1
+    }
+   ],
+   "review_id": "1034092086",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r1034092086-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2025-10-09",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-10-31",
+    "type": "FAMILY"
+   },
+   "tips": [
+    "Very expensive for a BBQ joint. Don\u2019t go"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "C936AD7B2C99231BD4D3A118963E9884",
+    "username": "wendypA3655EF",
+    "display_name": "Wendy P",
+    "link": "https://www.tripadvisor.com/Profile/wendypA3655EF",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/b2/default-avatar-2020-69.jpg",
+    "contributions": 1
+   }
+  },
+  {
+   "position": 2,
+   "title": "\ud83e\udd2e\ud83e\udd2e\ud83e\udd2e",
+   "snippet": "I have gone here for years growing up. Especially on the way home from boy scout trips, and with friends. Every time was great until recently. I hadn\u2019t gone in 2 years and decided to swing by. I ordered .25 pound\u2019s brisket, .25 sausage, and one beef rib. Mind you the meat is taken off the pit cut, and wrapped before payment. When checking out I see I have a .4 of sausage, .58 of brisket, and a .9 pound rib. I got one side and a drink before being told the price. It was $67. For just me. I\u2019m am being 100% truthful saying the $30 singular rib, was so so poorly cooked it was genuinely inedible. I loved this place in the past but as of 2025 it has TANKED. I genuinely hope y\u2019all don\u2019t waste your money here.",
+   "rating": 1,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 1
+    },
+    {
+     "label": "Service",
+     "rating": 1
+    },
+    {
+     "label": "Food",
+     "rating": 1
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 1
+    }
+   ],
+   "review_id": "1034024896",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r1034024896-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2025-10-08",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-10-31",
+    "type": "FRIENDS"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "B9917E0DD1CFE62896DD6FCAF645E823",
+    "username": "davidfH7557AD",
+    "display_name": "David F",
+    "link": "https://www.tripadvisor.com/Profile/davidfH7557AD",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ec/3d/default-avatar-2020-1.jpg",
+    "contributions": 1
+   }
+  },
+  {
+   "position": 3,
+   "title": "Top of the Brisket List!",
+   "snippet": "Cooper's may not be the top of the Texas Monthly BBQ list, but the brisket we had for lunch was up to Goldie's standard. Yes, it's old school with crowded bench, family-style seating but judge by the food. The brisket was juicy and we got a couple of burnt ends that balanced the moist cut of beef. Cole slaw was great. Remember you're in Llano ... not Plano!",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "999829772",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r999829772-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2025-03-25",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-03-31",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "C647F769B21581453999234B1B31364D",
+    "username": "michaelcC5236LV",
+    "display_name": "Michael C",
+    "link": "https://www.tripadvisor.com/Profile/michaelcC5236LV",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d2/ac/d5/michael-c.jpg",
+    "contributions": 113,
+    "hometown": "Carrollton, Texas"
+   }
+  },
+  {
+   "position": 4,
+   "title": "Live parrot in restaurant",
+   "snippet": "I will not be returning for the following reason. The staff allowed a woman to come in with a parrot on her shoulder. I understand service dogs, but a parrot should not be allowed in a restaurant especially where there are self service stations. The food was just ok and the service was good. However I will not eat at a restaurant that allows a bird inside, but are known for being very dirty.",
+   "rating": 1,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 3
+    },
+    {
+     "label": "Service",
+     "rating": 3
+    },
+    {
+     "label": "Food",
+     "rating": 3
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 3
+    }
+   ],
+   "review_id": "984808255",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r984808255-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2024-12-14",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-12-31",
+    "type": "FAMILY"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/58/0f/45/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "C80F7CC46AB3FB26AA53DD7D8CC7C318",
+    "username": "armstrongs600",
+    "display_name": "Armstrong S",
+    "link": "https://www.tripadvisor.com/Profile/armstrongs600",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+    "contributions": 2
+   }
+  },
+  {
+   "position": 5,
+   "title": "Fun Texas style pit BBQ with great food",
+   "snippet": "Cool atmosphere to walk up to the smoking pits and to pick the meats you want out of the pit. Then you go inside to get your sides and beverages. Beans come free and you get that and pickles at the drink station. \n\nYou sit on long picnic tables  and it\u2019s a fun experiences. The brisket was very good and so was the giant pork chop, turkey, and chicken. The slaw and potato salad were really good as well.",
+   "rating": 5,
+   "review_id": "963046760",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r963046760-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2024-08-03",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-08-31",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "2E7A0E19777BC3CCAA71DF909A673BFB",
+    "username": "VETJET1",
+    "display_name": "VETJET1",
+    "link": "https://www.tripadvisor.com/Profile/VETJET1",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/30/24/e9/vetjet1.jpg",
+    "contributions": 217,
+    "hometown": "Arkansas"
+   }
+  },
+  {
+   "position": 6,
+   "title": "Don\u2019t waste your money",
+   "snippet": "This place had high ratings but the food was less than mediocre with super high prices and a dreary atmosphere. Will not be back. Don\u2019t waste your money.",
+   "rating": 2,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 1
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 1
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 1
+    }
+   ],
+   "review_id": "950760518",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r950760518-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2024-05-13",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-05-31",
+    "type": "COUPLES"
+   },
+   "tips": [
+    "Don\u2019t go"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "A3B530DFE49F0EB3F2E5CEFE32AB18FF",
+    "username": "798hayleyg",
+    "display_name": "Hayley G",
+    "link": "https://www.tripadvisor.com/Profile/798hayleyg",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/f4/03/ae/hayley-g.jpg",
+    "contributions": 1,
+    "hometown": "Spokane, Washington"
+   }
+  },
+  {
+   "position": 7,
+   "title": "Expensive and mediocre",
+   "snippet": "I have been going to the Cooper\u2019s barbecue in Llano for 40 years. It has always been excellent barbecue. My wife has been going for many years as well and she wanted to go again to revisit old, pleasant memories, and to have some good barbecue. We went Thursday April 25, 2024 in the early afternoon. I ordered two pork ribs, a slice of brisket and a quarter of a link of sausage. She ordered two pork ribs, two slices of turkey and a quarter of a link of sausage. With one baked potato, a cup of macaroni and cheese, a cup of blueberry cobbler, and glass of tea: it came to $94. Ouch! OK, so barbecue has gotten expensive. You can see the posted prices, per pound, but you don\u2019t realize how quickly a combination plate can add up. \nThe real problem however, was that the barbecue, particularly the ribs,  just wasn\u2019t any good. The ribs tasted old and stale like they had been cooked the day before and reheated. They were tough as well. The brisket was barely OK, but the sausage was dried out. The turkey breast was pretty unremarkable too. Somewhat bland. I know everyone in Texas fancies themselves a barbecue connoisseur, but I do know the difference between good and mediocre. I brought the leftovers home and tried them again just to see if I might\u2019ve been mistaken. Nope, still mediocre. I will probably be throwing away $50 worth. I think that the Coopers in Llano is trading on their reputation and has definitely let their quality slip. I will not eat there again nor recommend it to anyone else.",
+   "rating": 1,
+   "review_id": "948423136",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r948423136-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2024-04-26",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-04-30",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "2B4B8DDB26610504D17373534C775465",
+    "username": "mblair441",
+    "display_name": "mblair441",
+    "link": "https://www.tripadvisor.com/Profile/mblair441",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ea/2e/default-avatar-2020-67.jpg",
+    "contributions": 82,
+    "hometown": "Midland, Texas"
+   }
+  },
+  {
+   "position": 8,
+   "title": "Very bad dining experience!",
+   "snippet": "We requested a pound of brisket.  We received about a pound and a third that cost $36!  It was a cut of brisket that was about 2 inches wide with a lot of fat that was dry and tough on the bottom and tasted like old roast beef.    Really the worst ever!  The beans were a mushy consistancy, probably because it was later in the day.  I would not recommend going there unless it's early, and be wary of the guy cutting your meat!",
+   "rating": 2,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 1
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 1
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 3
+    }
+   ],
+   "review_id": "945392162",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r945392162-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2024-04-04",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-04-30",
+    "type": "COUPLES"
+   },
+   "tips": [
+    "Be very careful when ordering meat!  They have always cut more than we request and we have to pay a lot more than we plan to."
+   ],
+   "votes": 1,
+   "author": {
+    "author_id": "081E2B9DB6ADB2D2CF7D9B7A141330FF",
+    "username": "861sandyc",
+    "display_name": "Sandy C",
+    "link": "https://www.tripadvisor.com/Profile/861sandyc",
+    "contributions": 1
+   }
+  },
+  {
+   "position": 9,
+   "title": "Pretty good BarBQ",
+   "snippet": "I found the meat at this BarBQ restaurant to be good and just right on seasoning. The potato salad and beans were good also. I would recommend it and would go back to eat there again if in the area. The one thing I would tell someone going there would be that they do keep the cooked meat on a pit that is warm so some of the meat is a little dry. The pork ribs had a great flavor but were dry from being in the pit. This would probably not be the case had I went at lunch and the meat was just cooked. I am impressed that the beans are complementary as it the bread. The BarBQ sauce is a thinner consistency and is vinegar based. It is different than what I am used to in East Texas, but I did like it. They do have really good iced tea also. The staff are very accommodating and attentive. Overall it was a good experience and would recommend.",
+   "rating": 4,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 4
+    },
+    {
+     "label": "Service",
+     "rating": 4
+    },
+    {
+     "label": "Food",
+     "rating": 4
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 4
+    }
+   ],
+   "review_id": "944872061",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r944872061-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2024-04-01",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-03-31",
+    "type": "FRIENDS"
+   },
+   "tips": [
+    "This restaurant is locally owned and operated which is always a plus for me and something I look for before a chain. "
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "96FA5993E1B6B86814EB01A7CB16909A",
+    "username": "Lavender_101",
+    "display_name": "Lavender_101",
+    "link": "https://www.tripadvisor.com/Profile/Lavender_101",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+    "contributions": 62,
+    "hometown": "Longview, Texas"
+   }
+  },
+  {
+   "position": 10,
+   "title": "Excellent BBQ Brisket!",
+   "snippet": "Moist & tender brisket - done to perfection!  We also tried the chicken and sausage - both very good.  Bread and beans (spicy) are free.  We will definitely come back to eat here!",
+   "rating": 5,
+   "review_id": "928296787",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g56181-d7363750-r928296787-Cooper_s_Old_Time_Pit_Bar_B_Que-Llano_Texas.html",
+   "date": "2023-12-03",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2023-12-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "83F209F3C768ACD808E0DD5427E867A4",
+    "username": "LynneU",
+    "display_name": "Lynne U",
+    "link": "https://www.tripadvisor.com/Profile/LynneU",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/02/41/78/3e/lynne-u.jpg",
+    "contributions": 130,
+    "hometown": "Carbondale, Colorado"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor_reviews&offset=10&place_id=7363750&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

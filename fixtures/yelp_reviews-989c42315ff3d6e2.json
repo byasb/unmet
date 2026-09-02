@@ -1,0 +1,1855 @@
+{
+ "search_metadata": {
+  "id": "6a98057957c44b145e3e5b08",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/hSGRjka18BQ8_ZifMyaSiHy9eN-noF2kTtEt-1s5kIE/6a98057957c44b145e3e5b08.json",
+  "markdown_endpoint": "https://serpapi.com/searches/hSGRjka18BQ8_ZifMyaSiHy9eN-noF2kTtEt-1s5kIE/6a98057957c44b145e3e5b08.md",
+  "created_at": "2026-09-02 11:16:09 UTC",
+  "processed_at": "2026-09-02 11:16:09 UTC",
+  "yelp_reviews_url": "https://www.yelp.com/biz/9e5lIroM6Eyd4aS26pWWEQ",
+  "raw_html_file": "https://serpapi.com/searches/hSGRjka18BQ8_ZifMyaSiHy9eN-noF2kTtEt-1s5kIE/6a98057957c44b145e3e5b08.html",
+  "total_time_taken": 1.66
+ },
+ "search_parameters": {
+  "engine": "yelp_reviews",
+  "start": 0,
+  "num": "49",
+  "place_id": "9e5lIroM6Eyd4aS26pWWEQ"
+ },
+ "search_information": {
+  "total_results": 2281,
+  "business": "Cooper's Old Time Pit Bar-B-Que"
+ },
+ "review_languages": [
+  {
+   "hl": "en",
+   "count": 2281
+  },
+  {
+   "hl": "es",
+   "count": 1
+  },
+  {
+   "hl": "ja",
+   "count": 1
+  },
+  {
+   "hl": "de",
+   "count": 1
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "user": {
+    "name": "Celine Astier",
+    "user_id": "uN4ic2F1z7nsqyxy7Lz9Uw",
+    "link": "https://www.yelp.com/user_details?userid=uN4ic2F1z7nsqyxy7Lz9Uw",
+    "address": "Redmond, WA",
+    "friends": 0,
+    "photos": 0,
+    "reviews": 1
+   },
+   "comment": {
+    "text": "I organized (remotely) a private party for 35 people at Cooper's. This was the last dinner of our 3-day Austin Sales meeting, Ana and her team were efficient, extremely helpful during the planning process and the event went on smoothly. Of course the food is always great, everybody loved it, the service was perfect, and this is now a great memory that my coworkers are still talking about. Thank you very much again.",
+    "language": "en"
+   },
+   "date": "2026-07-23T00:46:56Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 2,
+   "user": {
+    "name": "Leo B.",
+    "user_id": "aQzQ8QrTu-99nUJY2BiJ7w",
+    "link": "https://www.yelp.com/user_details?userid=aQzQ8QrTu-99nUJY2BiJ7w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0_yD2_TOZVcR2VtKMC80hA/180s.jpg",
+    "address": "Lewisville, TX",
+    "friends": 25,
+    "photos": 175,
+    "reviews": 114,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Came here on a Sunday around 2-3p and it was very chill. No line or wait. Looked clean too. \n\nGot the brisket, beef rib & chickenz. Asked for lean brisket but it was still fatty. Way too much fat actually. Besides that the sides were fire, slaw and greens on point, those alone brought the review up a star!",
+    "language": "en"
+   },
+   "date": "2026-08-17T05:54:47Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_0kW8bwUl4nawUWu2t35Xg/o.jpg",
+     "caption": "Bacon mac n cheese"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WMGgMZye8Fcz415RzQwWKw/o.jpg",
+     "caption": "Beef rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Le1kKr1_aDYlW_d8EbM0FA/o.jpg",
+     "caption": "Entrance"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 3,
+   "user": {
+    "name": "N.J. R.",
+    "user_id": "nFarPUkynXxEzlK0AlVfew",
+    "link": "https://www.yelp.com/user_details?userid=nFarPUkynXxEzlK0AlVfew",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/VTZU4_nALsffCJRE5FXY1g/180s.jpg",
+    "address": "Richmond, VA",
+    "friends": 27,
+    "photos": 421,
+    "reviews": 198,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Food was good.  The service was good and the environment rustic and old fashion. My only issue was the inability to customize the chicken portion. As I couldn't get a quarter chicken only half. \n\nThe sweet tea was delish and homemade.",
+    "language": "en"
+   },
+   "date": "2026-07-27T01:57:50Z",
+   "rating": 4,
+   "tags": [
+    "1 photo",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nEULyeqlymfY99UDyt4oXg/o.jpg",
+     "caption": "Brisket, spicy sausage, cream corn, mashed potato and sweet tea."
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 4,
+   "user": {
+    "name": "Scotty T.",
+    "user_id": "VwS5dYmwNwKwNy-Wqw6-yQ",
+    "link": "https://www.yelp.com/user_details?userid=VwS5dYmwNwKwNy-Wqw6-yQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WGw57ZATH6Q6FBNGS5x_Ew/180s.jpg",
+    "address": "Dundas, MN",
+    "friends": 145,
+    "photos": 409,
+    "reviews": 116,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Went in for some lunch, and have had some of the other local BBQ places in the area throughout my travels. The BBQ was decent, not the best I've had, not the worst either. However, having 3 pork ribs, 1 beef rib, and a \"sliver\" of sirloin & brisket... trying to do the math on what the meat bill would be ended up being way over what I estimated. \n\nIn the end it was $80 of meat, and after having them it was way overpriced as when all was said and done, 1/2 that weight was bone and fat. \n\nNow, it is a really neat interior giving the Texas BBQ vibe and had really nice and friendly staff. I would just say the price point next to the quality I got that day was a bit on the high side.",
+    "language": "en"
+   },
+   "date": "2026-07-25T18:50:53Z",
+   "rating": 3,
+   "tags": [
+    "6 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/newliUtb_HREjyRwRxlhbg/o.jpg",
+     "caption": "Bar area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ohRzbfnOKR456rD7v0X4gg/o.jpg",
+     "caption": "Fixin's"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AgttPhwQWx06EjM4ZqIJpQ/o.jpg",
+     "caption": "The pit and its Master"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yvzhTkv5B5BZQlRktUQ88w/o.jpg",
+     "caption": "Pork Ribs, Sirloin, Brisket, & a Beef Rib."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ws6rBkyem8bbRjZjclttUg/o.jpg",
+     "caption": "Bar & Downstairs seating"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/R6yzNSPmlqoeXOXSdU6_Gg/o.jpg",
+     "caption": "Exterior/Entrance"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 5,
+   "user": {
+    "name": "Jay F.",
+    "user_id": "mz_sM_EF_UTVx7PlORZvmg",
+    "link": "https://www.yelp.com/user_details?userid=mz_sM_EF_UTVx7PlORZvmg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1SQa7NOL3w46bzT-ci1Kug/180s.jpg",
+    "address": "North Royalton, OH",
+    "friends": 88,
+    "photos": 135,
+    "reviews": 86,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Excellent BBQ meat selection. I had the sirloin and brisket- both were juicy, tender and full of flavor. Add some sides of Mac and cheese and green beans along with complimentary pickles, beans, onions and sauces - it's a party. Fast friendly service in a rustic fitting atmosphere. 5 stars here - great recommendation from our hotel front desk at the Hyatt Centric!",
+    "language": "en"
+   },
+   "date": "2026-08-18T02:27:15Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FZ4tFO43sINWCqqtSKLjhg/o.jpg",
+     "caption": "1/4# sirloin, 1/4# brisket with Mac and cheese, green beans"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 6,
+   "user": {
+    "name": "William F.",
+    "user_id": "b7-XTlwVwyunxD4yCAH-eg",
+    "link": "https://www.yelp.com/user_details?userid=b7-XTlwVwyunxD4yCAH-eg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1rWhcJNQNykb-2REt2jIzw/180s.jpg",
+    "address": "Green Cove Springs, FL",
+    "friends": 4,
+    "photos": 44,
+    "reviews": 62,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "When in TX and Austin you have to have barbecue for lunch for the second day in a row.  Switched it up and had the smoked turkey, but had brisket and sausage (spicy). Let's just say WOW the meat was on point and the flavor was amazing.  The sides green beans, jalape\u00f1o bacon MAC cheese and the beans you get for free was again WOW no extra seasoning required for anything.  Service was on point from immediately being greeted and talked through the process and being waited on by the bartender Robbie was on point with his drinks.",
+    "language": "en"
+   },
+   "date": "2026-08-18T17:27:28Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8Q0TA69PhBCOCowMLXYXLQ/o.jpg",
+     "caption": "Mac and cheese beans green beans brisket sausage and turkey"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 7,
+   "user": {
+    "name": "Lloyd C.",
+    "user_id": "o-oKxfOPcdDs8j1IrYLYUA",
+    "link": "https://www.yelp.com/user_details?userid=o-oKxfOPcdDs8j1IrYLYUA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/tU5MAYHy7w0PUP96a1xSHA/180s.jpg",
+    "address": "San Jose, CA",
+    "friends": 409,
+    "photos": 21145,
+    "reviews": 2407,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Our coworker, recommended Cooper's Old Time Pit Bar-B-Que. A lesser known place, than the famous ones, but they turn out stellar \"Que\"! \n\n[From their website] \"Cooper's Old Time Pit Bar-B-Que is honored to be the 'Best Of The Best' in the barbecue business and home of the original World Famous \"Big Chop.\" now you can get a taste of Texas Hill Country BBQ that restaurant reviewers have raved about!\"\n\nThe inside seating is grab your own picnic tables or share with others. They have a huge outside dining area with additional seating. Also, they have a bar area to sit at. Order your meats by the pound, get sides, dessert, etc and pay at the end of the line. They do have other merchandise for sale like beef jerky, bbq sauce, etc. Two separate multi-user men and women's restrooms.\n\nComplimentary stewed beans, bbq sauce, jalape\u00f1o, pickles, onions, and bread.\n\nFor dinner, I ordered the...\nBeef Rib - really tender, yet firm enough to stay on the bone. A good beefy bbq flavor and smokiness.\n\nBrisket - The brisket was tender, smokey, melt in your mouth delicious! The fat cap was was so good. LOL. I liked the Brisket a lot better than the Beef Rib.\n\nMac-N-Cheese (bacon & jalape\u00f1o topping) - the noodles were cooked well and the cheese was cream and perfectly coated each noodle. The crisp bacon & jalape\u00f1o topping was free and no extra charge, really boasted this side.\n\nBanana Pudding - a classic southern dessert done well.\n\nSweet Tea - We're in Texas, nothing beats the heat better than cold Sweet Tea.\n\nOthers in my group who ordered said that the Roast Chicken was good. Unfortunately, the smoked Turkey was dry.\n\nThank you Paula for the recommendation. We loved the place. Support your local business!",
+    "language": "en"
+   },
+   "date": "2026-06-24T09:05:23Z",
+   "rating": 5,
+   "tags": [
+    "10 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/DBFIH3I6TJLTXgFy8iTFOw/o.jpg",
+     "caption": "Menu (June 2026, 1st panel)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A77zIOwonfeb5vV01ZkiOQ/o.jpg",
+     "caption": "Complimentary Beans and BBQ Sauce"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7fnc4YeAq9FfuosEFnqbzw/o.jpg",
+     "caption": "Complimentary Jalape\u00f1o, Pickles, and Onions"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/trbwxC1eBFvBPatO5r_mhw/o.jpg",
+     "caption": "Mac-N-Cheese (bacon & jalape\u00f1o topping)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x_tPXEJe2cjsFfAg-epJcw/o.jpg",
+     "caption": "Banana Pudding"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yjHU8T_KWl07sQSpodb20A/o.jpg",
+     "caption": "Cooper's BBQ options"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BaWgMyAH748iQZjiyUR7sA/o.jpg",
+     "caption": "Bar Area & Line to order"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-hkoxNNTOT9kr-2sJMI-uA/o.jpg",
+     "caption": "Menu (June 2026, 2nd & 3rd panel)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M--dJauv-weDM16867INDQ/o.jpg",
+     "caption": "Storefront"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qST3HhgWbBM6gw1_9GCGfw/o.jpg",
+     "caption": "Business Hours"
+    }
+   ],
+   "feedback": {
+    "useful": 5,
+    "funny": 0,
+    "cool": 5
+   }
+  },
+  {
+   "position": 8,
+   "user": {
+    "name": "Zac G.",
+    "user_id": "elFkil7AayoYUpxdLD4RCQ",
+    "link": "https://www.yelp.com/user_details?userid=elFkil7AayoYUpxdLD4RCQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UbGzNVTnNL1kxDXm2pbLzQ/180s.jpg",
+    "address": "High Point, NC",
+    "friends": 196,
+    "photos": 995,
+    "reviews": 687,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "(4.25 stars)\n\nA long-running Texas barbecue joint known (for better or for worse) as being George W. Bush's favorite, Cooper's largely lived up to its reputation. The restaurant has a classic look (wood, brick, and ducts), and the menu - meats priced by the pound on a chalkboard - adds to the retro appeal. Those meats are cut to order by a pitmaster. After making your selection, you proceed down a cafeteria-style line and pick your sides. Sauce, pickles, and Wonder Bread are free.\n\nWe opted for some brisket, a jalapeno sausage link, potato salad, and creamed corn. The brisket was tender and flavorful if a bit fatty while the sausage boasted a firm bite and a winning combination of spicy and cheesy. Unexpectedly, the creamed corn ended up being a highlight. If that's a side you usually avoid, Cooper's version may end up converting you.\n\nThat said, the potato salad was nothing special and the sauce was very tomato-and-vinegar-forward. As to be expected given Cooper's location and reputation, prices are also quite high (as in almost $40 a pound for brisket). That's not outrageous for a \"name\" BBQ place in Austin though if I had to pay that after waiting in a long line, I might walk away disappointed.\n\nCooper's is not the best Texas BBQ you're likely to find, but it's a pretty damn solid representation thereof.",
+    "language": "en"
+   },
+   "date": "2026-06-04T13:52:59Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AZhqIgpI_YBsBc1qIKGHbg/o.jpg",
+     "caption": "Brisket and jalapeno cheddar sausage"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 9,
+   "user": {
+    "name": "Gregory M.",
+    "user_id": "021VhVmyLsKBwMLH4SZ0Jw",
+    "link": "https://www.yelp.com/user_details?userid=021VhVmyLsKBwMLH4SZ0Jw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yQ8NkGJpY_KcICmTN9T1_Q/180s.jpg",
+    "address": "Conroe, TX",
+    "friends": 9,
+    "photos": 228,
+    "reviews": 103,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Little pricy but solid barbecue. Bread, toppings and sauce are provided in stations at the back of the restaurant.",
+    "language": "en"
+   },
+   "date": "2026-07-25T17:02:40Z",
+   "rating": 4,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IKrsSzMPiy9hPCM7_LnyuQ/o.jpg",
+     "caption": "Brisket and sausage"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NGiNLnyo0J_gEbxLwm-g5A/o.jpg",
+     "caption": "Menu March 2026"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ao99iFsG1qUqDV_2VfiPxg/o.jpg",
+     "caption": "Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S9kF2Z3FLf2epCp-zyBELQ/o.jpg",
+     "caption": "Menu"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 10,
+   "user": {
+    "name": "Karla D.",
+    "user_id": "6Ki3bAL0wx9ymbdJqbSWMA",
+    "link": "https://www.yelp.com/user_details?userid=6Ki3bAL0wx9ymbdJqbSWMA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ft2CQh_YWLNDyJV3rVrW2A/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 273,
+    "photos": 23440,
+    "reviews": 3919,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I like hitting up Cooper's when we walk downtown from home. \nThe food is consistently good. The jalape\u00f1o sausage never disappoints. The service is always lightning-fast and super friendly, keeping the lines moving smoothly even when it's packed. Plus, the rustic, old-school Texas decor and massive picnic tables give the whole place a fantastic, laid-back Hill Country vibe right in the middle of the city.",
+    "language": "en"
+   },
+   "date": "2026-07-04T03:28:52Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 4,
+    "funny": 0,
+    "cool": 4
+   }
+  },
+  {
+   "position": 11,
+   "user": {
+    "name": "Alyssa C.",
+    "user_id": "DqzMLmaIqb2HNijTWBSyAw",
+    "link": "https://www.yelp.com/user_details?userid=DqzMLmaIqb2HNijTWBSyAw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/epI5pFMpCGxE_4DnEIq90Q/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 456,
+    "photos": 838,
+    "reviews": 407,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Service is quick and easy as you just make your way down the line similar to a cafeteria line. You pay for the meat by weight so it's easy to get food family style. The meat is wrapped in butcher paper and they have foil and bags available for leftovers. \n\nWe had pork ribs, brisket, and turkey along with corn on the cob, potato salad, beans, pickles, and apple cobbler with ice cream. The turkey was ok but not as flavorful as I've had. I loved the ribs and brisket. The potato salad also wasn't  my favorite so I will definitely get other sides on my next visit. I did like the cobbler and ice cream for dessert. The cobbler was hot with not too much crust and crust that had a slight crunch. \n\nThe dog friendly patio was a great searing option with large tables and fans that made it extremely cool and comfortable on a hot day.",
+    "language": "en"
+   },
+   "date": "2026-05-16T18:02:22Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6enUR6VVbRztYANnTF27_A/o.jpg",
+     "caption": "Dog friendly patio with great fans/air circulation"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cjEoqkKkA1KnmUW9MVy2VA/o.jpg",
+     "caption": "6 pork ribs, turkey, and brisket"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 12,
+   "user": {
+    "name": "Gladys S.",
+    "user_id": "9Rv8AXxXkMw831ram09GIA",
+    "link": "https://www.yelp.com/user_details?userid=9Rv8AXxXkMw831ram09GIA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WSu-PbnB0bc-wPNErPkLgQ/180s.jpg",
+    "address": "Santa Ana, CA",
+    "friends": 0,
+    "photos": 29,
+    "reviews": 31,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Ooof none of the food we had was good or enjoyable. Waste of $70 today. The brisket was dry and disappointing. The sides were missing flavor. Disappointing after having incredible food at Franklin's and Terry Black's. Worst part was while eating my stomach started to hurt and within minutes this food sent me to the bathroom :( no other food issues with previous places we've gone to.",
+    "language": "en"
+   },
+   "date": "2026-07-04T01:32:26Z",
+   "rating": 1,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yRdYdDm25SmvftBU-20XeA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 13,
+   "user": {
+    "name": "Judy M.",
+    "user_id": "rW7RTv3BphchKXb2rmaOdw",
+    "link": "https://www.yelp.com/user_details?userid=rW7RTv3BphchKXb2rmaOdw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_v9l_HOWOzlWSsbgrF_1lA/180s.jpg",
+    "address": "San Jose, CA",
+    "friends": 172,
+    "photos": 1170,
+    "reviews": 509,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The first night we walked by and we were still adjusting to the time so we weren't hungry yet but decided to pick up some brisket to take back to the hotel for dinner. It was delicious. The next day we had prebooked a Downtown Austin walking food tour and this was also on the tour guide's list. (So you know it's legit). Personally enjoyed the brisket and their bbq sauce (sauce was not too sweet and more towards vinegary side which I really liked). \nThis place is spacious! It has a bar upstairs and a backyard with tons of tables and seating. The great thing about this spot is they cook all day so food is usually ready to order.",
+    "language": "en"
+   },
+   "date": "2026-04-17T14:41:40Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tUWP9_7vHRCdA_HoLSnLtw/o.jpg",
+     "caption": "Backyard"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 14,
+   "user": {
+    "name": "Tonia G.",
+    "user_id": "OD94uwS2Fcl3G0tnbStovQ",
+    "link": "https://www.yelp.com/user_details?userid=OD94uwS2Fcl3G0tnbStovQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ou2FSwscV0D48b1I8KJ_0A/180s.jpg",
+    "address": "Northwest Orlando, Orlando, FL",
+    "friends": 155,
+    "photos": 258,
+    "reviews": 201
+   },
+   "comment": {
+    "text": "First time here in Austin and had a friend recommend this place!! As a flight attendant I'm a big foodie and trying to find some of the best food and this place is one of them. Everything was perfectly seasoned and the green beans were to die for!!",
+    "language": "en"
+   },
+   "date": "2026-08-07T17:41:10Z",
+   "rating": 5,
+   "tags": [
+    "1 photo",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PfMICIqxcCVWIRHaO9sOsA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 15,
+   "user": {
+    "name": "Ellen M.",
+    "user_id": "iThHSHURaS249D-mFaToyQ",
+    "link": "https://www.yelp.com/user_details?userid=iThHSHURaS249D-mFaToyQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/aTQquOj4oIrp6W4zQjTKuA/180s.jpg",
+    "address": "Columbus, OH",
+    "friends": 42,
+    "photos": 6393,
+    "reviews": 1476,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Fun popular place in downtown Austin. Got the meat sweats from eating so much!\nLove the decor and bar area. Ample seating upstairs for larger groups. The sides were my favorite - banana pudding, cobblers, grilled corn. \n\nPro tip:\nCan get pretty crowded so be patient as you wait in line to order.",
+    "language": "en"
+   },
+   "date": "2026-03-22T20:53:01Z",
+   "rating": 4,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6ar6AKBs5vszS4u2_Mi5dg/o.jpg",
+     "caption": "Pork ribs, grilled corn, pecan dessert"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5HYAJxG2ILjbpUtwnfRZLw/o.jpg",
+     "caption": "Sides"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/U4zuZI35Q1g-qHpAPA6JoA/o.jpg",
+     "caption": "Meats"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PFdqHKHkO8uAydkFmJcuAQ/o.jpg",
+     "caption": "Beer and wine menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m1p6MyczxTu63qxCrZcPJw/o.jpg",
+     "caption": "Just a reminder"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/weVNUSP1fpjmBePXeAzHig/o.jpg",
+     "caption": "Bar area"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SLJu0ZzfdhF2_QsiHGz7RA/o.jpg",
+     "caption": "Interior fun"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 16,
+   "user": {
+    "name": "Eve K.",
+    "user_id": "aD-rsDe2S0e7jTkYD6ULaQ",
+    "link": "https://www.yelp.com/user_details?userid=aD-rsDe2S0e7jTkYD6ULaQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1N_L4Anmx_gfo9e_EUou7A/180s.jpg",
+    "address": "Sunnyvale, CA",
+    "friends": 599,
+    "photos": 2776,
+    "reviews": 1928,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Old school classic BBQ in a saloon like atmosphere that feels very Texas--in the best way.\n\nFood: 4.5 Service: 4.5 Atmosphere: 4.5\nCost to worth it rating: 2.5 (can get more expensive than you expect but good stuff--2 people getting 6 pork ribs, 1/2 brisket, few sides, ice tea was $100)\nOpentableable: no reservations\nReturn worthiness: yes\n\nHighlights:\n- Solid BBQ and fun atmosphere\n- Brisket: super tender and juicy with a big fat layer to insulate the flavor. My fave type of bbq of any style (to the chagrin of my pulled pork Carolina hub). 4.5 stars\n- Pork ribs: longer than I thought and not as tender but great flavor. 4 stars\n- Sauce: thin and a bit tangy and some spice. 3.5 stars\n- Mac and cheese: the creamy velveeta-like version. If you get the Jalape\u00f1o bacon version prep for the hidden spice and big slices of bacon.  3.25 stars\n- Corn on the cob: black peppery which I like but maybe not for everyone. Could've been a bit fresher. 3 stars\n- Loaves of bread to make it a sandwich\n- Butcher paper as your plate to eat on the shared picnic table benches\n- Bar in the middle\n- Pies: sadly didn't have room for any but cool they had trays of different types\n\nMidlights: \n- For a newbie hard to know how much to order of each bbq item, but staff was helpful\n\nLowlights:\n- Wish could've tried more meats",
+    "language": "en"
+   },
+   "date": "2026-06-01T23:23:33Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 17,
+   "user": {
+    "name": "Mike M.",
+    "user_id": "Khe-fzQpJ0xPlPwFckBjHA",
+    "link": "https://www.yelp.com/user_details?userid=Khe-fzQpJ0xPlPwFckBjHA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/TW9qFLA2TiDJHWKIBoDzEQ/180s.jpg",
+    "address": "Houston, TX",
+    "friends": 500,
+    "photos": 10270,
+    "reviews": 2412,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I had a lunch meal here in January while in town and was pleased with my experience. Coopers is located downtown but don't think that you can't get very good barbecue here because you can.\n\nI ordered the 1/2 chicken for $13.75 and added potato salad for another $5.50. Beans come with the meal. Inside there is a downstairs dining room and upstairs a large dining area with a full bar and a small stage. This is a counter service restaurant with a serving line.\n\nMy chicken was juicy and flavorful (4). The beans were also very good (4). Here you serve yourself the beans from their bean bar. I like that concept. Refills allowed. The potato salad was mustard based and was just ok. Not bad but not something I wouldn't order again (3). \n\nMy impression of Coopers is positive and believe this is a good place to come get your Q fix without going to other places and waiting in line for 2 hours and paying X3 more $.",
+    "language": "en"
+   },
+   "date": "2026-01-31T00:51:41Z",
+   "rating": 4,
+   "tags": [
+    "8 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2Y26lnAAN4YLOBRBn1Df5g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f1KVBQ7EDMe8HcyxqkPmAQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/5JqNVKuwPPB_8wTHg4nyFw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3fGlHmzJ_qiPtmK6bfZBIA/o.jpg",
+     "caption": "Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B2OGW9RjeeGPzmwa66vWIQ/o.jpg",
+     "caption": "Bean Bar"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/hzl7TztvGoNmHRV7OOt9Hg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/S7A5JXyv5madUneeshZ1eA/o.jpg",
+     "caption": "1/2 chicken beans and potato salad"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xy_Go9OzCWhxsVvEXdkJVA/o.jpg",
+     "caption": "Menu"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 18,
+   "user": {
+    "name": "Lizzie M.",
+    "user_id": "f_JrOTcNNcAxJxhAbVPYJw",
+    "link": "https://www.yelp.com/user_details?userid=f_JrOTcNNcAxJxhAbVPYJw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jJPKLe0WS7ssEXDoNoR9zg/180s.jpg",
+    "address": "Wauwatosa, WI",
+    "friends": 5,
+    "photos": 14,
+    "reviews": 54,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This was a good barbeque option within close walking distance of the JW Marriott downtown. \n\nThe atmosphere was fun and what you would expect for a BBQ restaurant. The bench seating added to the family style dining.\n\nMy group of three ordered two types of meat, coleslaw, potatoes, and mac & cheese for roughly $60. Being from the Midwest, the three of us weren't quite sure how much food to order. The staff clearly picked up on this and recommended what to order based on our group size, even demonstrating the weights of different cuts of meat. This was greatly appreciated and demonstrated good service. \n\nWe had a bit of food leftover so we clearly got our money's worth at $20 a person.",
+    "language": "en"
+   },
+   "date": "2026-05-21T00:48:22Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 19,
+   "user": {
+    "name": "Austin K.",
+    "user_id": "SypLWZyCmcu1Ml0mvFFvTA",
+    "link": "https://www.yelp.com/user_details?userid=SypLWZyCmcu1Ml0mvFFvTA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7JOKFLCP2tOlltghTo-jCA/180s.jpg",
+    "address": "Astoria, Queens, NY",
+    "friends": 328,
+    "photos": 2057,
+    "reviews": 917,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I got one beef rib and half pound of brisket. I would've been fine with a quarter pound of brisket because the beef rib was so big. It was so rich that I couldn't finish it.\n\nFirstly, the texture was good and tender. But I agree with some of the other reviews where the singular tangy sauce without alternatives made it one-note. And I'm not a big sauce on my bbq guy.\n\nI did appreciate the free bread and beans, along with raw onions and pickles and jalape\u00f1os. I also got the coleslaw which is a good decent version of it that I'd get again if I came back here.",
+    "language": "en"
+   },
+   "date": "2026-02-06T01:23:01Z",
+   "rating": 3,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M3R1XDtRO9srrxK-CtS-7A/o.jpg",
+     "caption": "Small coleslaw"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/daatdko-flNRCI_THswmuQ/o.jpg",
+     "caption": "Beef ribs and half pound of brisket"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 20,
+   "user": {
+    "name": "Michelle G.",
+    "user_id": "AJZ9hhif3e54jyJi9hMerw",
+    "link": "https://www.yelp.com/user_details?userid=AJZ9hhif3e54jyJi9hMerw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Wi73n-Mk_4Oige-MQqs2sg/180s.jpg",
+    "address": "Kirkland, WA",
+    "friends": 184,
+    "photos": 4803,
+    "reviews": 423,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "If you're looking for classic Texas BBQ with a lively Austin vibe, Cooper's Old Time Pit Bar\u2011B\u2011Que is a must-visit.\n\nThe BBQ was exactly what you'd hope for -- tender, juicy brisket with great smoke flavor, flavorful ribs, and generous portions. The sides hit the spot too: creamy potato salad, beans, fresh bread, and perfectly grilled corn on the cob. Simple, hearty, and done right.\n\nWhat really stood out was the atmosphere. It was busy and energetic, with people lining up to grab their plates, chatting, and enjoying the experience together. It felt very \"Austin\" -- casual, social, and welcoming. Great place for groups or when you want that authentic BBQ hall energy.\n\nWe had a group and ordered food ahead of time. Service moved efficiently even with the crowd, and everything felt well-organized. No frills, just good food and good vibes.\n\nDefinitely a spot I'd come back to when craving real Texas BBQ. Highly recommend!",
+    "language": "en"
+   },
+   "date": "2026-02-01T06:54:51Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rMqSGE5GJjzkAUOBexkaVQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kcvL31rxLbPvpJu-T-_MVA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EGevsja3n_ywAzt-TnNBxg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/LY3746CTWyuCMoYyYSl-XA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TpJSdHreTCzqRnF5OlS9Ig/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8zBT0bpj7p7pYGkAWvbp0g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bKJDMIVn8qbq0K5psS2oWA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yi6rorPnX29ZjxJcIZ2gRQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CBK7Pq7YfUTJ8RxzhRwFbg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PA3QyioWmLHZnvejVkPu0g/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 21,
+   "user": {
+    "name": "Johanna C.",
+    "user_id": "eEq0o9zZybkrlZANjxdCxw",
+    "link": "https://www.yelp.com/user_details?userid=eEq0o9zZybkrlZANjxdCxw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WN7b61noHzlqE27Xrjmu7A/180s.jpg",
+    "address": "Napa, CA",
+    "friends": 112,
+    "photos": 943,
+    "reviews": 369,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This is our first meal in Aus, just a few steps from our hotel. Food is good, there is a lot of selections and complementary side dishes. Their brisket is so good & their beef rib falls off the bone, not a fan of their sirloin though, its a little bit chewy. Their meat is not that as seasoned which I don't mind bec i would like to taste the beef. When i tried their sauce, its too vinegary for me. Desserts are good as well. Overall it did not disappoint, given the ambiance & friendliness of their staff.",
+    "language": "en"
+   },
+   "date": "2026-05-03T14:38:52Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/dE7XqU-BV-3PBtsESjOznw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ed3rjBaNnvYPLZ754Amgxw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PVNIfHtvjU87P0Ctds_Mig/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 22,
+   "user": {
+    "name": "Lloyd M.",
+    "user_id": "tkAjiVsQEhcVjc-0CKzcNg",
+    "link": "https://www.yelp.com/user_details?userid=tkAjiVsQEhcVjc-0CKzcNg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/D--Ee8dB4TvbBbW9NAJjLQ/180s.jpg",
+    "address": "Chapel Hill, NC",
+    "friends": 351,
+    "photos": 1112,
+    "reviews": 959,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Very solid, authentic BBQ experience.  I had the brisket, it was good but not life changing.  I actually preferred the ribs.  I like that you order the meat by the pound, so you can get exactly what you want.  Creamed corn was also very nice.",
+    "language": "en"
+   },
+   "date": "2026-06-29T21:22:24Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 23,
+   "user": {
+    "name": "Philip Y.",
+    "user_id": "MaRHn1fHEUO87NAuvFk5-w",
+    "link": "https://www.yelp.com/user_details?userid=MaRHn1fHEUO87NAuvFk5-w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/-Ulk7noBCQYZLSsr_HaocA/180s.jpg",
+    "address": "NJ, NJ",
+    "friends": 43,
+    "photos": 836,
+    "reviews": 602,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "It is a Texas style Pit BBQ, but it is way over-priced. I came in here with old friend  while I haven't seen over 10 years. We just saw each other during ASHRAE meeting at JW Marriott next door. Order two slices of briskets and a sausage for lunch. The bill was almost $80 before tip. The brisket was kind of salty and the green bean was even more salty. Not recommend this place for anybody. There are many places in Austin that are better than this one.",
+    "language": "en"
+   },
+   "date": "2026-06-28T20:36:19Z",
+   "rating": 3,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 24,
+   "user": {
+    "name": "Sophia K.",
+    "user_id": "ve2z5TNmrJE5dDIriVU6qA",
+    "link": "https://www.yelp.com/user_details?userid=ve2z5TNmrJE5dDIriVU6qA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/q9DrTsNEKZYHJDRiZ3N5KQ/180s.jpg",
+    "address": "Pasadena, CA",
+    "friends": 69,
+    "photos": 102,
+    "reviews": 28
+   },
+   "comment": {
+    "text": "We went closer to 9pm and a lot of their items are sold out. (Only thing left was briskets and pork ribs.) \nour brisket has a lot of fat. The meat part is probably less than 1/3. \nThe food quality and flavors especially the side dishes are great. \nThey also have a free bean pot and you can self-serve.",
+    "language": "en"
+   },
+   "date": "2026-05-27T20:35:47Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q9koXAO2dzCrxeMZDlJ4rg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 25,
+   "user": {
+    "name": "Amitaabh M.",
+    "user_id": "7Xu9JWbqpNASWQT7l2ClXg",
+    "link": "https://www.yelp.com/user_details?userid=7Xu9JWbqpNASWQT7l2ClXg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zBeoQvnoGRh02yGZNLwHyA/180s.jpg",
+    "address": "San Carlos, CA",
+    "friends": 52,
+    "photos": 277,
+    "reviews": 145,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This is what Austin BBQ is all about. Cooper's is classic pit style - watch them work the meat on the 'Pit' and cut your order right in front of you. Doesn't get more authentic than this. Lines can be long, but servings are generous. Get a variety if you can; that's the move here.\nIt's tangier than what I'm used to, took a minute to adjust. But this is no-frills Texas BBQ done right - get your meat, eat it, move on. Worth the hype.",
+    "language": "en"
+   },
+   "date": "2025-11-10T05:38:38Z",
+   "rating": 4,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KQJDlBZRKBUyhT2IArEMeA/o.jpg",
+     "caption": "Links, Brisket and Ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/m6onj5w7nEvXREBW5YLRPw/o.jpg",
+     "caption": "Links, Brisket and Ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZLrzwqStYzCaQavKRH3K8Q/o.jpg",
+     "caption": "The Pit!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 26,
+   "user": {
+    "name": "LJ H.",
+    "user_id": "O41fKaQL89nJOOAU9zTPBg",
+    "link": "https://www.yelp.com/user_details?userid=O41fKaQL89nJOOAU9zTPBg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/SsMEWRid_UFtmz6bQUBJrg/180s.jpg",
+    "address": "Vallejo, CA",
+    "friends": 297,
+    "photos": 321,
+    "reviews": 141,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I love the decor inside the restaurant.  It may seem small up front, but they have plenty of space in the back for seating.  The food was great, but some of the things we got were a little too salty for us.  Wished they lightly salt their food so you can add more if you want.  They actually have some really good BBQ sauce.  It is self poured.  Service was great.  The staff were friendly and gave us some good guidance since it was our first time at the restaurant.  Prices are about average compared to other BBQ places around Austin.",
+    "language": "en"
+   },
+   "date": "2026-03-31T21:30:45Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lq_o-CR9Fi_r6TlVhgPUYg/o.jpg",
+     "caption": "Brisket"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 27,
+   "user": {
+    "name": "Pedro S.",
+    "user_id": "r9gpNUoMKfHs_VeOWGqHuw",
+    "link": "https://www.yelp.com/user_details?userid=r9gpNUoMKfHs_VeOWGqHuw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNUcXGSrFzMT--hfZ7h8jQ/180s.jpg",
+    "address": "Coral Gables, FL",
+    "friends": 13,
+    "photos": 595,
+    "reviews": 181,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The ordering setup and the interior space at Cooper's is first rate, and very traditional for Texas BBQ, despite being in the heart of downtown.  Your first stop is The Pit, where they have all the meats.  How can you choose?  This place is famous for the Pork Chop, which they will happily dip in their homemade BBQ sauce.  I say skip The Big Chop unless you're going to share it with someone else.  It's great, just too big and they don't cut it up---and you really want to taste a few items.  The beef rib and the brisket are must-have items.  Keep in mind that the outer bark of the beef rib is heavily seasoned (as it should be).  It's a salt bomb.  However, if you're going to have it on your own, get a center piece rather than an end piece to have a better balance of beef, fat, and seasoning.  \n\nThe sides are good. If you like creamy coleslaw, this place really knows how to do that.  It's my favorite side.  The corn, beans, and other sides are are well made, but not so exceptional that you should go out of your way for them.  Just get what you like.    Now, dessert is another story.  Get a cobbler, whichever flavor you like, and this place will surprise you.\n\nRemember, you're in Texas and this place is out to prove that Texas hospitality and friendliness is second to none.  The staff here is special.  They're so courteous, professional, and efficient.  You'll leave with a smile on your face, and not just because the food was great.",
+    "language": "en"
+   },
+   "date": "2025-10-24T00:39:30Z",
+   "rating": 4,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/u8urx9SiT_RAJWqeqV4rcw/o.jpg",
+     "caption": "Free bread.  It's a thing here in Texas.  Not MY thing, but have at it if you like."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ODPAykGoxp9cf7sjYGph3A/o.jpg",
+     "caption": "Pork Chop, Brisket, and a beef rib,"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PEz3lv0TxiLwZFF7Jjzajw/o.jpg",
+     "caption": "The meat pit!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QV92J8De9bGpdQCkqtOmpA/o.jpg",
+     "caption": "Cobbler time!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 28,
+   "user": {
+    "name": "Heather B.",
+    "user_id": "o7T9UU-9tHVUvxodpfXDoQ",
+    "link": "https://www.yelp.com/user_details?userid=o7T9UU-9tHVUvxodpfXDoQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hrSmNW-3cQi4TYRmUDhHEA/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 276,
+    "photos": 30201,
+    "reviews": 1067,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "One word: disappointing.  I brought some out-of-town friends here due to the proximity of the hotel they were staying at.  The healthy crowd at lunchtime that we found seemed to be a good sign of the quality.  However, the brisket was bland.  It seriously needed the BBQ sauce.  If your brisket can't stand alone, that's a problem.  Based on other reviews, it seems we got an off day for the brisket or a bad cut.  I don't know.  But it was unsatisfying. \nAlso, there were issues with the sides.  The peach cobbler I received seriously lacked peaches, and the pastry was mushy.   The banana pudding was gritty.  The green beans were so mushy they were practically greens. The potato salad simply tasted off.  I will say, however, that the corn on the cob was fine.",
+    "language": "en"
+   },
+   "date": "2025-10-19T18:33:09Z",
+   "rating": 2,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JUFSfyC0DnfFrgx0sJ0AVQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9QLYORXJvEzHuSW_O0T5-g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8bdx9G4bVwyV8iGcQjsJQQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t0CTpkG8SzczQ3F46PJQGw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KbazJd5ZMAMhFWhs2xQvLg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tJmDNaDkBdOZ4g2dQnhmAA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lZCQQ6cllBlLz2Xa9J0s5Q/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 29,
+   "user": {
+    "name": "Matt W.",
+    "user_id": "QZNLJ68kuS51Tlqljvf3ow",
+    "link": "https://www.yelp.com/user_details?userid=QZNLJ68kuS51Tlqljvf3ow",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/D5o59YDDyNHxMUfLKp6kXw/180s.jpg",
+    "address": "Naperville, IL",
+    "friends": 92,
+    "photos": 263,
+    "reviews": 718,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "It was so great we had to go back for dinner....and this was too much food!  We sat at the bar and had a great time - it's a fabulous spot to catch-up w friendly service from the bartender.\n\nAnd the cornbread....",
+    "language": "en"
+   },
+   "date": "2025-10-14T15:25:29Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KkJcUwINZ8qHoiQaHz9xSQ/o.jpg",
+     "caption": "Beers"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a-5oTAUTa8Omqh8A7O0thA/o.jpg",
+     "caption": "Dinner for 2"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 30,
+   "user": {
+    "name": "Christy M.",
+    "user_id": "xbybLiQockAzC4xAlzFrGg",
+    "link": "https://www.yelp.com/user_details?userid=xbybLiQockAzC4xAlzFrGg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/_hIimvlqeWd9CBzyXmD9CQ/180s.jpg",
+    "address": "Saint Louis, MO",
+    "friends": 257,
+    "photos": 145,
+    "reviews": 182,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "my first BBQ spot at my first trip to Austin did not disappoint. LOTS of options for meats and sides - I opted for brisket and burnt ends for my meats and Mac and cheese for my side.\n\nThe meats were phenomenal. The burnt ends were super rich as expected... a little goes a long way! Succulent and moist and flavorful, just delicious.\n\nThe Mac and cheese was okay but I snagged a few bites from my friend's loaded mashed potatoes and I've been dreaming of those since. Next time I would definitely get that!",
+    "language": "en"
+   },
+   "date": "2026-03-17T14:56:38Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 31,
+   "user": {
+    "name": "Joe J.",
+    "user_id": "efNDA7QwJ2gyVDXa1oulmQ",
+    "link": "https://www.yelp.com/user_details?userid=efNDA7QwJ2gyVDXa1oulmQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/LZUmwBpabvXlVa7XoxY06g/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 96,
+    "photos": 49,
+    "reviews": 106,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I'm newish to Austin and passed this joint walking downtown. Full disclosure, it looked like a spot for out-of-touch locals or a tourist theme park-like bar/BBQ. \n\nI'm sorry, I was wrong. This place is sooo good. At least for my taste buds. Hear me out. I don't like sweet BBQ. I hate it. Don't mix sweet with the meat. IMO.\n\nSo knowing that, this will hit it for your BBQ cravings or it wont. Every food item I got was so effin' savory, including the beans. \n\nIt's maybe a *little* pricey but probably due to location...and quality. Also beans are complimentary so do your calculations before picking all the sides. \n\nSpeaking of ...garlic mashed potatoes. Period \n\nThey were out of brisket but I'm kinda glad as I had to break from the norm. I got the pork rib and am in love. I will come back for the brisket tho. \n\nFinally I got an old fashioned at the bar. And it was so tasty...I got another :)\n\nFinal conclusion: recommended for locals and tourists!",
+    "language": "en"
+   },
+   "date": "2025-10-09T02:28:13Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/PiZHuHTuhrEzgnugfLK7Hw/o.jpg",
+     "caption": "Pork ribs, jalapeno bacon Mac n' cheese, savory beans, amazing pork ribs, and delish old fashioned"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 32,
+   "user": {
+    "name": "Marie D.",
+    "user_id": "xWgoSiaEOAOR8XRPqRUQgw",
+    "link": "https://www.yelp.com/user_details?userid=xWgoSiaEOAOR8XRPqRUQgw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6vIOIiw9Hq-lR4B3yek68w/180s.jpg",
+    "address": "Huntington Beach, CA",
+    "friends": 45,
+    "photos": 1091,
+    "reviews": 218,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The BBQ here was great. We absolutely loved the beef ribs, the brisket was good too. The large pickle was too salty for my taste (and I love salt!), and had I known there were pickle slices for free at the buffet table, I wouldn't have paid for the whole pickle. the buffet table also had some complimentary hot peppers and beans. Definitely take the sauce, it was good, albeit on the vinegary side.  This is a casual place with some good food.",
+    "language": "en"
+   },
+   "date": "2026-02-16T01:49:33Z",
+   "rating": 4,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/lEm_3TRC0Vh0Vz5lgNEYmw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/__GG1FeqUnbVsQSDxAhlJw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/b4Yu45JeH7SUu-CP6pYkZA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/75bbsAVTLW8Ppctzawk-Iw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BH-56B9yeTZkGRXk1uzP5Q/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yFL0FJxKcxpvR4su2B_ikQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9L_gVquPbaodNvbxdwcXPA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 33,
+   "user": {
+    "name": "Emile L.",
+    "user_id": "_YyQF6B2vJqYf1FnCyXv9A",
+    "link": "https://www.yelp.com/user_details?userid=_YyQF6B2vJqYf1FnCyXv9A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/JZ46yHFxi7hx_JcrxI4cZQ/180s.jpg",
+    "address": "Edgewater, NJ",
+    "friends": 75,
+    "photos": 804,
+    "reviews": 330,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Nice bbq spot. Very causal and large space could for groups. Bar is also large and bartenders are excellent. All of the usual Texas bbq meats and sides.",
+    "language": "en"
+   },
+   "date": "2026-01-17T19:38:13Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tqACMpc_6w7eKNu4sRo4DQ/o.jpg",
+     "caption": "Party tray"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QVekX1E3nlm2PCyC_mzA4g/o.jpg",
+     "caption": "Fred Flinstone Rib"
+    }
+   ],
+   "feedback": {
+    "useful": 3,
+    "funny": 1,
+    "cool": 2
+   }
+  },
+  {
+   "position": 34,
+   "user": {
+    "name": "Marlon T.",
+    "user_id": "82dCHyU-ANOgdhxUgZsUeg",
+    "link": "https://www.yelp.com/user_details?userid=82dCHyU-ANOgdhxUgZsUeg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UZ0j7OTPOt5y3wiM8dtaEw/180s.jpg",
+    "address": "Walnut Creek, CA",
+    "friends": 1394,
+    "photos": 10847,
+    "reviews": 3918,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Cooper's Old Time Pit Bar-B-Que isn't the best BBQ you'll find in Austin, but it's in a really convenient downtown location, which makes it an easy stop if you're already in the area. The d\u00e9cor is top-notch and gives off that classic Texas BBQ vibe, which adds to the experience.\n\nI wouldn't necessarily go out of my way to eat here, but if you're nearby and craving BBQ, it's a charming spot to grab a meal without having to trek far.",
+    "language": "en"
+   },
+   "date": "2025-08-03T00:28:29Z",
+   "rating": 4,
+   "tags": [
+    "8 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/3NRqkr9bz-hhYc9l2IGAwQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mKwl2OmTeu2BU-JECExA2Q/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/271SfF15nU4PEFVewpk4ww/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/K6TlLhak5vn8fhYHQBthOA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tU9mFPcsMbMtkKUk6HXo5A/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nkVxx5pjdX2UoII4UMWhDw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mpeQ8JfRavFPRQmD9Btv_w/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z-EKj0RT491pJ2666ylqMg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 35,
+   "user": {
+    "name": "Magda V.",
+    "user_id": "iloPTtOF7YLXKCL1hlsjnQ",
+    "link": "https://www.yelp.com/user_details?userid=iloPTtOF7YLXKCL1hlsjnQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/6VwBH0wLAqs6j92NJvP8vw/180s.jpg",
+    "address": "Reading, PA",
+    "friends": 1,
+    "photos": 20,
+    "reviews": 21
+   },
+   "comment": {
+    "text": "The food was very tasty. The ambience was fun. The service was good.  Had the brisket and it was delicious.",
+    "language": "en"
+   },
+   "date": "2026-08-03T16:33:58Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 36,
+   "user": {
+    "name": "Sarika S.",
+    "user_id": "BXvHuKaER8UUE7EoXsSHFw",
+    "link": "https://www.yelp.com/user_details?userid=BXvHuKaER8UUE7EoXsSHFw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/8d9NfLU_YkiCD9tQeZczIQ/180s.jpg",
+    "address": "San Jose, CA",
+    "friends": 188,
+    "photos": 205,
+    "reviews": 572,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Yum!!! I was out in Austin and decided to check this lace out as I don't eat red meat and they had chicken. \nCute concept, you walk in, pick your meat. Side are partial prepackaged, some they pack for you. Pay and sit down and the few picnic bench tables they have. \nSo yum! The bacon Mac & cheese was so good! So yourself a favor and get that.",
+    "language": "en"
+   },
+   "date": "2026-02-27T21:27:07Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 37,
+   "user": {
+    "name": "Amanda C.",
+    "user_id": "tRkdCnxFZ4DNDkRJLqMxWA",
+    "link": "https://www.yelp.com/user_details?userid=tRkdCnxFZ4DNDkRJLqMxWA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BT114jPVq6Q0vnXyZCzr_Q/180s.jpg",
+    "address": "Phoenix, AZ",
+    "friends": 131,
+    "photos": 1040,
+    "reviews": 196,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "A very solid choice for BBQ! A central spot with a lot of seating and options. I highly recommend the jalape\u00f1o cheddar sausage and the beef rib! The corn on the cob side and tricked baked potato casserole were phenomenal! \n\nService was good, they were quick and snappy and kept the line going.",
+    "language": "en"
+   },
+   "date": "2025-08-18T03:55:18Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BOmSfJBYrUTi86qDv5diWg/o.jpg",
+     "caption": "Mac N Cheese, green beans, peach cobbler, twice baked potato casserole, beans"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iYGCnHpWd9EuUcqQXyzSDw/o.jpg",
+     "caption": "Corn on Cobb, brisket, jalape\u00f1o cheddar sausage, beef rib"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/QVReOweQm9g_ttPQ63Ug7g/o.jpg",
+     "caption": "Sides counter"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9JzhEaMK6diPEBrruf0Vkw/o.jpg",
+     "caption": "1st stop for picking your meats"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bccMb9QiwVaLPGOmAYGB5g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M5gMRtX1hiu_Umfddi8A2g/o.jpg",
+     "caption": "Outside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Om4WAT7c_b6JUlVQ_4Cpjw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/l4fCFT0MGi7h9Ayu4qMLFQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N6XLrqpjCPdhI-1NICZt2A/o.jpg",
+     "caption": "Bean pot"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Pp-WRt-LsMA6_jUFEKQGLg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 1,
+    "cool": 1
+   }
+  },
+  {
+   "position": 38,
+   "user": {
+    "name": "Jarin M.",
+    "user_id": "9O6h7_Iz1roYfD6Q5ZZ0lg",
+    "link": "https://www.yelp.com/user_details?userid=9O6h7_Iz1roYfD6Q5ZZ0lg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RBLAHXslcZdLu05woLE5qQ/180s.jpg",
+    "address": "Layton, UT",
+    "friends": 0,
+    "photos": 13,
+    "reviews": 18
+   },
+   "comment": {
+    "text": "Huge fan of this place. We got brisket, chicken, and jalapeno cheddar sausage with potato salad, warm potatoes, and mac and cheese for sides. \n\nSuper sad we missed the ribs! Brisket and warm potatoes were my favorite. Nice to have a bar inside too!",
+    "language": "en"
+   },
+   "date": "2026-04-14T19:27:22Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IsoTJEGo1-zvZL3vRL_E8w/o.jpg",
+     "caption": "Brisket  Half Chicken Sausage Potato Salad Pickles"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 39,
+   "user": {
+    "name": "Liz C.",
+    "user_id": "jTLcYO0sWQergwONKPcNNQ",
+    "link": "https://www.yelp.com/user_details?userid=jTLcYO0sWQergwONKPcNNQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/DeSIpa_iKnLi-d8pEbdslw/180s.jpg",
+    "address": "Santa Clara, CA",
+    "friends": 559,
+    "photos": 3342,
+    "reviews": 790,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I was excited to try Texas bbq since it's the one food you always hear about when people think of Texas. However, our first time getting Texas bbq was underwhelming at Cooper's. \n\nWalk up to the front, order your meat (let them know how much you want either by the pound or by slices or bones), then everything is weighed. Pick your sides and then pay at the register. \n\nEveryone recommended the brisket so I asked the guy handling meats how big one slice was. He showed me a pretty thin slice so I said 4 slices would be perfect as I was hoping to aim for 1/4 to 1/2 lb of brisket total. He nodded and then proceeded to cut a very large chunk. The total weighed 1.5 lbs. We also ordered a small piece of sausage and two pork ribs. We got a side of mashed potatoes and macaroni and cheese plus one cornbread. Because of the brisket weighing so much, the total was through the roof. \n\nWhat was more upsetting was how salty the brisket was. It felt like pure salt crystals in my mouth and their homemade bbq sauce did not help cut the saltiness. In addition, the brisket was extremely fatty to the point we just had to discard the fat. \n\nPork ribs were okay - actually a bit on the dry side. I heard the beef ribs are better. \n\nSausage was pretty shriveled on the outside which makes me wonder if they were overcooked. Wasn't super snappy but the flavor on the inside was good. \n\nI ended up just liking the sides (potatoes, mac, and cornbread) the most, which is sad for a Texas bbq spot. \n\nOverall, not a good first impression for Texas bbq. Next time we will need to try a more popular bbq spot and just wait out the line.",
+    "language": "en"
+   },
+   "date": "2026-02-19T20:00:18Z",
+   "rating": 2,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 40,
+   "user": {
+    "name": "Harvey C.",
+    "user_id": "SLdo7Uiac8TOZ2idRKjj-A",
+    "link": "https://www.yelp.com/user_details?userid=SLdo7Uiac8TOZ2idRKjj-A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BiCFgm1DIuG3JmrAtUOVUg/180s.jpg",
+    "address": "Huntington Beach, CA",
+    "friends": 1,
+    "photos": 204,
+    "reviews": 68,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This bbq joint reminds me of the old style joints that are decked out in all wood, where there's no fancy decor to distract from the good old tasting bbq. \nI can't believe what I'm about to say, but I think the beef rib is the choice to take here.  It is juicy, tender and seasoned right. Ask for a bone will little fat unless you like eating fat. One bone is enough for one to two people depending on how big an eater you are. \nI also had the brisket which was salty, but had a nice bark and texture. Dip it in the bbq sauce to dilute the saltiness. As for sides, the cole slaw is a winner since it gives a good contrast to all the meat. For dessert, I chose the banana pudding. It had a tad too much sugar in it that overpowered the taste of banana and felt like you were eating banana flavoured icing. \nOne big tip is that unless you come often, you don't know that everything is by the pound and it is weighed after you order it. A 1/4 lbs of meat (about 3 slices) is good enough for one person. One beef rib will feed two people. The person slicing the bbq will try to make you take more meat than what you order. Better to take a little and go back and order more after. We ordered one beef rib and he ended up giving us two. We ordered 1/2 pound of brisket and ended up with a little over a pound.  Keep your eye on the meat slicer and if you think it's too much tell him to take some back. \nSecond tip is that there are free pickles, beans and bread next to the bbq sauce.  Keep this in mind when ordering sides. \nThird tip is to order dessert after you are done eating to make sure you really need it. \nFinal tip is that there are takeout containers next to the bbq sauce for you to take leftovers home.",
+    "language": "en"
+   },
+   "date": "2026-02-16T06:02:46Z",
+   "rating": 3,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OCg5pJEToiaXhPhqGEMmfA/o.jpg",
+     "caption": "Free sides with purchased coleslaw"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zkHPMJoflEl4-jljM2MXvw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/68fbLujRw_PZhVcV5PMi4Q/o.jpg",
+     "caption": "Beef rib and beef brisket"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 41,
+   "user": {
+    "name": "J L.",
+    "user_id": "0opyGxUflogCh1hQTz6IPQ",
+    "link": "https://www.yelp.com/user_details?userid=0opyGxUflogCh1hQTz6IPQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/W3r_HeGbzgLcESmqLxCZag/180s.jpg",
+    "address": "Hancock, NH",
+    "friends": 0,
+    "photos": 102,
+    "reviews": 104
+   },
+   "comment": {
+    "text": "Perfectly cooked brisket, moist and delicious. Pork ribs and sauce, tasty & loaded with meat...friendly service too! They had baked potatoes so everyone was happy!",
+    "language": "en"
+   },
+   "date": "2026-06-19T09:18:50Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VYHx6ueS-U2jAHInSMlrog/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Vlp1cU-wyMpHNNnSrg1WaA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 42,
+   "user": {
+    "name": "Mike S.",
+    "user_id": "7hTmU8u2azei3RFzEa6XcQ",
+    "link": "https://www.yelp.com/user_details?userid=7hTmU8u2azei3RFzEa6XcQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/UD12dQS3RAKj9JqNOgZBfw/180s.jpg",
+    "address": "Reno, NV",
+    "friends": 123,
+    "photos": 1801,
+    "reviews": 368,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Ok the wife and I were trying out some barbecue places. We walked by this a few  times and decided to give this a try so glad we did. We got the ribs and two different kinds of sausage regular and jalape\u00f1o cheddar. Oh my god the ribs were amazing. Sausage was really good. The sides that we got were coleslaw and the beans they have for free are delicious. So glad that we tried this place out. They have a full bar. The bartender was nice and drinks were good. The wife got the cucumber special which was delicious. My beer was yummy. The place is got a really cool laid back vibe. Would definitely come back to this place again. As we were on the plane we were both craving the ribs again! Cheers",
+    "language": "en"
+   },
+   "date": "2026-02-03T18:14:39Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/jm9ga9tKKFi-ZIgr9NkIiw/o.jpg",
+     "caption": "Ribs and Sausage"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 43,
+   "user": {
+    "name": "AnaLisa V.",
+    "user_id": "DlM5vSN4hLjZ5amJN-x0CQ",
+    "link": "https://www.yelp.com/user_details?userid=DlM5vSN4hLjZ5amJN-x0CQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/A_58qRQvx93E44JqM-nTpw/180s.jpg",
+    "address": "Riverside, CA",
+    "friends": 447,
+    "photos": 78,
+    "reviews": 53,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "5 stars just for the free beans!! You can also get as many bread slices as you like. \n\nThe brisket was perfect. \nwhat i didn't love is that we ordered a half pound of two meats, but was given .75 lbs of each and therefore paid for a lot more than we expected. Felt a little bamboozley. but again, everything was still very delicious. The atmosphere is very cool with plenty of seating too.",
+    "language": "en"
+   },
+   "date": "2026-01-26T21:41:36Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 44,
+   "user": {
+    "name": "Blakney B.",
+    "user_id": "EhdGMcCvQffbeUo-4TghOg",
+    "link": "https://www.yelp.com/user_details?userid=EhdGMcCvQffbeUo-4TghOg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Oi64IqFUVNdhMbgADWSykQ/180s.jpg",
+    "address": "Lake Forest, CA",
+    "friends": 0,
+    "photos": 3,
+    "reviews": 9
+   },
+   "comment": {
+    "text": "Brisket was just ok. It was dry. We took it back and they said we should have asked for wet. They should have offered a choice. Second round much better but prices are ridiculously high and one pork rib was over $20 and barely had any meat. Beans were complimentary and wonderful. Overall it was just ok. We've had better BBQ.",
+    "language": "en"
+   },
+   "date": "2026-07-24T01:35:22Z",
+   "rating": 3,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 45,
+   "user": {
+    "name": "Carrie M.",
+    "user_id": "1WV-GVAujSK6yCspTFFsgw",
+    "link": "https://www.yelp.com/user_details?userid=1WV-GVAujSK6yCspTFFsgw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/HHkjVl5y1qE1eWq4-fCHqg/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 138,
+    "photos": 2135,
+    "reviews": 905,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We were sorely disappointed by this barbecue spot. We got one quarter of a pound of brisket and one half of a pound of pork ribs. They eyeball it and cut it. I did not see them weigh it. The brisket was overly salty. The pork ribs were alright, and the potato casserole was okay as well. Certainly not worth $50 for two people. They ask for a tip at checkout when you have to add toppings, get bread, and get sauce by yourself, and clean everything up by yourself. Taking both the price and quality into account, this is probably my least favorite barbecue restaurant in Austin that I have been to.",
+    "language": "en"
+   },
+   "date": "2025-11-19T15:55:33Z",
+   "rating": 2,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fIv0jivqQLspWxD4CgP21g/o.jpg",
+     "caption": "Brisket, Pork Ribs, Potato Casserole, Boiled Corn"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 46,
+   "user": {
+    "name": "Esmeralda L.",
+    "user_id": "2UVq5tx7CkA96Xgmz4We3Q",
+    "link": "https://www.yelp.com/user_details?userid=2UVq5tx7CkA96Xgmz4We3Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/r3vp_534-JPpXL7YDJdQ7w/180s.jpg",
+    "address": "Chicago, IL",
+    "friends": 2,
+    "photos": 336,
+    "reviews": 85,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Came in as part of a food tower and loved it! The food, service, decor. Everything was great! They have several items you get for free; bread, pickles, beans and the beans were some of the best I've ever had. I want to go back outside of the tour to try their sides, they looked amazing.",
+    "language": "en"
+   },
+   "date": "2026-04-26T20:46:44Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 47,
+   "user": {
+    "name": "Brielle P.",
+    "user_id": "vvSaOV1MVVX6zX4T0NDl_Q",
+    "link": "https://www.yelp.com/user_details?userid=vvSaOV1MVVX6zX4T0NDl_Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oQGn3Gm62Ue37vmD-BBSqQ/180s.jpg",
+    "address": "Fort Lauderdale, FL",
+    "friends": 343,
+    "photos": 1734,
+    "reviews": 773,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Great experience here today dining for an early dinner with my husband and daughter. We enjoyed the brisket most of all! Cooked to perfection and you could cut it with a fork. The ribs were yummy and so was the cheese and jalape\u00f1o sausage. It was so cool how they have all the meats displayed! The Mac and cheese was delicious as well as the potato salad (more like a cold mashed potato- we never had it this way!). Lastly the corn bread was the perfect ending to our bbq meal!",
+    "language": "en"
+   },
+   "date": "2025-11-21T01:41:02Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KzR3RIFcB5Uyr_g3m7R5uw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p1EDr7pU42s5lJbfUv2bpQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 48,
+   "user": {
+    "name": "Shirls P.",
+    "user_id": "Nz21ha1Nbx0YZ6WDt7RhKQ",
+    "link": "https://www.yelp.com/user_details?userid=Nz21ha1Nbx0YZ6WDt7RhKQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/i0QFZt_uLh1sT77G7fPQEA/180s.jpg",
+    "address": "Bel Air, MD",
+    "friends": 0,
+    "photos": 2,
+    "reviews": 19
+   },
+   "comment": {
+    "text": "Awesome time. Great food. Well seasoned. Open floor plan set up.near everything. Good service and can be a bit pricey depending on what you buy. But overall good choice. They do weight the meat, so be prepared prices vary.",
+    "language": "en"
+   },
+   "date": "2026-07-17T00:22:08Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 49,
+   "user": {
+    "name": "Alan A.",
+    "user_id": "FS-FWEFgKlF3ITABs9hJYg",
+    "link": "https://www.yelp.com/user_details?userid=FS-FWEFgKlF3ITABs9hJYg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Fat09Om51hKTyzXxhNr_Xw/180s.jpg",
+    "address": "Las Vegas, NV",
+    "friends": 33,
+    "photos": 58,
+    "reviews": 77
+   },
+   "comment": {
+    "text": "Went to Coopers on a recommendation and it did not disappoint. \n\nI'm a huge fan of smoked turkey and this one was excellent, super moist and flavorful. \n\nDefinite Texas feel inside and you get to choose the sides you want I had the green beans and Cole slaw. \n\nYou order you food and pay and go and sit but all\nThe people working were very nice and friendly. \n\nI will be back.",
+    "language": "en"
+   },
+   "date": "2026-04-15T01:10:41Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=9e5lIroM6Eyd4aS26pWWEQ&start=49"
+ }
+}

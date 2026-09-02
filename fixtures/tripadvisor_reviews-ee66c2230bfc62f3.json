@@ -1,0 +1,376 @@
+{
+ "search_metadata": {
+  "id": "6a980540f6d5ee2d91cbc9e7",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/AMaRM4CTW1cx-EySr9kgmp3pNqENLtO6Rw-rCIpu4P0/6a980540f6d5ee2d91cbc9e7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/AMaRM4CTW1cx-EySr9kgmp3pNqENLtO6Rw-rCIpu4P0/6a980540f6d5ee2d91cbc9e7.md",
+  "created_at": "2026-09-02 11:15:12 UTC",
+  "processed_at": "2026-09-02 11:15:12 UTC",
+  "tripadvisor_reviews_url": "https://www.tripadvisor.com/1899234",
+  "raw_html_file": "https://serpapi.com/searches/AMaRM4CTW1cx-EySr9kgmp3pNqENLtO6Rw-rCIpu4P0/6a980540f6d5ee2d91cbc9e7.html",
+  "prettify_html_file": "https://serpapi.com/searches/AMaRM4CTW1cx-EySr9kgmp3pNqENLtO6Rw-rCIpu4P0/6a980540f6d5ee2d91cbc9e7.prettify",
+  "total_time_taken": 1.26
+ },
+ "search_parameters": {
+  "engine": "tripadvisor_reviews",
+  "place_id": "1899234",
+  "tripadvisor_domain": "www.tripadvisor.com"
+ },
+ "search_information": {
+  "total_reviews": 1797
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "title": "Worth the wait time?",
+   "snippet": "Was the 1 & 1/2 hour wait worth it? First, we stood in line for about 45 min. outside. Luckily, it wasn't too hot. They do have some chairs that you can use. Once they opened (at 11am), the line started moving, SLOWLY. We waited another 45 min or so just to order. Be aware that there's not much seating inside. Luckily, we got seating fairly quickly. We had the brisket and ribs. Tender and good flavor! There are condiments, teas, beer, and other beverages. But was it worth the wait? We decided that we would not do it again. But it was worth going once.",
+   "rating": 3,
+   "review_id": "1066199913",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1066199913-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2026-06-28",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-06-30",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/b3/6d/92/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/b3/6d/93/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/b3/6d/94/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/b3/6d/95/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/b3/6d/96/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/b3/6d/97/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "85E4881BDC86539899DD53C83E2CB5D9",
+    "username": "OregonChickie",
+    "display_name": "OregonChickie",
+    "link": "https://www.tripadvisor.com/Profile/OregonChickie",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/b8/default-avatar-2020-22.jpg",
+    "contributions": 264,
+    "hometown": "Lynnwood, Washington"
+   }
+  },
+  {
+   "position": 2,
+   "title": "Overrated",
+   "snippet": "We waited for 2.5 hours outside in their fold up chairs. The brisket was pretty good but the ribs were salty. We were told that's how they make barbecue in Texas! Not bad but not worth the hype or wait! Also very expensive!",
+   "rating": 4,
+   "review_id": "1061934137",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1061934137-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2026-05-27",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-05-31",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "4057847E042EDA40F471DD3A428B4768",
+    "username": "828susieq",
+    "display_name": "Susie Q",
+    "link": "https://www.tripadvisor.com/Profile/828susieq",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/10/default-avatar-2020-8.jpg",
+    "contributions": 26,
+    "hometown": "San Francisco, California"
+   }
+  },
+  {
+   "position": 3,
+   "title": "BEST BBQ",
+   "snippet": "Possibly the best bbq ever. Best brisket best everything. Great location. Arrived at 8am got in at 1230pm. Place opened for hour and half and beef ribs were already sold out! Didn\u2019t matter everything else perfect and I\u2019ll be back for the Dino bone. Just the best",
+   "rating": 5,
+   "review_id": "1058357268",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1058357268-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2026-04-29",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-04-30",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/17/91/44/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/17/91/45/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/17/91/46/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "4849729D6797766200148BFCC49E2945",
+    "username": "jessicaleighh2023",
+    "display_name": "Jessica-Leigh H",
+    "link": "https://www.tripadvisor.com/Profile/jessicaleighh2023",
+    "contributions": 21
+   }
+  },
+  {
+   "position": 4,
+   "title": "The 2 hour queue!",
+   "snippet": "The two hour queue, was it worth it, yes! So encourage to visit this place and I did so in a Sunday, the queue was long but the beef brisket was worth it. Great friendly service from the staff in this iconic restaurant!",
+   "rating": 5,
+   "review_id": "1054747339",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1054747339-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2026-03-30",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-03-31",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d1/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d2/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d3/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d4/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d5/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d6/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d7/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/d1/13/d8/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "751A124C20868AF1AA92FD9332343E77",
+    "username": "Sjc997",
+    "display_name": "Stuart C",
+    "link": "https://www.tripadvisor.com/Profile/Sjc997",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/fa/b6/13/stuart-c.jpg",
+    "contributions": 5604,
+    "hometown": "Bournemouth, United Kingdom"
+   }
+  },
+  {
+   "position": 5,
+   "title": "\u00d3tima experiencia",
+   "snippet": "Excelente experi\u00eancia! As carnes s\u00e3o deliciosas e o atendimento e \u00f3timo. Por sorte esperei apenas por 01 hora na fila.\nA casa tamb\u00e9m vende molhos, temperos e alguns souveriers.",
+   "rating": 5,
+   "review_id": "1053584079",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1053584079-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2026-03-19",
+   "language": "pt",
+   "original_language": "pt",
+   "trip_info": {
+    "date": "2026-03-31",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/ba/d7/97/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/ba/d7/98/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "D4F1AA9AF1424CEE46958A1C674FA0DD",
+    "username": "lealluisa",
+    "display_name": "Luisa Leal",
+    "link": "https://www.tripadvisor.com/Profile/lealluisa",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg",
+    "contributions": 103,
+    "hometown": "Belo Horizonte, MG"
+   }
+  },
+  {
+   "position": 6,
+   "title": "The brisket melted in my mouth oh my god",
+   "snippet": "What an experience . They know bbq !!!! The brisket melted in my mouth. The sides were delicious too . And the dessert. Wow . I can\u2019t wait to go back . When we went it wasn\u2019t busy as we went around 2 pm . Parking is limited there so you can pay to park next door in the parking lot or you may have to walk . Just fyi .",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1032084241",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1032084241-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2025-09-25",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-09-30",
+    "type": "FRIENDS"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/39/0b/e2/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/39/0b/e3/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/39/0b/e4/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/39/0b/e5/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/39/0b/e6/caption.jpg"
+   ],
+   "tips": [
+    "Parking is limited . "
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "4EB5728BD37217A695E71E7DF6329207",
+    "username": "erinbabykitty",
+    "display_name": "Erin Baby Kitty",
+    "link": "https://www.tripadvisor.com/Profile/erinbabykitty",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/84/c2/3a/erin-n.jpg",
+    "contributions": 85,
+    "hometown": "Richmond, Canada"
+   }
+  },
+  {
+   "position": 7,
+   "title": "Awesome BBQ at Franklin\u2019s.",
+   "snippet": "Fantastic BBQ at Franklin\u2019s! Get in line by 10:30 am or you may not get brisket! Food is fantastic! The sitting area is small inside and there are several outside tables in the shade.",
+   "rating": 5,
+   "review_id": "1020630665",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1020630665-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2025-07-24",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-07-31",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "6259B9B4E234FFC11169DF4832265B4E",
+    "username": "S8464TNdonaldw",
+    "display_name": "Donald W",
+    "link": "https://www.tripadvisor.com/Profile/S8464TNdonaldw",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+    "contributions": 41
+   }
+  },
+  {
+   "position": 8,
+   "title": "Absolutely exceptional\u2014easy, seamless, and downright delicious!",
+   "snippet": "Ordering online and picking up from the trailer out back couldn\u2019t have been more convenient. My order was ready right on time, and the team was outstanding\u2014kind, welcoming, and highly professional. I truly have nothing but praise.\n\nI stocked up for the journey back to Virginia and can\u2019t wait to dig into my stash\u2014brisket\u2026 more brisket\u2026 ribs\u2026 and that tender, shredded pork.\n\nVery respectfully,\nDr. Ken King",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1019493860",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1019493860-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2025-07-19",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-07-31",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/86/a6/b4/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/86/a6/7b/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/86/a6/27/caption.jpg"
+   ],
+   "tips": [
+    "If you are ordering 3-4 pounds of meat, on-line ordering is an option for you to skip the line and drive up, park in to-go parking spots."
+   ],
+   "votes": 1,
+   "author": {
+    "author_id": "B2DA9BFCCC75674F28068362DF14CA38",
+    "username": "kenkW4282FO",
+    "display_name": "Dr. Ken King",
+    "link": "https://www.tripadvisor.com/Profile/kenkW4282FO",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e9/ef/default-avatar-2020-66.jpg",
+    "contributions": 749,
+    "hometown": "Chester Gap, Virginia"
+   }
+  },
+  {
+   "position": 9,
+   "title": "The wait is worth it and BRISKET is the BEST EVER!!",
+   "snippet": "Definitely the best brisket we have ever had. It doesn't just pull apart, it actually breaks apart when you pick it up, SO tender and juicy. And the servers even took us on a tour of the smoker room which was great! We wanted to see KGs BBQ but he wouldn't let us take a photo with him, so it was so refreshing how wonderful the workers were at Franklins - very welcoming. Definitely the better choice!\nALSO, we arrived early and there was a line of course BUT Franklin's was so great to provide picnic tables and folding chairs for everyone in line. They also had water for all of us and came out to speak with us. The line was on the shady side of the restaurant so waiting really wasn't a big deal.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1008039462",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1008039462-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2025-05-17",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-05-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "B82B42971193285739DDF634C2E5A504",
+    "username": "metrobrokers",
+    "display_name": "Scott C",
+    "link": "https://www.tripadvisor.com/Profile/metrobrokers",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/5d/b6/87/richardsc2013.jpg",
+    "contributions": 50,
+    "hometown": "Newnan, Georgia"
+   }
+  },
+  {
+   "position": 10,
+   "title": "Worth the wait",
+   "snippet": "Worth the wait (1 hr 20 min). I had the brisket, ribs, Cole slaw and pecan pie. Not a fan of the sauces but the meat is so well seasoned that sauce is merely an afterthought.",
+   "rating": 5,
+   "review_id": "1007747583",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d1899234-r1007747583-Franklin_Barbecue-Austin_Texas.html",
+   "date": "2025-05-15",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-05-31",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/e0/f3/0e/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "13EEEC883A4E33C4C224A6FE4D16E9A0",
+    "username": "sikicmel",
+    "display_name": "sikicmel",
+    "link": "https://www.tripadvisor.com/Profile/sikicmel",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f1/42/default-avatar-2020-20.jpg",
+    "contributions": 13,
+    "hometown": "Shenandoah, Virginia"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor_reviews&offset=10&place_id=1899234&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

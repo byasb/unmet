@@ -1,0 +1,430 @@
+{
+ "search_metadata": {
+  "id": "6a98054205bb59d3ca94982f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/2iFWgc5C09e7_IFXVOVwsknPQStBzKP4UYTYGFfH034/6a98054205bb59d3ca94982f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/2iFWgc5C09e7_IFXVOVwsknPQStBzKP4UYTYGFfH034/6a98054205bb59d3ca94982f.md",
+  "created_at": "2026-09-02 11:15:14 UTC",
+  "processed_at": "2026-09-02 11:15:14 UTC",
+  "tripadvisor_url": "https://www.tripadvisor.com/Search?q=Terry+Black%27s+Barbecue+Austin&ssrc=r&geo=1&offset=0&limit=30",
+  "raw_html_file": "https://serpapi.com/searches/2iFWgc5C09e7_IFXVOVwsknPQStBzKP4UYTYGFfH034/6a98054205bb59d3ca94982f.html",
+  "prettify_html_file": "https://serpapi.com/searches/2iFWgc5C09e7_IFXVOVwsknPQStBzKP4UYTYGFfH034/6a98054205bb59d3ca94982f.prettify",
+  "total_time_taken": 1.06
+ },
+ "search_parameters": {
+  "engine": "tripadvisor",
+  "q": "Terry Black's Barbecue Austin",
+  "tripadvisor_domain": "www.tripadvisor.com",
+  "ssrc": "r",
+  "offset": 0,
+  "limit": 30
+ },
+ "places": [
+  {
+   "position": 1,
+   "title": "Terry Black's Barbecue",
+   "place_type": "EATERY",
+   "place_id": "6856168",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d6856168-Reviews-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=6856168&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Spacious, casual stop for pit-smoked meats & housemade sides from famous 4th-generation pitmasters.",
+   "rating": 4.5,
+   "reviews": 1877,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f3/4b/6c/caption.jpg",
+   "highlighted_review": {
+    "mention_count": 46
+   }
+  },
+  {
+   "position": 2,
+   "title": "Terry Black's Barbecue",
+   "place_type": "EATERY",
+   "place_id": "19649172",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55711-d19649172-Reviews-Terry_Black_s_Barbecue-Dallas_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=19649172&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Terry Black's BBQ is your home for legendary Texas BBQ. A casual market-style barbecue restaurant that features easy online ordering and classic merchandise. Now with locations in Austin, Dallas & Lockhart!",
+   "rating": 4.6,
+   "reviews": 198,
+   "location": "Dallas, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/41/33/a5/photo4jpg.jpg"
+  },
+  {
+   "position": 3,
+   "title": "Black's Barbecue Austin",
+   "place_type": "EATERY",
+   "place_id": "7347326",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d7347326-Reviews-Black_s_Barbecue_Austin-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=7347326&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Located just outside of the UT campus in Austin's lively neighborhood known as The Drag, lies The Original Black's BBQ Austin. Our legendary Texas-style BBQ is cooked fresh on the old Lockhart pits and hand-delivered to the Austin location hot and fresh every day.",
+   "rating": 4.4,
+   "reviews": 379,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fe/41/19/photo0jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 4,
+   "title": "Terry Black's Barbecue",
+   "place_type": "EATERY",
+   "place_id": "27697405",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56833-d27697405-Reviews-Terry_Black_s_Barbecue-Waco_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=27697405&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Coming Soon!",
+   "rating": 4.2,
+   "reviews": 47,
+   "location": "Waco, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/9a/a8/57/the-back-patio.jpg"
+  },
+  {
+   "position": 5,
+   "title": "Terry Black's Barbeque",
+   "place_type": "EATERY",
+   "place_id": "32872813",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55857-d32872813-Reviews-Terry_Black_s_Barbeque-Fort_Worth_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=32872813&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Terry Black's BBQ is your home for legendary Texas BBQ. A casual market-style barbecue restaurant that features easy online ordering and classic merchandise. Now with locations in Austin, Dallas & Lockhart!",
+   "rating": 4.5,
+   "reviews": 26,
+   "location": "Fort Worth, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2f/90/7e/13/caption.jpg"
+  },
+  {
+   "position": 6,
+   "title": "Terry Black's Barbeque Lockhart",
+   "place_type": "EATERY",
+   "place_id": "26328228",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56182-d26328228-Reviews-Terry_Black_s_Barbeque_Lockhart-Lockhart_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=26328228&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Terry Black's BBQ is your home for legendary Texas BBQ. A casual market-style barbecue restaurant that features easy online ordering and classic merchandise. Now with locations in Austin, Dallas & Lockhart!",
+   "rating": 4.6,
+   "reviews": 23,
+   "location": "Lockhart, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/d4/42/3b/caption.jpg"
+  },
+  {
+   "position": 7,
+   "title": "Cooper\u2019s Old Time Pit Bar-b-Que",
+   "place_type": "EATERY",
+   "place_id": "9788694",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d9788694-Reviews-Cooper_s_Old_Time_Pit_Bar_b_Que-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=9788694&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.3,
+   "reviews": 1057,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/21/a3/1d/photo3jpg.jpg"
+  },
+  {
+   "position": 8,
+   "title": "Black's Barbecue Lockhart",
+   "place_type": "EATERY",
+   "place_id": "516589",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56182-d516589-Reviews-Black_s_Barbecue_Lockhart-Lockhart_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=516589&tripadvisor_domain=www.tripadvisor.com",
+   "description": "The Original Black's BBQ opened its first location in 1932 in the little town of Lockhart, known as the barbecue capital of Texas. Five generations of Blacks later, our family continues the tradition of serving authentic Texas-style BBQ and southern hospitality to over 50 million guests from around the world.",
+   "rating": 4.3,
+   "reviews": 1400,
+   "location": "Lockhart, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/be/8a/9a/20160827-180247-largejpg.jpg"
+  },
+  {
+   "position": 9,
+   "title": "Black's Barbecue San Marcos",
+   "place_type": "EATERY",
+   "place_id": "7176689",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56618-d7176689-Reviews-Black_s_Barbecue_San_Marcos-San_Marcos_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=7176689&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Enjoy slow-smoked meats & southern desserts in a rustic setting with a full bar, patio, and live music at our San Marcos outpost! Our legendary Texas-style BBQ is cooked fresh on the old Lockhart pits and hand-delivered to the San Marcos location hot and fresh every day.",
+   "rating": 4.3,
+   "reviews": 240,
+   "location": "San Marcos, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/14/3d/c6/yep-post-lunch-crowd.jpg"
+  },
+  {
+   "position": 10,
+   "title": "la Barbecue",
+   "place_type": "EATERY",
+   "place_id": "3736794",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d3736794-Reviews-La_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=3736794&tripadvisor_domain=www.tripadvisor.com",
+   "description": "la Barbecue was established in 2012 by LeAnn Mueller. Formerly a food truck we now have a home and share a building with the Quickie Pickie on E. Cesar Chavez. Drinks, beer and wind by Quickie Pickie and BBQ by la Barbecue.",
+   "rating": 4.5,
+   "reviews": 708,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b1/80/c7/photo1jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 4
+   }
+  },
+  {
+   "position": 11,
+   "title": "Lamberts Downtown Barbecue",
+   "place_type": "EATERY",
+   "place_id": "800621",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d800621-Reviews-Lamberts_Downtown_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=800621&tripadvisor_domain=www.tripadvisor.com",
+   "description": "BBQ ALWAYS, LIVE MUSIC OFTEN<br /><br />Located on the corner of 2nd and Guadalupe Streets in downtown Austin (a block away from Town Lake & Moody Theater), in a historic 1873 Victorian building once home to J.P. Schneider general store, Lamberts features modern Texas classics including expertly smoked barbecue, grilled prime steaks, simple yet elegant apps and mains, and homestyle sides. We are open daily for lunch and dinner.<br /><br />The two-story dining room features an open kitchen, two bars (with one of the best whiskey selections in town) as well as an outdoor patio surrounding our Mill Scale smoker. The design includes black leather banquettes and repurposed sinker pine table tops. The vibe is laid-back Austin and not afraid to get a little rowdy at times\u2014especially when there's live music Upstairs at Lamberts. <br /> <br />*If booking an outdoor table, please note that patio seating is weather contingent. During those times, we will do our best to accommodate indoor seating depending on availability.",
+   "rating": 4.2,
+   "reviews": 1073,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/48/f4/85/cozy-booth-seatings.jpg",
+   "highlighted_review": {
+    "mention_count": 2
+   }
+  },
+  {
+   "position": 12,
+   "title": "Franklin Barbecue",
+   "place_type": "EATERY",
+   "place_id": "1899234",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d1899234-Reviews-Franklin_Barbecue-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=1899234&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.6,
+   "reviews": 1797,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/01/c8/b4/inside-resaturant-well.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 13,
+   "title": "Rudy's Country Store & Bar-B-Q",
+   "place_type": "EATERY",
+   "place_id": "469684",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d469684-Reviews-Rudy_s_Country_Store_Bar_B_Q-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=469684&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Rudy's \"Country Store\" and Bar-B-Q serves Real Texas Bar-B-Q seven days a week. They offer breakfast, lunch, dinner and group meals.",
+   "rating": 4.4,
+   "reviews": 2006,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5d/76/2d/brilliant-must-try-food.jpg"
+  },
+  {
+   "position": 14,
+   "title": "Stiles Switch BBQ",
+   "place_type": "EATERY",
+   "place_id": "2515332",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d2515332-Reviews-Stiles_Switch_BBQ-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=2515332&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.4,
+   "reviews": 589,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/9a/96/caption.jpg"
+  },
+  {
+   "position": 15,
+   "title": "The Salt Lick Bar-B-Que",
+   "place_type": "EATERY",
+   "place_id": "437863",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d437863-Reviews-The_Salt_Lick_Bar_B_Que-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=437863&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 3.9,
+   "reviews": 486,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/56/cf/a8/beautiful-atmosphere.jpg"
+  },
+  {
+   "position": 16,
+   "title": "Terry's Seafood",
+   "place_type": "EATERY",
+   "place_id": "4192510",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d4192510-Reviews-Terry_s_Seafood-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=4192510&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 3.4,
+   "reviews": 9,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/b1/60/c6/terry-s-seafood-co.jpg"
+  },
+  {
+   "position": 17,
+   "title": "Peter's BBQ",
+   "place_type": "EATERY",
+   "place_id": "2337145",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g55797-d2337145-Reviews-Peter_s_BBQ-Ellinger_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=2337145&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.4,
+   "reviews": 98,
+   "location": "Ellinger, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/9c/51/4f/photo1jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  },
+  {
+   "position": 18,
+   "title": "The Green Mesquite BBQ & More",
+   "place_type": "EATERY",
+   "place_id": "3722367",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d3722367-Reviews-The_Green_Mesquite_BBQ_More-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=3722367&tripadvisor_domain=www.tripadvisor.com",
+   "description": "The Green Mesquite BBQ & More provides barbeque food to the Austin, TX area.",
+   "rating": 4,
+   "reviews": 200,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/0f/77/03/rustic-decor.jpg"
+  },
+  {
+   "position": 19,
+   "title": "Jeffrey's Restaurant",
+   "place_type": "EATERY",
+   "place_id": "437569",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d437569-Reviews-Jeffrey_s_Restaurant-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=437569&tripadvisor_domain=www.tripadvisor.com",
+   "description": "Jeffrey's Restaurant & Bar has been an Austin fine dining institution since 1975. In 2012 the restaurant closed for a major renovation and was reopened by McGuire Moorman Lambert Hospitality. The legendary restaurant, nestled in the Clarksville neighborhood just west of downtown, features a lively bar and three distinct dining rooms. The menus, from executive chef Mark McCain, features dry-aged prime steaks, updated classic fine dining, and locally sourced produce. The award-winning wine list, one of the largest and most diverse in Texas, features highly-sought after vintages from Old and New World producers. Private dining in the Napoleon Room and The Apartment is available for special events. Valet service is offered.The charming neighborhood location, old world service & multiple private dining options make Jeffrey's a true Austin gem. Jeffrey's was named \u201cTop 10 Best New Restaurants\u201d in the country by Bon Appetit magazine in 2013.",
+   "rating": 4.2,
+   "reviews": 261,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/30/43/4e/jeffrey-s-restaurant.jpg"
+  },
+  {
+   "position": 20,
+   "title": "Snow's BBQ",
+   "place_type": "EATERY",
+   "place_id": "918708",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g56162-d918708-Reviews-Snow_s_BBQ-Lexington_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=918708&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.6,
+   "reviews": 156,
+   "location": "Lexington, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d8/b8/ba/photo1jpg.jpg"
+  },
+  {
+   "position": 21,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "12476591",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d12476591-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=12476591&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees",
+   "rating": 4.3,
+   "reviews": 9,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/72/aa/eb/two-drive-thru-s-for.jpg"
+  },
+  {
+   "position": 22,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "12486536",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d12486536-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=12486536&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees",
+   "rating": 4.5,
+   "reviews": 12,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/5e/e4/ee/getlstd-property-photo.jpg"
+  },
+  {
+   "position": 23,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "19112245",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d19112245-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=19112245&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees",
+   "rating": 4.2,
+   "reviews": 5,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/c2/7f/08/photo0jpg.jpg"
+  },
+  {
+   "position": 24,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "12476625",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d12476625-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=12476625&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees.",
+   "rating": 3.6,
+   "reviews": 10,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/72/b4/3f/double-drive-thru-dine.jpg"
+  },
+  {
+   "position": 25,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "12149125",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d12149125-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=12149125&tripadvisor_domain=www.tripadvisor.com",
+   "description": "A '50s & '60s-inspired burger stand that serves 100% Black Angus beef burgers, hand-cut fries, hand-spun milkshakes, and fresh breakfast.",
+   "rating": 4,
+   "reviews": 20,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/24/60/14/photo0jpg.jpg"
+  },
+  {
+   "position": 26,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "4165211",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d4165211-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=4165211&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees",
+   "rating": 4.1,
+   "reviews": 40,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/72/c4/3e/double-drive-thru-dine.jpg"
+  },
+  {
+   "position": 27,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "4728279",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d4728279-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=4728279&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees",
+   "rating": 4.2,
+   "reviews": 33,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/bf/82/75/drive-thru-dine-in-and.jpg"
+  },
+  {
+   "position": 28,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "5979331",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d5979331-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=5979331&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees",
+   "rating": 3.9,
+   "reviews": 62,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/72/bd/2a/double-drive-thru-dine.jpg"
+  },
+  {
+   "position": 29,
+   "title": "P. Terry's Burger Stand",
+   "place_type": "EATERY",
+   "place_id": "4999537",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g30196-d4999537-Reviews-P_Terry_s_Burger_Stand-Austin_Texas.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=4999537&tripadvisor_domain=www.tripadvisor.com",
+   "description": "P. Terry's serves the highest quality burgers and fries, using the freshest ingredients, at an affordable price. We are committed to providing a great experience in a welcoming environment for our guests while ensuring the well-being of our employees",
+   "rating": 3.8,
+   "reviews": 29,
+   "location": "Austin, Texas",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/a3/00/00/double-drive-thru-dine.jpg"
+  },
+  {
+   "position": 30,
+   "title": "Lewis Barbecue Charleston",
+   "place_type": "EATERY",
+   "place_id": "10499374",
+   "link": "https://www.tripadvisor.com/Restaurant_Review-g54171-d10499374-Reviews-Lewis_Barbecue_Charleston-Charleston_South_Carolina.html",
+   "serpapi_link": "https://serpapi.com/search.json?engine=tripadvisor_place&place_id=10499374&tripadvisor_domain=www.tripadvisor.com",
+   "rating": 4.7,
+   "reviews": 1056,
+   "location": "Charleston, South Carolina",
+   "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/6e/17/1b/photo9jpg.jpg",
+   "highlighted_review": {
+    "mention_count": 1
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor&limit=30&offset=30&q=Terry+Black%27s+Barbecue+Austin&ssrc=r&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

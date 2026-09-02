@@ -1,0 +1,801 @@
+{
+ "search_metadata": {
+  "id": "6a98064288de92167b4454de",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/f-w7k6gtD9wAL7UJ4iA6nix00x5w7nmZ3gWUiviNo-M/6a98064288de92167b4454de.json",
+  "markdown_endpoint": "https://serpapi.com/searches/f-w7k6gtD9wAL7UJ4iA6nix00x5w7nmZ3gWUiviNo-M/6a98064288de92167b4454de.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/f-w7k6gtD9wAL7UJ4iA6nix00x5w7nmZ3gWUiviNo-M/6a98064288de92167b4454de.json_with_pixel_position",
+  "created_at": "2026-09-02 11:19:30 UTC",
+  "processed_at": "2026-09-02 11:19:30 UTC",
+  "google_url": "https://www.google.com/search?q=best+brisket+in+austin&oq=best+brisket+in+austin&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/f-w7k6gtD9wAL7UJ4iA6nix00x5w7nmZ3gWUiviNo-M/6a98064288de92167b4454de.html",
+  "total_time_taken": 2.24
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "best brisket in austin",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "us",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "best brisket in austin",
+  "total_results": 129,
+  "time_taken_displayed": 0.43,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "local_map": {
+  "image": "https://www.google.com/maps/vt/data=7FqYT7Ls_63MDsdT37THpGipZoyuhY9KNRH_KVQllmdPnJ7hDKcq4iEkz3l3GOdWweZ2pAbxQLthcxqE9Ny4UoUjCtRovDS9DLF_1Y7TV8tHqwCOR0NEGgX4jzHQhuOL9q3PY9LURA7l5EejiilmfeqDGBDXPOJozmcz2Y4ONqWsWpHaeGfcKaHSTCOev2k3-stBqSwTazA_sw9TwupGvO1xs1SB9BbhMrQHnoEvARwocrhiIHI6KLStlfMOHSe_mUDeRFz7TL0thOUJ8UMKtrivHswy9LTagwX9d3Ok9jiunWmV5QCOzlqTKMZ6cnn7o6zKgYRH9Hs8U3RQpSdww0tD3GHghPsMcZrj7mi-CSIJRwdQYr58YIjocaSOLbSqLiFToTcM8wkd76fTxSDR6-nmaRnTRtnbPYH2X8aYao9Lf2FLIg81qykKoiReaUWKEI2-qbEPdy1FU7biviCAZDM5sSWPLrtvTp-SRdAgjuCicOGEQ6utpuMi3eaAum1b4R8JQMMqsq0-5z37YDyvr_h3AMUKl8HeJih4E9txTUHazb6LqNdn3T2KVKDTuppjT3Z-cVHXL2eIqvP7fA3mBrLLg0SsT4p7N0UC-fxpAu1IZ90oiCwOAa64axGlvdp_x3Vr41u_N3eZgun5qm63S04NOp7QDvpUX900fdliiMgsy6NQ0LVJNSwyp485UlcEnNJspJfdbUZH0QhsddEWL-a7xTmT_BqHu5O072MPQMHab52LRIMQH2VmcWAOXE-tSiXjIsVG39RNkNR60kRdb6cYnBXnJU_1Osl4hUniIXowQOjvTPzx6VpnFnaxlQW-68JfGsP5g3xOGAyDfwgiP4cI3pZ81Mvj_7hfA4MtviEOJ2u2qdv4oQH0GjV5f1bjK0Z5J_e6nqjRSh7KQD45IUJ2gd0H6tzXOFpUBuQSMGyo1CUJJtlNRFgYMXTnpprhRrf9Nkx3VOfw2f1Wx3bGlLvqJXNNx2CCyeB4L4mxCiJjO7VYypFf6Lck5TJJSqwLhbp7RB0jhwSuNoWx08zta5gp3lcfpm83bg4tVPsiQS-MLGcskeulbDKMEmHWM0hJS_mjucnE32HoVCaMwvs_hADsN6VtMfAyFq5lA_mVK3QPTavpDx44vC99S5mjxWrwLU18TxVa2MfSYZ93huF4zsvaYosNlsRjVP1r6G1zmSLhRr4TENJIE_WJT4oPfrwzlC10YPhWm0djvTFgdokIrJDwYkDf8Rzsz7-n-gJaup9eBCMrPqEnp9s0xoj1nkqXJ6R4OPVx7-nUUiHT4_fP14Wtnz5Fu2X_2zj9ElGI1PLaQKQU3NErFXWhGi5MgUVhLyKR_qBcLRA51QFBmYIN_fVr9QlXRzXhZTQ5OPd_Y5wc8MlcdireRgOs1RX7J-izXCzpxk_jP6OfV1Omd4l7Mk-3U2C0UcI9rl5NPXtY-8AMib6EKfpsWpeXRUV2q6vY6HK9thc",
+  "gps_coordinates": {
+   "latitude": 30.301464267857497,
+   "longitude": -97.72235870361328
+  }
+ },
+ "local_results": {
+  "places": [
+   {
+    "position": 1,
+    "rating": 4.7,
+    "reviews": 27000,
+    "reviews_original": "(27K)",
+    "price": "$20\u201370",
+    "description": "\"Delicious brisket and sausage were so juicy\u2026\"",
+    "thumbnail": "https://serpapi.com/searches/6a98064288de92167b4454de/images/fdiDhJLZSrciMpvjKT9MnkMJiL92NYocP8GS4YzSDZxjsMhoEh_H495sI2etk0wl.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnE3ufDT7g8nfbSWkfjtGmVGJFfpffHbUhfite1q5dUqvol2bZA1vSixg7ILaFM0Qf7dncXa67lsGIQjw7uJvv8qlu9_gDtxOlmfBhaW6LLjtx7D9GOF15P4mtWfbwZwyGBoNyq=w1000-h1000-c-n",
+    "place_id": "13851597096564644039",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=13851597096564644039&q=best+brisket+in+austin",
+    "provider_id": "/g/1ptw839c8",
+    "gps_coordinates": {
+     "latitude": 30.259712,
+     "longitude": -97.754824
+    },
+    "title": "Terry Black's Barbecue",
+    "type": "Barbecue",
+    "address": "1003 Barton Springs Rd",
+    "hours": "Closed \u00b7 Opens 10:30 AM"
+   },
+   {
+    "position": 2,
+    "rating": 4.7,
+    "reviews": 7200,
+    "reviews_original": "(7.2K)",
+    "price": "$20\u201370",
+    "description": "\"The brisket is the moistest and most tender you\u2019ll ever have.\"",
+    "thumbnail": "https://serpapi.com/searches/6a98064288de92167b4454de/images/fdiDhJLZSrciMpvjKT9MnjsnFzLNsoXU5YO9uimBUJzrMSLn2QWhDEGVr0Gs3gOG.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAxzkBByC-NIdMAsv1VQNJiQ4mjWG96Bsl1UzP12M1m_igdjZKNhVds1QVe24DYIYMwkSr__td7FvvPzEdFElGgZ4wHHuGX3K1lm2lPC167ZesGWAs4z3GOdTCb5uRNElujHrq=w1000-h1000-c-n",
+    "place_id": "3579139785445756036",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=3579139785445756036&q=best+brisket+in+austin",
+    "provider_id": "/m/012vm5v8",
+    "gps_coordinates": {
+     "latitude": 30.270122,
+     "longitude": -97.731343
+    },
+    "title": "Franklin Barbecue",
+    "type": "Barbecue",
+    "address": "900 E 11th St",
+    "hours": "Closed \u00b7 Opens 11 AM"
+   },
+   {
+    "position": 3,
+    "rating": 4.7,
+    "reviews": 2000,
+    "reviews_original": "(2K)",
+    "price": "$20\u201330",
+    "description": "\"Some of the best brisket I've ever had is being served up here.\"",
+    "thumbnail": "https://serpapi.com/searches/6a98064288de92167b4454de/images/fdiDhJLZSrciMpvjKT9MnmMdeQWpcrOFm39hqCGWms0Umurwty2Nx0tWkXe_TiNA.jpeg",
+    "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMdq2qumZMv0PxUEas2KtDMZfc82PZMmaP7VhJL0n6vbft5ssyfABXWeB0qqoFAyFg5CJ9CmRfOCLEIvoTHzoJbXau30yzyes74OvcGoIKPXe15Bz2KUi_GWR5GAO8gni7dtW59g=w1000-h1000-c-n",
+    "place_id": "8304984004539606573",
+    "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&ludocid=8304984004539606573&q=best+brisket+in+austin",
+    "provider_id": "/g/1262dhm6m",
+    "gps_coordinates": {
+     "latitude": 30.273203,
+     "longitude": -97.690165
+    },
+    "title": "Micklethwait Barbecue",
+    "type": "Barbecue",
+    "address": "4602 Tanney St",
+    "hours": "Closed \u00b7 Opens 11 AM Thu"
+   }
+  ],
+  "more_locations_link": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&udm=1&lsack=QwaYasi-IJ7t1e8Ps-70mQE&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQjGp6BAglEAA"
+ },
+ "related_questions": [
+  {
+   "question": "What is Joe Rogan's favorite restaurant in Austin?",
+   "type": "ai_overview",
+   "page_token": "c_z82HicHdBRbpswHIBx7TJ9bMCoaRcpqkrBaRwwwuA_xC-TMSFOsYE1LCS87Qo7Q0-106zaBb6f9P3-NKeu_fvtjx7H4bxaLKZpuj_2_dEc7lVvF_J869RCSWMqqdrV8nHpPjdqHV6U__qh_JQPAwTMyUoiJYZGGuJnnmigdRAvWRTxa1kbnRaFSPaoLuRMfsZI7zIez-rk0syOAX-jy8oRN8kNZ7yOD5j0xbsGCZRnHXkoArFVwQsSLcVga5HloXcoSFq34wwtccFebQJPXgXErRyz45ZcMkfrmo8RQIxKxww0IMu955-jHP-qvsz9DFMCIuU5DQF_9UoWV53uctcPKWI7hr6_slbfaAEdvHHEnGFOgIVgMAt1zWqExb6kQ8TNjnrpVeQ6VTfHizcuY6w_pZzN6t1YbvEGyu0oN6MPSKcR4CEPty7FrExK32H2QdTTXaMua-_u_-v1j8aOq-GjP_4DBtOLtw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=c_z82HicHdBRbpswHIBx7TJ9bMCoaRcpqkrBaRwwwuA_xC-TMSFOsYE1LCS87Qo7Q0-106zaBb6f9P3-NKeu_fvtjx7H4bxaLKZpuj_2_dEc7lVvF_J869RCSWMqqdrV8nHpPjdqHV6U__qh_JQPAwTMyUoiJYZGGuJnnmigdRAvWRTxa1kbnRaFSPaoLuRMfsZI7zIez-rk0syOAX-jy8oRN8kNZ7yOD5j0xbsGCZRnHXkoArFVwQsSLcVga5HloXcoSFq34wwtccFebQJPXgXErRyz45ZcMkfrmo8RQIxKxww0IMu955-jHP-qvsz9DFMCIuU5DQF_9UoWV53uctcPKWI7hr6_slbfaAEdvHHEnGFOgIVgMAt1zWqExb6kQ8TNjnrpVeQ6VTfHizcuY6w_pZzN6t1YbvEGyu0oN6MPSKcR4CEPty7FrExK32H2QdTTXaMua-_u_-v1j8aOq-GjP_4DBtOLtw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBKb2UgUm9nYW4ncyBmYXZvcml0ZSByZXN0YXVyYW50IGluIEF1c3Rpbj8iLCJsayI6IkdpUnFiMlVnY205bllXNGdabUYyYjNKcGRHVWdjbVZ6ZEdGMWNtRnVkQ0JoZFhOMGFXNCIsImJzIjoiYzMzUVBRdkNRQXdHWUZ4dmNxNWZHZnpZdTB1cGc2Q0xJRUlYbDZ1azN0bHlCMG5hNHJfMzJzVUs2dnctQ1htanJpck9qQmF3REVlUGNQWjM3VFlNaFc0OFdVRWdaTkUxYVJlSWc3Um1zUzZKMTlIeUVUUjEtcXZWUFZSYk5jMk1CMFpxa0VFTVFoNE01R1M1UkVuaVdUUnBmLWNxVmZOdTNPaGhobGk4Rnl5aVdmdFBxSk5hSFJqMjRhaXlzbzdCRTF5UTZBbTdTdF9LMERSSEVhUy1VdmhCTVlUU3dfd0Rqa2N2IiwiaWQiOiJmY19Rd2FZYXNpLUlKN3QxZThQcy03MG1RRV82In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBKb2UgUm9nYW4ncyBmYXZvcml0ZSByZXN0YXVyYW50IGluIEF1c3Rpbj8iLCJsayI6IkdpUnFiMlVnY205bllXNGdabUYyYjNKcGRHVWdjbVZ6ZEdGMWNtRnVkQ0JoZFhOMGFXNCIsImJzIjoiYzMzUVBRdkNRQXdHWUZ4dmNxNWZHZnpZdTB1cGc2Q0xJRUlYbDZ1azN0bHlCMG5hNHJfMzJzVUs2dnctQ1htanJpck9qQmF3REVlUGNQWjM3VFlNaFc0OFdVRWdaTkUxYVJlSWc3Um1zUzZKMTlIeUVUUjEtcXZWUFZSYk5jMk1CMFpxa0VFTVFoNE01R1M1UkVuaVdUUnBmLWNxVmZOdTNPaGhobGk4Rnl5aVdmdFBxSk5hSFJqMjRhaXlzbzdCRTF5UTZBbTdTdF9LMERSSEVhUy1VdmhCTVlUU3dfd0Rqa2N2IiwiaWQiOiJmY19Rd2FZYXNpLUlKN3QxZThQcy03MG1RRV82In0%3D"
+  },
+  {
+   "question": "Who serves the best brisket?",
+   "type": "ai_overview",
+   "page_token": "CK6_AnicHdDbToMwAIDh-DK7HEenW7KYIBQ0s0ihLfTGQMu5HLKhDO58F5_Kp3HxAf58yf_9I-u-_b2Lq2kaLwdFmed5Ww5DKfMtHzolvSw9V3gqZZby9rB72GlPBT86l9l6HmYrwONIbKSGjVgonaq81SxCYRpqwks6eWbqCJL4xYQrM7BHdE7EJ_ZGmsfOAhvQJ1Q1eHs1T1ioqRusgmIdYmeKbDEgFziRzc6xMRZ5w-wQjHGmw9q3UeQDpqEG9cx2tDDUuqAL7n3wOAmVXdII7XIHT7ivMO-4ejN7H2A105EXueDWy2vamSHQgJEQWXG9nUI8GMIG0gfWeor4nBEA3PrVQh5cfMpQQMC7T4CJ6d6FdG9BLzB8Oi9vLqm5Vq6ik2hT8K-jsfk_dvwouukwnofyD2CkeBo",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CK6_AnicHdDbToMwAIDh-DK7HEenW7KYIBQ0s0ihLfTGQMu5HLKhDO58F5_Kp3HxAf58yf_9I-u-_b2Lq2kaLwdFmed5Ww5DKfMtHzolvSw9V3gqZZby9rB72GlPBT86l9l6HmYrwONIbKSGjVgonaq81SxCYRpqwks6eWbqCJL4xYQrM7BHdE7EJ_ZGmsfOAhvQJ1Q1eHs1T1ioqRusgmIdYmeKbDEgFziRzc6xMRZ5w-wQjHGmw9q3UeQDpqEG9cx2tDDUuqAL7n3wOAmVXdII7XIHT7ivMO-4ejN7H2A105EXueDWy2vamSHQgJEQWXG9nUI8GMIG0gfWeor4nBEA3PrVQh5cfMpQQMC7T4CJ6d6FdG9BLzB8Oi9vLqm5Vq6ik2hT8K-jsfk_dvwouukwnofyD2CkeBo",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiV2hvIHNlcnZlcyB0aGUgYmVzdCBicmlza2V0PyIsImxrIjoiR2h0M2FHOGdjMlZ5ZG1WeklIUm9aU0JpWlhOMElHSnlhWE5yWlhRIiwiYnMiOiJjMzNRUFF2Q1FBd0dZRnh2Y3E1Zkdmell1MHVwZzZDTElFSVhsNnVrM3RseUIwbmE0cl8zMnNVSzZ2dy1DWG1qcmlyT2pCYXdERWVQY1BaMzdUWU1oVzQ4V1VFZ1pORTFhUmVJZzdSbXNTNkoxOUh5RVRSMS1xdlZQVlJiTmMyTUIwWnFrRUVNUWg0TTVHUzVSRW5pV1RScGYtY3FWZk51M09oaGhsaThGeXlpV2Z0UHFKTmFIUmoyNGFpeXNvN0JFMXlRNkFtN1N0X0swRFJIRWFTLVV2aEJNWVRTd193RGprY3YiLCJpZCI6ImZjX1F3YVlhc2ktSUo3dDFlOFBzLTcwbVFFXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiV2hvIHNlcnZlcyB0aGUgYmVzdCBicmlza2V0PyIsImxrIjoiR2h0M2FHOGdjMlZ5ZG1WeklIUm9aU0JpWlhOMElHSnlhWE5yWlhRIiwiYnMiOiJjMzNRUFF2Q1FBd0dZRnh2Y3E1Zkdmell1MHVwZzZDTElFSVhsNnVrM3RseUIwbmE0cl8zMnNVSzZ2dy1DWG1qcmlyT2pCYXdERWVQY1BaMzdUWU1oVzQ4V1VFZ1pORTFhUmVJZzdSbXNTNkoxOUh5RVRSMS1xdlZQVlJiTmMyTUIwWnFrRUVNUWg0TTVHUzVSRW5pV1RScGYtY3FWZk51M09oaGhsaThGeXlpV2Z0UHFKTmFIUmoyNGFpeXNvN0JFMXlRNkFtN1N0X0swRFJIRWFTLVV2aEJNWVRTd193RGprY3YiLCJpZCI6ImZjX1F3YVlhc2ktSUo3dDFlOFBzLTcwbVFFXzYifQ%3D%3D"
+  },
+  {
+   "question": "Who has the best beef brisket?",
+   "type": "ai_overview",
+   "page_token": "KmvSdXicHdBfboIwAIDx7DI-qqXooolZglIUpaalLbUvC2sFlSI4_wB72112qp1mZgf4fg_f9489novfl8fhdquv08GgaZp-XlW53fd1VQ7Sa3fWA51a-5HqYjp-HYO3TM_8-8qbX1Ye4XUtFnQYQyxVCRQ-o0wsMU-Y8WgxojGzV2O9JPbDivI2Y_JASGKxHIoHSZRIgpropXeMRAWM2I0o0y7l3N2KCdkyMkoZ6sRJLWkHQhZw-DQ8Iblr_MlWIXrBDF13ybPjYYtl4UQxcHBAHT4HDS9Ry4Y3oWDu4jlYMKj8yHoglmjNpL2rso0NQ0JwjIT1sn2BN0rWXeog6B8MNQ5SO4nrDbdrDEmr2IHobgijAFBKqyPh9EufbMmhwhKG46Q0AbOoFUyxlKsoDcIoDszdJEWrml6mHzPY-_85e8_K27T-rPI_hOiBMg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=KmvSdXicHdBfboIwAIDx7DI-qqXooolZglIUpaalLbUvC2sFlSI4_wB72112qp1mZgf4fg_f9489novfl8fhdquv08GgaZp-XlW53fd1VQ7Sa3fWA51a-5HqYjp-HYO3TM_8-8qbX1Ye4XUtFnQYQyxVCRQ-o0wsMU-Y8WgxojGzV2O9JPbDivI2Y_JASGKxHIoHSZRIgpropXeMRAWM2I0o0y7l3N2KCdkyMkoZ6sRJLWkHQhZw-DQ8Iblr_MlWIXrBDF13ybPjYYtl4UQxcHBAHT4HDS9Ry4Y3oWDu4jlYMKj8yHoglmjNpL2rso0NQ0JwjIT1sn2BN0rWXeog6B8MNQ5SO4nrDbdrDEmr2IHobgijAFBKqyPh9EufbMmhwhKG46Q0AbOoFUyxlKsoDcIoDszdJEWrml6mHzPY-_85e8_K27T-rPI_hOiBMg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiV2hvIGhhcyB0aGUgYmVzdCBiZWVmIGJyaXNrZXQ/IiwibGsiOiJHaDEzYUc4Z2FHRnpJSFJvWlNCaVpYTjBJR0psWldZZ1luSnBjMnRsZEEiLCJicyI6ImMzM1FQUXZDUUF3R1lGeHZjcTVmR2Z6WXUwdXBnNkNMSUVJWGw2dWszdGx5QjBuYTRyXzMyc1VLNnZ3LUNYbWpyaXJPakJhd0RFZVBjUFozN1RZTWhXNDhXVUVnWk5FMWFSZUlnN1Jtc1M2SjE5SHlFVFIxLXF2VlBWUmJOYzJNQjBacWtFRU1RaDRNNUdTNVJFbmlXVFJwZi1jcVZmTnUzT2hoaGxpOEZ5eWlXZnRQcUpOYUhSajI0YWl5c283QkUxeVE2QW03U3RfSzBEUkhFYVMtVXZoQk1ZVFN3X3dEamtjdiIsImlkIjoiZmNfUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUVfNiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiV2hvIGhhcyB0aGUgYmVzdCBiZWVmIGJyaXNrZXQ%2FIiwibGsiOiJHaDEzYUc4Z2FHRnpJSFJvWlNCaVpYTjBJR0psWldZZ1luSnBjMnRsZEEiLCJicyI6ImMzM1FQUXZDUUF3R1lGeHZjcTVmR2Z6WXUwdXBnNkNMSUVJWGw2dWszdGx5QjBuYTRyXzMyc1VLNnZ3LUNYbWpyaXJPakJhd0RFZVBjUFozN1RZTWhXNDhXVUVnWk5FMWFSZUlnN1Jtc1M2SjE5SHlFVFIxLXF2VlBWUmJOYzJNQjBacWtFRU1RaDRNNUdTNVJFbmlXVFJwZi1jcVZmTnUzT2hoaGxpOEZ5eWlXZnRQcUpOYUhSajI0YWl5c283QkUxeVE2QW03U3RfSzBEUkhFYVMtVXZoQk1ZVFN3X3dEamtjdiIsImlkIjoiZmNfUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUVfNiJ9"
+  },
+  {
+   "question": "Is Franklins or Terry Black's better?",
+   "type": "ai_overview",
+   "page_token": "Haj31HicHdBdboIwAADg7DI-Kj_ioolZIpQq2ho6WqAvC4KKoz9Mq4Bvu8tOtdMs2XeE7_tHXFTz-_KojWlvi8mk67rxWeuzOI5LLSfFbVDlpCyEOBRls5i9zuy3U7kE983K_9qsYtq2LCBWsgYG-7Z4hz1Is2jIZVSgLLol1ma6hxuLQhPvk9wg1tg4E_qgKl0osU0D5h2l9nLZuTH1EIK4QxnvUwA8noXOseEBT3hLnblPAQlIRhBSRGGJ7FxFDnfmdbGuJbWEi8P6ngb1sA_nKLZseUj4kFs9Y7Bfc2ryxK2eGAgrlZ6P0spjtL1Wvt0dobdLXGoQIACDHlTQVqCuSOWEPM9wu6Nii92450kdl4PlImgTQvQlpuRZfgrJgmgooFCk4Zc9rQyCYYYY7ZlqpmmjHS69J-9Gp_KxdEf_n8uPkzSL9qrPfyMtgmA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Haj31HicHdBdboIwAADg7DI-Kj_ioolZIpQq2ho6WqAvC4KKoz9Mq4Bvu8tOtdMs2XeE7_tHXFTz-_KojWlvi8mk67rxWeuzOI5LLSfFbVDlpCyEOBRls5i9zuy3U7kE983K_9qsYtq2LCBWsgYG-7Z4hz1Is2jIZVSgLLol1ma6hxuLQhPvk9wg1tg4E_qgKl0osU0D5h2l9nLZuTH1EIK4QxnvUwA8noXOseEBT3hLnblPAQlIRhBSRGGJ7FxFDnfmdbGuJbWEi8P6ngb1sA_nKLZseUj4kFs9Y7Bfc2ryxK2eGAgrlZ6P0spjtL1Wvt0dobdLXGoQIACDHlTQVqCuSOWEPM9wu6Nii92450kdl4PlImgTQvQlpuRZfgrJgmgooFCk4Zc9rQyCYYYY7ZlqpmmjHS69J-9Gp_KxdEf_n8uPkzSL9qrPfyMtgmA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiSXMgRnJhbmtsaW5zIG9yIFRlcnJ5IEJsYWNrJ3MgYmV0dGVyPyIsImxrIjoiR2lScGN5Qm1jbUZ1YTJ4cGJuTWdiM0lnZEdWeWNua2dZbXhoWTJzbmN5QmlaWFIwWlhJIiwiYnMiOiJjMzNRUFF2Q1FBd0dZRnh2Y3E1Zkdmell1MHVwZzZDTElFSVhsNnVrM3RseUIwbmE0cl8zMnNVSzZ2dy1DWG1qcmlyT2pCYXdERWVQY1BaMzdUWU1oVzQ4V1VFZ1pORTFhUmVJZzdSbXNTNkoxOUh5RVRSMS1xdlZQVlJiTmMyTUIwWnFrRUVNUWg0TTVHUzVSRW5pV1RScGYtY3FWZk51M09oaGhsaThGeXlpV2Z0UHFKTmFIUmoyNGFpeXNvN0JFMXlRNkFtN1N0X0swRFJIRWFTLVV2aEJNWVRTd193RGprY3YiLCJpZCI6ImZjX1F3YVlhc2ktSUo3dDFlOFBzLTcwbVFFXzYifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFYwWmhVR2RzY0ZCTE5HdGtVWHAzYjJoZlltRkNiMEpaTTBwUE16QkdVSE53UW5FeGVuRlZhemx5WWxKdlVHd3pSMjVGTVhGWWFtaG1PVWhzVlRNd1JYTmFUM0ZwYW5Sb1ZIY3dSbTV6U2pOdFgxaE5kVGhTU0d4T1FSSVhVWGRoV1dGemFTMUpTamQwTVdVNFVITXROekJ0VVVVYUlrRkVjM0k1WmxKR1drUXRSbUpFVmtWNmRXRk5OWEJvVFdobldqSlhhVlJzYlVFIiwiZmN2IjoiMyIsImVpIjoiUXdhWWFzaS1JSjd0MWU4UHMtNzBtUUUiLCJxYyI6IkNoWmlaWE4wSUdKeWFYTnJaWFFnYVc0Z1lYVnpkR2x1RUFCOWRERDdQZyIsInF1ZXN0aW9uIjoiSXMgRnJhbmtsaW5zIG9yIFRlcnJ5IEJsYWNrJ3MgYmV0dGVyPyIsImxrIjoiR2lScGN5Qm1jbUZ1YTJ4cGJuTWdiM0lnZEdWeWNua2dZbXhoWTJzbmN5QmlaWFIwWlhJIiwiYnMiOiJjMzNRUFF2Q1FBd0dZRnh2Y3E1Zkdmell1MHVwZzZDTElFSVhsNnVrM3RseUIwbmE0cl8zMnNVSzZ2dy1DWG1qcmlyT2pCYXdERWVQY1BaMzdUWU1oVzQ4V1VFZ1pORTFhUmVJZzdSbXNTNkoxOUh5RVRSMS1xdlZQVlJiTmMyTUIwWnFrRUVNUWg0TTVHUzVSRW5pV1RScGYtY3FWZk51M09oaGhsaThGeXlpV2Z0UHFKTmFIUmoyNGFpeXNvN0JFMXlRNkFtN1N0X0swRFJIRWFTLVV2aEJNWVRTd193RGprY3YiLCJpZCI6ImZjX1F3YVlhc2ktSUo3dDFlOFBzLTcwbVFFXzYifQ%3D%3D"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "The Best BBQ in Austin - Alex Reichek",
+   "link": "https://alexreichek.com/best-bbq-austin/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAViezaXkrjoh81zkNiIyJ3DmY5t2xdLhIfnRmWsvKTwt3-TiwR0v1n63IvCxbZFGtPbv48j5RYYnUi5ilxXKIGwP90eLx2u_q8WXlT_7wZN2req0OGwFC7SKwlAg&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQFnoECDwQAQ&uoh=1",
+   "displayed_link": "https://alexreichek.com \u203a Where to Eat",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEzBcnH_oJ__mJf9l5ZsQD__mJf_l5b_mZj_l5b_l5b_l5b_l5b_l5YAAADxj44AAAD_l5b_mZgAAAD_mJf_nJvqi4rbgoHOenk6IyKNU1OnYmL2kpEVDAzihoX6ZUcxAAAAEXRSTlMA_Bjtn_6qvQmFSdctWyTflddsmM0AAAEWSURBVCiRbZLZgoMgDEVRsYBLZ0gA1_b_P3PCokCneVE45BJuwtgVcuZiHAWfJfuMSeg7xFSzh67iUaC2q5lt-ufNrKmYcYivNsGmfyeaPh52kfENe-v3wLqoQbJvCPdOcLxWSGpbTAZLG75mEX_pfI-Ih80vorffC_Bwz1BLNme4kOxZFD4zlRdwLqZ8FK-8MfDhk9BfIgqICEFXOeAcBOhlocG1oOZEdMZDFWFTQnJjobViQ9CpS7GLZ3pg7FtBEM7Kos_JxeIl1M1La92PioaORo9gJWf7wlkVGzqGxJ0gZjheQ-lHyB7ENptuN909oNLnwo6bi61e959yeP29NpVLHvzWg9vybBB_sn8xKC4EV0Pe-QMWVSkZ9U2yjwAAAABJRU5ErkJggg.png",
+   "snippet": "THE BEST barbecue in. Terry Black's Barbecue \u2014 Franklin Barbecue (except Michelin). The Austin icon is as good as everyone says, with top-notch brisket. Salt ...",
+   "snippet_highlighted_words": [
+    "Terry Black's Barbecue \u2014 Franklin Barbecue"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "THE BEST barbecue in. Terry Black's Barbecue \u2014 Franklin Barbecue (except Michelin). The Austin icon is as good as everyone says, with top-notch brisket. Salt ...",
+     "source_info_link": "https://alexreichek.com/best-bbq-austin/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEzBcnH_oJ__mJf9l5ZsQD__mJf_l5b_mZj_l5b_l5b_l5b_l5b_l5YAAADxj44AAAD_l5b_mZgAAAD_mJf_nJvqi4rbgoHOenk6IyKNU1OnYmL2kpEVDAzihoX6ZUcxAAAAEXRSTlMA_Bjtn_6qvQmFSdctWyTflddsmM0AAAEWSURBVCiRbZLZgoMgDEVRsYBLZ0gA1_b_P3PCokCneVE45BJuwtgVcuZiHAWfJfuMSeg7xFSzh67iUaC2q5lt-ufNrKmYcYivNsGmfyeaPh52kfENe-v3wLqoQbJvCPdOcLxWSGpbTAZLG75mEX_pfI-Ih80vorffC_Bwz1BLNme4kOxZFD4zlRdwLqZ8FK-8MfDhk9BfIgqICEFXOeAcBOhlocG1oOZEdMZDFWFTQnJjobViQ9CpS7GLZ3pg7FtBEM7Kos_JxeIl1M1La92PioaORo9gJWf7wlkVGzqGxJ0gZjheQ-lHyB7ENptuN909oNLnwo6bi61e959yeP29NpVLHvzWg9vybBB_sn8xKC4EV0Pe-QMWVSkZ9U2yjwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://alexreichek.com/best-bbq-austin/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Falexreichek.com%2Fbest-bbq-austin%2F",
+   "source": "alexreichek.com"
+  },
+  {
+   "position": 2,
+   "title": "Franklin Barbecue | Discover, Savor, Enjoy - Order Now",
+   "link": "https://franklinbbq.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVpdEv2u54RavoQNHSzqG075r2JVi6rt-Hk-xjms9w4OSg2KZ6NYpJ_azKjFmsBSOYMuJW5bqB_fDJxKwSBQ1Rw2K7rB3s-MEpXbG0&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQFnoECD0QAQ&uoh=1",
+   "displayed_link": "https://franklinbbq.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEVHcEwAAAAUFBQHBwcKCgoMDAwbGxsLEhIEBAQAAAAAAAA8PDwAAAAPDw8AAAAAAAAAAAAgICAdHR0AAAAICAgJCQkAAACOTR09a21muL4eNjhJhIgxWl0WLC1UmJ3QcCxeqa5Cd3ulWSNOjpNWLhAbHhnDaCkmQ0Vrw8lXnaIpTE57RRsQCwcvVFZ7QxpTz5gvAAAAFnRSTlMAg3NURRsP-y6Url_5CMvE0cjG0NPX1_r-EwAAAQFJREFUOI3lkmluwyAQheMtBjtOug473uMlce9_vAK2GityfYD2_UAj3seA5nE4_COFvh8cd2xwir1o17c6Bxt-doK1kgBFKPRxcrlgUxnAm_srLuM1eLeLu_QDgLK-Z6xfgEmBUoS42gJmm3cwPM4yaIuRNK7GMxBPgo5ajGXNBZWa1ppTWUoDvBrg05Il0AKGWrKSMs2ZKiSruxbgzQAY4oLeYYhboVVNJ1Eq3WouRGdfaQAEUHD4RZkdxLutyBVyyG9VRciNkKrJnR-6SaEZaPLmugBfeWuBU7jM0ttunzziw1s2WufhP7ln_zn8I_6J7AUH2WbqUZimKdr5Nn9a38zWI4McXP3DAAAAAElFTkSuQmCC.png",
+   "snippet": ";Serving the best barbecue in the known universe.&quot; THE BEST BARBECUE IN THE KNOWN UNIVERSE.\u201d Our brisket is always USDA Prime, We choose quality over ...",
+   "snippet_highlighted_words": [
+    "best barbecue",
+    "BEST BARBECUE",
+    "brisket"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": ";Serving the best barbecue in the known universe.&quot; THE BEST BARBECUE IN THE KNOWN UNIVERSE.\u201d Our brisket is always USDA Prime, We choose quality over ...",
+     "source_info_link": "https://franklinbbq.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAjVBMVEVHcEwAAAAUFBQHBwcKCgoMDAwbGxsLEhIEBAQAAAAAAAA8PDwAAAAPDw8AAAAAAAAAAAAgICAdHR0AAAAICAgJCQkAAACOTR09a21muL4eNjhJhIgxWl0WLC1UmJ3QcCxeqa5Cd3ulWSNOjpNWLhAbHhnDaCkmQ0Vrw8lXnaIpTE57RRsQCwcvVFZ7QxpTz5gvAAAAFnRSTlMAg3NURRsP-y6Url_5CMvE0cjG0NPX1_r-EwAAAQFJREFUOI3lkmluwyAQheMtBjtOug473uMlce9_vAK2GityfYD2_UAj3seA5nE4_COFvh8cd2xwir1o17c6Bxt-doK1kgBFKPRxcrlgUxnAm_srLuM1eLeLu_QDgLK-Z6xfgEmBUoS42gJmm3cwPM4yaIuRNK7GMxBPgo5ajGXNBZWa1ppTWUoDvBrg05Il0AKGWrKSMs2ZKiSruxbgzQAY4oLeYYhboVVNJ1Eq3WouRGdfaQAEUHD4RZkdxLutyBVyyG9VRciNkKrJnR-6SaEZaPLmugBfeWuBU7jM0ttunzziw1s2WufhP7ln_zn8I_6J7AUH2WbqUZimKdr5Nn9a38zWI4McXP3DAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://franklinbbq.com/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffranklinbbq.com%2F",
+   "source": "Franklin Barbecue"
+  },
+  {
+   "position": 3,
+   "title": "Who has the best brisket in Austin ? (Tourist ) I trust ...",
+   "link": "https://www.reddit.com/r/austinfood/comments/vcl17r/who_has_the_best_brisket_in_austin_tourist_i/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFbE1c9XFx-Izc587i0cE3i5Y_olxf3jMTLy-JLMIFyk9Kol9VVZ9SBxizCmXPx5VowDkxkZ4_VcA9om2e2kjqQTAd66wxJmELB19GXlIW_u3Yx7k6LSbuszCNRSMe2LOij5cja7yPAzrRfruN56gTPXYmsKlCMr8u8Vm_OpaPJB8uFL5UK1HE-0QoDPXVmt-_-GBx-I&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQFnoECEgQAQ&uoh=1",
+   "displayed_link": "10+ comments \u00b7 4 years ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "Franklin's brisket is both the best and the most consistent. Micklethwait; it's incredibly tender and flavorful. Distant Relatives does a VERY ...",
+   "snippet_highlighted_words": [
+    "Franklin's brisket is both the best and the most consistent"
+   ],
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Austin BBQ Tier List after 18 months : r/austinfood ...",
+      "link": "https://www.google.com/goto?url=CAESkgEB6zswFTagkMU81g-r-oPVldsM5gAmxMTD1-HWv-Hc-wodKi3sJ6XGvR6rHYmUK7rmHb9bqxJINmGoxgvBD5m4vsca4uSGUU1nKL3_xnLE3hFrMnh7J5zgXo9GXBiWFqJbDxLnhosmzwdn6QwTK4Qyw6uklqf4OTd2k3h0cPO2ypeonlHAHjwVh458DhbO35IrxQ",
+      "answer_count": 170,
+      "date": "Jun 19, 2025"
+     },
+     {
+      "title": "Third day! What is Austin's best Barbecue joint? : r ...",
+      "link": "https://www.google.com/goto?url=CAESmwEB6zswFYAwsJNevi5TtXM-_eq3mjGYAdqDpzlMy2DiL6e7Wosda0KQLRhtcAcE3CCC9rMUVM4pZuGBOko-g62aJQw9EWinUcUKZW0bKFY_rt7AvAQtSRtfkkNoiCGTXVqLK_CZ5bP5ExNmjbpPO8bx3sXhXkUn4RAe_E8CekaRPAJXdgFC4knZUa7-DYXCLjc9Itg3DBpIEzCo5Q",
+      "answer_count": 265,
+      "date": "Aug 17, 2024"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Franklin's brisket is both the best and the most consistent. Micklethwait; it's incredibly tender and flavorful. Distant Relatives does a VERY ...",
+     "source_info_link": "https://www.reddit.com/r/austinfood/comments/vcl17r/who_has_the_best_brisket_in_austin_tourist_i/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/austinfood/comments/vcl17r/who_has_the_best_brisket_in_austin_tourist_i/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2Faustinfood%2Fcomments%2Fvcl17r%2Fwho_has_the_best_brisket_in_austin_tourist_i%2F",
+   "source": "Reddit \u00b7 r/austinfood"
+  },
+  {
+   "position": 4,
+   "title": "Best BBQ in Austin, Texas - Discovering ATX",
+   "link": "https://discoveringatx.com/2026/01/31/best-bbq-in-austin-texas/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAV7vVizqLKi2wYhO3mm9fEJMTG6o2OqCXRJgCyvUbsUZ34EP7Fzeq7G-M-jW6UoN0N3rfyyKNYm8CQek0bp4z63b-6rCdD4-XvFy_uyZwbwOuwXgkWzmpBybqnYOx_TzTjzmngm1pmIq6sMh1acYWND3up&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://discoveringatx.com \u203a ... \u203a lunch and dinner",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEU4WOk3V-ksUOgfSegaRucxVOkoTugtUeikr_Pn6vz___8WROeeqvLV2vmDk-_y8_1UbOvu8P3e4vq4wPUALeY9XOkjS-iosvP4-f7ByPcRQufR1vkAOueUofHK0Phvgu12iO5ZcOvc4PqJmPCyu_WPnfFddOxGYuplDsAWAAABOElEQVR4AbWRRWLDQAwApUV71htGUzj5_wvLGLi1cx2x5I9QfSSMdd47a-4EhFiUAGURw3VaqsgDSUkGmSrpL-fycGSjimi0o3F2P23Kk-RF30bSMCWnH_2q8SzMdb5Iyc_DEqi--moEVus6A-PKFgBRP6R5nbNpJXVQuLfQvjAf0pabMXhVD-MkpoNtaT-kIxbQRbEN7LwumCxwHy099Rz2VuIBjkESVYvXT5nsHt6WYJjEMq8_pTjm5gSdceMjnM22dHPc10CDGGBfb9c7ONZ9txh8DWSK7BY9hH5TDxnO8C5_raKGXdjCaezCEg77tOP7caZbuXrFahr0AhzqVWfki9SU7essXtwE2rJJIj_tasu4FgknJsMv92k76OfOXV53-nKfmNDtASZdMHKDxoWz1i2iyj_zDLQeE7ps-rsUAAAAAElFTkSuQmCC.png",
+   "date": "Jan 31, 2026",
+   "snippet": "Terry Blacks on Barton Springs Road: This is my favorite BBQ in Austin. pound of brisket, Brisket is exceptional, sausages are excellent, ...",
+   "snippet_highlighted_words": [
+    "Terry Blacks on Barton Springs Road"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Terry Blacks on Barton Springs Road: This is my favorite BBQ in Austin. pound of brisket, Brisket is exceptional, sausages are excellent, ...",
+     "source_info_link": "https://discoveringatx.com/2026/01/31/best-bbq-in-austin-texas/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEU4WOk3V-ksUOgfSegaRucxVOkoTugtUeikr_Pn6vz___8WROeeqvLV2vmDk-_y8_1UbOvu8P3e4vq4wPUALeY9XOkjS-iosvP4-f7ByPcRQufR1vkAOueUofHK0Phvgu12iO5ZcOvc4PqJmPCyu_WPnfFddOxGYuplDsAWAAABOElEQVR4AbWRRWLDQAwApUV71htGUzj5_wvLGLi1cx2x5I9QfSSMdd47a-4EhFiUAGURw3VaqsgDSUkGmSrpL-fycGSjimi0o3F2P23Kk-RF30bSMCWnH_2q8SzMdb5Iyc_DEqi--moEVus6A-PKFgBRP6R5nbNpJXVQuLfQvjAf0pabMXhVD-MkpoNtaT-kIxbQRbEN7LwumCxwHy099Rz2VuIBjkESVYvXT5nsHt6WYJjEMq8_pTjm5gSdceMjnM22dHPc10CDGGBfb9c7ONZ9txh8DWSK7BY9hH5TDxnO8C5_raKGXdjCaezCEg77tOP7caZbuXrFahr0AhzqVWfki9SU7essXtwE2rJJIj_tasu4FgknJsMv92k76OfOXV53-nKfmNDtASZdMHKDxoWz1i2iyj_zDLQeE7ps-rsUAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://discoveringatx.com/2026/01/31/best-bbq-in-austin-texas/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fdiscoveringatx.com%2F2026%2F01%2F31%2Fbest-bbq-in-austin-texas%2F",
+   "source": "discoveringatx.com"
+  },
+  {
+   "position": 5,
+   "title": "Terry Black's Barbecue | Best BBQ Austin",
+   "link": "https://terryblacksbbq.com/austin",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVDkFIU0bXzRF4JqaRO9UPeywMNiBGR7fMhDHfuF_6nC4td2Fu6dVUa7tl2dCcW9BZTsui76YWsw_VnN3dHLyA46Vp83-8tTb0Mo22REnuIjdFBhAl&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://terryblacksbbq.com \u203a austin",
+   "favicon": "https://serpapi.com/searches/6a98064288de92167b4454de/images/ykMOWuNl7awSobOZ4x_BHlL7-Q8rUnsTfq7k-wLUZmM.png",
+   "snippet": "We opened Terry Black's to honor that hard Beef ribs Brisket Sausage Pork \u2026 at 700 Dawson Road. the best barbecue in Texas. Location 1003 Barton Springs Rd.",
+   "snippet_highlighted_words": [
+    "700 Dawson Road"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We opened Terry Black's to honor that hard Beef ribs Brisket Sausage Pork \u2026 at 700 Dawson Road. the best barbecue in Texas. Location 1003 Barton Springs Rd.",
+     "source_info_link": "https://terryblacksbbq.com/austin",
+     "icon": "https://serpapi.com/searches/6a98064288de92167b4454de/images/ykMOWuNl7awSobOZ4x_BHoyDmsdQJ4LPvYSQpCgxWYu-YKGy_I44DeO32-3pJ0Rr.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://terryblacksbbq.com/austin&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fterryblacksbbq.com%2Faustin",
+   "source": "Terry Black's BBQ"
+  },
+  {
+   "position": 6,
+   "title": "The Ultimate Guide to the Best BBQ in Austin",
+   "link": "https://feastio.com/best-bbq-austin/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVy31h-mNZ17H3e9BdHdp-fux8744mgi0LdaIkhzdNS8d7Ug-A4rHQ0h6NXAEobNDv_OG-EnG5CfGKSqqrWbETAGeOu2ETVDogkyHyZZQB-Qb-AQQwLrdc&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://feastio.com \u203a Austin",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEVHcEyrEBPBJy12o5yNpZDBJCt0pJ3esWXBJSzAICVzpp_csWe-CxbdrmTIODDBJy12o5zdrmTwdhBnsam-CxrcsWfAeUvBIirxehPoag52o5zBJy12o5zveBR2o5x2o5x2o5y-FB3CHybveBTEAACzOz3PdkfveBSOgHy2QELXlFfIUj3veBTeeCLBJSzdrmTveBPAGiLGQUbgnqDelZfJTlPbjpDYhYd2o5y9BQ7DLDLjp6nNWl_WfoHRZWnLU1fUc3bsw8TnsrQRhniQAAAALXRSTlMACxc_EPS_csQ3eCeKnfsQU7xdJmJOeLfQQlfagO-cWea5ZqlYqJrH2sfc2tV62h4pAAAA6ElEQVQokdXQh27CMBAG4AsZOCSklFFKFy0d0KFzPJKQwXz_h-pFqE2r-AWwZMvyp_OdfoDzXN36uKftOG3jfYBhTGbbLbzk3IFnQnswMOEEloTzuxvDtzyAa0LvsdceqE89vwh765F53Lpy1Cq0_HH4OWVRxKbvrwvfasRnrthkaS4QRVHIfUEX5v8oE0qnVamyY6bSVO-0xNum1pVJuTvsy0N1zKRWuRJ_WiJKlVeJjGSC281WJ9hYB10Wjt8-rFlsXa1ewicXf1vCRecUA8xi8Lzm5V9GEwp-7RkiAAh4UOODEc9gfQNb0xkqPJ748wAAAABJRU5ErkJggg.png",
+   "date": "Mar 11, 2022",
+   "snippet": "Discover the best BBQ in Austin, Texas, including award-winning Franklin Barbecue and up-and-coming food trucks like Distant Relatives.",
+   "snippet_highlighted_words": [
+    "Franklin Barbecue"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Discover the best BBQ in Austin, Texas, including award-winning Franklin Barbecue and up-and-coming food trucks like Distant Relatives.",
+     "source_info_link": "https://feastio.com/best-bbq-austin/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAyVBMVEVHcEyrEBPBJy12o5yNpZDBJCt0pJ3esWXBJSzAICVzpp_csWe-CxbdrmTIODDBJy12o5zdrmTwdhBnsam-CxrcsWfAeUvBIirxehPoag52o5zBJy12o5zveBR2o5x2o5x2o5y-FB3CHybveBTEAACzOz3PdkfveBSOgHy2QELXlFfIUj3veBTeeCLBJSzdrmTveBPAGiLGQUbgnqDelZfJTlPbjpDYhYd2o5y9BQ7DLDLjp6nNWl_WfoHRZWnLU1fUc3bsw8TnsrQRhniQAAAALXRSTlMACxc_EPS_csQ3eCeKnfsQU7xdJmJOeLfQQlfagO-cWea5ZqlYqJrH2sfc2tV62h4pAAAA6ElEQVQokdXQh27CMBAG4AsZOCSklFFKFy0d0KFzPJKQwXz_h-pFqE2r-AWwZMvyp_OdfoDzXN36uKftOG3jfYBhTGbbLbzk3IFnQnswMOEEloTzuxvDtzyAa0LvsdceqE89vwh765F53Lpy1Cq0_HH4OWVRxKbvrwvfasRnrthkaS4QRVHIfUEX5v8oE0qnVamyY6bSVO-0xNum1pVJuTvsy0N1zKRWuRJ_WiJKlVeJjGSC281WJ9hYB10Wjt8-rFlsXa1ewicXf1vCRecUA8xi8Lzm5V9GEwp-7RkiAAh4UOODEc9gfQNb0xkqPJ748wAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://feastio.com/best-bbq-austin/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffeastio.com%2Fbest-bbq-austin%2F",
+   "source": "Feastio"
+  },
+  {
+   "position": 7,
+   "title": "La Barbecue: Must-Try Restaurant in Austin",
+   "link": "https://labarbecue.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVR25GrEQBEniKnAFGvFgw8ppSoz0ipFVoPEN-uHrGOjag3Rq8t7BsqB-C4f2xI0nU_PhLgelQ0Sqmo10Ndnwuph06MxQ0cJ02UB4&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQFnoECDsQAQ&uoh=1",
+   "displayed_link": "https://labarbecue.com",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX_xwABARempqfn5uYAAAWura7_ywD_xwD_xwD_zgDw8PArIxaPcA_HxsZzcnPR0NC1tLV2XRWNjI1NS004NzyamJnOog9AMApYRQ6_vr8YEhCEg4Ta2tpcW11_foD___9lY2PntQm6khJ9gIq-FcH4AAAACHRSTlPv________94Hh680AAADSSURBVCiR3ZHHbsQwDETVqGyo3iy5e5P__8es1ik3XxfIHAhwHniYIXm7ELld6F_B91NSyl9TytMi9xBCq5OiggrxPQSdVK3tgwx0pSKinX3iLOLq8MDxAD8j02QQkAX4hfGVcRgNCjB7Ma6A6JD5p80T54wznAFSHF3B_IB0K4kZY5a0ODAes2exPKDpl9laC87gboGDG_EAvs8Ljy71S6UmC3neko3W5wLKb4LFDJ-a3LXuWapSitIeZVKqttZC0AP5SXz2IP-2XsJLvvICeKUvwAIc4IddAcoAAAAASUVORK5CYII.png",
+   "snippet": "Best BBQ I had in Austin. Brisket hits the spot and the pulled pork had great spice. Best damn BBQ in Austin!! The shells and cheese was truly spectacular.",
+   "snippet_highlighted_words": [
+    "Brisket hits the spot"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Best BBQ I had in Austin. Brisket hits the spot and the pulled pork had great spice. Best damn BBQ in Austin!! The shells and cheese was truly spectacular.",
+     "source_info_link": "https://labarbecue.com/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAbFBMVEX_xwABARempqfn5uYAAAWura7_ywD_xwD_xwD_zgDw8PArIxaPcA_HxsZzcnPR0NC1tLV2XRWNjI1NS004NzyamJnOog9AMApYRQ6_vr8YEhCEg4Ta2tpcW11_foD___9lY2PntQm6khJ9gIq-FcH4AAAACHRSTlPv________94Hh680AAADSSURBVCiR3ZHHbsQwDETVqGyo3iy5e5P__8es1ik3XxfIHAhwHniYIXm7ELld6F_B91NSyl9TytMi9xBCq5OiggrxPQSdVK3tgwx0pSKinX3iLOLq8MDxAD8j02QQkAX4hfGVcRgNCjB7Ma6A6JD5p80T54wznAFSHF3B_IB0K4kZY5a0ODAes2exPKDpl9laC87gboGDG_EAvs8Ljy71S6UmC3neko3W5wLKb4LFDJ-a3LXuWapSitIeZVKqttZC0AP5SXz2IP-2XsJLvvICeKUvwAIc4IddAcoAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://labarbecue.com/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Flabarbecue.com%2F",
+   "source": "La Barbecue"
+  }
+ ],
+ "perspectives": [
+  {
+   "author": "raisedontexas1",
+   "source": "Facebook",
+   "extensions": [
+    "4 reactions "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStlj3-O53uSykRpnsrl8foFLR-vh5KmWknizci0fCHUganK-UWQkEDDuQ30g&usqp=CAI&s"
+   ],
+   "title": "By 6am, the line outside Franklin Barbecue is already curling around the block on East 11th Street, and by early afternoon the brisket is gone. \ud83d\udd25 It's the single most talked about restaurant recommendation any visitor to Austin gets, and for good reason: Aaron F",
+   "link": "https://www.facebook.com/raisedontexas1/posts/by-6am-the-line-outside-franklin-barbecue-is-already-curling-around-the-block-on/122137040079349006/",
+   "date": "1 day ago"
+  },
+  {
+   "author": "r/austinfood",
+   "source": "Reddit",
+   "extensions": [
+    "110+ comments "
+   ],
+   "title": "BBQ/ Brisket recs for a weary traveler",
+   "link": "https://www.reddit.com/r/austinfood/comments/1uk4xr7/bbq_brisket_recs_for_a_weary_traveler/",
+   "date": "Jun 30, 2026"
+  },
+  {
+   "author": "dangitswayne",
+   "source": "Instagram",
+   "duration": "1:28",
+   "extensions": [
+    "5.7K+ likes "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZjGpVRqH9ExMc05I7zAGM1Z0MxZlqbqoS2cWylnXzBXdpxDR5nrK25ADjQg&usqp=CAI&s=10"
+   ],
+   "title": "Trying Franklins Barbecue in Austin for a Food Review! How does it taste? #austin #barbecue #mukbang #foodreview #foodcritic",
+   "link": "https://www.instagram.com/reel/DcM15j9gw45/",
+   "date": "2 weeks ago"
+  },
+  {
+   "author": "Tuffy Stone",
+   "source": "YouTube",
+   "duration": "16:33",
+   "extensions": [
+    "21.2K+ views "
+   ],
+   "thumbnails": [
+    "https://img.youtube.com/vi/96ZMTJv3ZIA/hqdefault.jpg"
+   ],
+   "title": "The Best Cut at Texas' #2 BBQ Joint Isn't Brisket",
+   "link": "https://www.youtube.com/watch?v=96ZMTJv3ZIA",
+   "date": "4 weeks ago",
+   "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR2qfrEBFLrNs8gClia2Nhxkp1H2O_Gnq3U8w"
+  },
+  {
+   "author": "Smoking Meat",
+   "source": "Facebook",
+   "extensions": [
+    "8 reactions "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStqKlnySv1ASV2qFV5Vx8bPiSUHl0pY-qh8pPaqy1Xok-t6qF8JA2sVnI5g&usqp=CAI&s"
+   ],
+   "title": "My trip here in the states is about over (sadly) what is the best place to get some great BBQ here in AUSTIN TX.",
+   "link": "https://www.facebook.com/groups/SmokingMeatUSA/posts/37495080896773943/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "gillynova \u2790 (gillynova)",
+   "source": "YouTube",
+   "duration": "0:21",
+   "extensions": [
+    "1.9K+ views "
+   ],
+   "thumbnails": [
+    "https://img.youtube.com/vi/j6oI0e814po/hqdefault.jpg"
+   ],
+   "title": "BEST Texas BBQ Meal Under $20 in Austin Texas \ud83d\udea8\ud83d\udc40",
+   "link": "https://www.youtube.com/shorts/j6oI0e814po",
+   "date": "1 week ago",
+   "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcScyEBnaiTJLVOT2ais8s2GLJs32pPit8e1UA"
+  },
+  {
+   "author": "HAMONI USA",
+   "source": "YouTube",
+   "duration": "13:56",
+   "extensions": [
+    "9.8K+ views "
+   ],
+   "thumbnails": [
+    "https://img.youtube.com/vi/9Me6n2S8RBU/hqdefault.jpg"
+   ],
+   "title": "Inside Austin's Most Addictive Brisket Line | Franklin Barbecue",
+   "link": "https://www.youtube.com/watch?v=9Me6n2S8RBU",
+   "date": "Jul 3, 2026",
+   "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSOeC6ZvyD6g5nBIGcktVBJAEeGJRnFTHcOrQ"
+  },
+  {
+   "author": "imma_eat_this",
+   "source": "Instagram",
+   "duration": "1:29",
+   "extensions": [
+    "1.3K+ likes "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF5ZD459VD3jOzxaU2eouojIHi9oGlh_Js1zGH2jAuLa6vMTp3Y0FWM8GbIxQ&usqp=CAI&s=10"
+   ],
+   "title": "@interstellarbbq in Austin is insanely good! #newforkcity #interstellarbbq #bbq #texasbbq #brisket",
+   "link": "https://www.instagram.com/reel/DajDya9qY8n/",
+   "date": "Jul 8, 2026"
+  },
+  {
+   "author": "milehighfooddude",
+   "source": "Facebook",
+   "duration": "1:04",
+   "extensions": [
+    "1K+ reactions "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrMR2rIQs81u5hDp9Bhc3QwWoEPDmjH8G3eK2LD6hVBVgeN28AtpbYIIryn0&usqp=CAI&s=10"
+   ],
+   "title": "The creator reviews his experience at Franklin Barbecue in Austin, Texas, where he spent $120 on a 'Pitmaster Lunch Pack'. He explains how he skipped the famous long lines by ordering online. The review covers multiple items: he finds the sides average bu",
+   "link": "https://www.facebook.com/milehighfooddude/videos/my-first-time-trying-franklin-barbecue-who-do-you-think-has-the-best-bbq-in-the-/1762196348123993/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "peytwall",
+   "source": "Instagram",
+   "extensions": [
+    "770+ likes "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpE0D1q1AwtJngspZBCI77dN69SpYjlmJooCbiUEN8f4_2-16A0zY0UY9KAQ&usqp=CAI&s"
+   ],
+   "title": "If you\u2019re looking for the best BBQ in Austin, TX, these are six barbecue restaurants I\u2019ve personally tried so far and I\u2019d happily go back to every one of them! 6 Best BBQ Places I\u2019ve Tried: \u2022 @interstellarbbq \u2022 @franklinbbq \u2022 @la_barbecue \u2022 @craftmeats \u2022 @stilesswitchbbq \u2022 @parishbarbecue Austin has one of the best barbecue scenes in Texas, and I\u2019m slowly making my way through all of the top spots. Now I need your recommendations. What BBQ restaurant should I try next? Whether it\u2019s a popular favorite or an underrated BBQ spot in Austin, I want to hear it. Save this post for the next time you\u2019re searching for the best BBQ places in Austin, TX, and send it to someone who\u2019s always looking for great barbecue.",
+   "link": "https://www.instagram.com/p/DbB2C8OEbAx/",
+   "date": "1 month ago"
+  },
+  {
+   "author": "Nick I Food Reviews",
+   "source": "TikTok",
+   "duration": "1:03",
+   "extensions": [
+    "3.6K+ views "
+   ],
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmMyZEMJzzpqjcSsATLKSq0n970VorMDHVfFWYS--gH7d_q41Toku7e_xzw&usqp=CAI&s=10"
+   ],
+   "title": "Who Has THE BEST Barbecue in Texas? \ud83d\udc02 Like and Follow for more Food adventures! #austin #texas #bbq #barbecue #meat",
+   "link": "https://www.tiktok.com/@nickthefooddude/video/7665827111432654093",
+   "date": "1 month ago"
+  },
+  {
+   "author": "Facebook",
+   "duration": "1:29",
+   "thumbnails": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZnrSfrPU-X9nVWWvO66xJ3KwF0_YF2XJhi746UkswMQf0Fo4jsIjVCuEyDw&usqp=CAI&s=10"
+   ],
+   "title": "Foodie Justice",
+   "link": "https://www.facebook.com/61582337327128/posts/came-from-tampa-and-finishing-up-my-bbq-tour-in-austin-and-went-to-leroy-and-lew/122136862137077910/",
+   "date": "1 month ago"
+  }
+ ],
+ "filters": [
+  {
+   "name": "Open now",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjU0Do42I3PfFL_ag9UMgG3x10QyO4YHW0EIJ0v3dgWJHo3EGpZSe3JjaQbOB5CtczCT2faoUYfVEC1eTt_IZMn0RnLPzAYfh3qMrdI1eI2csPJebOLGnCoO0_9lCtgkWW_clNi8q_HdAR1mPL-7_l_RtH1bS02zEUFr2hlcccG62hq7Dqw",
+    "q": "best brisket in austin open now"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=best+brisket+in+austin+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjU0Do42I3PfFL_ag9UMgG3x10QyO4YHW0EIJ0v3dgWJHo3EGpZSe3JjaQbOB5CtczCT2faoUYfVEC1eTt_IZMn0RnLPzAYfh3qMrdI1eI2csPJebOLGnCoO0_9lCtgkWW_clNi8q_HdAR1mPL-7_l_RtH1bS02zEUFr2hlcccG62hq7Dqw&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAB6BAgbEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin+open+now&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjU0Do42I3PfFL_ag9UMgG3x10QyO4YHW0EIJ0v3dgWJHo3EGpZSe3JjaQbOB5CtczCT2faoUYfVEC1eTt_IZMn0RnLPzAYfh3qMrdI1eI2csPJebOLGnCoO0_9lCtgkWW_clNi8q_HdAR1mPL-7_l_RtH1bS02zEUFr2hlcccG62hq7Dqw"
+  },
+  {
+   "name": "Top rated",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rZcRmNRsmD3AQt8nqY335QR7UzzA5agQEEUv3SZiMDquIDaOIflJ6kjRuFLrL5Edi1uR0d9OdusXYl3WyKmXCRhJ5JpOWQ7yWpHSe7hfNx5l2tJoV6uNeJU3IqRdB7J0sYgUSLgx_ED20gpnTQiCd8qi5r5Ww3sz-bexaiUuE3lH5JF2NCLA-6MSUfMXxUQR0H7M-kw",
+    "q": "top rated best brisket in austin"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=top+rated+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZcRmNRsmD3AQt8nqY335QR7UzzA5agQEEUv3SZiMDquIDaOIflJ6kjRuFLrL5Edi1uR0d9OdusXYl3WyKmXCRhJ5JpOWQ7yWpHSe7hfNx5l2tJoV6uNeJU3IqRdB7J0sYgUSLgx_ED20gpnTQiCd8qi5r5Ww3sz-bexaiUuE3lH5JF2NCLA-6MSUfMXxUQR0H7M-kw&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAF6BAgYEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=top+rated+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rZcRmNRsmD3AQt8nqY335QR7UzzA5agQEEUv3SZiMDquIDaOIflJ6kjRuFLrL5Edi1uR0d9OdusXYl3WyKmXCRhJ5JpOWQ7yWpHSe7hfNx5l2tJoV6uNeJU3IqRdB7J0sYgUSLgx_ED20gpnTQiCd8qi5r5Ww3sz-bexaiUuE3lH5JF2NCLA-6MSUfMXxUQR0H7M-kw"
+  },
+  {
+   "name": "Cheap",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rLiLRLr-gfc3Ye1m5cZRmtbDldH9tzR8q5KkMHF71Znsyoo97iBgPbQ5GAG2prrmIVCUNnhUHwEb7w_HRM77CiNW0hpUhjH069IfN54vdeqgEvUZKo6soVCRUXSBDdskUZhqKXB_7hdn6ylVbJgBpkncH9KgL9HkjoJmoaaL-4jU_ihjX",
+    "q": "cheap best brisket in austin"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=cheap+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rLiLRLr-gfc3Ye1m5cZRmtbDldH9tzR8q5KkMHF71Znsyoo97iBgPbQ5GAG2prrmIVCUNnhUHwEb7w_HRM77CiNW0hpUhjH069IfN54vdeqgEvUZKo6soVCRUXSBDdskUZhqKXB_7hdn6ylVbJgBpkncH9KgL9HkjoJmoaaL-4jU_ihjX&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAJ6BAgaEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cheap+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rLiLRLr-gfc3Ye1m5cZRmtbDldH9tzR8q5KkMHF71Znsyoo97iBgPbQ5GAG2prrmIVCUNnhUHwEb7w_HRM77CiNW0hpUhjH069IfN54vdeqgEvUZKo6soVCRUXSBDdskUZhqKXB_7hdn6ylVbJgBpkncH9KgL9HkjoJmoaaL-4jU_ihjX"
+  },
+  {
+   "name": "Upscale",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjU0Do42I3PfFL_ag9UMgG3y823BZ_x9TMSkbwM1n7XLVFjVtfOnzMhLwNp2Cpxpe9n7ElLtKLKU_RGdUZ4d5fjZncQyBk5G1OMmRBPXWFXIVIfpifQWIvHCK26jJuz4AsVx1wdfMWfg5mbL5E7ffXDLwtqD_WCP-vjIeVcFk9IcPBnco0w",
+    "q": "upscale best brisket in austin"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=upscale+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjU0Do42I3PfFL_ag9UMgG3y823BZ_x9TMSkbwM1n7XLVFjVtfOnzMhLwNp2Cpxpe9n7ElLtKLKU_RGdUZ4d5fjZncQyBk5G1OMmRBPXWFXIVIfpifQWIvHCK26jJuz4AsVx1wdfMWfg5mbL5E7ffXDLwtqD_WCP-vjIeVcFk9IcPBnco0w&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAN6BAgdEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=upscale+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rb6ov3c6U0v2pckZSx7tVjU0Do42I3PfFL_ag9UMgG3y823BZ_x9TMSkbwM1n7XLVFjVtfOnzMhLwNp2Cpxpe9n7ElLtKLKU_RGdUZ4d5fjZncQyBk5G1OMmRBPXWFXIVIfpifQWIvHCK26jJuz4AsVx1wdfMWfg5mbL5E7ffXDLwtqD_WCP-vjIeVcFk9IcPBnco0w"
+  },
+  {
+   "name": "Beer",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX3gsN9KGdZK4FAWKg0PbstnFgxZlwl7AmFFvHhSsRoRfp5NwClKgvERhFgmlHVm2izcSZdvpDjMnQ7EevFGu0USMrkn8aFm28O-iF5LZefk4E2XSZyEKWxC9vQD-ehvEuQikc9pNoCSJSrX9eu90LmePdJ1bxdYcZV2oUm9EthkhFhkYxtudbcbqf9dOmg_K505fxzn2c3er2YSJgKaZ0zgMELf9jOGMAmc0RGlKsZjtqIBk",
+    "q": "beer best brisket in austin"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=beer+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX3gsN9KGdZK4FAWKg0PbstnFgxZlwl7AmFFvHhSsRoRfp5NwClKgvERhFgmlHVm2izcSZdvpDjMnQ7EevFGu0USMrkn8aFm28O-iF5LZefk4E2XSZyEKWxC9vQD-ehvEuQikc9pNoCSJSrX9eu90LmePdJ1bxdYcZV2oUm9EthkhFhkYxtudbcbqf9dOmg_K505fxzn2c3er2YSJgKaZ0zgMELf9jOGMAmc0RGlKsZjtqIBk&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAR6BAgcEAE&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=beer+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX3gsN9KGdZK4FAWKg0PbstnFgxZlwl7AmFFvHhSsRoRfp5NwClKgvERhFgmlHVm2izcSZdvpDjMnQ7EevFGu0USMrkn8aFm28O-iF5LZefk4E2XSZyEKWxC9vQD-ehvEuQikc9pNoCSJSrX9eu90LmePdJ1bxdYcZV2oUm9EthkhFhkYxtudbcbqf9dOmg_K505fxzn2c3er2YSJgKaZ0zgMELf9jOGMAmc0RGlKsZjtqIBk"
+  },
+  {
+   "name": "Delivery",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4roTifMeaHNqmucbBdsLhWJckindVtXE4NHQgSSq3zSvUFUlbrfGC8UauPZ50HSN7V0ycNKVe0E0AGBeG916-c1qlVYkkOGgo71Tj-q8uGBJEZVJQjzkJh_jWPzm3IauYp8neXTa8ccVHlCcBYuGLZ7rR6a7eQSdddic_qyzPh86WPJugkKN8F8qfBdeLUuynjat_AquFMmbU8Vy1p11SR-JykK4xYcXfp517fmkmSpp3F4-Zr",
+    "q": "delivery best brisket in austin"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=delivery+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roTifMeaHNqmucbBdsLhWJckindVtXE4NHQgSSq3zSvUFUlbrfGC8UauPZ50HSN7V0ycNKVe0E0AGBeG916-c1qlVYkkOGgo71Tj-q8uGBJEZVJQjzkJh_jWPzm3IauYp8neXTa8ccVHlCcBYuGLZ7rR6a7eQSdddic_qyzPh86WPJugkKN8F8qfBdeLUuynjat_AquFMmbU8Vy1p11SR-JykK4xYcXfp517fmkmSpp3F4-Zr&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAV6BQiHARAB&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=delivery+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4roTifMeaHNqmucbBdsLhWJckindVtXE4NHQgSSq3zSvUFUlbrfGC8UauPZ50HSN7V0ycNKVe0E0AGBeG916-c1qlVYkkOGgo71Tj-q8uGBJEZVJQjzkJh_jWPzm3IauYp8neXTa8ccVHlCcBYuGLZ7rR6a7eQSdddic_qyzPh86WPJugkKN8F8qfBdeLUuynjat_AquFMmbU8Vy1p11SR-JykK4xYcXfp517fmkmSpp3F4-Zr"
+  },
+  {
+   "name": "Wine",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rX3gsN9KGdZK4FAWKg0PbstnFgxZlwl7AmFFvHhSsRoRfp5NwClKgvERhFgmlHVm2lz3PXfMzeKAfoFUQo9ipZ75MPRMRRMB58CIztsBhLA9eENEQBkI6dDhkOilIolqpQhYqvuNSwx_66OYunYkSei0F22jMxBqfgp2-MTwZrl6Ij1VSW0G88x3fslBatT_h9mjynAeFVKoHDIg3bS01Fg5Wq1ymMcLgUeBxoojqkLFYt2IL",
+    "q": "wine best brisket in austin"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=wine+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX3gsN9KGdZK4FAWKg0PbstnFgxZlwl7AmFFvHhSsRoRfp5NwClKgvERhFgmlHVm2lz3PXfMzeKAfoFUQo9ipZ75MPRMRRMB58CIztsBhLA9eENEQBkI6dDhkOilIolqpQhYqvuNSwx_66OYunYkSei0F22jMxBqfgp2-MTwZrl6Ij1VSW0G88x3fslBatT_h9mjynAeFVKoHDIg3bS01Fg5Wq1ymMcLgUeBxoojqkLFYt2IL&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAZ6BQiGARAB&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=wine+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rX3gsN9KGdZK4FAWKg0PbstnFgxZlwl7AmFFvHhSsRoRfp5NwClKgvERhFgmlHVm2lz3PXfMzeKAfoFUQo9ipZ75MPRMRRMB58CIztsBhLA9eENEQBkI6dDhkOilIolqpQhYqvuNSwx_66OYunYkSei0F22jMxBqfgp2-MTwZrl6Ij1VSW0G88x3fslBatT_h9mjynAeFVKoHDIg3bS01Fg5Wq1ymMcLgUeBxoojqkLFYt2IL"
+  },
+  {
+   "name": "Recently opened",
+   "parameters": {
+    "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raFaJXJAdSd7JcdFVCK-e3vQAEZmMgKxiEYmFqrnAUvGH1wPiLFQmUriS6luwCcrG8hHNB3-UJqo3gWX6_zRQLI7mX3bcTiuFg4eOg-4WSMAIkqrMTfcgDu-AWzaUq1e77JgrjMw8Bl41ufnx-oYVutXpVtuTPrJ4GIE1ODDqcNHDlCmdy_gMWm-SJXbJeXDI6SDNCg",
+    "q": "recently opened best brisket in austin"
+   },
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=recently+opened+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raFaJXJAdSd7JcdFVCK-e3vQAEZmMgKxiEYmFqrnAUvGH1wPiLFQmUriS6luwCcrG8hHNB3-UJqo3gWX6_zRQLI7mX3bcTiuFg4eOg-4WSMAIkqrMTfcgDu-AWzaUq1e77JgrjMw8Bl41ufnx-oYVutXpVtuTPrJ4GIE1ODDqcNHDlCmdy_gMWm-SJXbJeXDI6SDNCg&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQxKsJKAd6BQiFARAB&ictx=0",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=recently+opened+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raFaJXJAdSd7JcdFVCK-e3vQAEZmMgKxiEYmFqrnAUvGH1wPiLFQmUriS6luwCcrG8hHNB3-UJqo3gWX6_zRQLI7mX3bcTiuFg4eOg-4WSMAIkqrMTfcgDu-AWzaUq1e77JgrjMw8Bl41ufnx-oYVutXpVtuTPrJ4GIE1ODDqcNHDlCmdy_gMWm-SJXbJeXDI6SDNCg"
+  },
+  {
+   "name": "Vibe",
+   "options": [
+    {
+     "name": "Any vibe"
+    },
+    {
+     "name": "Casual",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rCND-Aq_toLx59fWJX1EGqRgj1pxnEpUK7flDGe6SvMMhZ456xxbW8PAUygLdhTOXRAyZQej6zantZpRo4-jYYtR_Hhx8E8ivuLmoZScs3soIkRdYBOCK-SxiOtjItsNGCPM-XHmvGOtDCYnc9pSRmIXhqnyrrTWEKp7_LLBayaqp8UN0KrBtR-8WsfUHFh2_b-24uDPxs98LE_jIMVEJUccypMa0YoMhBTSjI5Mp21Yphek6EdxGHupdFfyMsrzmvB1ZQ7tcbBs1PjjSPgUT3-NQUKQzlfek3TXgBf_S6w5MlzLSrsjHNWBmT1PqYzobg4VlV3V9rjA9NfJzfMeOuAMzEvD9kxxedJ7vDqaRmL0gD7C-n0WY73ZptZrY8iAeTLzjWMz9qOT_NKKq5owGWTktItnPKMHIVBkctqwIp7FHJdsmbhubCfIthUofxjGHYvI5n_V8sQxMva9P85sJWVMrhrc",
+      "q": "casual best brisket in austin"
+     },
+     "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=casual+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rCND-Aq_toLx59fWJX1EGqRgj1pxnEpUK7flDGe6SvMMhZ456xxbW8PAUygLdhTOXRAyZQej6zantZpRo4-jYYtR_Hhx8E8ivuLmoZScs3soIkRdYBOCK-SxiOtjItsNGCPM-XHmvGOtDCYnc9pSRmIXhqnyrrTWEKp7_LLBayaqp8UN0KrBtR-8WsfUHFh2_b-24uDPxs98LE_jIMVEJUccypMa0YoMhBTSjI5Mp21Yphek6EdxGHupdFfyMsrzmvB1ZQ7tcbBs1PjjSPgUT3-NQUKQzlfek3TXgBf_S6w5MlzLSrsjHNWBmT1PqYzobg4VlV3V9rjA9NfJzfMeOuAMzEvD9kxxedJ7vDqaRmL0gD7C-n0WY73ZptZrY8iAeTLzjWMz9qOT_NKKq5owGWTktItnPKMHIVBkctqwIp7FHJdsmbhubCfIthUofxjGHYvI5n_V8sQxMva9P85sJWVMrhrc&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQkbEKegUIiQEQAw",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=casual+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rCND-Aq_toLx59fWJX1EGqRgj1pxnEpUK7flDGe6SvMMhZ456xxbW8PAUygLdhTOXRAyZQej6zantZpRo4-jYYtR_Hhx8E8ivuLmoZScs3soIkRdYBOCK-SxiOtjItsNGCPM-XHmvGOtDCYnc9pSRmIXhqnyrrTWEKp7_LLBayaqp8UN0KrBtR-8WsfUHFh2_b-24uDPxs98LE_jIMVEJUccypMa0YoMhBTSjI5Mp21Yphek6EdxGHupdFfyMsrzmvB1ZQ7tcbBs1PjjSPgUT3-NQUKQzlfek3TXgBf_S6w5MlzLSrsjHNWBmT1PqYzobg4VlV3V9rjA9NfJzfMeOuAMzEvD9kxxedJ7vDqaRmL0gD7C-n0WY73ZptZrY8iAeTLzjWMz9qOT_NKKq5owGWTktItnPKMHIVBkctqwIp7FHJdsmbhubCfIthUofxjGHYvI5n_V8sQxMva9P85sJWVMrhrc"
+    },
+    {
+     "name": "Cozy",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4raajiqm6AbN-QQa9XxhpHiLFStqrqIWNbao867fuzdgt2rQLO2HQAPbzYYCZMo1dTDdxV8YluKYElbtfsYx13LlqgAXW6N6dTsjNwFuBsoLnF0JUQX80pmJD566YO-f4M9DauqxI3cpaOXe10BBR_CY_zRNEoaZPVvadCfqumaig6N_vjNDNSP28TBW9zDDTup8vKtuNO0uBQmLd-qTUdyOlpv1caHcAp4b78ixp14hSQ3feyZUAuXDgyHwwP18pG-qlws7weaz2pr925lrCiTLbD6lGDiO7wQNzN4lW86HMYZUwHtxZZtGyaUY6RzlB7Y_dWAXKCNihB_xE0jPcocQ2bzdyxgBg_0zKzfLKY5FPQAkl1X-ZWv2D0y2uq_1S8XFWTM-A2L-cg00LxTXk1FGOJbOesFnYSWiQoCq2lvEn-8lVaGPUWY1KwViRtk8vWLbw4KrtcxYTmRipIfzCJJN-IPqs",
+      "q": "cozy best brisket in austin"
+     },
+     "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=cozy+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raajiqm6AbN-QQa9XxhpHiLFStqrqIWNbao867fuzdgt2rQLO2HQAPbzYYCZMo1dTDdxV8YluKYElbtfsYx13LlqgAXW6N6dTsjNwFuBsoLnF0JUQX80pmJD566YO-f4M9DauqxI3cpaOXe10BBR_CY_zRNEoaZPVvadCfqumaig6N_vjNDNSP28TBW9zDDTup8vKtuNO0uBQmLd-qTUdyOlpv1caHcAp4b78ixp14hSQ3feyZUAuXDgyHwwP18pG-qlws7weaz2pr925lrCiTLbD6lGDiO7wQNzN4lW86HMYZUwHtxZZtGyaUY6RzlB7Y_dWAXKCNihB_xE0jPcocQ2bzdyxgBg_0zKzfLKY5FPQAkl1X-ZWv2D0y2uq_1S8XFWTM-A2L-cg00LxTXk1FGOJbOesFnYSWiQoCq2lvEn-8lVaGPUWY1KwViRtk8vWLbw4KrtcxYTmRipIfzCJJN-IPqs&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQkbEKegUIiQEQBA",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=cozy+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4raajiqm6AbN-QQa9XxhpHiLFStqrqIWNbao867fuzdgt2rQLO2HQAPbzYYCZMo1dTDdxV8YluKYElbtfsYx13LlqgAXW6N6dTsjNwFuBsoLnF0JUQX80pmJD566YO-f4M9DauqxI3cpaOXe10BBR_CY_zRNEoaZPVvadCfqumaig6N_vjNDNSP28TBW9zDDTup8vKtuNO0uBQmLd-qTUdyOlpv1caHcAp4b78ixp14hSQ3feyZUAuXDgyHwwP18pG-qlws7weaz2pr925lrCiTLbD6lGDiO7wQNzN4lW86HMYZUwHtxZZtGyaUY6RzlB7Y_dWAXKCNihB_xE0jPcocQ2bzdyxgBg_0zKzfLKY5FPQAkl1X-ZWv2D0y2uq_1S8XFWTM-A2L-cg00LxTXk1FGOJbOesFnYSWiQoCq2lvEn-8lVaGPUWY1KwViRtk8vWLbw4KrtcxYTmRipIfzCJJN-IPqs"
+    },
+    {
+     "name": "Trendy",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rCND-Aq_toLx59fWJX1EGqRgj1pxnEpUK7flDGe6SvMPmJBcvS5Dxx0sfffkiWJ_lKXTHul0Rj9X5DatK80K3k2zx8Z3SMMlRINiJO7famgaFJlgHxHESDThAZKjTcTArsPDMO5MKj5bVSGS1hvY2XilpEFlUNY-cYQEs0s_H4iB6CnYnSpMuPBS8zo2rPjA47g_4LDG3wBry3V2fpdhbQ5zdx3j89W9eYvvybRKIUn-YaJVfq07VOw7pnY3Y9BqFRDMYB3qtsHswxw5v91ApsIip__ZWTpwzOFQ6-ddKE5azQyITK0Sg9m1l0I-CWcPtaxFKaj5zADQzW789KcrQhhRkQdzwcRH-igWSj7ZsZOVQe2pBMf--fdqecs6od1FOLAKhVkZ0UBAjIu7kfIcuNt_oMKlWfFLtORJynl6y2kIZ9hUw0LDlGnek0FaMKNEaiKAMsHQUyl4mHqx_h1ove9Bplos",
+      "q": "trendy best brisket in austin"
+     },
+     "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=trendy+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rCND-Aq_toLx59fWJX1EGqRgj1pxnEpUK7flDGe6SvMPmJBcvS5Dxx0sfffkiWJ_lKXTHul0Rj9X5DatK80K3k2zx8Z3SMMlRINiJO7famgaFJlgHxHESDThAZKjTcTArsPDMO5MKj5bVSGS1hvY2XilpEFlUNY-cYQEs0s_H4iB6CnYnSpMuPBS8zo2rPjA47g_4LDG3wBry3V2fpdhbQ5zdx3j89W9eYvvybRKIUn-YaJVfq07VOw7pnY3Y9BqFRDMYB3qtsHswxw5v91ApsIip__ZWTpwzOFQ6-ddKE5azQyITK0Sg9m1l0I-CWcPtaxFKaj5zADQzW789KcrQhhRkQdzwcRH-igWSj7ZsZOVQe2pBMf--fdqecs6od1FOLAKhVkZ0UBAjIu7kfIcuNt_oMKlWfFLtORJynl6y2kIZ9hUw0LDlGnek0FaMKNEaiKAMsHQUyl4mHqx_h1ove9Bplos&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQkbEKegUIiQEQBQ",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=trendy+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rCND-Aq_toLx59fWJX1EGqRgj1pxnEpUK7flDGe6SvMPmJBcvS5Dxx0sfffkiWJ_lKXTHul0Rj9X5DatK80K3k2zx8Z3SMMlRINiJO7famgaFJlgHxHESDThAZKjTcTArsPDMO5MKj5bVSGS1hvY2XilpEFlUNY-cYQEs0s_H4iB6CnYnSpMuPBS8zo2rPjA47g_4LDG3wBry3V2fpdhbQ5zdx3j89W9eYvvybRKIUn-YaJVfq07VOw7pnY3Y9BqFRDMYB3qtsHswxw5v91ApsIip__ZWTpwzOFQ6-ddKE5azQyITK0Sg9m1l0I-CWcPtaxFKaj5zADQzW789KcrQhhRkQdzwcRH-igWSj7ZsZOVQe2pBMf--fdqecs6od1FOLAKhVkZ0UBAjIu7kfIcuNt_oMKlWfFLtORJynl6y2kIZ9hUw0LDlGnek0FaMKNEaiKAMsHQUyl4mHqx_h1ove9Bplos"
+    },
+    {
+     "name": "Romantic",
+     "parameters": {
+      "uds": "AJ5uw1_a2D0D09lxm8gpKKOTUn4rih01VixDIC60KqpAUtYl87z0GRWZNyoMPEcbnjEb1cLXyizg1ZxLtF1NoQGknYwFZxljw444pQxj4KGJvcsfzmh4uO4BZYKmagjq-AckZlEekoaVrdyXRxNTjT8KxSnqAqdbQ3vp37DcmEdQu0v6j3HpLm8Xjtt7978PVx7k9c3xBkHKfT1E3zcoaTIl824kilZK7hTRZqa230bwOVj-tJzVRAORo1QACevdiafX2TqO0uDvJchsOC6qVgeQAQFUJweTZrts3IRhH_anOqHKXOR0I3RBGV2vT2BbxCFg3Fnphq7SP-Z9lzwfgTmBldyORxe47U21FDPDw6XD15FznuAtXUqoJNYwm0aRAqxCskPE00qQRiJ5Bopbc7AOJ3yHSFt1Zg5wFfgTCeIfMvXsa-aeDiRtDwBQbXhQOoUP3NGBF3lfGokHlxIj9xU-L_158Z7YUSGYG67bMpAX-ji5wr7wh-k",
+      "q": "romantic best brisket in austin"
+     },
+     "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=romantic+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rih01VixDIC60KqpAUtYl87z0GRWZNyoMPEcbnjEb1cLXyizg1ZxLtF1NoQGknYwFZxljw444pQxj4KGJvcsfzmh4uO4BZYKmagjq-AckZlEekoaVrdyXRxNTjT8KxSnqAqdbQ3vp37DcmEdQu0v6j3HpLm8Xjtt7978PVx7k9c3xBkHKfT1E3zcoaTIl824kilZK7hTRZqa230bwOVj-tJzVRAORo1QACevdiafX2TqO0uDvJchsOC6qVgeQAQFUJweTZrts3IRhH_anOqHKXOR0I3RBGV2vT2BbxCFg3Fnphq7SP-Z9lzwfgTmBldyORxe47U21FDPDw6XD15FznuAtXUqoJNYwm0aRAqxCskPE00qQRiJ5Bopbc7AOJ3yHSFt1Zg5wFfgTCeIfMvXsa-aeDiRtDwBQbXhQOoUP3NGBF3lfGokHlxIj9xU-L_158Z7YUSGYG67bMpAX-ji5wr7wh-k&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQkbEKegUIiQEQBg",
+     "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=romantic+best+brisket+in+austin&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rih01VixDIC60KqpAUtYl87z0GRWZNyoMPEcbnjEb1cLXyizg1ZxLtF1NoQGknYwFZxljw444pQxj4KGJvcsfzmh4uO4BZYKmagjq-AckZlEekoaVrdyXRxNTjT8KxSnqAqdbQ3vp37DcmEdQu0v6j3HpLm8Xjtt7978PVx7k9c3xBkHKfT1E3zcoaTIl824kilZK7hTRZqa230bwOVj-tJzVRAORo1QACevdiafX2TqO0uDvJchsOC6qVgeQAQFUJweTZrts3IRhH_anOqHKXOR0I3RBGV2vT2BbxCFg3Fnphq7SP-Z9lzwfgTmBldyORxe47U21FDPDw6XD15FznuAtXUqoJNYwm0aRAqxCskPE00qQRiJ5Bopbc7AOJ3yHSFt1Zg5wFfgTCeIfMvXsa-aeDiRtDwBQbXhQOoUP3NGBF3lfGokHlxIj9xU-L_158Z7YUSGYG67bMpAX-ji5wr7wh-k"
+    }
+   ]
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Best brisket in austin reddit",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Best+brisket+in+austin+reddit&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+brisket+in+austin+reddit"
+  },
+  {
+   "block_position": 1,
+   "query": "Best brisket in austin for the money",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Best+brisket+in+austin+for+the+money&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+brisket+in+austin+for+the+money"
+  },
+  {
+   "block_position": 1,
+   "query": "Famous BBQ in Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Famous+BBQ+in+Austin&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Famous+BBQ+in+Austin"
+  },
+  {
+   "block_position": 1,
+   "query": "Best BBQ outside of Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Best+BBQ+outside+of+Austin&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+BBQ+outside+of+Austin"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin BBQ Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Franklin+BBQ+Austin&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+BBQ+Austin"
+  },
+  {
+   "block_position": 1,
+   "query": "Salt Lick Austin bbq",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Salt+Lick+Austin+bbq&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhmEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Salt+Lick+Austin+bbq"
+  },
+  {
+   "block_position": 1,
+   "query": "Austin BBQ Michelin star",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Austin+BBQ+Michelin+star&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Austin+BBQ+Michelin+star"
+  },
+  {
+   "block_position": 1,
+   "query": "Best BBQ downtown Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&q=Best+BBQ+downtown+Austin&sa=X&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ1QJ6BAhiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Best+BBQ+downtown+Austin"
+  }
+ ],
+ "discussions_and_forums": [
+  {
+   "title": "Austin BBQ Tier List after 18 months",
+   "link": "https://www.google.com/goto?url=CAESkgEB6zswFTagkMU81g-r-oPVldsM5gAmxMTD1-HWv-Hc-wodKi3sJ6XGvR6rHYmUK7rmHb9bqxJINmGoxgvBD5m4vsca4uSGUU1nKL3_xnLE3hFrMnh7J5zgXo9GXBiWFqJbDxLnhosmzwdn6QwTK4Qyw6uklqf4OTd2k3h0cPO2ypeonlHAHjwVh458DhbO35IrxQ",
+   "date": "1 year ago",
+   "extensions": [
+    "r/austinfood",
+    "170+ comments"
+   ],
+   "source": "Reddit",
+   "answers": [
+    {
+     "link": "https://www.google.com/goto?url=CAESkgEB6zswFTagkMU81g-r-oPVldsM5gAmxMTD1-HWv-Hc-wodKi3sJ6XGvR6rHYmUK7rmHb9bqxJINmGoxgvBD5m4vsca4uSGUU1nKL3_xnLE3hFrMnh7J5zgXo9GXBiWFqJbDxLnhosmzwdn6QwTK4Qyw6uklqf4OTd2k3h0cPO2ypeonlHAHjwVh458DhbO35IrxQ"
+    }
+   ]
+  },
+  {
+   "title": "Best bbq in Austin?",
+   "link": "https://www.google.com/goto?url=CAESfgHrOzAVEXMs3D4MCjKWvGhIyHF5RWdMx_JONtBMI6dhKoT16yz8xQkJc3arIMoTNa8_-blCi7Rk96PcWSpBKttn-YoFVRKz89Pzx-HaSMdWYknCtm5mryKG9Kx2ya8i86bugc8vdtp03rXIFHj9-N4i4JG-sBEUWbcwu0EYgQ",
+   "date": "10 months ago",
+   "extensions": [
+    "North Texas BBQ Addicts",
+    "70+ comments"
+   ],
+   "source": "Facebook",
+   "answers": [
+    {
+     "link": "https://www.google.com/goto?url=CAESfgHrOzAVEXMs3D4MCjKWvGhIyHF5RWdMx_JONtBMI6dhKoT16yz8xQkJc3arIMoTNa8_-blCi7Rk96PcWSpBKttn-YoFVRKz89Pzx-HaSMdWYknCtm5mryKG9Kx2ya8i86bugc8vdtp03rXIFHj9-N4i4JG-sBEUWbcwu0EYgQ",
+     "extensions": [
+      "Top answer",
+      "5 votes",
+      "10 months ago"
+     ]
+    },
+    {
+     "link": "https://www.google.com/goto?url=CAESfgHrOzAVEXMs3D4MCjKWvGhIyHF5RWdMx_JONtBMI6dhKoT16yz8xQkJc3arIMoTNa8_-blCi7Rk96PcWSpBKttn-YoFVRKz89Pzx-HaSMdWYknCtm5mryKG9Kx2ya8i86bugc8vdtp03rXIFHj9-N4i4JG-sBEUWbcwu0EYgQ",
+     "extensions": [
+      "4 votes",
+      "10 months ago"
+     ]
+    },
+    {
+     "link": "https://www.google.com/goto?url=CAESfgHrOzAVEXMs3D4MCjKWvGhIyHF5RWdMx_JONtBMI6dhKoT16yz8xQkJc3arIMoTNa8_-blCi7Rk96PcWSpBKttn-YoFVRKz89Pzx-HaSMdWYknCtm5mryKG9Kx2ya8i86bugc8vdtp03rXIFHj9-N4i4JG-sBEUWbcwu0EYgQ",
+     "extensions": [
+      "4 votes",
+      "10 months ago"
+     ]
+    }
+   ]
+  },
+  {
+   "title": "What are the must-do BBQ places to visit in Austin, Texas?",
+   "link": "https://www.google.com/goto?url=CAESgAEB6zswFeV3Ry1-crjLeKRBLqnrQBheqxuj8DVOFPOakkloTLTmVmxsBgCCIuOGDROdhL79TB4cOLKXFAXJAm24ZisK3K9-HN4dj89n32AuNyOaAFfWGWXiapyvHsNlgvUap6tWbLHyt-xWD8ogOHh3K7L6wr1PwwSAjrE9nCQBUg",
+   "date": "1 year ago",
+   "extensions": [
+    "Meat Church Congregation",
+    "70+ comments"
+   ],
+   "source": "Facebook",
+   "answers": [
+    {
+     "link": "https://www.google.com/goto?url=CAESgAEB6zswFeV3Ry1-crjLeKRBLqnrQBheqxuj8DVOFPOakkloTLTmVmxsBgCCIuOGDROdhL79TB4cOLKXFAXJAm24ZisK3K9-HN4dj89n32AuNyOaAFfWGWXiapyvHsNlgvUap6tWbLHyt-xWD8ogOHh3K7L6wr1PwwSAjrE9nCQBUg",
+     "extensions": [
+      "Top answer",
+      "5 votes",
+      "a year ago"
+     ]
+    },
+    {
+     "link": "https://www.google.com/goto?url=CAESgAEB6zswFeV3Ry1-crjLeKRBLqnrQBheqxuj8DVOFPOakkloTLTmVmxsBgCCIuOGDROdhL79TB4cOLKXFAXJAm24ZisK3K9-HN4dj89n32AuNyOaAFfWGWXiapyvHsNlgvUap6tWbLHyt-xWD8ogOHh3K7L6wr1PwwSAjrE9nCQBUg",
+     "extensions": [
+      "5 votes",
+      "a year ago"
+     ]
+    },
+    {
+     "link": "https://www.google.com/goto?url=CAESgAEB6zswFeV3Ry1-crjLeKRBLqnrQBheqxuj8DVOFPOakkloTLTmVmxsBgCCIuOGDROdhL79TB4cOLKXFAXJAm24ZisK3K9-HN4dj89n32AuNyOaAFfWGWXiapyvHsNlgvUap6tWbLHyt-xWD8ogOHh3K7L6wr1PwwSAjrE9nCQBUg",
+     "extensions": [
+      "5 votes",
+      "a year ago"
+     ]
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=10&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8NMDegQIVhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=10&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAE",
+   "3": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=20&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAG",
+   "4": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=30&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAI",
+   "5": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=40&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAK",
+   "6": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=50&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAM",
+   "7": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=60&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAO",
+   "8": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=70&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAQ",
+   "9": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=80&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAS",
+   "10": "https://www.google.com/search?q=best+brisket+in+austin&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&ei=QwaYasi-IJ7t1e8Ps-70mQE&start=90&sa=N&sstk=AS6-VmKqsIPwMSAK2GQeMx2JWvVsDuJzv-dPGzU32fr6VyfcSkWNuEsqRYPXsMw0xJ_Zz4fEnTEqrjOGrIU6QJvdXrt3YUTgD19j-Q&ved=2ahUKEwiI7M-s48-WAxWedvUHHTM3PRMQ8tMDegQIVhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=best+brisket+in+austin&start=90"
+  }
+ }
+}

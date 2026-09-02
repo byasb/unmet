@@ -1,0 +1,2171 @@
+{
+ "search_metadata": {
+  "id": "6a98056d50849c30016b8a80",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/PW3mWFVpxucjQSKl4oiteXZatfeTN9spaZSmtAJ6PbI/6a98056d50849c30016b8a80.json",
+  "markdown_endpoint": "https://serpapi.com/searches/PW3mWFVpxucjQSKl4oiteXZatfeTN9spaZSmtAJ6PbI/6a98056d50849c30016b8a80.md",
+  "created_at": "2026-09-02 11:15:57 UTC",
+  "processed_at": "2026-09-02 11:15:57 UTC",
+  "yelp_reviews_url": "https://www.yelp.com/biz/MGzro82Fi4LYvc86acoONQ",
+  "raw_html_file": "https://serpapi.com/searches/PW3mWFVpxucjQSKl4oiteXZatfeTN9spaZSmtAJ6PbI/6a98056d50849c30016b8a80.html",
+  "total_time_taken": 1.94
+ },
+ "search_parameters": {
+  "engine": "yelp_reviews",
+  "start": 0,
+  "num": "49",
+  "place_id": "MGzro82Fi4LYvc86acoONQ"
+ },
+ "search_information": {
+  "total_results": 6464,
+  "business": "Franklin Barbecue"
+ },
+ "review_languages": [
+  {
+   "hl": "en",
+   "count": 6464
+  },
+  {
+   "hl": "de",
+   "count": 3
+  },
+  {
+   "hl": "es",
+   "count": 8
+  },
+  {
+   "hl": "ja",
+   "count": 2
+  },
+  {
+   "hl": "it",
+   "count": 1
+  },
+  {
+   "hl": "da",
+   "count": 1
+  },
+  {
+   "hl": "tr",
+   "count": 1
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "user": {
+    "name": "Heidi M.",
+    "user_id": "et1ipDVgUQqt2zZqp0eO8w",
+    "link": "https://www.yelp.com/user_details?userid=et1ipDVgUQqt2zZqp0eO8w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/a2QjmxxPQqS6I04c6iSG0Q/180s.jpg",
+    "address": "TX, TX",
+    "friends": 15,
+    "photos": 3,
+    "reviews": 12
+   },
+   "comment": {
+    "text": "Prolly the best BBQ I've ever had in Texas. Heck, the best BBQ I've ever had anywhere. \n\nWorth the waiting in line on a hot and steamy summer afternoon, and forever grateful they didn't run out of brisket before we were able to get some. \n\nThe staff were personable, considering his busy they were. So helpful and engaged with customers. That alone would bring you back. But the smoked meats are hard to beat!  I mean, brisket is the movie star, but the sausage and pulled pork weren't to shabby either. \n\nEveryone should go here at least 1 time. Then you'll always know how to tell a good BBQ.",
+    "language": "en"
+   },
+   "date": "2026-08-06T18:24:09Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/bmKRNVlxQ39MQkAhMJsjAg/o.jpg",
+     "caption": "Sampler ... a bit of everything yall"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 2,
+   "user": {
+    "name": "Denise V.",
+    "user_id": "FXw7qgl4XIpoqqlAuA3fhg",
+    "link": "https://www.yelp.com/user_details?userid=FXw7qgl4XIpoqqlAuA3fhg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pJh9tjAwFlItGUJSpsanIw/180s.jpg",
+    "address": "Weslaco, TX",
+    "friends": 62,
+    "photos": 1,
+    "reviews": 10
+   },
+   "comment": {
+    "text": "Franklin BBQ was SO good! The portions were great for the price, we definitely could've shared a sandwich because they give you plenty of food. I do wish they had a few more side options to choose from, but everything we tried was really good!\n\nCustomer service was great, and even with the wait, it was definitely worth it. We really enjoyed our experience and would absolutely come back!",
+    "language": "en"
+   },
+   "date": "2026-08-30T14:36:24Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 3,
+   "user": {
+    "name": "Jason W.",
+    "user_id": "WIk06zgQAM9vlLRyb69GUw",
+    "link": "https://www.yelp.com/user_details?userid=WIk06zgQAM9vlLRyb69GUw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RWgTRYri2Hf7tCqob4iK6g/180s.jpg",
+    "address": "San Diego, CA",
+    "friends": 124,
+    "photos": 3130,
+    "reviews": 555,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I have had good BBQ brisket before, at least so I thought, until I had Franklin Barbecue. This was the best barbecue brisket and pork ribs I've ever had. \n\nWe tried the brisket, the pork ribs and house sausage. The brisket and ribs were fall apart tender and impossibly moist. The moistness was what struck me as different and more delicious compared to other barbecued meats I've had. They did keep the meat wrapped in foil until presented to the customer, which must help. The brisket is only seasoned with salt and pepper so the flavor of the meat and smoke comes through. The ribs are also finished lightly with bbq sauce, still preserving the meat flavor. They do offer four different barbecue sauces that are quite delicious. Bread and pickles are free, as are ice and water. \n\nLine wait data point: Went on a Tuesday (they are closed on Mondays) got there at 12:20 PM and it took just 80 minutes to get through the line. Left just after 2pm and there was no line - and few if any meats left.",
+    "language": "en"
+   },
+   "date": "2026-08-06T06:31:05Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pa8rkHsFK2_aXeH3G-c-7g/o.jpg",
+     "caption": "Ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GRomWPY-NI9LlvDbITeH-g/o.jpg",
+     "caption": "So tender"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Pf2X5See1CY8mt58m62ZNA/o.jpg",
+     "caption": "$70 worth but free bread"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Lfzvi8TeKWTbzQYqwyELVQ/o.jpg",
+     "caption": "Perfect smoke ring"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D14YGNXINREuE3iqgnzNXw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_fmyOpCwPEdMvcUlXOEcqg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0X0n5HdK7y54lK5BqY1xtg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gVG5FzgBhQ_y8H5fTfHVTA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SkXltN3kZ__AS7h7GEBT2A/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ppMv-5ZQ8EDsJq2_Silf_g/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 4,
+   "user": {
+    "name": "Movetia S.",
+    "user_id": "HMotOijuTVVcy9Ll9O0pzw",
+    "link": "https://www.yelp.com/user_details?userid=HMotOijuTVVcy9Ll9O0pzw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/s3Z6rcmk_5XbzH1QUnWg6Q/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 19,
+    "photos": 248,
+    "reviews": 98,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Surprisingly, as someone who's lived in East Austin since 2016, today was my very first trip to Franklin Barbecue.\n\nMy department is hosting a baby shower (at work), and our mom-to-be had one request: Franklin's BBQ. SO what mama wants, mama gets!\n\nKnowing my anxiety wasn't going to let me stand in the famous line, I placed a preorder and scheduled a pickup time. Best. Decision. Ever.\n\nWhen I arrived, I saw the long line outside and immediately felt validated. I drove around back and was thrilled to find dedicated parking for pre-order pickups. There was also a covered waiting area with seating, picnic tables with umbrellas, and a very organized check-in process. I gave them my name, and they started preparing my order while I waited.\n\nInside, they have a great selection of merchandise, from hats, patches, keychains, and engraved YETIs to playing cards, trays, and even adorable baby onesies and toddler T-shirts.\n\nThe staff was friendly, welcoming, and happy to answer questions. While waiting, I mentioned I live in the Mueller neighborhood, and they told me about their new location (private event) nearby that I'd noticed while out walking.\n\nOne of my favorite parts of the visit was chatting with another customer. Her family had flown from San Francisco to Houston, driven to Austin, spent around $2,000 on Franklin Barbecue, and planned to pack it in coolers with ice packs before driving back to Houston to catch their flight home. It was all for her brother's 40th birthday. That's when it really hit me how iconic this place is. People literally travel across the country just for this barbecue.\n\nWhen my order was ready, everything was packed perfectly with all the fixings. They even included a thoughtful little gift for the mom-to-be, which was such a sweet and unexpected touch.\n\nThe hardest part was driving to work with that incredible smell filling my car.\n\nAnd then there was the brisket. Wow. It absolutely lived up to the hype. It was tender, juicy, perfectly smoky, and unquestionably the star of the meal. Every bite practically melted in your mouth. After finally tasting it for myself, I have to admit, it might actually be worth waiting in that famous line.\n\nWe made our own sides to accommodate everyone, including gluten-free cornbread, regular cornbread, homemade mac and cheese, and fresh fruit cups. The barbecue was the centerpiece of a wonderful baby shower full of games and laughter, and it made our first-time mom's celebration even more special.\n\nIf you've been avoiding Franklin because you don't want to stand in line, don't overlook the preorder option. It was easy, organized, and completely stress-free. I'll definitely be doing it this way again.",
+    "language": "en"
+   },
+   "date": "2026-07-22T20:24:51Z",
+   "rating": 5,
+   "tags": [
+    "8 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oYr8o9-Vm5HJM8PS52Cqdw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/16qgy28_wFtDypbyta96ug/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Tn-CBHYYHH3C6eCKq6KKlQ/o.jpg",
+     "caption": "Specialized parking for pre-orders"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FdmxSXuX2vuV1i1XwumPEg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nMJDMohMWLIJzvwnhWihEA/o.jpg",
+     "caption": "The line!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UPnivS6buV3l1gietCsnnA/o.jpg",
+     "caption": "Items from the store"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xeV_BhsjS5ASRAPcsmggkw/o.jpg",
+     "caption": "VIP Parking"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/9Rq31KaaNKy2buajThqpdg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 5,
+   "user": {
+    "name": "Richard P.",
+    "user_id": "lOTna4cz8v1Qa-rf3uPKhg",
+    "link": "https://www.yelp.com/user_details?userid=lOTna4cz8v1Qa-rf3uPKhg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/azM6f2yqhUtLhNshsiXw2A/180s.jpg",
+    "address": "Topeka, KS",
+    "friends": 22,
+    "photos": 468,
+    "reviews": 220,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Unquestionably world class Texas Q that has earned its standing among the nation's (and thereby the world's) best. We enjoyed the brisket, chopped beef and turkey very much. Can't say much really for their slaw, potato salad or any of their very thin and vinegar forward sauces. Their pinto beans however were a pleasant treat for a KC BBQ Homer.\n\nStaff were great and their signature brisket is as good as I've had but not what many label as head and shoulders above all others. You will find the same great brisket at dozens of spots all over the Lone Star state in my opinion.",
+    "language": "en"
+   },
+   "date": "2026-07-25T03:12:23Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/leFot-aVq1cUStnBFSSAVA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KXGY1QszqV-82zT9Ko33JQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/yn5vd_L7LhbVz0AUAcq8HQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 6,
+   "user": {
+    "name": "Jarek M.",
+    "user_id": "PUmOtcKq5jJxhj5kFTvrwg",
+    "link": "https://www.yelp.com/user_details?userid=PUmOtcKq5jJxhj5kFTvrwg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3-IEraFAVKMWllm5Yqd67w/180s.jpg",
+    "address": "Houston, TX",
+    "friends": 231,
+    "photos": 2894,
+    "reviews": 465,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Long queue but worth the wait.\n\nService and atmosphere:\nVery good customer services. The team member kept people waiting in the queue well informed about the food and time to order.\nThe restaurant is small but you get the table as people leave in timely manner. There is also patio and tables outside.\n\nFood:\nGood effort. The BBQ meats were moist and well seasoned. My favourite were the pork ribs. I also enjoyed pinto beans which were on spicy and savoury side.\n\nPricing:\n$$$ - pretty pricy per pound of meats served.",
+    "language": "en"
+   },
+   "date": "2026-06-28T20:00:12Z",
+   "rating": 4,
+   "tags": [
+    "4 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-eCUhBFZKWbdKtnEBP11Ug/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Sc7d5goRi6mH98PuNUNzmw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NFrCNZXqQ1UsNJ-46-PLlg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W7XrXD-rY_WstFtB05bLJw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 3,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 7,
+   "user": {
+    "name": "Felipe W.",
+    "user_id": "lhbdj3E9DjfoOfpHty3C9Q",
+    "link": "https://www.yelp.com/user_details?userid=lhbdj3E9DjfoOfpHty3C9Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RMwCfeFjARWZWBB3ijdFaQ/180s.jpg",
+    "address": "Frisco, TX",
+    "friends": 37,
+    "photos": 1240,
+    "reviews": 344,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Franklins is always #1 in my heart. Their brisket is delicious enough to make me get emotional. I would raise the cow myself to eat this.\n\nThe lines are brutally long but worth the wait. Bring a chair and a console. The only person to bypass the line is Barack Obama and he deserves it.\n\nI will always say their brisket is #1 - their smoking tech ique, their fat ratio, moisture, and how it melts in your mouth, so delicious.\n\nI got 7 lbs of meat to share with my friends\nBeef ribs - pretty solid, would get this again\nPork ribs - fell right off the bone and so tender in my mouth, would get again \nHouse sausage / jalapeno sausage -  better than sausage at most bbq I've been to but I am biased towards the jalapeno sausage\nTurkey - this was okay\n\nVibes are your traditional bbq place with large platters, wooden tables and outdoor vibes",
+    "language": "en"
+   },
+   "date": "2026-07-03T20:24:59Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SqW19YEPCRsAQ0vOh3fXWw/o.jpg",
+     "caption": "Turkey onion pork ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j-LO1-pGzd38PVvnsIxkhw/o.jpg",
+     "caption": "Brisket sausage"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 1,
+    "cool": 1
+   }
+  },
+  {
+   "position": 8,
+   "user": {
+    "name": "Sean H.",
+    "user_id": "r6NWAwxlsFjT1mzhTNwvdg",
+    "link": "https://www.yelp.com/user_details?userid=r6NWAwxlsFjT1mzhTNwvdg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kutyccnazWQS6XSu2VRHYQ/180s.jpg",
+    "address": "Vista, CA",
+    "friends": 22,
+    "photos": 207,
+    "reviews": 86,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The OG. The start of it all, the godfather and for good reason. It...is.....amazing. So you know the rules, one short review, let's go:\n\nFood: yeah this is it. No doubt just amazing. Not super creative or unique but...amazing. A must at least once. Great brisket. \n\nAmbiance: it's a vibe. Sit in line. Get a chair. Grab a beer. It's a tailgate for BBQ\n\nServices nicest people. Just plain and simple. \n\nThis is a bucket list. Go at least once. It's great",
+    "language": "en"
+   },
+   "date": "2026-07-14T13:36:33Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZGqSiPrrCvefzZDKuqeu3g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/a2WlRYvgMs02zYVlM2xmSg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N1Ycy4Qq_ZnPFYwQzFAdTQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AO32Z86Rn-OP2Hz0Qv_tEA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 9,
+   "user": {
+    "name": "Alyssa C.",
+    "user_id": "8tqsSCZjTpTiAoE8i_gVGA",
+    "link": "https://www.yelp.com/user_details?userid=8tqsSCZjTpTiAoE8i_gVGA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WXLcDhNH4SZpm0R79COcHw/180s.jpg",
+    "address": "Queens, NY",
+    "friends": 382,
+    "photos": 225,
+    "reviews": 127,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Listen , no look this past weekend I went to Austin Texas . On the list of places to eat was Franklins , and let me tell me you they didn't disappoint. The wait was 2 hours , we arrived at 11:48 and we finally ate our food at 1:45. Let me tell you it was worth it . Nestled on the corner of the street not to far from downtown Austin. I suggest you get there when they open if not sooner.\n\nWhile waiting for our food , a server does come down to see more or less what you would like to order . Once inside you are able immediately hit with all kinds of smells . We ordered a pound brisket , and a half of pound ribs and a side of coleslaw and pinto beans which all came with a side of bread . Let me tell you it is more than enough. Obviously the larger the party the more food you have to order \n\nThe brisket was so tender and juicy and well seasoned. The ribs fell off the bone  and the side were really good and I don't even like pinto beans . The women at the register were so lovely and nice and they answered any questions you had . \n\nThere is indoor and outdoor seating so there is enough space . I did not indulge in the desserts but i would next time . Please do me the favor and visit franklins, it is 1,000 % worth it . Until next time .",
+    "language": "en"
+   },
+   "date": "2026-05-25T16:58:04Z",
+   "rating": 5,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Ypa1sdAUxLS4NRJJExfRgA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J8IufGd0LIPuLnLu2rfn5w/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/93xa0kKbLMXOWgkncBZcEA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c7PaQpQ0oBkd9pENgd_cAg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ITCVoRfWqmZFOmjhVye03g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EZLag9icXp5tUl1JMvxvDQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iaw53pUzPC414FM1iyY_HQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 5,
+    "funny": 2,
+    "cool": 4
+   }
+  },
+  {
+   "position": 10,
+   "user": {
+    "name": "Joyce L.",
+    "user_id": "DHDmwbaaPVB6uz2xnCeGCg",
+    "link": "https://www.yelp.com/user_details?userid=DHDmwbaaPVB6uz2xnCeGCg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/o-FAjlYM1OdHOAUurlvRlw/180s.jpg",
+    "address": "San Diego, CA",
+    "friends": 1841,
+    "photos": 3022,
+    "reviews": 551,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I *thought* I'd had good BBQ brisket before, but apparently I thought wrong, haha! This Austin institution absolutely blew. my. mind. with its incredibly simple yet perfectly executed 50/50 salt and pepper rub and low-and-slow smoke over cured post oak before resting and slicing. Ribs and sausage were excellent as well, and complimentary sauces, pickles, and white bread much appreciated.\n\nThe meats sell out fast so get here early! The line is looong but 100% worth it. There's both indoor and outdoor seating in this small but mighty shop, and thankfully the tables turn over quickly so you shouldn't have trouble settling down once you get your food!",
+    "language": "en"
+   },
+   "date": "2026-05-16T13:32:18Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eyMuGZSvzY7_MgWsIN1pww/o.jpg",
+     "caption": "Outside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nep7RBQS3UrruoN6GWSzCA/o.jpg",
+     "caption": "Ribs; Sausage; Brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/zoaxYfP9JWux-_fDBTsH1w/o.jpg",
+     "caption": "Inside"
+    }
+   ],
+   "feedback": {
+    "useful": 7,
+    "funny": 2,
+    "cool": 7
+   }
+  },
+  {
+   "position": 11,
+   "user": {
+    "name": "Stephen D.",
+    "user_id": "5g6L2dNMYV6z-7O6hniJag",
+    "link": "https://www.yelp.com/user_details?userid=5g6L2dNMYV6z-7O6hniJag",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/hd3r-WcQ_DQzfgs1pquXXg/180s.jpg",
+    "address": "Columbia, SC",
+    "friends": 41,
+    "photos": 737,
+    "reviews": 511,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Whether a place is worth waiting in line is personal. For me, a 2-3 hour wait for Texas BBQ is worth it. \n\nFranklins is a place I would easily wait again in line. Why?\n\nBrisket- best in the country. Not sure how anyone is better than this place\nTurkey- incredible and almost the star of the show- see Brisket\nSausage- great!\nSides - decent but secondary since the meat is the star of the show. \nDesert- the individual pies are a must!\n\nOverall, love this spot and lives up to the hype. When in Austin, go here!",
+    "language": "en"
+   },
+   "date": "2026-06-12T15:58:17Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_txS2Rf6Mqkqdbu3hsShHg/o.jpg",
+     "caption": "Line outside on a random Tuesday at 11:15am"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 12,
+   "user": {
+    "name": "Kristina H.",
+    "user_id": "Ytm-5I8uFQBbio0r3wtzhg",
+    "link": "https://www.yelp.com/user_details?userid=Ytm-5I8uFQBbio0r3wtzhg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/U4FIsttUSZFKjIEwSHJ7xw/180s.jpg",
+    "address": "Fort Worth, TX",
+    "friends": 660,
+    "photos": 2939,
+    "reviews": 979,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We arrived around 12:15 and the line was wrapped! By the time we got to the counter it was 1:35. We were the last ones to actually get pulled pork because they ran out. That is the longest weve ever waited for bbq, BUT SO WORTH IT! I do not ever order brisket because it's usually disappointing, dry and bland. However, this brisket was none of those things. It was everything a brisket should be!!! The other meats were delicious as well. \n\nThe banana pie was incredible, the crust tasted almost like a cookie crumble. The potato salad is more of a mustard base, and cole slaw isn't too wet but I filled up on everything else and didn't eat much of it. \n\nAfter we finished eating, we even got a tour of the smokers! They are on a rotation, always smoking brisket and rotating staff to keep watch over it, and they use post oak wood. The staff were all so precious and friendly. My family thoroughly enjoyed our visit and would totally stand in line again :D",
+    "language": "en"
+   },
+   "date": "2026-04-16T00:30:20Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q1X5SHm5chgCZ-HVRXKCcg/o.jpg",
+     "caption": "Waiting in line"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WHEDZE3RJDM44DlRsaiMPA/o.jpg",
+     "caption": "Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iwjMKasxCgmmUvwhNOyGlw/o.jpg",
+     "caption": "Bbq sauces"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/03FVWIRESRmJ2w8mcJpqmA/o.jpg",
+     "caption": "1 lb of brisket, half a lb pulled pork, half lb of ribs and sausage, potato salad, Cole slaw, beans, and a banana tart pie"
+    }
+   ],
+   "feedback": {
+    "useful": 7,
+    "funny": 1,
+    "cool": 6
+   }
+  },
+  {
+   "position": 13,
+   "user": {
+    "name": "Jimmy J.",
+    "user_id": "HedK4A7GStnrpBApg_TXUg",
+    "link": "https://www.yelp.com/user_details?userid=HedK4A7GStnrpBApg_TXUg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RPhKoixknPYJPyJd5yJyuQ/180s.jpg",
+    "address": "Washington, DC",
+    "friends": 58,
+    "photos": 83,
+    "reviews": 57
+   },
+   "comment": {
+    "text": "Every city seems to have their hyped joint when it comes to food. A lot of times, it really is just a tourist trap with an average cuisine that does not reflect what's been shown &  talked about. Well, I can tell you that Franklin BBQ lives up to the hype. \n\nThe BBQ is legit, I had the lean brisket and wow! Delicious, flavorful & tender. A must have. There were other offerings specifically the jalape\u00f1o sausage which was the first item to sell out.   \n\nGet here early and be prepared to queue up. It's a slow process. For one they are very friendly at the stations. They welcome you and usually have someone outside informing the customers of the various options & answer any questions. \n\nStay hydrated if you come during the warmer months with the complimentary water jug station. Is it a tourist trap, yes. Is it worth waiting over an hour? Yes. A final note it's communal sitting inside where there is AC. There is also an outside sitting area. \n\nOverall, you can't go wrong stopping by. As you can see from my previous ratings, I rarely give 5 stars, as a matter of fact this my first one. Take it for what it's worth.\n\n- Buen Provecho!",
+    "language": "en"
+   },
+   "date": "2026-07-31T00:33:44Z",
+   "rating": 5,
+   "tags": [
+    "2 photos",
+    "1 check-in"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EmgiPs9zTgikDkwor__PFQ/o.jpg",
+     "caption": "Lean brisket 1/2 lb"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/pjOSAwWF0EQuu2RaF9klBQ/o.jpg",
+     "caption": "Communal Dining"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 14,
+   "user": {
+    "name": "Chase F.",
+    "user_id": "tMI9-PJCOCPQM3qCJtO78g",
+    "link": "https://www.yelp.com/user_details?userid=tMI9-PJCOCPQM3qCJtO78g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/jz7yMopdda9B1v-kSEmz5g/180s.jpg",
+    "address": "Phoenix, AZ",
+    "friends": 2,
+    "photos": 124,
+    "reviews": 71,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "So I finally decided to go try Franklins and brave the line. I arrived on a weekday at 1130am and the line was not bad. Maybe an hour. I love how people are giving this place a 1 star because they are popular and the line is long sometimes, I mean come one so stupid. \n\nThis place is small and it's amazing how they can crank out as much bbq as they do. It's impressive. I got almost to the front of the line around 1230pm and they were already almost out of ribs, so go early. \n\nI got a 1/2lb of Brisket, 1/4lb of turkey, 3 bones of ribs, and one link of the jalape\u00f1o cheddar sausage, my side I did was potato salad. I'll give my honest review down below on each item. \n\nBrisket- 1000/10, best I have ever had. It was well seasoned, juicy, smoky, fatty in the right way and just so tender and delicious. Spectacular. \n\nTurkey- another 1000/10, it's so juicy and and tender. They season it but not heavily which is great since Turkey is a mild tasting meat. I would definitely get this again! \n\nRibs- 6/10, and I love ribs. To me the seasoning on these was so thick it just overpowered the taste of the pork. All I could taste was pepper on it. It was good but I would personally pass on this item next time. \n\nSausage- 1000/10, again so good. It was spicy due to the jalape\u00f1os but not overly, the cheese was nice and there was a good snap to the casing. The smoke added a nice touch to the fattiness of the sausage. \n\nPotato salad- 3/10, to me this was not a good take on potato salad. Not much texture in it like celery or something like that and all I could taste was vinegar. I like acid in my food but this is all I could taste. So it wasn't for me. \n\nOverall when I go next time I will be loading up on brisket, turkey and sausage! These items are amazing, maybe try another side, their beans looked really good. \n\nGO OUT AND EAT SOME BBQ!!",
+    "language": "en"
+   },
+   "date": "2026-05-13T21:07:54Z",
+   "rating": 5,
+   "tags": [
+    "5 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/HbyVmkFn5PHhb0gBxxLKSg/o.jpg",
+     "caption": "Brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eDtPc74OJR3Si-Gy8BiDqA/o.jpg",
+     "caption": "Spare ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/D9J_c2gZGmJP297UIaUMeg/o.jpg",
+     "caption": "Bbq platter, brisket, turkey, ribs, sausage"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2mPfyWmIVdjx44wKhwj_bQ/o.jpg",
+     "caption": "Front dining room"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/z6duBxQhvOXx-z0nWrKdLA/o.jpg",
+     "caption": "Cutters"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 15,
+   "user": {
+    "name": "EJ J.",
+    "user_id": "GmQPLhAj7NMbhUf766-uiQ",
+    "link": "https://www.yelp.com/user_details?userid=GmQPLhAj7NMbhUf766-uiQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/KO29iE2RHtIFuR92QvXDwg/180s.jpg",
+    "address": "San Fernando Valley, CA",
+    "friends": 683,
+    "photos": 2519,
+    "reviews": 467,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Yea! The votes are in! Franklin is the clear winner for me. I saved reviewing two of the best BBQ joints in Austin for last and I came to the conclusion that Franklins has better quality meat but their sides aren't as good as the competitor I reviewed. \n\nWhen we first arrived, the line was out the door and down the street, which was kind of understandable after trying the food. The line moved pretty slow at first and they came out to tell us that by the time we get to the front they may be out of certain meats. Luckily, they had everything we wanted when we ordered. \n\nThe place totally gave off that Texas vibe, was a decent size and I wasn't sure there would be enough seating once we had our food but it all worked out. They kept the place clean after people left and they were pretty quick to clean the tables. \n\nAs for the food, we ordered a a half pound of:\n\nBeef Brisket - 5/5\nPork ribs - 5/5\nSausage link - 4.5/5\nPulled pork - 4.5/5\nPotato salad - 3.5/5\n\n\nAll I can say is, the meat was so juicy and tender and was seasoned to PERFECTION! I was fighting with myself to determine if I wanted to dip the meat in the bbq sauce I had or not. I was literally arguing with myself whether to dip or not because either way it gave you a different experience and each experience was soooo dang good, I don't even know man! Lastly, you don't need any sides (the sides are limited and not as good as the other place I reviewed) or bread or anything with the meat. I was mad at myself for wasting a few bites of getting full on two bites of the potato salad. I wish I could have those bites back and apply it to the meat. \n\nAnyway, I WILL be back to Franklin and there is no other choice for me. I was on Zillow looking up house listings and how much it would actually cost to move there lol. No joke! That's how good that meat was. If you are in Austin, please go try Franklin BBQ and let me know if I'm tripping or not because that was life changing for me.\n\nOOOOO\n5 out of 5 Afros",
+    "language": "en"
+   },
+   "date": "2026-04-04T16:16:11Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4iJiIhfXjCPaRAeNBdXeRg/o.jpg",
+     "caption": "Indoor seating"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/t6JBXW1-iDO8aPl6E8k0Kg/o.jpg",
+     "caption": "Beverages"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/h-uRjaCNx9Vgwfn7JJKJ3Q/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IHV8H4IyCKEHKmQPPCYnUw/o.jpg",
+     "caption": "Franklin BBQ"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c9OGocy74jpz730x2Ywb8A/o.jpg",
+     "caption": "Working her magic"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fVo_gp0tT3xWWFOmf4c0oQ/o.jpg",
+     "caption": "Publications"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mdq3K926-Sp4OBjsC3VjBg/o.jpg",
+     "caption": "Patio seating"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-pBxfpkgJ9eBJ1bmHbbc2w/o.jpg",
+     "caption": "Brisket, Pulled Pork, Ribs, Sausage and Single Potato Salad."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sKp9vvQoXWZrlqX_FTl-Sg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JzLiFOtSA7aPxx5Fk6lE9A/o.jpg",
+     "caption": "Merch"
+    }
+   ],
+   "feedback": {
+    "useful": 6,
+    "funny": 1,
+    "cool": 5
+   }
+  },
+  {
+   "position": 16,
+   "user": {
+    "name": "Johanna C.",
+    "user_id": "eEq0o9zZybkrlZANjxdCxw",
+    "link": "https://www.yelp.com/user_details?userid=eEq0o9zZybkrlZANjxdCxw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WN7b61noHzlqE27Xrjmu7A/180s.jpg",
+    "address": "Napa, CA",
+    "friends": 112,
+    "photos": 943,
+    "reviews": 369,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I think this is the disney of bbq lol.... line is really looongg :-( on a rainy Friday, we did not hesitate to go to experience the hype. Finally after 2 hours (12-2pm), we finally made it to the counter, unfortunately they ran out of beef ribs. We ordered 2 lb of brisket to go & the food we plan to eat in. There are a few tables but you'll get seated.\n\nTheir brisket is really the winner & their jalapeno sausage plus their key lime pie. They have a variety of sauces which is good but few sides. Staff are nice and friendly too.  \n\nThere is also a little shop inside to stall you while in line.",
+    "language": "en"
+   },
+   "date": "2026-05-03T14:56:44Z",
+   "rating": 4,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qWXversCaL2qxbRXvJVoSA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eII15AMyDr_2JmmgvXNquA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4ZRXq8b_7qA2vWuNQmtIjA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/G8JM5sz8rPFKOvP58YxPQA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 17,
+   "user": {
+    "name": "Erik T.",
+    "user_id": "Z-ibzaXY9cB82gBUMtmwhA",
+    "link": "https://www.yelp.com/user_details?userid=Z-ibzaXY9cB82gBUMtmwhA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Gcu1t8hJv9D_CKDhO4-rSw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 2,
+    "photos": 10,
+    "reviews": 30,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Franklins meat never disappoints.  That sandwich is your best bet if you're trying to drop a stupid amount of money but still tryna fill up\n\nMeat again is like... amazing.  Out of this world. \n\nBut this place has its drawbacks though.  While the line is an experience, you gotta do it right to have fun.  Bring cards.  Bring booze.  Be with friends.  Lines long every day of the week (I live next door, it's fucking down the block at 10am on a fkn Tuesday it's insane).  Line typically is shortest when there's rain if you're tryna slip in and get lucky \n\n\nOther drawback is sides.  I typically go elsewhere cause there's shorter lines and better sides.  The meats good at a lot of places but not to justify this.  With that said, everybody should tailgate and rip it at least once in their lives.  My friends and I all gambled with coolers and a speaker in the Texas sun all morning on a Saturday once and it's a core memory.",
+    "language": "en"
+   },
+   "date": "2026-07-12T02:23:55Z",
+   "rating": 3,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 18,
+   "user": {
+    "name": "Suzanna M.",
+    "user_id": "R9GxHOzqiDK11ZHt6OBAow",
+    "link": "https://www.yelp.com/user_details?userid=R9GxHOzqiDK11ZHt6OBAow",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/dhm1Wq-cCxKtWs6lZMvfOw/180s.jpg",
+    "address": "Long Beach, CA",
+    "friends": 22,
+    "photos": 10,
+    "reviews": 94,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Long line, but worth the wait. They have a small parking lot, but there were residential streets nearby, which helped the situation. I also got my order to go as all of the tables inside were filled. There was a girl going through the line asking all of us what we were going to order, which I appreciated as she was able to tell us what meats were still in stock, and if they would have enough for my order.\nThe brisket and ribs were great. I really like their espresso sauce.",
+    "language": "en"
+   },
+   "date": "2026-07-09T12:20:07Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 19,
+   "user": {
+    "name": "Gladys S.",
+    "user_id": "9Rv8AXxXkMw831ram09GIA",
+    "link": "https://www.yelp.com/user_details?userid=9Rv8AXxXkMw831ram09GIA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/WSu-PbnB0bc-wPNErPkLgQ/180s.jpg",
+    "address": "Santa Ana, CA",
+    "friends": 0,
+    "photos": 29,
+    "reviews": 31,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Best brisket I've ever had! WOW! We got there at 10:45 and the line was already wrapped around the building. The two hour wait was well worth it for getting to try this deliciousness! The staff was 10/10 with customer service! They were making rounds outside making sure people were okay, letting people know wait times, what food was no longer available, lawn chairs available to grab and sit on while you waited. Definitely a must if you're in Austin! The turkey, potatoes, and slaw were good but the brisket was on another level and deserves to be the one food item talked about.",
+    "language": "en"
+   },
+   "date": "2026-07-03T23:36:43Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Y3stt6O9NaglnbTELnaypg/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 20,
+   "user": {
+    "name": "Chrystalona A.",
+    "user_id": "RaPJ3DSaNAWpTLTtmadzvQ",
+    "link": "https://www.yelp.com/user_details?userid=RaPJ3DSaNAWpTLTtmadzvQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IDTMKawsXkpoImQ9FWNqoQ/180s.jpg",
+    "address": "San Mateo, CA",
+    "friends": 4,
+    "photos": 50,
+    "reviews": 37
+   },
+   "comment": {
+    "text": "Line was crazy. Started outside on the steps, then wrapped around the whole inside. \n\nOnce we got in, it was cute and old school. We arrived at 2:45 and they closed at 3. So we missed out on the brisket, turkey and the sausages, but totally still worth it. Once they run out of everything they told us they would give us what they could and what was left over  by the time we got to order, they hooked us upppp! \n\nThis tray was $33 and me and my bf who are foodies were completely stuffed! \n\nTea was a little sweet for me, but my bf liked it.\n\nBeans were Smokey, peppery & fire! \n\nEverything was amazing!",
+    "language": "en"
+   },
+   "date": "2026-07-03T23:23:02Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VzAIbc-v66dB8QC8IVNm4g/o.jpg",
+     "caption": "Potato salad, shredded pork, pork ribs, slaw, baked beans, & pickles"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 21,
+   "user": {
+    "name": "Zachary S.",
+    "user_id": "z7NK-aOTTqvpOo7DWv2t5Q",
+    "link": "https://www.yelp.com/user_details?userid=z7NK-aOTTqvpOo7DWv2t5Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oU4aMcBLdy6CrnSUc7RyzQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 68,
+    "photos": 1282,
+    "reviews": 379,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "In this long barbecue journey, it took me long enough to finally make it to the Texas Mecca, Franklin Barbecue. It's located right off I-35, just a few breaths away from the Texas Capitol. It was always an attainable restaurant to go to in terms of distance, but the rumored line could bring more agony than ever expected.\n\nI arrived at Franklin at 9 a.m. on a Sunday. A time too early to some, but experts would suggest I might have been too late. The restaurant itself recommends lining up starting at 9 a.m. on a weekday and closer to 8 a.m. on the weekend to have a better chance to try their full menu. With us losing an hour from daylight saving time the night prior, I assumed people would already be too exhausted to be there as early as I was.\n\nI was about the 20th head in line, which didn't seem too shabby. In front of me was a guy visiting Austin from Missouri, and he just had to try Franklin's before returning back home. It's cool how well known this establishment has become that people will travel all over for it. I can only imagine how bad the line can get with SXSW starting up. Two hours in line at this point is nothing. I always think waiting on the front end is always better than the back end because you're guaranteed a good meal if you get there early.\n\nTwo hours went by in a blink and the doors opened. By 11:15, we were watching our meat get sliced by the pitmaster for the day. It was not Aaron Franklin, sadly. We sat down with our tray just about five minutes later. For our three meats and some extras, Franklin ran us about $40 a head.\n\nI'll write about everything I had:\n\nBrisket: I know in Texas, brisket is king and Franklin is supposed to be the prime example of it. It was very good, but I think these new school barbecue joints are doing it better. You can't get this level of brisket everywhere though. It was still savory and flavorful.\n\nPork ribs: These are some of the best I've had. I feel like I say that at every barbecue restaurant I go to, but the meatiness, the bark, and the flavor were all exceptional to a point that it made my eyes water. They fall off the bone like every good Texas joint does, but the flavor they brought out on these is next level.\n\nJalape\u00f1o Cheddar Sausage: This sausage was crunchier than most. More compact. I think this is pretty middle of the road in my sausage power rankings, but still pretty glorious.\n\nPinto Beans: I'll just quote what my buddy said: \"I wouldn't even give these to a homeless person.\" I don't know what it was about these, but they were not good.\n\nPotato Salad: I am a mayo-based potato salad guy, so I am already disappointed when I order it and it's shockingly yellow. It was bland but could work well as a palate cleanser after a meaty meal.\n\nI tried their barbecue sauces and was impressed by the existence of their roasty espresso BBQ sauce. It has this rich flavor that blended well with the brisket. I never would have thought this would be good. Now we need barbecue sauce flavored espresso.\n\nI am so happy that I got to finally go to Franklin's. I don't think I will be joining the 100 club like some members have because while it is good and worth a visit, it is definitely not the best barbecue in Austin. There are places with better prices or better meats nearby. I don't think it's unimpressive by any means, and it is nice to pay an ode to a legendary place like Franklin. It was honestly a dream come true.\n\nRIYL: Waiting. It's kind of its thing.",
+    "language": "en"
+   },
+   "date": "2026-03-13T04:29:40Z",
+   "rating": 4,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M9wfKy4VaufXhE1T0rTbOg/o.jpg",
+     "caption": "tray"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ZKmTYQNC22NSMMbTqkmRkQ/o.jpg",
+     "caption": "inside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/0ZDQb20dnz5sksFwe49LPQ/o.jpg",
+     "caption": "Line"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qFgG-DMJeolEhAWHs-WLkg/o.jpg",
+     "caption": "100 Club"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CgIfbIkOjxEjD3p8u1uNBA/o.jpg",
+     "caption": "Outside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/_9Zo8V52W9mgzBqxQMANcw/o.jpg",
+     "caption": "Slicin'"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7uILhjo28tj4cGlQWrZuVA/o.jpg",
+     "caption": "inside"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 22,
+   "user": {
+    "name": "Tiffany S.",
+    "user_id": "GmQR50bIII7gDNRYEgfXfA",
+    "link": "https://www.yelp.com/user_details?userid=GmQR50bIII7gDNRYEgfXfA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/CvlKLQYH1RTYp6jL1skWnA/180s.jpg",
+    "address": "Ann Arbor, MI",
+    "friends": 1246,
+    "photos": 6929,
+    "reviews": 2206,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Exactly 10 years since my last visit to Franklin! Since I've been to ATX, I've been trying other BBQ haunts like Terry Black's but Franklin Barbecue is still outstanding. \n\nThis time instead of waiting in line for 4 hours, I pre-ordered in advance online (min 5 lbs, max 30 lbs). I appreciate that they slice it fresh when you check-in. \n\nThis time I also tried the bourbon banana cream pie. While they don't make this in-house, it's absolutely DELICIOUS. ). It's personal sized so my only regret was not trying the other pie flavors.  \n\nThe sides were just OK to me (slaw, beans - didn't try the potato salad).",
+    "language": "en"
+   },
+   "date": "2026-02-18T16:14:36Z",
+   "rating": 5,
+   "feedback": {
+    "useful": 5,
+    "funny": 1,
+    "cool": 5
+   }
+  },
+  {
+   "position": 23,
+   "user": {
+    "name": "Kara M.",
+    "user_id": "jxEVRvj5YqmX0MNkaQGMUA",
+    "link": "https://www.yelp.com/user_details?userid=jxEVRvj5YqmX0MNkaQGMUA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nFb8lUXmcA8Si-TIkY2ehw/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 1307,
+    "photos": 1602,
+    "reviews": 477,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "OVERVIEW: A legend for a reason. The brisket is seriously the best I've ever had, as well as the juicy turkey! Worth the wait if you have a day off or just want to go on a BBQ adventure. Having tried the brisket both secondhand (pre-order pickup/leftovers) and in-person, I can confidently say it's worth the wait for in-person! Huge difference. Fun experience. 10/10 would do it again.\n\nQUICK FACTS:\n- Parking? Yes, there are a few spots in the lot behind the restaurant if you're early enough or street parking around the area.\n- Reservations? Nope, walk-in only. You can order ahead for pick-up online with min. spend requirements.\n- What time to get in line? On a Tues. we got in line around 8:15am and were 5th in line. By 9am the line was down the ramp; by 10am it was to the parking lot. Chairs are available. Bathrooms and merch are available around 9am.\n\nFOOD RATINGS:\n- Brisket (5/5, duh)\n- Turkey (5/5)\n- Sides (3/5 - nothing to write home about, but let's be honest, no one's visiting here for the sides!)\n- Pies (5/5 - pricy but delish)\n- BBQ sauces (5/5 - love the variety; spicy and vinegar were the favorites but espresso was most unique!)",
+    "language": "en"
+   },
+   "date": "2026-02-19T14:08:47Z",
+   "rating": 5,
+   "tags": [
+    "6 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JNtFiRl4pL45L11S8cbtWg/o.jpg",
+     "caption": "Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/WON75U7U1_jwmZpUEnE92g/o.jpg",
+     "caption": "Tiny pies ($8 ea., pecan and Ruby Dang coconut pineapple)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ypyozj8D7SVPiwydYRU0vw/o.jpg",
+     "caption": "The iconic brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GbOrOZokCVPYwRisRz3mbw/o.jpg",
+     "caption": "Interior seating"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/nEcfwWVWzo1njR0bxP4CHg/o.jpg",
+     "caption": "Line by 10am on a Tuesday"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4wLm966u9SehHJFNeP9MPg/o.jpg",
+     "caption": "Brisket and turkey"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 24,
+   "user": {
+    "name": "Sarah S.",
+    "user_id": "QnIrewrXxFnssw_gG1gF-Q",
+    "link": "https://www.yelp.com/user_details?userid=QnIrewrXxFnssw_gG1gF-Q",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/xzaIVWeMyOFlvssYAreiwg/180s.jpg",
+    "address": "Los Angeles, CA",
+    "friends": 4974,
+    "photos": 36864,
+    "reviews": 4354,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "For me, Franklin Barbecue lived up to the hype.\n\nMy friend and I arrived at Noon on a Saturday, met with a long line but friendly face. Staff told us the wait was 3 hours and they would be out of beef ribs. I'm bummed on missing out on the beef but the wait only ending up being 2 hours so that was a win.\n\nEven though the line is long, it was a happy atmosphere with everyone anxiously awaiting delicious eats. Plus they have chairs you can borrow to sit in! That was so appreciated and a huge bonus for me. I like sitting.\n\nAll the staff was so pleasant in the line and in the shop, during the ordering process they kept those smiles and cheery demeanors up! Gotta be rough with so many eager eaters so kudos to them.\n\nThere is enough turnover that even if tables are scarce, after a few minutes you should be able to snag a spot. My friend and I had a nice little two top we sat outside at to take in the Austin sunshine.\n\nThe pork ribs were absolutely mindblowing. It should be a given to get these but truly, they were the most juicy and flavorful I had not just on my bbq-hopping in Austin but my life. \n\nWe also had the brisket which was equally tender, the turkey and the sausage...all good...but those pork ribs. And I will forever think of what could have been with the beef ribs. Fomo! \n\nAs I started out, Franklin's was worth the hype and the wait for me. I love food and this is some downright good eats and a must do for any true 'foodie'!",
+    "language": "en"
+   },
+   "date": "2026-01-12T22:28:38Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/epEPvrQE5GtzKZ_iSHkTwg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/f_yopR5TOjZ2dh5a1PZYYQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/CGveh5_2QWRzr2ypSzOR-Q/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/fn-Zz5Up9DENdkAbY1mbQQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kBppjk7oF-ISXZiuQpGFiw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/oPhxLEpdyP9qHYykYplphw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VNKCMttFVSfDJS73JkIXeg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/POjp6mFz8AVCXyTCSdb3Ow/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/muzUpCEq93zBKiTEq6jevQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YzdoRSZ9X5G15uSFVRvFfw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 11,
+    "funny": 5,
+    "cool": 10
+   }
+  },
+  {
+   "position": 25,
+   "user": {
+    "name": "Sarin P.",
+    "user_id": "lsqKEkOPmgzZpoP9AdH1LQ",
+    "link": "https://www.yelp.com/user_details?userid=lsqKEkOPmgzZpoP9AdH1LQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3CAbA0N7lXUzqh9wOWFtWQ/180s.jpg",
+    "address": "Los Angeles, CA",
+    "friends": 811,
+    "photos": 3516,
+    "reviews": 1162,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We were apprehensive about having to wait in line for \"hours\", but Sunday felt like a breeze. In line by 1130am, bellies full and happy by 130pm. I will say the beef rib was sold out by the time we made it in but all the meats were superb. \n\nThe brisket melts in your mouth like butter! I loved their house sausage and pork ribs as well. \n\nIt was super cool to hang in line, meet other friendly food enthusiasts, and just start the day off strong.",
+    "language": "en"
+   },
+   "date": "2026-01-19T20:01:54Z",
+   "rating": 5,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/VUUmVk53roqUM_gku45P3Q/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/7mm7V_uf4L1_PJ2XnSCvzQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rUWKg7sENQXTAEE3_Y4IAQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/RWZCIeZ3a7tCootXWoBLPA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 3,
+    "funny": 0,
+    "cool": 2
+   }
+  },
+  {
+   "position": 26,
+   "user": {
+    "name": "Austin E.",
+    "user_id": "d5V5nMf-Nd0uZqBmjo2d4A",
+    "link": "https://www.yelp.com/user_details?userid=d5V5nMf-Nd0uZqBmjo2d4A",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/uKanPsLhT_gfnz9tS3vCpA/180s.jpg",
+    "address": "Phoenix, AZ",
+    "friends": 5,
+    "photos": 121,
+    "reviews": 76
+   },
+   "comment": {
+    "text": "If you are wanting to try this place, be prepared to wait an hour at the minimum. But the wait for arguably the best BBQ in the country is well worth it. The staff is very friendly, taking inventory of food to ensure that everyone is fed.\n\nThe pork was super tender, fell off the bone, and the best part of the meal. The Brisket was one of the best I've ever tasted. The jalape\u00f1o cheddar sausage had a great pop to it when cutting into it. All 3 parts of the meal are a must order and I'd go back in a heartbeat to get it again. \n\nIf you're in ATX and looking to try some world class BBQ, this should be near the top of your list, or at the top. Worth the 1+hr wait.",
+    "language": "en"
+   },
+   "date": "2026-06-12T16:52:39Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xx0VB6PP2BLDImirEd_Q2A/o.jpg",
+     "caption": "Cheddar Jalape\u00f1o Sausage, Pork Ribs (right) , Brisket"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 27,
+   "user": {
+    "name": "Minji K.",
+    "user_id": "mlk_a-qDwSpf2BIESz6eTg",
+    "link": "https://www.yelp.com/user_details?userid=mlk_a-qDwSpf2BIESz6eTg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kt7gcWv3yjV8OF_OFTbyuA/180s.jpg",
+    "address": "Fort Collins, CO",
+    "friends": 233,
+    "photos": 1292,
+    "reviews": 289,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We showed up about an hour before opening and still ended up waiting for 2 hours. Thankfully weather was super nice and we got to the shade after about 30 mins. They have lawn chairs if you get there early enough to grab one! \nThe smell of bbq definitely made me super hungry by the time we went in. \nWhile you're in line, they have a very friendly worker who asks you about how much of each cut you are planning to order so that they can see how much they have left since they tend to sell out very quickly. \nThey only offered beef rib for Fri-Sun, which I wanted to try, but they ended up running out before us. Once you make it into the shop. They have plenty of merchandise to browse while waiting! \nWe got 1/2 lb brisket, 4 pork ribs, 1/4 lb turkey, 1 jalape\u00f1o cheddar sausage, and one small serving of each side (coleslaw, beans, and potato salad), and banana bourbon pie. You can tell that they really focus on the meat here, since operations are small with only one person slicing and one cashing you out. We also got a few pickled jalape\u00f1os for extra flavor. \n\nThe meat slicing was super mesmerizing and she made sure to soak the turkey and rest of the meats with grease so it stays juicy. \n\nOnce you get through the cashier, you can find a place to sit inside or outdoors. They only have about 3 long tables and 2 smaller ones so finding seating can be a bit tough, but people rotate out fast and you can share tables with smaller groups. \n\nThey had four different kinds of bbq sauce (signature, vinegar, espresso, and spicy). The signature sauce was my favorite and I also loved their sliced onions, which are unlimited. They also give you sliced white bread with your meal. \n\nThe brisket was definitely the juiciest I've had, but it also had lots of fat in it. If you're into fatty and juicy cuts of meat, this is definitely the place for you! The pork rib and turkey were also very tender and I appreciated how it wasn't too salty. The sides were okay; I liked how they weren't seasoned too heavily. The slaw paired especially well with the meat. \nThe banana pie was delicious and I liked the crust!",
+    "language": "en"
+   },
+   "date": "2026-05-05T00:32:22Z",
+   "rating": 4,
+   "tags": [
+    "7 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/73zPwHvIJarE3fepj56wpg/o.jpg",
+     "caption": "Pickles and onions"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/j99NpCifvWhkiyH0A-09AQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EJ2bpyAFz_UTBugT-bp1NQ/o.jpg",
+     "caption": "The spread!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mkTT1gxaecpx1QX6BeZidQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/X0WetSn4iOkv3lFyt4oz-Q/o.jpg",
+     "caption": "Bourbon Banana"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UwfzfwWqyjF5JsPJ6pSC4w/o.jpg",
+     "caption": "Meats!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Jb9Caxk6stnU6qEULnEV6g/o.jpg",
+     "caption": "Sauces and jalape\u00f1os"
+    }
+   ],
+   "feedback": {
+    "useful": 2,
+    "funny": 1,
+    "cool": 2
+   }
+  },
+  {
+   "position": 28,
+   "user": {
+    "name": "Sylvia N.",
+    "user_id": "BSwjEaKFM0jJhNJuM7D21w",
+    "link": "https://www.yelp.com/user_details?userid=BSwjEaKFM0jJhNJuM7D21w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/pKRkpZ1EhHQ-qlmUbHxJTQ/180s.jpg",
+    "address": "San Jose, CA",
+    "friends": 128,
+    "photos": 339,
+    "reviews": 187,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "There has to be a better way that Franklin Barbecue can operate to move the line faster.. I don't know what it is, but the line was very long, and it moved very slow. \n\nThe food itself was really good, but you should be prepared to wait if the line is long.",
+    "language": "en"
+   },
+   "date": "2026-03-02T01:11:13Z",
+   "rating": 4,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SPa3sT4FvwmQXbngj0eiSA/o.jpg",
+     "caption": "Brisket, Single Potato Salad, sliced bread"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 29,
+   "user": {
+    "name": "Emily E.",
+    "user_id": "0ulU3MqWkYMtnT4DTK6EYw",
+    "link": "https://www.yelp.com/user_details?userid=0ulU3MqWkYMtnT4DTK6EYw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/nTDYeaiFafUOpSZ0Mq5h1w/180s.jpg",
+    "address": "Rainey Street Historic District, Austin, TX",
+    "friends": 150,
+    "photos": 128,
+    "reviews": 146,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "In the land of BBQ, the expectations continue to rise, and the battle of who wears the crown continues year after year.  I always heard great praise for the brisket from Franklin's and am happy to be able to admit that they have some of the best.  As someone who doesn't typically enjoy lean cuts, their leans came out juicier than some place's fattiest cuts.  On the fatty cuts, the meat was very well rendered, and it remained succulent!  I will say I was expecting more flavoring from bark, but it was very much a \"taste the essence of the quality of craftsmanship of this meat\" rather than an emphasis of seasoning.  While very well prepared, I did need some bbq sauce to make it hit.  I enjoy ribs from a couple other spots more than I did from Franklin's, but ya can't do it all.  \n\nAs for the sides, I was sadly disappointed.  The pickles were incredibly salty and the beans were a flavor and textural miss.  The potato salad was okay, but I would call it not far off from what you'd get in a bucket from HEB.  Had me missing the quality sides from Interstellar 100%!\n\nWe did pickup to split with friends and skip the line.  In ordering ahead, you're not allowed to eat there.  Unfortunately, they didn't provide any utensils or napkins for our BBQ picnic.  Eat with those hands and lick them fingers!",
+    "language": "en"
+   },
+   "date": "2026-05-31T03:11:27Z",
+   "rating": 4,
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 30,
+   "user": {
+    "name": "Ashlee S.",
+    "user_id": "C1rEjLl30tkaD2TGM_Yurw",
+    "link": "https://www.yelp.com/user_details?userid=C1rEjLl30tkaD2TGM_Yurw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ihQ5WzTwW0VZy0HuscoTDg/180s.jpg",
+    "address": "Washington, DC",
+    "friends": 1004,
+    "photos": 450,
+    "reviews": 775,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "While in Austin for a team offsite, we had a private dinner at Franklin BBQ and whew... it was worth the hype. And this is coming from someone who is not a BBQ person at all.\n\nOur meal was served family-style with classic sides: coleslaw, potato salad, baked beans, pickles, onions, and bread. Everything complemented the meats perfectly without trying to steal the show.\n\nNow let's talk about that brisket. \u200d It was incredibly tender, flavorful, and basically melted with every bite. The turkey? Hella moist which is not easy to pull off. I don't eat pork, but the rest of the table devoured the ribs and sausage, so I'll take that as a glowing review.\n\nEach table had three BBQ sauces: original, spicy, and vinegar. The spicy was my favorite - bold but balanced. The original was solid. The vinegar sauce wasn't my personal vibe, but I appreciate having options.\n\nBeyond the food, the service was excellent. The team was kind, attentive, and on top of everything. I'm sure they rolled out the red carpet since we were hosting a private event, but great service is still great service and I notice it.\n\nThe restaurant itself is quite large, with long rows of tables that are perfect for big groups or communal dining. There's also an outdoor space that I imagine is amazing when the weather cooperates. There's a bar as well, though not much bar seating.\n\nEven as someone who doesn't typically gravitate toward BBQ, I genuinely enjoyed this experience. Franklin lives up to the legend.",
+    "language": "en"
+   },
+   "date": "2026-02-12T20:55:19Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/khdYC-Bl3T1wc6ngaR34-w/o.jpg",
+     "caption": "Brisket, turkey, baked beans, coleslaw, potato salad"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 31,
+   "user": {
+    "name": "Samantha J.",
+    "user_id": "p33qfQYk2r9TNXnIrX69Aw",
+    "link": "https://www.yelp.com/user_details?userid=p33qfQYk2r9TNXnIrX69Aw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/kv9EETDvNx8v0Z_STt7IdA/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 224,
+    "photos": 980,
+    "reviews": 122,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "We've experienced Franklin a couple times before -- once during COVID for a to go order and once when we won a private dinner experience through a blood donation (still one of the coolest wins ever, unfortunately we didn't win this year, lol).\n\nThis time, we were actually on our way to try a different BBQ spot when we noticed there was no line?? It was only 30 minutes before opening. This was right before the big freeze at the end of January, so everyone was huddled inside the patio trying to stay warm, but the vibes were still laid back and friendly.\n\nOne thing we absolutely LOVE about Franklin is how they handle the wait. Doors are open before service starts, you can use the restroom, even grab drinks while you wait. That alone is elite level hospitality in the BBQ world. They also had someone walking around asking what people were thinking of ordering so they could gauge inventory, which is genius and helps manage expectations before you even get to the counter.\n\nService was super friendly across the board. Everyone seemed genuinely happy to be there and wanted to make sure guests were taken care of.\n\nWhat we ordered:\n\n* Turkey - Moist and lightly seasoned, letting the meat shine. Simple and done right.\n* Beef Rib - Massive, tender, incredible smoke and bark. Surprisingly needed a little extra salt (yes, I said it ), but once we added it? WOW.\n* Brisket - We didn't think it would taste that different from the beef rib, but texturally it absolutely was. Melt-in-your-mouth tender with beautiful bark and the perfect level of seasoning.\n* Jalape\u00f1o Cheddar Sausage - Great snap, LOVED the gouda flavor\n* Pork Ribs - Fall-off-the-bone tender, smoky, and honestly some of the best we've had.\n\nWe grabbed some bubbles (basically prosecco) while waiting and a Roadhouse beer. Alcohol prices are on the higher side, but the convenience of being able to sip while you wait, especially since we stopped in last minute, makes it worth it.\n\nWe did forget to order the sausage initially, but it was super easy to walk over to the drink counter and add it without standing in the full line again. Also appreciate the free bread, pickles, onions, and sauce setup. It's the little things.\n\nOnly slight hiccup: when it was time to line up for opening, they ask guests to honor the order of arrival. Unfortunately, people are people and not everyone follows the honor system. But that's not on the staff, they can only do so much.\n\nOverall, incredible food, thoughtful hospitality, and a super smooth experience even on a cold morning right before a freeze. Franklin continues to live up to the hype, and we'd absolutely go back.",
+    "language": "en"
+   },
+   "date": "2026-02-19T23:14:23Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KJMHBYOuY1vog9CmEI4qrg/o.jpg",
+     "caption": "Inside Seating"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/M0I30ZNlIR-ZJ2c1XfoAFw/o.jpg",
+     "caption": "Meat Menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SdQG48wWrKyiOVlRnjh59g/o.jpg",
+     "caption": "Merch"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/KBKGyH0rRXAy24xzny0C5w/o.jpg",
+     "caption": "Turkey, Moist Brisket, Beef Rib, Pork Ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uaELrnQEfuFyPyHYkpL_5g/o.jpg",
+     "caption": "Beef Rib 1.5lbs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TdFv6lM8r2TNkKv5RohPaw/o.jpg",
+     "caption": "Turkey, Moist Brisket, Beef Rib, Pork Ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GbBJLDlSwsYRZZxI5njHug/o.jpg",
+     "caption": "Happy Couple"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2qsxC8HJyuVhqh_EKRI4kQ/o.jpg",
+     "caption": "Beef Rib 1.5lbs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Gj82edy4svviEvFlqmVmzg/o.jpg",
+     "caption": "Jalapeno Sausage"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/iMA4F8IZGhjBeKaiWKJVaA/o.jpg",
+     "caption": "Beef Rib 1.5lbs"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 32,
+   "user": {
+    "name": "Nicole B.",
+    "user_id": "5ujEoR5k5IHn9z68GPTv6w",
+    "link": "https://www.yelp.com/user_details?userid=5ujEoR5k5IHn9z68GPTv6w",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/cqSf4fwf2pUcrj94tx33UA/180s.jpg",
+    "address": "Bakersfield, CA",
+    "friends": 17,
+    "photos": 27,
+    "reviews": 28,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "It's an experience to say the least! We got here about an hour before opening because we had heard there were long waits and oh my they were not lying. People had lawn chairs set up! A worker came out about 20ish minutes to gauge orders and was friendly to talk to. Now is the wait worth it? Unfortunately it is! We ordered the brisket and a sausage, and it was amazing. Brisket was tender and juicy. I don't normally like sausage links but this was something different. The potato salad was a mustard lovers dream. Their key lime mini pie was also well made and delicious. Definitely worth the wait at least once.",
+    "language": "en"
+   },
+   "date": "2026-05-25T12:06:38Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/FpDw0JT-jZM6-a55jw4KsA/o.jpg",
+     "caption": "Key Lime"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/XKegR2jvBTXWveRO__o-DQ/o.jpg",
+     "caption": "1lb brisket, sausage, Single Potato Salad, single pinto beans"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JR13D4-uG8x7STp74C0MhA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 33,
+   "user": {
+    "name": "Austin K.",
+    "user_id": "SypLWZyCmcu1Ml0mvFFvTA",
+    "link": "https://www.yelp.com/user_details?userid=SypLWZyCmcu1Ml0mvFFvTA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/7JOKFLCP2tOlltghTo-jCA/180s.jpg",
+    "address": "Astoria, Queens, NY",
+    "friends": 328,
+    "photos": 2057,
+    "reviews": 917,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I got here at 10:10 or so on Tuesday morning and came down to eat around 11:40am. I was at the front side by the stairs that has the chairs underneath.\n\nSo the brisket was good, and sliced more thinly than Cooper's as a comparison which I appreciated. I got the pork ribs and jalape\u00f1o sausage as well. \n\nAgain, all good but was it the best bbq? Hutchins in Dallas holds that for me, but honestly it's probably all comparable. I can say that I don't think it's worth waiting in such a long line for.\n\nI did like the 4 different sauces - the spicy and original were my favorite.  Jalape\u00f1os are an extra charge and the coleslaw is not as saucy and taste healthier than most. You can ask for as much bread as you want.\n\nThe service was great though. And there's a person who gets your order in line who can answer questions but you can always change your order when you get in front.",
+    "language": "en"
+   },
+   "date": "2026-02-06T01:24:51Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mzFHO71c1lYLnrGq10Dwhw/o.jpg",
+     "caption": "Two pork ribs, half pound brisket, jalapeno sausage, and pint of coleslaw"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p_1sB_T93nhHF_-cw9X5Sw/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 34,
+   "user": {
+    "name": "Oliver B.",
+    "user_id": "6dh8oGrZ3PA8ISSKtRhqFQ",
+    "link": "https://www.yelp.com/user_details?userid=6dh8oGrZ3PA8ISSKtRhqFQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/3vDA0gdpYxIO9q48FDii8g/180s.jpg",
+    "address": "San Antonio, TX",
+    "friends": 148,
+    "photos": 1137,
+    "reviews": 446,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "It's been about three years since I had the pleasure to eat at Franklin BBQ. I decided to go on a Tuesday morning and I got there about 9:30 am. I was number eight in line. Tuesday is the slowest day for them and showing up around 9:30 am is the way to go. \n\nAfter they opened up at 11am,I ordered and sat down to eat at 11:20 am. I got a pound of brisket($39 a pound), a pound of pork ribs($34 a pound)and three links of jalape\u00f1o cheese sausages($13 for all three links). I also got a bourbon banana pie($8). \n\nAll the meats were delicious. The brisket and pork ribs were well seasoned and tender. The jalape\u00f1o cheese sausages were flavorful with a nice amount of cheese in them. The bourbon banana pie was a tasty treat to end my meal. \n\nIn the end, I would definitely recommend trying Franklin Barbecue or going back if you've eaten there before. They are a great example of how Texas bbq should be done.",
+    "language": "en"
+   },
+   "date": "2026-01-21T06:12:35Z",
+   "rating": 5,
+   "tags": [
+    "9 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hv2U7TfGTQ8sx2SWK-6oRQ/o.jpg",
+     "caption": "The menu on the wall"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/IdIGHKMhx19ZMdz-4x876w/o.jpg",
+     "caption": "The main menu board for Saturday(Beef Ribs)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/ELmUaoKRdHpom5IJiMVGZw/o.jpg",
+     "caption": "The merchandise wall"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/J1XC3y8VVz96n-YVqEXEDA/o.jpg",
+     "caption": "More Merch to buy"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kY4clNyTKCGS9ZIklZWKTg/o.jpg",
+     "caption": "2.5 pounds of brisket and two pork ribs."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TCA-rvdwaC8V6UqWYUIQ0Q/o.jpg",
+     "caption": "The beautiful brisket and ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Yx0Gv2pmrEv9iV7cexEeTg/o.jpg",
+     "caption": "The bone came out of the rib clean. Beautiful!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/6jE69fkCiA-pL-598xXcZA/o.jpg",
+     "caption": "A pound of brisket,a pound of pork ribs,three jalape\u00f1o cheese sausages & a pie."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/x5Hdf-iAw0_f8gvf-t9nGQ/o.jpg",
+     "caption": "The Current Menu Board as of 1/20/26"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 35,
+   "user": {
+    "name": "Stephanie K.",
+    "user_id": "CZ989wqJIz4FNV2lT0guIw",
+    "link": "https://www.yelp.com/user_details?userid=CZ989wqJIz4FNV2lT0guIw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/1PH2tPQPPdIOLNBhaHV9fQ/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 101,
+    "photos": 673,
+    "reviews": 628,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I've been so averse to waiting in line, I've deprived myself the opportunity of enjoying Franklin since its ceremonious inception (food truck in 2009, brick-and-mortar in 2014) till now - INDEPENDENCE DAY 2026 - America's 250th and my favorite new tradition. Pro-Tip: Come early, but hungry (peak line length around lunchtime was over 90 minutes, half spent indoors being tortured by delicious sights & smells of their award-winning smoked meat). I'm not historically a major fan of protein-heavy meals, but Franklin has me enthusiastically craving BRISKET & BURNT ENDS that are seasoned and peppered to perfection, melty, savory, and crisped all at once, dipped in a  dash of Traditional BBQ (sweet, gentle vinegar, expert seasoning to complement smoke flavors) - MEAT NIRVANA. Crisp cool coleslaw and Cheesy Jalape\u00f1o Sausage are icing on the proverbial cake. Work-around would be catering and grabbing some custom seasoning or BBQ to-go. Also stocking very cool hats & tees, custom Yeti's & trays! There's something for everyone, indoor/outdoor seating, and delightful staff keeping things moving like clockwork until a momentous return.",
+    "language": "en"
+   },
+   "date": "2026-07-05T17:05:03Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/AMvGV29VY6zYBS4wztNhug/o.jpg",
+     "caption": "Small sampler, leftovers for later"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 1
+   }
+  },
+  {
+   "position": 36,
+   "user": {
+    "name": "Sophia G.",
+    "user_id": "x5HkOYmLXJDjHDx6G8sajw",
+    "link": "https://www.yelp.com/user_details?userid=x5HkOYmLXJDjHDx6G8sajw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/w3ihdFzEpfNdn3wgu8nq6A/180s.jpg",
+    "address": "Austin, TX",
+    "friends": 10,
+    "photos": 53,
+    "reviews": 59,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Worth. The. Wait. I came with a visiting friend for the first time this past summer, I wanted to show her some Austin legends and while I had never been myself always heard great things. They held true. We went on a Saturday morning around 11 AM, we weren't in a rush and knew the line would be lining, this was also true. Nothing a bucket of beers and ciders couldn't fix, I think as long as you come with the expectation of having to wait and know what you're getting into you'll be fine. They have a water station set up and lawn chairs/benches you can easily utilize. We got a little big of everything (minus the turkey, they were sold out) and it was all incredible. I think the take aways were the beef rib and brisket, both incredibly moist and filled with flavor.\n\nI went back again another day with my boyfriend and we went at 1PM this time, one worker who we were talking to at the original visit said it was usually dead by this time. We walked up the ramp were through the door within 20 minutes as opposed to the original 2 hours on the first visit. I believe more items were sold out (turkey, beef rib, and sausage) but we had come for the brisket we were perfectly okay with this! \n\nTLDR: If you want to wait and drink some cold ones while talking and hanging out with friends and want to try everything - go early and be prepared to wait a couple hours. If you don't want to wait and are okay with a more limited menu go after 1PM.",
+    "language": "en"
+   },
+   "date": "2025-12-23T17:34:16Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mcInRwxFlPuxJ1JgpQoXyA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 37,
+   "user": {
+    "name": "Shirley N.",
+    "user_id": "7l7wkGDyLqAVChk1Qehhxw",
+    "link": "https://www.yelp.com/user_details?userid=7l7wkGDyLqAVChk1Qehhxw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/4c6IIrQD-junJ5o89wuYgA/180s.jpg",
+    "address": "Imperial Beach, CA",
+    "friends": 424,
+    "photos": 123,
+    "reviews": 220
+   },
+   "comment": {
+    "text": "Yes, there's a line, and yes, there is a bit of a wait, but the food and service are amazing and well worth the wait. Awesome lady came out as I'm standing outside and was helping me make decisions about what I was going to eat. \nI asked for a fatty brisket on white bread instead of a roll and the barbecue concierge gentleman who helped not only accompanied me, but engaged in a wonderful conversation. He even put another chunk of beef brisket on top of the sandwich as a decoration. Topped off with a Mexican Coke  and still couldn't finish it all. The pies look amazing and I'll probably come back tomorrow to try them. \nIf you are In the Austin area, this is  by far the best place  to eat. \nGet here early to avoid a long wait in mid day.  It's 2 o'clock right now and there's probably 15 people in line.  An hour ago there was over 50 people in line.  \nThey also have whole briskets to take with you if you wanna make a party",
+    "language": "en"
+   },
+   "date": "2026-07-10T19:10:51Z",
+   "rating": 5,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/N8Zo-S13ZKfYAlalxVi3aw/o.jpg",
+     "caption": "Brisket on Light Bread"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/YQrsRSxhEUxIXBD1Pd4ZpA/o.jpg",
+     "caption": "Jalape\u00f1o sausage and brisket."
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 38,
+   "user": {
+    "name": "Eugene L.",
+    "user_id": "Lr-B-r-KF80yFy-2u336bw",
+    "link": "https://www.yelp.com/user_details?userid=Lr-B-r-KF80yFy-2u336bw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/RNtG0AfEPX7Vh3HFbOIVbg/180s.jpg",
+    "address": "San Lorenzo, CA",
+    "friends": 3021,
+    "photos": 194461,
+    "reviews": 2734,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Omg !!!! \n\nFranklin Barbecue is One Of The Best BBQ  Restaurants In America!!!! \n\nAaron Franklin is a Master Pit Master!!!\n\nFranklin Bbq is a Mecca  for Foodies from all over America!!!\n\nI  made a Pilgrimage to Franklins and encountered a line around the Block. \n\nI parked  my Rental Car  and joined the line !!\n\nI was in line for Hours!!! It was a Festive Atmosphere!!!\n\nI eventually got a hold of one of Franklins loaner chairs from under the Porch.\n\nWhen I finally made it in side of Franklins , Still in line !!!\n\nA Cowboy eating at a Table stood up and asked me if I wanted to try some Brisket??\n\nI said Hell Yeah  !!!\n\nHe told me to Grab a few Slices of Brisket off his Platter and I Did!!!\n\nThose 2 Pieces of Brisket were a Revelation!!!\n\nI was Transported to Bbq Heaven!!! \n\nBest Brisket I've ever had!!!\n\nI thanked my new Bbq  Friend!\n\nWhen I made it to the Front of The Line !!!!\n\nI ordered 3 Pounds of  Brisket ,\nRack of Ribs and 3 Sausages!!\n\nI paid Cash !!!\n\nThe Cashier was very nice and Offered me a Behind the Scenes Tour after I was done  Eating!!!\n\nI Secured a Table and Started eating!!! \n\nHeavenly Bbq Experience!!!\n\nMy Table mates 2 Women I was traveling with Hit My Platter like 2  Vultures and started scarfing my Bbq  when I went to get a to go container. \n\n\nI grabbed what was left and Packed it to go !! \n\n\nMy new friend gave me the Behind The Scenes Tour and I was impressed!!!\n\nI thanked her and bought a. T Shirt  before I left!!!\n\nFor All These Reasons This Is A Baller On A Budget Approved Establishment!!!\n\nI keep my Pimp Hand  Strong !!!",
+    "language": "en"
+   },
+   "date": "2025-09-18T01:17:08Z",
+   "rating": 5,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eb-yoFCU6GrDoB5YEwTlLA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Rbm6Hd95Mb2pXK6IC2cjOQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/B7iYtWUxSMf344mDTlM2_g/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/NZ1kZ33ak2n1U0QjLkexTQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/L0rWlRlzfRPErwB55nXUNA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tMOsvof8qhcgU6dePV7EEA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/BSBSva18Er6yFvj6XWA3NQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/P_3VyT9ABDGKbzJUS--Rsg/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SgqluA-I9rSc6lWv-0suCw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/OVALDlATO4R4qG_3j0xxnQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 5,
+    "funny": 3,
+    "cool": 4
+   }
+  },
+  {
+   "position": 39,
+   "user": {
+    "name": "Viviana S.",
+    "user_id": "FpcQ1BoKVL1YFMqkgj4cVg",
+    "link": "https://www.yelp.com/user_details?userid=FpcQ1BoKVL1YFMqkgj4cVg",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/Sh6EUe2T5LZuGDSaPHiEZQ/180s.jpg",
+    "address": "Phoenix, AZ",
+    "friends": 16,
+    "photos": 265,
+    "reviews": 106,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Food: The hype is real! One of the best meats I've had, although the brisket was the clear winner. Meats were so flavorful and cooked perfectly!\n\nService: Expect a line and for it to go slow but it's def worth it! We got there an hour before opening and there was already a line. \n\nAtmosphere: Both indoor and outdoor seating suitable for large parties. Very casual ambiance. It's also common to sit with people you don't know as there's more people than tables, but everyone is pretty friendly and you get to meet people from all over the country.",
+    "language": "en"
+   },
+   "date": "2025-12-04T17:52:55Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/UPaHO28v5nv89Od6otfnJQ/o.jpg",
+     "caption": "Beef Rib, Brisket, and Single Potato Salad"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 40,
+   "user": {
+    "name": "Blu M.",
+    "user_id": "RfYeWwgE4vpQ55uBv7IvQQ",
+    "link": "https://www.yelp.com/user_details?userid=RfYeWwgE4vpQ55uBv7IvQQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/yvoCNQeyCvpqbwR1D06q1A/180s.jpg",
+    "address": "Chicago, IL",
+    "friends": 189,
+    "photos": 744,
+    "reviews": 856,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Amazing experience at Franklin BBQ!\nI ordered the brisket, pork ribs, and jalape\u00f1o sausage with a side of beans, and everything was incredible. The menu is simple in the best way, straight to the point and focused on what they do exceptionally well.\n\nThe beans were surprisingly flavorful, but the real stars were the brisket and pork ribs. The ribs literally fell off the bone, and the brisket was juicy, tender, and packed with flavor, just picked it up and it melted apart. The jalape\u00f1o sausage had a perfect snap with a light, tasty kick. Loved that they offered a variety of BBQ sauces too.\n\nCame in on a cold Tuesday and was pleasantly surprised to get through the line in just 20 minutes. The staff was super friendly, attentive, and the place was very clean. Overall, such a great experience, absolutely worth the visit!",
+    "language": "en"
+   },
+   "date": "2025-12-02T22:31:09Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eN0jfiFYN-96UM5X_jyxSQ/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-okIqKoQ9Z1_gt_Fbp68iw/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/4FcMBM_EKiT8WayBcBf9IQ/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 41,
+   "user": {
+    "name": "Rachael W.",
+    "user_id": "09R7HtoSWJrjFLLfKpe-HQ",
+    "link": "https://www.yelp.com/user_details?userid=09R7HtoSWJrjFLLfKpe-HQ",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/IndnKEHBfZ2BeRWCAV1ayw/180s.jpg",
+    "address": "Las Vegas, NV",
+    "friends": 5,
+    "photos": 338,
+    "reviews": 105,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Food: 6/5\nService: 5/5\nAmbiance: 5/5\n\nAll the things, just yes. Did we wait in line for four hours to get the best bbq Texas has? Yes, yes, we did. 100% worth it and I'd do it again. Brisket was the best brisket I've ever had, the pork ribs fell off the bone, pulled pork was juicy and tender. Just amazing! \nPotato salad is HEAVILY mustard based and the coleslaw is creamy and crunchy. Totally worth the wait",
+    "language": "en"
+   },
+   "date": "2025-11-25T19:54:35Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/kC6eUPFW13QAlUrKfpE4Tw/o.jpg",
+     "caption": "Potato salad, Cole slaw, smoked turkey, pulled pork, brisket, jalepeno/white cheddar link, spareribs, coleslaw"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 42,
+   "user": {
+    "name": "C W.",
+    "user_id": "DG3gMLrTTOjT_yPzPxngig",
+    "link": "https://www.yelp.com/user_details?userid=DG3gMLrTTOjT_yPzPxngig",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/fs0Ur4JzvovHgjAjk62TZA/180s.jpg",
+    "address": "Alpharetta, GA",
+    "friends": 80,
+    "photos": 178,
+    "reviews": 69,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "This beloved award-winning BBQ icon is worth the wait (come early as they can sell out QUICKLY.). The moist brisket is TENDER with a good \"bark\" on it.  Pulled pork is tasty and the vinegar based sauce adds a nice zing.  Jalape\u00f1o cheddar sausage rounds it out nicely!  The spicy sauce is my fave.  Great service (lawn chairs and restrooms available for the long but fun wait) and fun merch, too.",
+    "language": "en"
+   },
+   "date": "2026-04-11T19:07:34Z",
+   "rating": 4,
+   "tags": [
+    "4 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/c3giDZZOHsGejWBDh9WrUg/o.jpg",
+     "caption": "Brisket, pulled pork and jalape\u00f1o cheddar sausage rounds"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rNyLagjOx72wyoBqnW1sZQ/o.jpg",
+     "caption": "Brisket is MY go-to but they have plenty of options!!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8iKv_J4Xe3-jNPcn-71zAw/o.jpg",
+     "caption": "They do sell out regularly so come early."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Hc2UJwjjgE0DPW7rvqQr3w/o.jpg",
+     "caption": "Fun music, casual environs (inside and outside seating) bc the BBQ is the BIG DEAL!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 43,
+   "user": {
+    "name": "Roxanne I.",
+    "user_id": "JLi7vD1B2L_AeEeKzjODNA",
+    "link": "https://www.yelp.com/user_details?userid=JLi7vD1B2L_AeEeKzjODNA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/P4gounsDbfEi0jK2Rk76iw/180s.jpg",
+    "address": "Sunnyvale, CA",
+    "friends": 17,
+    "photos": 594,
+    "reviews": 125,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Got in line around 9:45AM and pulled up some lawn chairs to wait for open. Was number 47 in line.  Around 10:55 everyone started putting chairs away and stood up to line up.  Didn't get into the restaurant until 11:26. Ordered at 12:09 and paid at 12:14.  If you want to try Franklin's you have to come early otherwise you'll be waiting in line for one person to serve you meat. This place is definitely worth the wait if you arrive before they open. Not sure that I would want to wait any longer than I did. All of the staff were nice and friendly. \n\nLoved all their sauces except the espresso.  Brisket was super flavorful and tender.  Bark was amazing.  Pork ribs were delicious and fall off the bone. The jalape\u00f1o cheddar sausage had a nice snap and bite to it.  Onions were wonderfully sweet and crunchy. Definitely needed for the rich and fatty meat.",
+    "language": "en"
+   },
+   "date": "2025-11-11T06:18:07Z",
+   "rating": 4,
+   "tags": [
+    "10 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/2VC0CZCvI1pkhYT3I8zw3g/o.jpg",
+     "caption": "Line"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Mq0Ondy64qKcLnlysUUOTA/o.jpg",
+     "caption": "Outside eating"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/TgQysA98Ghf99m5l5h724Q/o.jpg",
+     "caption": "Inside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qcw3r2hGa4AQoYT--Xzvgw/o.jpg",
+     "caption": "Inside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Q-uzjJ3Ow4jSMHtJLQe9Kw/o.jpg",
+     "caption": "Outside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/W8Ydkavl6c6yxyaAOJPeIg/o.jpg",
+     "caption": "Inside"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/cjvmyY5fBuyCCv_9uxaVOA/o.jpg",
+     "caption": "Line before opening"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/qSPRRjaL2nQhDcURAfr16Q/o.jpg",
+     "caption": "Cheddar jalape\u00f1o sausage, pork ribs, brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/8dEAWyqQoZdncgFHqh7_tw/o.jpg",
+     "caption": "Merchandise"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/15yVzItQ_vX1VyKNIcxaiQ/o.jpg",
+     "caption": "Menu"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 44,
+   "user": {
+    "name": "Victoria W.",
+    "user_id": "q9g8QJ5CRUlQildpd5Yh0g",
+    "link": "https://www.yelp.com/user_details?userid=q9g8QJ5CRUlQildpd5Yh0g",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/g0KypcjUHGWD-6TKm172Rg/180s.jpg",
+    "address": "Spring, TX",
+    "friends": 51,
+    "photos": 1157,
+    "reviews": 275,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "brisket is still the most elite out of all the bbq places! turkey was a bit dry\n\nsides were more limited than the other places - only had potato salad, slaw, and pinto beans. i liked the potato salad the most\n\nthe mini pies (which i searched, seems to be a collaboration & it is made by a different vendor that they sell) is sooo good! ruby dang and bourbon banana were not too sweet & very balanced in their flavor\n\ncame here for a wedding reception - didn't know that they could do private party! very cool! they were very organized and everyone seemed to have gotten their food relatively fast (so good service even for private parties)!",
+    "language": "en"
+   },
+   "date": "2026-04-06T05:19:35Z",
+   "rating": 5,
+   "tags": [
+    "3 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/o-FsxXK37N6UxUYy_X7JIA/o.jpg",
+     "caption": "mini pie (ruby dang and bourbon banana)"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/JTSLPXyx7X5W3DxJChgK2A/o.jpg",
+     "caption": "menu"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/SMe656jY2NVKqDT7HZc8Sg/o.jpg",
+     "caption": "plate"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 45,
+   "user": {
+    "name": "Yara C.",
+    "user_id": "4_m0DZUnWtVlhKziGZOkZw",
+    "link": "https://www.yelp.com/user_details?userid=4_m0DZUnWtVlhKziGZOkZw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/ZpYcSfp4Bo15Xn4NAlFS4w/180s.jpg",
+    "address": "Houston, TX",
+    "friends": 312,
+    "photos": 237,
+    "reviews": 172,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "If you're coming here, you already know you're going to wait. And, you already know that items available when you started to wait may no longer be available when it's your turn to order. \n\nAnyone visiting Austin should absolutely stop by Franklin's. You don't HAVE to go every time - the food is extremely rich. But it's a great experience especially for the short-term visitor to Texas. \n\nThe brisket - my personal favorite - is perfectly cooked. You could cut it with a plastic fork. The pork ribs, unparalleled. The sausage, also delicious. The coleslaw and potato salad, just some palate cleansers, but definitely get them. What more is there to say? You'll get hungry while waiting in line, as the smoky meat smell wafts by you. You'll leave very full, and having had probably the best bbq in the country. (I'm not an expert, do not come for me.)",
+    "language": "en"
+   },
+   "date": "2025-11-01T16:23:39Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/82jow9mDj5TLdm7hvFxFbg/o.jpg",
+     "caption": "Brisket, Pork ribs, sausage, coleslaw, potato salad"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 46,
+   "user": {
+    "name": "Jason L.",
+    "user_id": "juJS5_I5IGzMveRKNBwEVA",
+    "link": "https://www.yelp.com/user_details?userid=juJS5_I5IGzMveRKNBwEVA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/BMINFFt3Vlqxq_tiKJ7L-w/180s.jpg",
+    "address": "Los Angeles, CA",
+    "friends": 1100,
+    "photos": 2227,
+    "reviews": 1088,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Wow. This is what Texas BBQ is all about - the hype is real!\n\nGiven our limited time in Austin, we opted for take-out (you can pre-order ahead of time) and it was phenomenal. We might've ordered too much but you gotta do what you gotta do.\n\nWe got the brisket, ribs, pulled pork, sausage, jalapeno chedder sausage and a few sides (potato salad, slaw and pinto beans). If you're struggling to decide what to order, let me just save you the time now and say that the brisket is a MUST order - out of this world. The way it's prepared, just melts in your mouth. While the other items were good, I can't stop thinking about the brisket. \n\nIf I'm in Austin again, I would come back just for the brisket!",
+    "language": "en"
+   },
+   "date": "2025-08-20T19:03:02Z",
+   "rating": 5,
+   "tags": [
+    "5 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/A1o1b8T6jt8nduY4nH52cA/o.jpg",
+     "caption": "Brisket"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/mRbT-raj71VhjZ7xpUSojw/o.jpg",
+     "caption": "Pulled Pork"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/tIsdJT4oOcLBR8KrT6A1VA/o.jpg",
+     "caption": "Sausage"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/Dh98OE0GRvlE9S34MnRsmQ/o.jpg",
+     "caption": "Ribs"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xDKfcFVi1CZTmNItIABF0w/o.jpg",
+     "caption": "Sausage"
+    }
+   ],
+   "feedback": {
+    "useful": 3,
+    "funny": 2,
+    "cool": 3
+   }
+  },
+  {
+   "position": 47,
+   "user": {
+    "name": "Pedro S.",
+    "user_id": "r9gpNUoMKfHs_VeOWGqHuw",
+    "link": "https://www.yelp.com/user_details?userid=r9gpNUoMKfHs_VeOWGqHuw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/oNUcXGSrFzMT--hfZ7h8jQ/180s.jpg",
+    "address": "Coral Gables, FL",
+    "friends": 13,
+    "photos": 595,
+    "reviews": 181,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "I came here to see if this is indeed the best brisket on the planet, and, yeah, it is.  At least that I've had, and I go out of my way to have it.  The flavor of the fat, the bark, the meat is why I give it 5 stars.  The spareribs are delicious, and the beef rib is great, but just make sure you get enough brisket to take home, especially since you will have to wait a long time to get it.  It's totally worth it.\n\nThey open at 11AM and close when they sell out, we discovered that can be between 2-3PM. On our day it was closer to 2:00PM.  According to the very pleasant and hard working EE working the line, there were people there at 6AM that morning.  \n\nThe interior of this restaurant isn't much to look at, and there are also a limited amount of picnic style tables outside.  It was odd that there were tables available by the time I got my food.  That felt like magic, considering how packed it was.",
+    "language": "en"
+   },
+   "date": "2025-10-26T19:45:16Z",
+   "rating": 5,
+   "tags": [
+    "9 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/w0QN1pyAc6j7ybvE40AJpA/o.jpg",
+     "caption": "Very fast cutter!"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/-aF8RD_3IKvoL2gwYcL-ng/o.jpg",
+     "caption": "Sandwich's are probably the way to go for most."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/d87NvSgxb1vj8QJ_lxzm4A/o.jpg",
+     "caption": "Get the brisket for sure."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/p4FssM4aYsqtVt1GcuVm4Q/o.jpg",
+     "caption": "Meat prices"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/EqRxJUzgD0qjKki7i7J4zA/o.jpg",
+     "caption": "2-3 hr wait on a Sunday at 11AM."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/sa0nq-fQyTqv1zI8qrOdfg/o.jpg",
+     "caption": "My personal combo."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/xKGMzWIHu5N4jSJf7FeyaA/o.jpg",
+     "caption": "Small interior."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/eqnyB1zGCGuqfzPDW9_Yyw/o.jpg",
+     "caption": "You won't regret a single bite."
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/gnpY-qqQi7781mgoYDXWHg/o.jpg",
+     "caption": "Pies!"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 48,
+   "user": {
+    "name": "Jim G.",
+    "user_id": "0QdwQLVxZpgy9Qb2Qakflw",
+    "link": "https://www.yelp.com/user_details?userid=0QdwQLVxZpgy9Qb2Qakflw",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/0mANczl8Pw1uKjGF8VTlSg/180s.jpg",
+    "address": "West Hills, Los Angeles, CA",
+    "friends": 599,
+    "photos": 906,
+    "reviews": 1021,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "Good bbq, but maybe I overhyped it in my mind because it didn't blow me away. \n\nWe went at 11am as soon as they opened on a Thursday. We waited a little over an hour to order. Great service from everyone along the way. There is one guy cutting the meat so that does slow it down but even if they had more output it would  be tough to find a place to sit so the flow makes sense.   \n\nAs for the bbq...i enjoyed the ribs most, but one of the fatty brisket pieces was awesome. I would skip the coleslaw, not much flavor. The sausage with cheese was the better of the two options. The espresso bbq sauce was my favorite of the 4 types. \n\nThe buckets of beer have 5 in a bucket and you could mix and match. \n\nIt is an iconic stop so glad we went but be prepared to wait and try to sit inside to get some ac when it's hot.",
+    "language": "en"
+   },
+   "date": "2025-10-23T20:25:39Z",
+   "rating": 4,
+   "tags": [
+    "2 photos"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/uBdWdNejUDx3GsYUjlyIbA/o.jpg"
+    },
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/rs5fFXTpJMOjuG9iJHP4qA/o.jpg"
+    }
+   ],
+   "feedback": {
+    "useful": 0,
+    "funny": 0,
+    "cool": 0
+   }
+  },
+  {
+   "position": 49,
+   "user": {
+    "name": "Al L.",
+    "user_id": "q4tTJz3kICfMqZPc0d87KA",
+    "link": "https://www.yelp.com/user_details?userid=q4tTJz3kICfMqZPc0d87KA",
+    "thumbnail": "https://s3-media0.fl.yelpcdn.com/photo/zThtQAgtk6IGXhXkCvN7gw/180s.jpg",
+    "address": "Tulsa, OK",
+    "friends": 637,
+    "photos": 5533,
+    "reviews": 641,
+    "elite_year": 26
+   },
+   "comment": {
+    "text": "The Holy Grail of Barbeque, the grandaddy of them all. We visited Austin to try out this pitmaster's world famous and legendary Central Texas style brisket. We arrived quite early on a Thursday morning around 6:55 am, and we were about 10th in line. The first folks in line arrived around 5:30 am. By the time it opened at 11am, the line was several hundred people long across 2 blocks, and then wrapped around the street. Luckily, we were able to order and get our food by 11:30am. Our plate consisted of a couple pounds of fatty brisket, pork ribs, and jalapeno sausage with potato salad, pinto beans, pickles, onions, and sliced white bread. While the sides and other meats are great, I definitely agree with many others that the brisket is out of this world and the best of the best, the cream of the crop, the star of the show. The juicy and tender flavor cannot be outmatched by any other brisket that I've tried. Truly a once in a lifetime experience for anyone to feast on.",
+    "language": "en"
+   },
+   "date": "2026-06-04T21:51:41Z",
+   "rating": 5,
+   "tags": [
+    "1 photo"
+   ],
+   "photos": [
+    {
+     "link": "https://s3-media0.fl.yelpcdn.com/bphoto/GF2BQvPJhmvOYM0jf-Knvg/o.jpg",
+     "caption": "Brisket, Ribs, Sausage"
+    }
+   ],
+   "feedback": {
+    "useful": 1,
+    "funny": 0,
+    "cool": 2
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=MGzro82Fi4LYvc86acoONQ&start=49"
+ }
+}

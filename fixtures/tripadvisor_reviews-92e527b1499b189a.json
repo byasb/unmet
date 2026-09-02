@@ -1,0 +1,363 @@
+{
+ "search_metadata": {
+  "id": "6a980547683863d98fbb31dc",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/vG48wfzQIixDbuTG5ICKhWyceyNLH8Sw2z1qD6c7IwQ/6a980547683863d98fbb31dc.json",
+  "markdown_endpoint": "https://serpapi.com/searches/vG48wfzQIixDbuTG5ICKhWyceyNLH8Sw2z1qD6c7IwQ/6a980547683863d98fbb31dc.md",
+  "created_at": "2026-09-02 11:15:19 UTC",
+  "processed_at": "2026-09-02 11:15:19 UTC",
+  "tripadvisor_reviews_url": "https://www.tripadvisor.com/6474859",
+  "raw_html_file": "https://serpapi.com/searches/vG48wfzQIixDbuTG5ICKhWyceyNLH8Sw2z1qD6c7IwQ/6a980547683863d98fbb31dc.html",
+  "prettify_html_file": "https://serpapi.com/searches/vG48wfzQIixDbuTG5ICKhWyceyNLH8Sw2z1qD6c7IwQ/6a980547683863d98fbb31dc.prettify",
+  "total_time_taken": 0.58
+ },
+ "search_parameters": {
+  "engine": "tripadvisor_reviews",
+  "place_id": "6474859",
+  "tripadvisor_domain": "www.tripadvisor.com"
+ },
+ "search_information": {
+  "total_reviews": 253
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "title": "Perfect for large groups",
+   "snippet": "This location is perfectly delicious for large groups. Counter service worked well for our group of 14, allowing everyone to order on a separate check, as they arrived. \n\nWe showed up around  6pm and easily found air conditioned space for our group to sit together. The fam raved most about the brisket, pork ribs, turkey, chicken, grits and all three desserts.\n\nThere\u2019s also an outdoor space that the kiddos enjoyed. Food is phenomenal, staff is friendly, and I\u2019m just mad I didn\u2019t buy a cookie to go.",
+   "rating": 5,
+   "review_id": "1069765670",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r1069765670-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2026-07-23",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-07-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "3BC532157A7184484E1DE7629DF7FD5F",
+    "username": "ericaperica",
+    "display_name": "ericaperica",
+    "link": "https://www.tripadvisor.com/Profile/ericaperica",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e4/72/9c/ericaperica.jpg",
+    "contributions": 37,
+    "hometown": "Austin, Texas"
+   }
+  },
+  {
+   "position": 2,
+   "title": "Great barbecue.",
+   "snippet": "Dine in  |  $20\u201330\nGreat barbecue. The brisket was fantastic. The pastrami was excellent. The ribs were great. Interesting sides: String beans, cabbage, and potato salad were all tasty. Friendly staff and ample outdoor seating. The flies were a nuisance but it\u2019s hard to blame them. Obviously Texas flies know good BBQ when they see it.",
+   "rating": 5,
+   "review_id": "1065205155",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r1065205155-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2026-06-21",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-06-30",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a0/14/92/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/a0/14/93/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "7D2952E3A650FFF3AC62DFC21A40D01D",
+    "username": "DreamsOfMyComrades",
+    "display_name": "DreamsOfMyComrades",
+    "link": "https://www.tripadvisor.com/Profile/DreamsOfMyComrades",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a3/30/da/dreamsofmycomrades.jpg",
+    "contributions": 538,
+    "hometown": "Park City, Utah"
+   }
+  },
+  {
+   "position": 3,
+   "title": "Great BBQ with great astmophere and not crazy long lines",
+   "snippet": "Great Austin BBQ place- fantastic meat, amazing sides, and great atmostphere with large outdoor eating area.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1055155906",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r1055155906-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2026-04-02",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-03-31",
+    "type": "FAMILY"
+   },
+   "tips": [
+    "Go on the weekends when they have their enormous beef ribs!"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "CB0A13BD9C0FBB9509D776F0632E8B74",
+    "username": "N6524QAjenb",
+    "display_name": "Jen B",
+    "link": "https://www.tripadvisor.com/Profile/N6524QAjenb",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f3/e4/default-avatar-2020-30.jpg",
+    "contributions": 9
+   }
+  },
+  {
+   "position": 4,
+   "title": "Worth the\" Wait\" at Micklethwait",
+   "snippet": "Traveling from Dallas to San Antonio. First Time In Texas, and it did not dissapoint. We know of Franklins and researched a handful of BBQ places as so many. This place looked interesting and boy oh boy was it heaven in every bite. And used to be a church of worship. \n\n I had never had smoked pulled lamb and we both agreed it was the best. However, the brisket and pulled pork was melt in your mouth savory and moist too. We chose the grits that were so creamy and the  perfect choice of the right heat to compliment the smokiness of the bbq.  Braised green beans w bacon added another element to the meal. We shared a 3 plate as I know I could not have eaten all of the food and did not want to waste. \n\nThe line moved swiftly and found an indoor table as too hot for us that day to be outside.  The outdoor space is adorable and in a quirky neigborhood  that is off the beaten path. This resteraunt is bringing the fame and fortune to this area and revitalizing the area it appears. \n\nLove off the beaten paths with surprise places like this one. Will return when in the area. My husband smokes BBQ  and we are picky. You have to give this one a try. I bet their sweets are good too but no room this time.  Even if you have to wait, worth it.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1037612333",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r1037612333-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2025-11-03",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-10-31",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a0/fb/30/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a0/fb/53/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a0/fb/54/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/a0/fb/55/caption.jpg"
+   ],
+   "tips": [
+    "Wonderful old church serving melt in your mouth BBQ and sides to indulge for lunch or dinner. Pulled lamb is incredible as everthing else. "
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "E0DF0BCC6C6BD540F055200DA5B886C7",
+    "username": "design007",
+    "display_name": "Designer",
+    "link": "https://www.tripadvisor.com/Profile/design007",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/b3/53/0a/jodiewhite007.jpg",
+    "contributions": 784,
+    "hometown": "Indiana"
+   }
+  },
+  {
+   "position": 5,
+   "title": "mid",
+   "snippet": "cheese grits were God awful, everything else is above bar.\n  hopefully the new location doesn't change the love\n     maybe it was just an off day",
+   "rating": 1,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 1
+    },
+    {
+     "label": "Service",
+     "rating": 1
+    },
+    {
+     "label": "Food",
+     "rating": 4
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1006835346",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r1006835346-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2025-05-11",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-05-31",
+    "type": "FRIENDS"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "AC04A4F6A1136A839AF3B0EA58056DE1",
+    "username": "RLWD",
+    "display_name": "RLW D",
+    "link": "https://www.tripadvisor.com/Profile/RLWD",
+    "contributions": 1,
+    "hometown": "Dallas, Texas"
+   }
+  },
+  {
+   "position": 6,
+   "title": "Cheated",
+   "snippet": "Over charged, weighted items fell below 1lb order on ribs and brisket. Did weighing because got 4ribs and charged for 1lb. Should been 5 to 6 ribs to reach a pound.  Brisket was given 3/4 lb but 1lb I purchased.  Place should be shut down by authorities. Rip off.",
+   "rating": 1,
+   "review_id": "972706280",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r972706280-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2024-10-05",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-10-31",
+    "type": "FAMILY"
+   },
+   "votes": 1,
+   "author": {
+    "author_id": "6674A8066259DA74B9013CAF34924846",
+    "username": "N8413EEjorgeg",
+    "display_name": "Jorge G",
+    "link": "https://www.tripadvisor.com/Profile/N8413EEjorgeg",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/4a/default-avatar-2020-42.jpg",
+    "contributions": 1
+   }
+  },
+  {
+   "position": 7,
+   "title": "Amazing barbeque in Austin and no need to wait in line!!",
+   "snippet": "We had heard from several people in Austin that this was the best barbeque in town and it did not disappoint! Absolutely fabulous food, cool vibe and a really neat neighborhood! No need to stand in line for hours to get good barbecue!!",
+   "rating": 5,
+   "review_id": "971888370",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r971888370-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2024-09-29",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-09-30",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/a8/df/3e/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "161B4BBA3C29C4F4945643AE01176DEC",
+    "username": "JGrant58",
+    "display_name": "JGrant58",
+    "link": "https://www.tripadvisor.com/Profile/JGrant58",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-s/01/68/4e/e3/jgrant58.jpg",
+    "contributions": 56,
+    "hometown": "Guelph, Canada"
+   }
+  },
+  {
+   "position": 8,
+   "title": "Really good Que!",
+   "snippet": "Always good eat! Creative. Nice bark in the brisket. Relaxing outdoors at thrir picnic tables. The ultimate Texas BBQ experience.",
+   "rating": 5,
+   "review_id": "953326221",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r953326221-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2024-06-01",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-05-31",
+    "type": "FRIENDS"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "9BE479BE83684E9C2FD3D37A69E32CEF",
+    "username": "terrapinproud",
+    "display_name": "terrapinproud",
+    "link": "https://www.tripadvisor.com/Profile/terrapinproud",
+    "contributions": 132,
+    "hometown": "Austin, Texas"
+   }
+  },
+  {
+   "position": 9,
+   "title": "Great outdoor BBQ venue in Austin!",
+   "snippet": "Great BBQ in an outdoor picnic style venue in Austin.  The beef rib, brisket, pork ribs & jalape\u00f1o sausage were all prepared well & tasted delicious.  The potato salad, coleslaw & beet salad were also tasty & delicious.  The staff were very friendly & helpful with the menu items.  Would recommend & return again!",
+   "rating": 5,
+   "review_id": "943818430",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r943818430-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2024-03-25",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-03-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "E13C77F5DB75A32C3E64E94D00AEB4CF",
+    "username": "688soniak",
+    "display_name": "Sonia K",
+    "link": "https://www.tripadvisor.com/Profile/688soniak",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ee/68/default-avatar-2020-9.jpg",
+    "contributions": 82
+   }
+  },
+  {
+   "position": 10,
+   "title": "Maybe having a bad day?",
+   "snippet": "Walked over to Mickelthwait for a late lunch around 2:30PM.  A few tables in use, good music piped in, walked right up and ordered brisket, sausage, and smoked turkey.  Transaction was quick and easy, they give you a buzzer, food was ready in 5-10 minutes.\n\nTurkey was quite good. Sausage was good. Brisket was DRY. Luckily there is extra sauce available on the tables which helped get this finished, but it was quite disappointing. Not sure if the meat sits in a warmer in off hours, but this just wasn\u2019t at all special. We are also used to more interaction with staff at Q joints, as they are generally interesting and interested people, and this was very Matter of Fact.",
+   "rating": 3,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 3
+    },
+    {
+     "label": "Service",
+     "rating": 3
+    },
+    {
+     "label": "Food",
+     "rating": 3
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "933928082",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6474859-r933928082-Micklethwait_Craft_Meats-Austin_Texas.html",
+   "date": "2024-01-13",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-01-31",
+    "type": "COUPLES"
+   },
+   "votes": 1,
+   "author": {
+    "author_id": "80717AD612F8BCE5C674DA3C364C6C47",
+    "username": "Northern_Traveler00",
+    "display_name": "Northern_Traveler00",
+    "link": "https://www.tripadvisor.com/Profile/Northern_Traveler00",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/b7/2e/55/northern-traveler00.jpg",
+    "contributions": 80810,
+    "hometown": "California"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor_reviews&offset=10&place_id=6474859&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

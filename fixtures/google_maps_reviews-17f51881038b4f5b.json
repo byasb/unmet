@@ -1,0 +1,342 @@
+{
+ "search_metadata": {
+  "id": "6a9804d455ba65b58ed4f11f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Kne1XdBH3EeNwpH7iUO28Il890QjzDraZY9aKbcKgeQ/6a9804d455ba65b58ed4f11f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Kne1XdBH3EeNwpH7iUO28Il890QjzDraZY9aKbcKgeQ/6a9804d455ba65b58ed4f11f.md",
+  "created_at": "2026-09-02 11:13:24 UTC",
+  "processed_at": "2026-09-02 11:13:24 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5b97f094707:0x73413af34fe2662d!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/Kne1XdBH3EeNwpH7iUO28Il890QjzDraZY9aKbcKgeQ/6a9804d455ba65b58ed4f11f.html",
+  "prettify_html_file": "https://serpapi.com/searches/Kne1XdBH3EeNwpH7iUO28Il890QjzDraZY9aKbcKgeQ/6a9804d455ba65b58ed4f11f.prettify",
+  "total_time_taken": 1.43
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5b97f094707:0x73413af34fe2662d",
+  "hl": "en",
+  "sort_by": "ratingLow"
+ },
+ "place_info": {
+  "title": "Micklethwait Barbecue",
+  "address": "4602 Tanney St, Austin, TX 78721",
+  "rating": 4.7,
+  "reviews": 2050,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "pulled lamb",
+   "mentions": 66,
+   "id": "6F9YPE1Dgz8"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 289,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 65,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "jalape\u00f1o cheese grits",
+   "mentions": 41,
+   "id": "EKsxCVGmM-8"
+  },
+  {
+   "keyword": "frito pie",
+   "mentions": 43,
+   "id": "AJ1Y7e6nLWM"
+  },
+  {
+   "keyword": "live music",
+   "mentions": 3,
+   "id": "bdOKu_b9hgo"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 58,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "barbacoa",
+   "mentions": 32,
+   "id": "U0-eZhXrOR0"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 47,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 98,
+   "id": "BzYeemUSQh4"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5RWMybHZSWEp4VFhoZmRsZEpORkZuUmw5aVZXYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOl9Ec2lvRXJxTXhfdldJNFFnRl9iVWc%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-29T15:27:25Z",
+   "iso_date_of_last_edit": "2026-04-29T15:27:25Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOK_eSWpNj8MqFHiFsCGOYkebNsuS6oEQUEckBd839RpG6kKcvO3TmpEMuaTQiK9S6Ey-dha4W1BREORTqWSIi3WV-AGI2m372RofloWqT3nCrFGXAt3eYVTXPdK7IeFmPdl05wVaQIHQ9-=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RWMybHZSWEp4VFhoZmRsZEpORkZuUmw5aVZXYxAB",
+   "user": {
+    "name": "Melissa Loera",
+    "link": "https://www.google.com/maps/contrib/102391781113421280852?hl=en-US",
+    "contributor_id": "102391781113421280852",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLTbr4teIc3jYV-utTcMZsdY45JALN-ommY36J5JUDxkcpw=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 9,
+    "photos": 4
+   },
+   "snippet": "Worst service ever by the guys up at the front they were extremely rude, we were told to wait outside while they \u201ctoasted\u201d our buns even though we wanted to watch from a distance  (there was no line behind us) for our brisket sandwiches and our food didn\u2019t come out for another 20 or so minutes and it was all really cold and the buns were as hard as a rock and not toasted at all. This place was good back when it was a food truck, I will not be going back. (This business deletes reviews, save your money and go elsewhere!!)",
+   "extracted_snippet": {
+    "original": "Worst service ever by the guys up at the front they were extremely rude, we were told to wait outside while they \u201ctoasted\u201d our buns even though we wanted to watch from a distance  (there was no line behind us) for our brisket sandwiches and our food didn\u2019t come out for another 20 or so minutes and it was all really cold and the buns were as hard as a rock and not toasted at all. This place was good back when it was a food truck, I will not be going back. (This business deletes reviews, save your money and go elsewhere!!)"
+   },
+   "details": {
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taV2VITlJOVEIzWjAxblNtNVRNRmRUYTB0NVJHYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOkZWeHNRNTB3Z01nSm5TMFdTa0t5RGc%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-28T21:29:05Z",
+   "iso_date_of_last_edit": "2026-03-28T21:32:27Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO4itXPo5aC_tgrXtH6d3mPHRDZjHgAq1zX3qS1-20S8zFeyh29IbsDJr0I77N0kP0QUMnK5graKBvCRIFy-i1mOJmp45gYbeJcdZw2zz4jibY79KoQv3FIa70-J3EHNVwBtMcwdYhxHC0=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taV2VITlJOVEIzWjAxblNtNVRNRmRUYTB0NVJHYxAB",
+   "user": {
+    "name": "Angelina Roberts",
+    "link": "https://www.google.com/maps/contrib/104243301055732805158?hl=en-US",
+    "contributor_id": "104243301055732805158",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLn2lLwE84kRn38VwN4lOVqBLV1JsoCkvOCiY8l6ZT-4D9HVg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 14,
+    "photos": 3
+   },
+   "snippet": "They messed up my order, I ordered pulled pork they gave me ribs. Also I had the most dry and chewy brisket here, the potatoe salad did not have an ounce of mayonnaise, it was some dry boiled potatoes (which is most likely e few days old), the grits here was a solid block of something that tasted like corn bread. Most surprisingly all meat came out COLD. I thought it was a jokr because I don't know how someone can serve a cold piece of chewy brisket let alone in a bbq restaurant. Even true texas bbq serves warm piece of meat. There was NO parking and a long line to wait. Really not sure why people come here, but this was my first and last time eating cold bbq here",
+   "extracted_snippet": {
+    "original": "They messed up my order, I ordered pulled pork they gave me ribs. Also I had the most dry and chewy brisket here, the potatoe salad did not have an ounce of mayonnaise, it was some dry boiled potatoes (which is most likely e few days old), the grits here was a solid block of something that tasted like corn bread. Most surprisingly all meat came out COLD. I thought it was a jokr because I don't know how someone can serve a cold piece of chewy brisket let alone in a bbq restaurant. Even true texas bbq serves warm piece of meat. There was NO parking and a long line to wait. Really not sure why people come here, but this was my first and last time eating cold bbq here"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1,
+    "wait_time": "10-30 min",
+    "parking_space": "Difficult to find parking",
+    "parking_options": "Parking is unavailable"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNUMExUdzZnRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CIHM0ogKEICAgICT0LTw6gE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 years ago",
+   "iso_date": "2024-05-10T00:45:23Z",
+   "iso_date_of_last_edit": "2024-05-10T00:45:23Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPtuq55-TEcKV0oyE1N8DMTG9FNosfUW_p090gGD1KkrjcITxRc7Ktl9xirpJA3OJYK9e1NSIWfz80NU9rACXnXwHWcUsyeOmt6fVuVCQgw2j6hcN5kRM6TXYr4H9xxS-nakQYT=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMExUdzZnRRAB",
+   "user": {
+    "name": "George Gonzalez",
+    "link": "https://www.google.com/maps/contrib/100687392510042731700?hl=en-US",
+    "contributor_id": "100687392510042731700",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVUh6dXwAUaVCv0YqptJ2xMVvI6dqfYm3WApj-ANkwJIiuTLGKt0g=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 7,
+    "photos": 2
+   },
+   "snippet": "I don't understand the hype. Although the plate of food looked good, this was by far the worst bbq meal I've ever had. The brisket was very fatty and chewy. The rib was cold and had very little flavor. The potatoes were hard and undercooked in the potato salad. The beans were cold. If it was an off day for them, it was a very bad off day.",
+   "extracted_snippet": {
+    "original": "I don't understand the hype. Although the plate of food looked good, this was by far the worst bbq meal I've ever had. The brisket was very fatty and chewy. The rib was cold and had very little flavor. The potatoes were hard and undercooked in the potato salad. The beans were cold. If it was an off day for them, it was a very bad off day."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 1,
+    "service": 2,
+    "atmosphere": 1
+   },
+   "likes": 1
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21wdFVUWXRUakJWTldzMU9WRXdSbWREY0VSSmVFRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOmptUTYtTjBVNWs1OVEwRmdDcERJeEE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-07T22:03:07Z",
+   "iso_date_of_last_edit": "2026-05-07T22:03:07Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdFVUWXRUakJWTldzMU9WRXdSbWREY0VSSmVFRRAB",
+   "user": {
+    "name": "Randy Rodz",
+    "link": "https://www.google.com/maps/contrib/116291444378646302936?hl=en-US",
+    "contributor_id": "116291444378646302936",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWFIuV6Jra1QYRFRCre3Iw96Okjz5XD3USDeTkCGQRXEGU3RfLYmg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 58,
+    "photos": 117
+   },
+   "snippet": "Ribs with no meat on them, and dry, sauces way too sweet, the \"sweet\"  tea was not sweet, and you can't eat outside because there're too many DAMN flies!",
+   "extracted_snippet": {
+    "original": "Ribs with no meat on them, and dry, sauces way too sweet, the \"sweet\"  tea was not sweet, and you can't eat outside because there're too many DAMN flies!"
+   },
+   "details": {
+    "price_per_person": "$30\u201340",
+    "food": 1,
+    "service": 4,
+    "atmosphere": 1,
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURiMHB6S2VBEAE!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CIHM0ogKEICAgIDb0pzKeA%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 years ago",
+   "iso_date": "2024-08-03T19:57:40Z",
+   "iso_date_of_last_edit": "2024-08-03T19:57:40Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNUmFzT7Th8xgNgXuuGxIDk6za10jE1yVgmCbqC6oTBL9J21o57JHH1aZxw59GWCAK6TCNNWln3r7RKl8EPlql93bbKgy349BhiZElUyC2pfjyFa0GH-5yhdX5fahCv6snKY-oB=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiMHB6S2VBEAE",
+   "user": {
+    "name": "P Brooks",
+    "link": "https://www.google.com/maps/contrib/114277749386449431613?hl=en-US",
+    "contributor_id": "114277749386449431613",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVavp-EMGplZeSz-kEK1bMaZBfcuz_BnAJy_CTsovllU3yEO2biUQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 92,
+    "photos": 115
+   },
+   "snippet": "I came here a few years ago when it was just the food truck and I loved the simplicity of good flavor but what the heck. I didn\u2019t get a frito pie. I got a plate full of spicy vegetables with 2 small slices of dried brisket and a few Fritos. I won\u2019t be back!",
+   "extracted_snippet": {
+    "original": "I came here a few years ago when it was just the food truck and I loved the simplicity of good flavor but what the heck. I didn\u2019t get a frito pie. I got a plate full of spicy vegetables with 2 small slices of dried brisket and a few Fritos. I won\u2019t be back!"
+   },
+   "details": {
+    "order_type": "Take out",
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 3,
+    "service": 5,
+    "atmosphere": 5,
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free parking lot, Free street parking"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTUNZa3JTZ21nRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CIHM0ogKEICAgMCYkrSgmgE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "a year ago",
+   "iso_date": "2025-05-02T23:27:11Z",
+   "iso_date_of_last_edit": "2025-05-02T23:27:11Z",
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZa3JTZ21nRRAB",
+   "user": {
+    "name": "Linda Gonzales",
+    "link": "https://www.google.com/maps/contrib/114950339743906917345?hl=en-US",
+    "contributor_id": "114950339743906917345",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLiXIc1HiB1mEJOvDBShyTYl8fdQ_bOUg4FmUGcJsw70P2pSw=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 5,
+    "photos": 0
+   },
+   "snippet": "Came here at 3:30pm today, close to closing which was probably bad on my end. Hard to believe this place has such good ratings. The brisket was stiff, my order of half a pound of brisket didn\u2019t come with bread so when I asked I was given 2 stale slices. The potato salad was good and the first worker I encountered was great but the other practically through the bread at me. Would I return? No. Wish it would have worked out as it\u2019s right down the road from me.",
+   "extracted_snippet": {
+    "original": "Came here at 3:30pm today, close to closing which was probably bad on my end. Hard to believe this place has such good ratings. The brisket was stiff, my order of half a pound of brisket didn\u2019t come with bread so when I asked I was given 2 stale slices. The potato salad was good and the first worker I encountered was great but the other practically through the bread at me. Would I return? No. Wish it would have worked out as it\u2019s right down the road from me."
+   },
+   "details": {
+    "food": 1,
+    "service": 2,
+    "atmosphere": 3
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GZlJtTXhTRVpCZFhGTllVRXpTRko1U0RGTVJFRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOmFfRmMxSEZBdXFNYUEzSFJ5SDFMREE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-29T22:30:13Z",
+   "iso_date_of_last_edit": "2026-03-29T22:30:13Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GZlJtTXhTRVpCZFhGTllVRXpTRko1U0RGTVJFRRAB",
+   "user": {
+    "name": "FakeAstronomer2020",
+    "link": "https://www.google.com/maps/contrib/111857212926490683488?hl=en-US",
+    "contributor_id": "111857212926490683488",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLYJOWtZtaL3TYOHZruOh9j9pqDb_64M3wBY5eNg7ZgGnaBxw=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 97,
+    "photos": 0
+   },
+   "snippet": "Don\u2019t know if the food was great or not because there was absolutely no parking, you are forced to park in front of people\u2019s homes which I was not willing to do.",
+   "extracted_snippet": {
+    "original": "Don\u2019t know if the food was great or not because there was absolutely no parking, you are forced to park in front of people\u2019s homes which I was not willing to do."
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNyN0oyVFZnEAE!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CIHM0ogKEICAgICr7J2TVg%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 years ago",
+   "iso_date": "2024-07-04T20:10:21Z",
+   "iso_date_of_last_edit": "2024-07-04T20:10:21Z",
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyN0oyVFZnEAE",
+   "user": {
+    "name": "Jacob Cukjati",
+    "link": "https://www.google.com/maps/contrib/108849038306605666800?hl=en-US",
+    "contributor_id": "108849038306605666800",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXwscqRzSjrMWIB5OkXIxhz89FL8PJFSFiPZNbDGtW5T7pBneyY=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 26,
+    "photos": 12
+   },
+   "snippet": "I swear no one in Austin knows how to cook some BBQ properly. Kreuz Market in San Marcos, although out of the way, still the best in my opinion.\n\nGot some spare ribs, it was dry in a lot of the places. Definitely not fall off the bone.\n\nQuality of meat was great though. 1 star review because the place gets to many 5 stars.\n\nPotato salad was great too.",
+   "extracted_snippet": {
+    "original": "I swear no one in Austin knows how to cook some BBQ properly. Kreuz Market in San Marcos, although out of the way, still the best in my opinion.\n\nGot some spare ribs, it was dry in a lot of the places. Definitely not fall off the bone.\n\nQuality of meat was great though. 1 star review because the place gets to many 5 stars.\n\nPotato salad was great too."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$30\u201350",
+    "food": 1,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5b97f094707%3A0x73413af34fe2662d&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7-mw-onP___EhAzb7ZijRmpXJrlK5sAAAAAGgn921MCb4ChcggYACIA&sort_by=ratingLow",
+  "next_page_token": "CjEIARIpCgoAP7-mw-onP___EhAzb7ZijRmpXJrlK5sAAAAAGgn921MCb4ChcggYACIA"
+ }
+}

@@ -1,0 +1,413 @@
+{
+ "search_metadata": {
+  "id": "6a9805c604e10a8aa4dc1cf1",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/YeCSn5Av1vBaP8mTPBv7zGzZeS13j_ZLvvdxKHh-d8M/6a9805c604e10a8aa4dc1cf1.json",
+  "markdown_endpoint": "https://serpapi.com/searches/YeCSn5Av1vBaP8mTPBv7zGzZeS13j_ZLvvdxKHh-d8M/6a9805c604e10a8aa4dc1cf1.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/YeCSn5Av1vBaP8mTPBv7zGzZeS13j_ZLvvdxKHh-d8M/6a9805c604e10a8aa4dc1cf1.json_with_pixel_position",
+  "created_at": "2026-09-02 11:17:26 UTC",
+  "processed_at": "2026-09-02 11:17:26 UTC",
+  "google_url": "https://www.google.com/search?q=franklin+barbecue+vs+terry+blacks&oq=franklin+barbecue+vs+terry+blacks&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/YeCSn5Av1vBaP8mTPBv7zGzZeS13j_ZLvvdxKHh-d8M/6a9805c604e10a8aa4dc1cf1.html",
+  "total_time_taken": 5.27
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "franklin barbecue vs terry blacks",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "us",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "franklin barbecue vs terry blacks",
+  "total_results": 129,
+  "time_taken_displayed": 0.5,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Franklin or Terry Black's BBQ\u2014which Austin BBQ legend takes ...",
+   "link": "https://www.facebook.com/strictlydumpling/videos/franklin-vs-terry-blacks-bbq-in-austin-texas-100-foods-to-eat-before-you-die-50/1857896534733105/",
+   "thumbnail": "https://serpapi.com/searches/6a9805c604e10a8aa4dc1cf1/images/cI7cQiJZZRFh71y8zQKiNTxqAgZvI4iDJoVtX7LlLKs.jpeg",
+   "channel": "Strictly Dumpling",
+   "duration": "19:14",
+   "platform": "Facebook",
+   "date": "Sep 24, 2024",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTc1_KlQAKJ8h6HWxsgrnylzM4OQ-Zm-RhRKQ"
+  },
+  {
+   "position": 2,
+   "title": "Franklin Barbecue vs Terry Black's \u2014 Austin's Ultimate BBQ ...",
+   "link": "https://www.youtube.com/watch?v=S0ciKcTxQPk",
+   "thumbnail": "https://serpapi.com/searches/6a9805c604e10a8aa4dc1cf1/images/9W6SJm2Fmt_s5zHLZ-LuLCajPMuc06hbjvUZ6KMq_jM.jpeg",
+   "channel": "I don't hate you",
+   "duration": "6:54",
+   "platform": "YouTube",
+   "date": "Oct 23, 2025",
+   "snippet": "Franklin's brisket is the best ever tasted, but Terry Black's is great for consistent, high-volume BBQ without the long wait."
+  },
+  {
+   "position": 3,
+   "title": "I Waited 5 HOURS for this LEGENDARY TEXAS BBQ! Franklin ...",
+   "link": "https://www.youtube.com/watch?v=9LxykoaCkdk",
+   "thumbnail": "https://serpapi.com/searches/6a9805c604e10a8aa4dc1cf1/images/XUqYSLGH34SNDEtZ651np7LR5wvzGlOQmKZTi4l9-_A.jpeg",
+   "channel": "Mike Chen Clips & BEST Eats",
+   "duration": "19:14",
+   "platform": "YouTube",
+   "date": "Sep 2, 2024"
+  },
+  {
+   "position": 4,
+   "title": "Terry Black's BBQ and Franklin's BBQ. In this epic culinary ...",
+   "link": "https://www.facebook.com/strictlydumpling/videos/legendary-texas-bbq-showdown-terry-blacks-bbq-vs-franklins-bbq-in-austin-texas/1133093904707263/",
+   "thumbnail": "https://serpapi.com/searches/6a9805c604e10a8aa4dc1cf1/images/fH28kMSqRz274badkLIGRBYJD1GGTwbJA9K6H7-Q14U.jpeg",
+   "channel": "Strictly Dumpling",
+   "duration": "3:01",
+   "platform": "Facebook",
+   "date": "Mar 4, 2024",
+   "snippet": "Terry Black's smokes 150 briskets a day using Post Oak, resulting in an intense smoky flavor.",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRoqeAh20oerD9VjdiyZfuviOjzaAzPcLwkAg"
+  }
+ ],
+ "related_questions": [
+  {
+   "question": "Is Franklin BBQ better than Terry Black's BBQ?",
+   "type": "ai_overview",
+   "page_token": "6JTk_XicHdBfcqIwHADg2cv0sQYr3cEZpzNokLIETCDhz0sHEhXhl0DVlcpbr7Bn2FP1NJ3dh-8C3-dfOJnu68ef5nodLsvZbBzHx2PfH2H_KHs9qy53I2eyAqgr2S2ffz5bLwe5wjfprs_SpXwYxIahFDt5BnheY-9EtoWV-MG6SoUOc9ZlXjNU2Qf_R25trTonZwZ2de5ehCU0Fx4pMvtQ-sLnLQQxtqYK0Yma4J0KiSLU7BLhtazzDNd2q5A4Z74cpfYW8RajZIoaOpULBo4r_ehWp0FQYmjI3DLSpzabD79ToyxmDe_Fk7qpbCAFQFhkbEE6da8FeNTAr4qrUU7eq8yc8z5VU7KJLsJAVPJhigW4ZWKtybwMcKNsLlRZ5AEhyIZCFyjkglbcCdnWYbHbnyhnk2xBc90torsV7lvYEdFsIu6gfU6vPBdx1AKuN8exHB8O8rZ6evh_vXo76OtyOPfHb4pSjYI",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6JTk_XicHdBfcqIwHADg2cv0sQYr3cEZpzNokLIETCDhz0sHEhXhl0DVlcpbr7Bn2FP1NJ3dh-8C3-dfOJnu68ef5nodLsvZbBzHx2PfH2H_KHs9qy53I2eyAqgr2S2ffz5bLwe5wjfprs_SpXwYxIahFDt5BnheY-9EtoWV-MG6SoUOc9ZlXjNU2Qf_R25trTonZwZ2de5ehCU0Fx4pMvtQ-sLnLQQxtqYK0Yma4J0KiSLU7BLhtazzDNd2q5A4Z74cpfYW8RajZIoaOpULBo4r_ehWp0FQYmjI3DLSpzabD79ToyxmDe_Fk7qpbCAFQFhkbEE6da8FeNTAr4qrUU7eq8yc8z5VU7KJLsJAVPJhigW4ZWKtybwMcKNsLlRZ5AEhyIZCFyjkglbcCdnWYbHbnyhnk2xBc90torsV7lvYEdFsIu6gfU6vPBdx1AKuN8exHB8O8rZ6evh_vXo76OtyOPfHb4pSjYI",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBGcmFua2xpbiBCQlEgYmV0dGVyIHRoYW4gVGVycnkgQmxhY2sncyBCQlE/IiwibGsiOiJjNVBTelN4V1NDdEt6TXZPeWN4VFNFb3FWRWhLTFNsSkxWSW95VWpNVXdBeWlpb1ZrbklTazdQVmkwR3lBQSIsImJzIjoiYzNXUVBRdkNNQkNHY2IzSk9kT0IxZ3AtUWY1QW9ZUGc0Q0NJdUY1S3BLR2xZaTZpX251dnhkSVc3SlNRZTU4M1R3SUUyd1BqM2xOVmxLN0NORDJoc1NGWWp5R25Dc19XLXctbUpXVkZ6UFUwMFR1MWNZeTNsakRtTVNCQ1E1Z2ZJVk80d2xxdWFFNWtJVzlzOXJSakRDZDZxUmF1eTRfWE14eGhQcEJ2dTE5M0gzTEp5NDVjU0hTa1pnUGxfem00d0VycWVrX21abVlzaDQ1eDlhZThTVHhqRlVsclg2Z1hGMjFYMjBweU92a0MiLCJpZCI6ImZjX3lRV1lhckwzTmViZjQtRVBpT0tEb1E4XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBGcmFua2xpbiBCQlEgYmV0dGVyIHRoYW4gVGVycnkgQmxhY2sncyBCQlE%2FIiwibGsiOiJjNVBTelN4V1NDdEt6TXZPeWN4VFNFb3FWRWhLTFNsSkxWSW95VWpNVXdBeWlpb1ZrbklTazdQVmkwR3lBQSIsImJzIjoiYzNXUVBRdkNNQkNHY2IzSk9kT0IxZ3AtUWY1QW9ZUGc0Q0NJdUY1S3BLR2xZaTZpX251dnhkSVc3SlNRZTU4M1R3SUUyd1BqM2xOVmxLN0NORDJoc1NGWWp5R25Dc19XLXctbUpXVkZ6UFUwMFR1MWNZeTNsakRtTVNCQ1E1Z2ZJVk80d2xxdWFFNWtJVzlzOXJSakRDZDZxUmF1eTRfWE14eGhQcEJ2dTE5M0gzTEp5NDVjU0hTa1pnUGxfem00d0VycWVrX21abVlzaDQ1eDlhZThTVHhqRlVsclg2Z1hGMjFYMjBweU92a0MiLCJpZCI6ImZjX3lRV1lhckwzTmViZjQtRVBpT0tEb1E4XzUifQ%3D%3D"
+  },
+  {
+   "question": "Is blacks barbecue better than terry blacks?",
+   "type": "ai_overview",
+   "page_token": "hTWfJnicHdBNcoIwGIDh6WVcKqDY6ozTkYooI2kTyAdk0wkB-QsQKy2WXe_SU_U07fQ9wLN4v75l2dY_dx9F36vrejYbhmGad10us6nomhm_frZiJriUCRf1enm_1B_PYmO_H62ny9HCVCnYEc2vZBlUyEhG9w3t4SUA9gKyKBFsF5GhHHRQZWITFEB-wxVq-WG7iOd7wjTpMSNtfefBCGxzwDX8lR44wEhrs2BR0WJfb0jkImTsOxyaF2bou1haoxfkN7ETGopQRMYiDP8A2LkFyFWVhfqZNXqX1CbxHM8UkapTm-pZCwGjvf8cuVdwpIlsMfqaiz2HnEJbLQNQnNu31i5Sk0LK4sj1PM2UcRNrJwqY09WJOCvybHUlpmQUlWxojbiYwxgCexdPuoUkOcXN9TNzeoPrZIgbyTGenMXHZj75_7l5PTf9Wr11-S-vz4LH",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hTWfJnicHdBNcoIwGIDh6WVcKqDY6ozTkYooI2kTyAdk0wkB-QsQKy2WXe_SU_U07fQ9wLN4v75l2dY_dx9F36vrejYbhmGad10us6nomhm_frZiJriUCRf1enm_1B_PYmO_H62ny9HCVCnYEc2vZBlUyEhG9w3t4SUA9gKyKBFsF5GhHHRQZWITFEB-wxVq-WG7iOd7wjTpMSNtfefBCGxzwDX8lR44wEhrs2BR0WJfb0jkImTsOxyaF2bou1haoxfkN7ETGopQRMYiDP8A2LkFyFWVhfqZNXqX1CbxHM8UkapTm-pZCwGjvf8cuVdwpIlsMfqaiz2HnEJbLQNQnNu31i5Sk0LK4sj1PM2UcRNrJwqY09WJOCvybHUlpmQUlWxojbiYwxgCexdPuoUkOcXN9TNzeoPrZIgbyTGenMXHZj75_7l5PTf9Wr11-S-vz4LH",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBibGFja3MgYmFyYmVjdWUgYmV0dGVyIHRoYW4gdGVycnkgYmxhY2tzPyIsImxrIjoiYzVOU3l5eFdTTXBKVE00R1VrbUZDa21wSlNXcFJRb2xHWWw1Q2tCR1VTVlVFZ0EiLCJicyI6ImMzV1FQUXZDTUJDR2NiM0pPZE9CMWdwLVFmNUFvWVBnNENDSXVGNUtwS0dsWWk2aV9udXZ4ZElXN0pTUWU1ODNUd0lFMndQajNsTlZsSzdDTkQyaHNTRllqeUduQ3NfVy13LW1KV1ZGelBVMDBUdTFjWXkzbGpEbU1TQkNRNWdmSVZPNHdscXVhRTVrSVc5czlyUmpEQ2Q2cVJhdXk0X1hNeHhoUHBCdnUxOTNIM0xKeTQ1Y1NIU2taZ1BsX3ptNHdFcnFla19tWm1Zc2g0NXg5YWU4U1R4akZVbHJYNmdYRjIxWDIwcHlPdmtDIiwiaWQiOiJmY195UVdZYXJMM05lYmY0LUVQaU9LRG9ROF81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBibGFja3MgYmFyYmVjdWUgYmV0dGVyIHRoYW4gdGVycnkgYmxhY2tzPyIsImxrIjoiYzVOU3l5eFdTTXBKVE00R1VrbUZDa21wSlNXcFJRb2xHWWw1Q2tCR1VTVlVFZ0EiLCJicyI6ImMzV1FQUXZDTUJDR2NiM0pPZE9CMWdwLVFmNUFvWVBnNENDSXVGNUtwS0dsWWk2aV9udXZ4ZElXN0pTUWU1ODNUd0lFMndQajNsTlZsSzdDTkQyaHNTRllqeUduQ3NfVy13LW1KV1ZGelBVMDBUdTFjWXkzbGpEbU1TQkNRNWdmSVZPNHdscXVhRTVrSVc5czlyUmpEQ2Q2cVJhdXk0X1hNeHhoUHBCdnUxOTNIM0xKeTQ1Y1NIU2taZ1BsX3ptNHdFcnFla19tWm1Zc2g0NXg5YWU4U1R4akZVbHJYNmdYRjIxWDIwcHlPdmtDIiwiaWQiOiJmY195UVdZYXJMM05lYmY0LUVQaU9LRG9ROF81In0%3D"
+  },
+  {
+   "question": "Is Franklin Barbecue worth the wait?",
+   "type": "ai_overview",
+   "page_token": "c-Tbh3icHdBfboIwHADg7DI-TkBxwcQsYfyJBNja7le0L0tpQbQtVMd0-ra77FQ7zZZd4Hv4vr71vlc_d-duHO37cjq9XC73u2HY6eZeDGbK36-9mAqudc2FWi4eFu5jK1bxxzp8Oq5DBNbSCDvEoZRUuoIbnZdp2ZJEXNlNWvQqLdPMZ55V0lWOUN2noHJg4JdFNeo6Lq9NJBXbwEh6OmcpzZpDErHUzYtYtlWsoYCg4053lUqeuEryOsk2qGdEuIxRLS2fgUsOzGtA5thxj9wNvNIE_VYlBUvsC079jmpxEQedFkn4wY3vV0YnOM0MhgzVs9ClMHp1pAl5ZWuZ0jDupA9Usu0mKwrH11uzdXKgiEOQ4zTAz-GwR4Bvf6YBQJ8AmEsvmzfVWD1XZUSMRsVNnpHy27IPT4AmrTivZpP_z9Vba8alPQ27X9Cqg34",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=c-Tbh3icHdBfboIwHADg7DI-TkBxwcQsYfyJBNja7le0L0tpQbQtVMd0-ra77FQ7zZZd4Hv4vr71vlc_d-duHO37cjq9XC73u2HY6eZeDGbK36-9mAqudc2FWi4eFu5jK1bxxzp8Oq5DBNbSCDvEoZRUuoIbnZdp2ZJEXNlNWvQqLdPMZ55V0lWOUN2noHJg4JdFNeo6Lq9NJBXbwEh6OmcpzZpDErHUzYtYtlWsoYCg4053lUqeuEryOsk2qGdEuIxRLS2fgUsOzGtA5thxj9wNvNIE_VYlBUvsC079jmpxEQedFkn4wY3vV0YnOM0MhgzVs9ClMHp1pAl5ZWuZ0jDupA9Usu0mKwrH11uzdXKgiEOQ4zTAz-GwR4Bvf6YBQJ8AmEsvmzfVWD1XZUSMRsVNnpHy27IPT4AmrTivZpP_z9Vba8alPQ27X9Cqg34",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBGcmFua2xpbiBCYXJiZWN1ZSB3b3J0aCB0aGUgd2FpdD8iLCJsayI6IkdpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRBIiwiYnMiOiJjM1dRUFF2Q01CQ0djYjNKT2RPQjFncC1RZjVBb1lQZzRDQ0l1RjVLcEtHbFlpNmlfbnV2eGRJVzdKU1FlNTgzVHdJRTJ3UGozbE5WbEs3Q05EMmhzU0ZZanlHbkNzX1ctdy1tSldWRnpQVTAwVHUxY1l5M2xqRG1NU0JDUTVnZklWTzR3bHF1YUU1a0lXOXM5clJqRENkNnFSYXV5NF9YTXh4aFBwQnZ1MTkzSDNMSnk0NWNTSFNrWmdQbF96bTR3RXJxZWtfbVptWXNoNDV4OWFlOFNUeGpGVWxyWDZnWEYyMVgyMHB5T3ZrQyIsImlkIjoiZmNfeVFXWWFyTDNOZWJmNC1FUGlPS0RvUThfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBGcmFua2xpbiBCYXJiZWN1ZSB3b3J0aCB0aGUgd2FpdD8iLCJsayI6IkdpTnBjeUJtY21GdWEyeHBiaUJpWVhKaVpXTjFaU0IzYjNKMGFDQjBhR1VnZDJGcGRBIiwiYnMiOiJjM1dRUFF2Q01CQ0djYjNKT2RPQjFncC1RZjVBb1lQZzRDQ0l1RjVLcEtHbFlpNmlfbnV2eGRJVzdKU1FlNTgzVHdJRTJ3UGozbE5WbEs3Q05EMmhzU0ZZanlHbkNzX1ctdy1tSldWRnpQVTAwVHUxY1l5M2xqRG1NU0JDUTVnZklWTzR3bHF1YUU1a0lXOXM5clJqRENkNnFSYXV5NF9YTXh4aFBwQnZ1MTkzSDNMSnk0NWNTSFNrWmdQbF96bTR3RXJxZWtfbVptWXNoNDV4OWFlOFNUeGpGVWxyWDZnWEYyMVgyMHB5T3ZrQyIsImlkIjoiZmNfeVFXWWFyTDNOZWJmNC1FUGlPS0RvUThfNSJ9"
+  },
+  {
+   "question": "Is Terry Blacks the best barbecue in Texas?",
+   "type": "ai_overview",
+   "page_token": "Djh66XicHdDbToMwGADg-DJejpPMdMliguNnEOhCR8vojaHt2IFyUNiYu_NdfCqfRuMDfDff17c-tfXPw_U4jv2wMIxpmmaHrjvo_Ux2jVEOn600ZKm1KGW9mD_PrZdKLv1L6L2-h15K-56tiJkBujCrGEXrnUpa3Isac-lwEBb2toA5C8ZYnAmIvK_2NX6Kc5cRM3lKzOiYsD8bQJ4B3JmthgRIl5koL200sJ03scYKxSod8Ro-qQ_H0kd6Zyl7a4Oz99lFnXVHdRTuNQq3a2xnDr7wnDobyruyxpWkgx1nEHHw3jnjk6TRXOW3WDSpm1HVirZvlY_GbdBvhAOY1Bbxj8qlTPFiFyWJ6eqiKcyYsrSkKCYBIhuvO6WU3OVZN1SjM7YgKDQjpPVukoYurf0pA-2nduLKDFI1PVbyunQe_z-Xb1UzLvqP7vALwFeBMA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Djh66XicHdDbToMwGADg-DJejpPMdMliguNnEOhCR8vojaHt2IFyUNiYu_NdfCqfRuMDfDff17c-tfXPw_U4jv2wMIxpmmaHrjvo_Ux2jVEOn600ZKm1KGW9mD_PrZdKLv1L6L2-h15K-56tiJkBujCrGEXrnUpa3Isac-lwEBb2toA5C8ZYnAmIvK_2NX6Kc5cRM3lKzOiYsD8bQJ4B3JmthgRIl5koL200sJ03scYKxSod8Ro-qQ_H0kd6Zyl7a4Oz99lFnXVHdRTuNQq3a2xnDr7wnDobyruyxpWkgx1nEHHw3jnjk6TRXOW3WDSpm1HVirZvlY_GbdBvhAOY1Bbxj8qlTPFiFyWJ6eqiKcyYsrSkKCYBIhuvO6WU3OVZN1SjM7YgKDQjpPVukoYurf0pA-2nduLKDFI1PVbyunQe_z-Xb1UzLvqP7vALwFeBMA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBUZXJyeSBCbGFja3MgdGhlIGJlc3QgYmFyYmVjdWUgaW4gVGV4YXM/IiwibGsiOiJjNU5TelN4V0tFa3RLcXBVU01wSlRNNEdjakpTRlpKU2kwc1VrcElLRlRMemdKSVZpY1VBIiwiYnMiOiJjM1dRUFF2Q01CQ0djYjNKT2RPQjFncC1RZjVBb1lQZzRDQ0l1RjVLcEtHbFlpNmlfbnV2eGRJVzdKU1FlNTgzVHdJRTJ3UGozbE5WbEs3Q05EMmhzU0ZZanlHbkNzX1ctdy1tSldWRnpQVTAwVHUxY1l5M2xqRG1NU0JDUTVnZklWTzR3bHF1YUU1a0lXOXM5clJqRENkNnFSYXV5NF9YTXh4aFBwQnZ1MTkzSDNMSnk0NWNTSFNrWmdQbF96bTR3RXJxZWtfbVptWXNoNDV4OWFlOFNUeGpGVWxyWDZnWEYyMVgyMHB5T3ZrQyIsImlkIjoiZmNfeVFXWWFyTDNOZWJmNC1FUGlPS0RvUThfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGVIaEdXbXhRVldkTGQyaDZTMmRKUm1veVkzUlpXRVpMWWpGdFMydDZZbWhZVFVWM1dFeG1VV1JZVTFWM1RETkxhMkp2VTFGSmEzQnJRMUpUTkZoQmNFdDFXVjlIU0ZKTk5UZzNSMGxrYW1FNWVrOXZlbmRKWkZoWVp4SVhlVkZYV1dGeVRETk9aV0ptTkMxRlVHbFBTMFJ2VVRnYUlrRkVjM0k1WmxNMlFrcHdWbHB2VEhSUmFWRjRkbkZ5TWxwR1JUQjRVVTVQUm1jIiwiZmN2IjoiMyIsImVpIjoieVFXWWFyTDNOZWJmNC1FUGlPS0RvUTgiLCJxYyI6IkNpRm1jbUZ1YTJ4cGJpQmlZWEppWldOMVpTQjJjeUIwWlhKeWVTQmliR0ZqYTNNUUFIMTJ3ZTQtIiwicXVlc3Rpb24iOiJJcyBUZXJyeSBCbGFja3MgdGhlIGJlc3QgYmFyYmVjdWUgaW4gVGV4YXM%2FIiwibGsiOiJjNU5TelN4V0tFa3RLcXBVU01wSlRNNEdjakpTRlpKU2kwc1VrcElLRlRMemdKSVZpY1VBIiwiYnMiOiJjM1dRUFF2Q01CQ0djYjNKT2RPQjFncC1RZjVBb1lQZzRDQ0l1RjVLcEtHbFlpNmlfbnV2eGRJVzdKU1FlNTgzVHdJRTJ3UGozbE5WbEs3Q05EMmhzU0ZZanlHbkNzX1ctdy1tSldWRnpQVTAwVHUxY1l5M2xqRG1NU0JDUTVnZklWTzR3bHF1YUU1a0lXOXM5clJqRENkNnFSYXV5NF9YTXh4aFBwQnZ1MTkzSDNMSnk0NWNTSFNrWmdQbF96bTR3RXJxZWtfbVptWXNoNDV4OWFlOFNUeGpGVWxyWDZnWEYyMVgyMHB5T3ZrQyIsImlkIjoiZmNfeVFXWWFyTDNOZWJmNC1FUGlPS0RvUThfNSJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "5Ka8hniczVbbkqo4FP2A-Y7hpVvBu3YVdSpJg43atOn2UvpihYjxwu2ASuPb_Mt81XzNBBTFbuyucx6mZpcQsrPY2Un2cvHX39bK2fzzh7Pcbr3gQRTDMCwy12WWWaSuLZIgcqi4cK3Ap8sfzJJ3gbC0ZNMRor1cEWggS4K5kiM8nhC_V9FNY1EtKP3VS_fRxU0heV2eGSQw1zz6-zoQZyK_bf6sPPJOMSiaTrETvmjNV-mtoUvFslSuFF9EYnMA-O-MKUADAIM3oCR9LRc1-T4QBgABHgZmffg4x9nRTnAgnQ2fJv1kCjomAlEcDsW_fm275w43hTyy_Fc55moNDAxjHwiTXidOJn-N-XZcgRbnkBi6DT2jc73upZ89XwjyDX_Y8jcA1k2gKJfdzMzVuYqjYJ5v0t-APmtiQLXVzc1KchgCeNDARvsSxU1TRlWUgtSAr0MT54wXrCQaPm9K4oouafLgB3Edo0FLclVUUke0B5flguqxqFHzvJ9GBeyt2QyL1OA4yyVzcz5bzqQfSb9ULtWkVqXRvE8IRIMzg4Isg3wCSoOn3Q4XgmKvCEspfdD5iD_sblxNMLfklido3nGsLl6-59rpYLpxnNM0aXkgoLRX_J6NoqAlTGovPDke-QMBODwjLuWIUR590pkvLTmFVhI4O82dmRNo2iVsZgSG4JOh6xxiFKDpGLouaQ1clwjSYJzyOemromU8D4z4HwyvfaQ8QfXoptcc0i6Lg-eGoWQJR0szUE6jGfponFWY8RivnRjAhpCnxCE4fen1BHzDH45dyaMqnICJljvyvaHvyBMbTnnyoeyzdHliBxe-1jY1ycGhbhnhdISl8UHrjPssnx6ubfyCwtD_FYGO-jM5KQICz7kEqsYPXxMo0R98W3-Sx_aZQMkihopyg0DoSKDP-lNNIRf9-UggqGUJxPBX-vPLBEJfEujY5hLIzSeQd4NAqf5kCHStP0qe_qQE-h39Qb-pPwmfzGNzLUa7NbspSm0V7UdlqeVulJIeEUQc1isE7LkyLbNvRWlhbx9sMrfuZ6v5Ayx3ttH8fsYd7oM5F37KC584G_51eWcQ3zDpzrzbB3db0_ejO8MidBMItuW7skQaamHXc3vMtudeFDIyPjyx1sTZlnz6svQrXCwPml6LqnQ80o135ClMjzSzZxITl-oqtMreQJ22vPc6bFtg8Lx7X3XH6_ZggZwq2faibrc-Hejt1lJfeZ2Jb1N9Uaiqetjd9A9ho6kHBpVUYzScTKUu3Y0lnOTFP2wtc7wumN3HuSvYPpV5uVUZ0DEYM8iLbxIXJb9cfoX8qgOsQCGgZGYGe5mYRp00jWZNMmuNcoUKNttGnlyvCYHjy6V_AX_vO6Y",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5Ka8hniczVbbkqo4FP2A-Y7hpVvBu3YVdSpJg43atOn2UvpihYjxwu2ASuPb_Mt81XzNBBTFbuyucx6mZpcQsrPY2Un2cvHX39bK2fzzh7Pcbr3gQRTDMCwy12WWWaSuLZIgcqi4cK3Ap8sfzJJ3gbC0ZNMRor1cEWggS4K5kiM8nhC_V9FNY1EtKP3VS_fRxU0heV2eGSQw1zz6-zoQZyK_bf6sPPJOMSiaTrETvmjNV-mtoUvFslSuFF9EYnMA-O-MKUADAIM3oCR9LRc1-T4QBgABHgZmffg4x9nRTnAgnQ2fJv1kCjomAlEcDsW_fm275w43hTyy_Fc55moNDAxjHwiTXidOJn-N-XZcgRbnkBi6DT2jc73upZ89XwjyDX_Y8jcA1k2gKJfdzMzVuYqjYJ5v0t-APmtiQLXVzc1KchgCeNDARvsSxU1TRlWUgtSAr0MT54wXrCQaPm9K4oouafLgB3Edo0FLclVUUke0B5flguqxqFHzvJ9GBeyt2QyL1OA4yyVzcz5bzqQfSb9ULtWkVqXRvE8IRIMzg4Isg3wCSoOn3Q4XgmKvCEspfdD5iD_sblxNMLfklido3nGsLl6-59rpYLpxnNM0aXkgoLRX_J6NoqAlTGovPDke-QMBODwjLuWIUR590pkvLTmFVhI4O82dmRNo2iVsZgSG4JOh6xxiFKDpGLouaQ1clwjSYJzyOemromU8D4z4HwyvfaQ8QfXoptcc0i6Lg-eGoWQJR0szUE6jGfponFWY8RivnRjAhpCnxCE4fen1BHzDH45dyaMqnICJljvyvaHvyBMbTnnyoeyzdHliBxe-1jY1ycGhbhnhdISl8UHrjPssnx6ubfyCwtD_FYGO-jM5KQICz7kEqsYPXxMo0R98W3-Sx_aZQMkihopyg0DoSKDP-lNNIRf9-UggqGUJxPBX-vPLBEJfEujY5hLIzSeQd4NAqf5kCHStP0qe_qQE-h39Qb-pPwmfzGNzLUa7NbspSm0V7UdlqeVulJIeEUQc1isE7LkyLbNvRWlhbx9sMrfuZ6v5Ayx3ttH8fsYd7oM5F37KC584G_51eWcQ3zDpzrzbB3db0_ejO8MidBMItuW7skQaamHXc3vMtudeFDIyPjyx1sTZlnz6svQrXCwPml6LqnQ80o135ClMjzSzZxITl-oqtMreQJ22vPc6bFtg8Lx7X3XH6_ZggZwq2faibrc-Hejt1lJfeZ2Jb1N9Uaiqetjd9A9ho6kHBpVUYzScTKUu3Y0lnOTFP2wtc7wumN3HuSvYPpV5uVUZ0DEYM8iLbxIXJb9cfoX8qgOsQCGgZGYGe5mYRp00jWZNMmuNcoUKNttGnlyvCYHjy6V_AX_vO6Y"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Had Franklin BBQ and Terry Black's",
+   "link": "https://www.reddit.com/r/BBQ/comments/1ia41ki/had_franklin_bbq_and_terry_blacks/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFfTrO3_dJere295vIaluPSHHj83Hj9ezX_AhOQQUOdC-RMnBSVhZU3XZgum0iBuEFQpEq2es1PGkcLTcJSF4FBed-2Nqs91M0Zj9ZiT7uM32ds9M465SSDuhLFGKZxf52Bshh6dWBJiQSOeFD4EvY0MdVvPs3C7nBJv64rDiFsrmmXbG&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQFnoECBsQAQ&uoh=1",
+   "displayed_link": "80+ comments \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
+   "snippet": "The brisket was obviously fantastic, ribs were amazing, Terry Black's was also VERY good. Beef rib was gigantic and delicious, sides were great ...",
+   "snippet_highlighted_words": [
+    "The brisket was obviously fantastic"
+   ],
+   "sitelinks": {
+    "list": [
+     {
+      "title": "We brought Franklin BBQ to Terry Blacks for a Head ...",
+      "link": "https://www.google.com/goto?url=CAESmAEB6zswFdqJ04OT1UAs4CLpomb-UWt1jgNkLUshvozJyb7pdPtpKebM-OaCHdQyaiLjxjE2IohwOtOzCEAWKFlJ1j1mUOSdQ6bIyzcM4urR2q-5A-H3QR0KrYqTTPNUH9h-C10e8M9-alL1D7COz1U0LFYt5lC2jWtafQ6OCpr9DcuugW-PB2QQduCEfCiUAbejAtNx31qsAw",
+      "answer_count": 79,
+      "date": "Jan 7, 2023"
+     },
+     {
+      "title": "Best Beef Ribs - Terry Blacks or Franklin Barbecue?",
+      "link": "https://www.google.com/goto?url=CAESngEB6zswFSjsflCQOS1jDNoj5k5JOQfb9e5TDts2HeQGSpqrvxI7Kbh7bDLkCvU18FdT6f_5wf-5-RGNXmReYQ1DXt0i1FZsMKp6Yw-CKP5Ud9lnbQ7vV2YXfomWeaJGSGLcT4lHIcU0_IimbIDKvsiKvpNBkFqxhDT_qdqMkIadmDBMuTbD_bYQ0y0B2Lr12bdALmToefOYAucehx0WLg",
+      "answer_count": 97,
+      "date": "Dec 17, 2024"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The brisket was obviously fantastic, ribs were amazing, Terry Black's was also VERY good. Beef rib was gigantic and delicious, sides were great ...",
+     "source_info_link": "https://www.reddit.com/r/BBQ/comments/1ia41ki/had_franklin_bbq_and_terry_blacks/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/BBQ/comments/1ia41ki/had_franklin_bbq_and_terry_blacks/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FBBQ%2Fcomments%2F1ia41ki%2Fhad_franklin_bbq_and_terry_blacks%2F",
+   "source": "Reddit \u00b7 r/BBQ"
+  },
+  {
+   "position": 2,
+   "title": "Which barbecue is better in Austin, Terry Blacks or Franklins?",
+   "link": "https://www.facebook.com/groups/264043690885893/posts/1673567189933529/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVOjwr1O7_xPma_5dB6xEcZFwOYG_yeNpz4p2leQjmp8t3mh-OHBCC4Nu4InTFsMdh3XihExGQHeHiZuEAEBq0kg1AAx3gliqb0YE6Uss30YqEe6Xqsq1htv-EGH86GTC-wVh8H-ZEh5x2C4KjjhNzSXyRGNZ0G3luyTg&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQFnoECDsQAQ&uoh=1",
+   "displayed_link": "10+ comments \u00b7 1 year ago",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+   "snippet": "Terry blacks or franklins? I got 1 morning in Austin which would you choose?",
+   "sitelinks": {
+    "list": [
+     {
+      "title": "Which is better, Franklin's BBQ or Terry Black's in Austin, Texas?",
+      "link": "https://www.google.com/goto?url=CAESfQHrOzAVOofiA66cSODgEeny7vRjNTxSvDH-yGcLsph926zmhW4xDhDK10_M4iBUrsiKZoOjpbt-R2tmBPU5MQ855oyO4zMxwcqt4oYDIbs33_hDm7JT6WT7Vhdl6zg4V0WwZ4FGaxynXv92Q0mXsX4MDVLlZproDMk0Znu2",
+      "date": "Mar 14, 2024"
+     },
+     {
+      "title": "Comparing BBQ experiences at Franklin's and Terry Black's in ...",
+      "link": "https://www.google.com/goto?url=CAESfwHrOzAVgdZJ5ofvdaF-_wIoekUt4_X4I77qiqC1tdmwEewIycjvVMZ1EIdbh_hkz0-0sADF56_gIXqsZAG3poJVa-thDZlJt4njA4T1Kko4ZWc2dlGIeYN44CLuZ3J4mEi-IfCPqUzSaHgpf_UnNx_VY1LzmnRvFgYRWk3zGec",
+      "date": "May 8, 2024"
+     }
+    ]
+   },
+   "about_this_result": {
+    "source": {
+     "description": "I like Terry Black's atmosphere and selection better. Terry blacks is good but you won't be blown away. From Franklin's famous brisket to Terry ...",
+     "source_info_link": "https://www.facebook.com/groups/264043690885893/posts/1673567189933529/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/groups/264043690885893/posts/1673567189933529/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fgroups%2F264043690885893%2Fposts%2F1673567189933529%2F",
+   "source": "Facebook \u00b7 907 BBQ"
+  },
+  {
+   "position": 3,
+   "title": "Review: I Compared Famous Barbecue in Dallas and Austin",
+   "link": "https://www.businessinsider.com/review-comparing-terry-blacks-and-franklin-barbecue-2024-4",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFe6ipgggEPqRmg4ieSefHLE2tcOmfuO6olcKJ4aZgdZVkSuWf9X2XLdA8h5NxHrW1_yn43IYD36RT03C18ujbArB-g1nXZO0Ptfz6VElJQD8ZV7CjqDI8fy-GzqvlWura-MmTve7xxdtO63g7J6RLCTCHFaXm1u3evyFRMbRpWdkb20UOIKPzoaOrBPYzA&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQFnoECCUQAQ&uoh=1",
+   "displayed_link": "https://www.businessinsider.com \u203a Food \u203a Travel",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEUAJf8AH_8lOP8AAP8AEv_____x8_96gv86Sv-lqP-Mkf_X2v9dZv_Aw__EIWr0AAAAcklEQVR4AWOgKRAUFASRAhAeo5KSErMDg5IShMscGhoaViwRGukA4aYC-VEWSNzU0DAkbrTx1FAPJK7G1mgLFL2bUI3KQVZ8ZmuoBLJRR0NPILhhd0ORuSBn4TKZZdWqVRWGTKvWQL3k4uLiCCSBmIYAAPnOLVSUezd-AAAAAElFTkSuQmCC.png",
+   "date": "Apr 25, 2024",
+   "snippet": "We tried Terry Black's in Dallas and Franklin Barbecue in Austin. Both were delicious but the sides were superior at Terry Black's.",
+   "snippet_highlighted_words": [
+    "Both were delicious"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "We tried Terry Black's in Dallas and Franklin Barbecue in Austin. Both were delicious but the sides were superior at Terry Black's.",
+     "source_info_link": "https://www.businessinsider.com/review-comparing-terry-blacks-and-franklin-barbecue-2024-4",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEUAJf8AH_8lOP8AAP8AEv_____x8_96gv86Sv-lqP-Mkf_X2v9dZv_Aw__EIWr0AAAAcklEQVR4AWOgKRAUFASRAhAeo5KSErMDg5IShMscGhoaViwRGukA4aYC-VEWSNzU0DAkbrTx1FAPJK7G1mgLFL2bUI3KQVZ8ZmuoBLJRR0NPILhhd0ORuSBn4TKZZdWqVRWGTKvWQL3k4uLiCCSBmIYAAPnOLVSUezd-AAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.businessinsider.com/review-comparing-terry-blacks-and-franklin-barbecue-2024-4&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.businessinsider.com%2Freview-comparing-terry-blacks-and-franklin-barbecue-2024-4",
+   "source": "Business Insider"
+  },
+  {
+   "position": 4,
+   "title": "Best BBQ in Austin, TX: Franklin Barbecue vs. Terry Black's BBQ",
+   "link": "https://fivehorizon.com/best-bbq-in-austin-tx-franklin-barbecue-vs-terry-blacks-bbq/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFbutvf-RuOvG70n_jwcGycJnqBngeWX1EM37EK3lFZPPpn5vbVKwHxhmAwhZsQ9zlabiEGMc8Hp4QRox4wEz3af4dlGyWlAfUeoRVkCECVIFyWC9c6Kwjzk9K13FunpOQDDSgLOTv4HdfD7IZ8oMgOM9DMYTCXwM0EshM4RrutvpPjPfZjmmEw&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://fivehorizon.com \u203a best-bbq-in-austin-tx-franklin-...",
+   "date": "Oct 19, 2024",
+   "snippet": "Based on overall experience, I have to say I preferred Terry Black's. The atmosphere, the wait time, the menu options, AND you can see all of ...",
+   "snippet_highlighted_words": [
+    "Based on overall experience, I have to say I preferred Terry Black's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Based on overall experience, I have to say I preferred Terry Black's. The atmosphere, the wait time, the menu options, AND you can see all of ...",
+     "source_info_link": "https://fivehorizon.com/best-bbq-in-austin-tx-franklin-barbecue-vs-terry-blacks-bbq/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://fivehorizon.com/best-bbq-in-austin-tx-franklin-barbecue-vs-terry-blacks-bbq/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffivehorizon.com%2Fbest-bbq-in-austin-tx-franklin-barbecue-vs-terry-blacks-bbq%2F",
+   "source": "fivehorizon.com",
+   "read_more_link": "https://www.google.com/goto?url=CAES5gEB6zswFXfMGM646nznpl1qk_e7-PIlMkeTB2H_TC29r8ra2DYJSB6g7bQhMuUqxBTTL0ruO1jPiGMNsb1hlk7FGKAlLJfsPbxEtv3CwPoy53Rv16NXna-ZZVxYVQ4Jn6IwUdN_i_Xtid9SsL577lwvXXbjjYgbxGiB1JsCNKJOmxbt93cDIOgR4IW9wAIvKuUHh8M5Z04-bR27hZU0cwR_Uu0TZZem7kOgk9aTjYZL2ZwfLU3QXBWR_Vsp3mDz2XjRP9BZbCThdp4XcUJDB8kryYfOdYYSu9KTnGzKgzOYv8koYUixAw"
+  },
+  {
+   "position": 5,
+   "title": "Franklins Vs Terry Black Bbq Austin Tx 2023 Honest Review",
+   "link": "https://www.tiktok.com/discover/franklins-vs-terry-black-bbq-austin-tx-2023-honest-review",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFYdiVxNuDKOVFbwQra0rgpU-MxXc886Cdn2KMYbOQOL9u2A__UBGU-ejQt7oS7PaH8kMTLMcdpm54PPBhcV5XeoZCzpwN8nhua1TusF_aZQt-SgYNokyr45XWF6cderknybMNaRI86SRifwJpJ_5Rk3GyWaK-35iCqXQja7ewD0GjtXuKNLIswht54Ra&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQFnoECCQQAQ&uoh=1",
+   "displayed_link": "https://www.tiktok.com \u203a Discover",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png",
+   "snippet": "Explore the ultimate showdown between Terry Black's and Franklin's BBQ in Austin, TX. Which barbecue spot reigns supreme?See more videos about Terry Blacks ...",
+   "snippet_highlighted_words": [
+    "Explore the ultimate showdown between Terry Black's and Franklin's BBQ"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Explore the ultimate showdown between Terry Black's and Franklin's BBQ in Austin, TX. Which barbecue spot reigns supreme?See more videos about Terry Blacks ...",
+     "source_info_link": "https://www.tiktok.com/discover/franklins-vs-terry-black-bbq-austin-tx-2023-honest-review",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAw1BMVEUAAAAAAAAFT1IAQUNBub6u5eexxcpyQ0wIAABaxsv5____9_nGj5oyAAD____84eeEYmvm4uN4f4A5P0MAFBXx-vu019khAAD60tr37vDlmqpXAAsALzAKc3gpo6hjpqr_6O3idYqcbHTSrLP6iJ9rABOc5Ofi-vvJYnXLbn8_AAI9HyWWIDhRz9TH9PffY3oDAAC99vjhSGe7KEenACiF4-f_1961PVaB09bFkZswjJGwuLr__f7xqbYYHh_9tsTiL1Yh8R0_AAAAAXRSTlP-GuMHfQAAANJJREFUeAG90kUCg1AMBNDiPtTd3d2V-5-quMOS2b6vSXI5IjnZIElSyUgzLMcnoSBKspKMUPMpiEKxVE5EVKr5WgTLBkr1BtBsBbHd6fZKOvYHw1F9PAkgSU9njXlNx8Vyxa2XfmxvtoC0M1GH_d6P3QPU8fFkY_Ar7Q0ag3ONIOKQvOB60i0WqSnUG6FnI6rzMJbvkB76zo5-wk0JIf8EGq9ndzN7f9bRrlQBcTYTcT22iAh-X9Ib7_dPm8Q1u5Zvfpq7c4uIQ56otVrLjEYzJX-4mxcG80U-CwAAAABJRU5ErkJggg.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.tiktok.com/discover/franklins-vs-terry-black-bbq-austin-tx-2023-honest-review&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tiktok.com%2Fdiscover%2Ffranklins-vs-terry-black-bbq-austin-tx-2023-honest-review",
+   "source": "TikTok"
+  },
+  {
+   "position": 6,
+   "title": "Franklin, Terry Black, Micklethwait - Austin Forum",
+   "link": "https://www.tripadvisor.com/ShowTopic-g30196-i229-k14633341-BBQ_planning_Franklin_Terry_Black_Micklethwait-Austin_Texas.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStAEB6zswFcbFh7G-8LtyEwNU4evoX7z4bsMm-vLWiBhPUkGxhmJhN42wRvNEl19mRjDObnuD6Zkbch4UjXvtDbMcF7sxkI5EATHSqbYuZ_QsC0yXu44fBwwdbWgpSqoX-1xqFJV2p9UdgoQFWQocYHZG5DXiBvL2r5FEnBM_lRSVvNUu6_tmsggfDGRimfOrfnRAhfVmxNz7SfXV0Is4-NrwyuQ3D8GD34QRcJ_oZQ2We6OQT1Y&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQFnoECCcQAQ&uoh=1",
+   "displayed_link": "https://www.tripadvisor.com \u203a ... \u203a United States \u203a Texas",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEUA61sA7VwA8F0A814A1lMAvEkAq0IAwksA2VQA7FsA9F4A01IAgTIAJg8AAAAALhIAhTQA41gA3VYAayoAHQsAYSYAnD0AWiMACwUAeS8AFgkADwYAIw4AKxEAyU4A9l8AMxQAEwgAGwsAcSwAQRoAlToAaCkAoD4As0UATx8Ady4Ap0EAPRgAjTfyrsZwAAABNUlEQVR4Ac3RRYLEIBQE0PDpOFTcId7eff_rTWAzeoCpDfJwnP8cxogY-1M4nVzP8wNOXz1kR6JYSNgk6YmbntBalud5UKAsq7Su06Ys2870ZKHBvEc7KJ2MEyfikyu1GlokFh2Wz1r1y4qUOyFtWJdeyd1hjsVYDZvrnxVExC9tch3dy6ADiyGb29t0JJsx3rA7pl63d24nunhMebW7kYuuQRw9X5dsOipmKp3hTs0qkVG_63mKIftueuJJBt_wp13qY46Ucp98aFVNHq4WPZwnF9iiYNB6yajBMk4CLrOP0JZZlJ34dFFal2LicRbFgwrtPalG4lJ0uiwHquGRc-ZJeOTY8DewlMC9KtdtB9QA1NyI1fHxSprjeK-Gwutdv7qYf_2vIxSyzAlDMvW_ftUc4j_nA89zGjJlkfnSAAAAAElFTkSuQmCC.png",
+   "date": "Jan 11, 2024",
+   "snippet": "If you want to eat at Franklin's, be prepared to stand in line for hours. I'd just go on to Terry Black's. Attire at BBQ places = whatever you' ...",
+   "snippet_highlighted_words": [
+    "Franklin's, be prepared to stand in line for hours"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "If you want to eat at Franklin's, be prepared to stand in line for hours. I'd just go on to Terry Black's. Attire at BBQ places = whatever you' ...",
+     "source_info_link": "https://www.tripadvisor.com/ShowTopic-g30196-i229-k14633341-BBQ_planning_Franklin_Terry_Black_Micklethwait-Austin_Texas.html",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAilBMVEUA61sA7VwA8F0A814A1lMAvEkAq0IAwksA2VQA7FsA9F4A01IAgTIAJg8AAAAALhIAhTQA41gA3VYAayoAHQsAYSYAnD0AWiMACwUAeS8AFgkADwYAIw4AKxEAyU4A9l8AMxQAEwgAGwsAcSwAQRoAlToAaCkAoD4As0UATx8Ady4Ap0EAPRgAjTfyrsZwAAABNUlEQVR4Ac3RRYLEIBQE0PDpOFTcId7eff_rTWAzeoCpDfJwnP8cxogY-1M4nVzP8wNOXz1kR6JYSNgk6YmbntBalud5UKAsq7Su06Ys2870ZKHBvEc7KJ2MEyfikyu1GlokFh2Wz1r1y4qUOyFtWJdeyd1hjsVYDZvrnxVExC9tch3dy6ADiyGb29t0JJsx3rA7pl63d24nunhMebW7kYuuQRw9X5dsOipmKp3hTs0qkVG_63mKIftueuJJBt_wp13qY46Ucp98aFVNHq4WPZwnF9iiYNB6yajBMk4CLrOP0JZZlJ34dFFal2LicRbFgwrtPalG4lJ0uiwHquGRc-ZJeOTY8DewlMC9KtdtB9QA1NyI1fHxSprjeK-Gwutdv7qYf_2vIxSyzAlDMvW_ftUc4j_nA89zGjJlkfnSAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://www.tripadvisor.com/ShowTopic-g30196-i229-k14633341-BBQ_planning_Franklin_Terry_Black_Micklethwait-Austin_Texas.html&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.tripadvisor.com%2FShowTopic-g30196-i229-k14633341-BBQ_planning_Franklin_Terry_Black_Micklethwait-Austin_Texas.html",
+   "source": "Tripadvisor"
+  },
+  {
+   "position": 7,
+   "title": "Exploring Austin BBQ - bonitapp\u00e9tit",
+   "link": "https://bonitappetit.com/2022/03/23/exploring-austin-bbq/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVhGCjwbyBPaBb39QaPm4gOUUPJ0cV7eWM-0oFW01lAOVWsAXydVfvIPns4ha8FaykZwkE80m8jn1d-olkeyKin3YJY3T3a6W09kXUDssEZul_RZ_lUor08MOu344TUEXaC1JkHYU78Wzn5Ed7&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://bonitappetit.com \u203a 2022/03/23 \u203a exploring-austi...",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAsElEQVR4AbTSEQwDQRCF4bFzKtedK3WtJ9WjczmsHpXOYfGcmtRzfjIwm0wysMllM_KaYptZKPTXD98joN2_0d81sCqLmUiNEGADoOxt3NlilKFLziXGAlpUEaMUmgsaaKAFa2lhN_UjTQ08nAChe4w0Y9eRIhRQguSF7BtNRIxmVSSKV-l6AOcrHhGeLrd1OHqMhjU9f3-CV_cdcIfDP5BrZmE1Ztu2vOXX8Bo7cJIAW7TqgE42BngAAAAASUVORK5CYII.png",
+   "date": "Mar 23, 2022",
+   "snippet": "I prefer Franklin's pork ribs over Terry Black's for sure. And the vinegar sauce pairs well with the pulled pork. We also tried their pinto ...",
+   "snippet_highlighted_words": [
+    "Franklin's",
+    "Terry Black's"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I prefer Franklin's pork ribs over Terry Black's for sure. And the vinegar sauce pairs well with the pulled pork. We also tried their pinto ...",
+     "source_info_link": "https://bonitappetit.com/2022/03/23/exploring-austin-bbq/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAsElEQVR4AbTSEQwDQRCF4bFzKtedK3WtJ9WjczmsHpXOYfGcmtRzfjIwm0wysMllM_KaYptZKPTXD98joN2_0d81sCqLmUiNEGADoOxt3NlilKFLziXGAlpUEaMUmgsaaKAFa2lhN_UjTQ08nAChe4w0Y9eRIhRQguSF7BtNRIxmVSSKV-l6AOcrHhGeLrd1OHqMhjU9f3-CV_cdcIfDP5BrZmE1Ztu2vOXX8Bo7cJIAW7TqgE42BngAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "US"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search?q=About+https://bonitappetit.com/2022/03/23/exploring-austin-bbq/&tbm=ilp",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fbonitappetit.com%2F2022%2F03%2F23%2Fexploring-austin-bbq%2F",
+   "source": "bonitappetit.com",
+   "read_more_link": "https://www.google.com/goto?url=CAESyAEB6zswFRnJL6g2ZxHzrM6G_JMdhAdzd6DMmDa1KuFajY8Q8y7rYkV63aTQZgZ14rnYoggoKu9DW0poW-wyxzW8vg7aOkzT6WQIUkG0aJjiwK3-0PgOeBWhKrhF_V5UrZwmgZF2-5xXsC8vIP-qVcFu5W-FInRTIiZ-wdbW9JuQgRyxXUWWKZz0L32oLf4hryPqVO1hrwP0f_NiE-rVAli6AGnE5qmrTZXFND9-H1zVFg-I03oKF-_Zz-_f91CK5rIF7fJ8KknNTw"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Franklin bbq or terry blacks",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=Franklin+bbq+or+terry+blacks&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAgfEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+bbq+or+terry+blacks"
+  },
+  {
+   "block_position": 1,
+   "query": "Terry Black BBQ",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=Terry+Black+BBQ&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAgwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Terry+Black+BBQ"
+  },
+  {
+   "block_position": 1,
+   "query": "Terry Black's menu",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=Terry+Black%27s+menu&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAgvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Terry+Black%27s+menu"
+  },
+  {
+   "block_position": 1,
+   "query": "Terry Black's Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=Terry+Black%27s+Austin&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAgsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Terry+Black%27s+Austin"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklin Barbecue menu",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=Franklin+Barbecue+menu&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAgqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklin+Barbecue+menu"
+  },
+  {
+   "block_position": 1,
+   "query": "Terry Black BBQ Dallas",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=Terry+Black+BBQ+Dallas&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAgoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Terry+Black+BBQ+Dallas"
+  },
+  {
+   "block_position": 1,
+   "query": "Franklins BBQ Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=Franklins+BBQ+Austin&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAgiEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Franklins+BBQ+Austin"
+  },
+  {
+   "block_position": 1,
+   "query": "La Barbecue Austin",
+   "link": "https://www.google.com/search?sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&q=La+Barbecue+Austin&sa=X&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ1QJ6BAghEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=La+Barbecue+Austin"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=franklin+barbecue+vs+terry+blacks&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&ei=yQWYarL3Nebf4-EPiOKDoQ8&start=10&sa=N&sstk=AS6-VmIvkDByUvrUe9sg43PXUU91uFfV-D3woZvmxv-ehfQNb54UoWKRqMpraV0ml9E0eldMbWxQroz9LsInCQJj4jzsp3LHu_S2Og&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ8NMDegQIQhAM",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=franklin+barbecue+vs+terry+blacks&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&ei=yQWYarL3Nebf4-EPiOKDoQ8&start=10&sa=N&sstk=AS6-VmIvkDByUvrUe9sg43PXUU91uFfV-D3woZvmxv-ehfQNb54UoWKRqMpraV0ml9E0eldMbWxQroz9LsInCQJj4jzsp3LHu_S2Og&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ8tMDegQIQhAE",
+   "3": "https://www.google.com/search?q=franklin+barbecue+vs+terry+blacks&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&ei=yQWYarL3Nebf4-EPiOKDoQ8&start=20&sa=N&sstk=AS6-VmIvkDByUvrUe9sg43PXUU91uFfV-D3woZvmxv-ehfQNb54UoWKRqMpraV0ml9E0eldMbWxQroz9LsInCQJj4jzsp3LHu_S2Og&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ8tMDegQIQhAG",
+   "4": "https://www.google.com/search?q=franklin+barbecue+vs+terry+blacks&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&ei=yQWYarL3Nebf4-EPiOKDoQ8&start=30&sa=N&sstk=AS6-VmIvkDByUvrUe9sg43PXUU91uFfV-D3woZvmxv-ehfQNb54UoWKRqMpraV0ml9E0eldMbWxQroz9LsInCQJj4jzsp3LHu_S2Og&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ8tMDegQIQhAI",
+   "5": "https://www.google.com/search?q=franklin+barbecue+vs+terry+blacks&sca_esv=aeb6a8b850e5723c&gl=us&hl=en&sxsrf=APpeQntaQADo30hT-AI_1fM4FVkk1jpr1A:1788347849891&ei=yQWYarL3Nebf4-EPiOKDoQ8&start=40&sa=N&sstk=AS6-VmIvkDByUvrUe9sg43PXUU91uFfV-D3woZvmxv-ehfQNb54UoWKRqMpraV0ml9E0eldMbWxQroz9LsInCQJj4jzsp3LHu_S2Og&ved=2ahUKEwjy_87y4s-WAxXm7zgGHQjxIPQQ8tMDegQIQhAK"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=franklin+barbecue+vs+terry+blacks&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=franklin+barbecue+vs+terry+blacks&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=franklin+barbecue+vs+terry+blacks&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=franklin+barbecue+vs+terry+blacks&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=franklin+barbecue+vs+terry+blacks&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=franklin+barbecue+vs+terry+blacks&start=40"
+  }
+ }
+}

@@ -1,0 +1,443 @@
+{
+ "search_metadata": {
+  "id": "6a98058199d5f4cc1aff8e56",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/xilJ94snNmfIrs4UVrx25ZFCCFldjxF3hCPuTHEPoVA/6a98058199d5f4cc1aff8e56.json",
+  "markdown_endpoint": "https://serpapi.com/searches/xilJ94snNmfIrs4UVrx25ZFCCFldjxF3hCPuTHEPoVA/6a98058199d5f4cc1aff8e56.md",
+  "created_at": "2026-09-02 11:16:17 UTC",
+  "processed_at": "2026-09-02 11:16:17 UTC",
+  "yelp_url": "https://www.yelp.com/search?find_desc=Iron+Works+Barbecue&find_loc=Austin%2C+TX%2C+USA",
+  "raw_html_file": "https://serpapi.com/searches/xilJ94snNmfIrs4UVrx25ZFCCFldjxF3hCPuTHEPoVA/6a98058199d5f4cc1aff8e56.html",
+  "total_time_taken": 2.46
+ },
+ "search_parameters": {
+  "engine": "yelp",
+  "find_desc": "Iron Works Barbecue",
+  "find_loc": "Austin, TX, USA"
+ },
+ "filters": {
+  "category": [
+   {
+    "text": "Mexican",
+    "value": "mexican"
+   },
+   {
+    "text": "Food Trucks",
+    "value": "foodtrucks"
+   },
+   {
+    "text": "BBQ & Barbecue",
+    "value": "bbq"
+   },
+   {
+    "text": "Restaurants",
+    "value": "restaurants"
+   },
+   {
+    "text": "Korean",
+    "value": "korean"
+   },
+   {
+    "text": "Music Venues",
+    "value": "musicvenues"
+   }
+  ],
+  "price": [
+   {
+    "text": "$",
+    "value": "RestaurantsPriceRange2.1"
+   },
+   {
+    "text": "$$",
+    "value": "RestaurantsPriceRange2.2"
+   },
+   {
+    "text": "$$$",
+    "value": "RestaurantsPriceRange2.3"
+   },
+   {
+    "text": "$$$$",
+    "value": "RestaurantsPriceRange2.4"
+   }
+  ],
+  "distance": [
+   {
+    "text": "Within 2 miles",
+    "value": "g:-97.78329849243164,30.282936335784672,-97.73214340209961,30.327397491366572"
+   },
+   {
+    "text": "Bird's-eye View",
+    "value": "g:-97.86003112792969,30.21635515266855,-97.65541076660156,30.394199462058317"
+   },
+   {
+    "text": "Within 4 blocks",
+    "value": "g:-97.76091814041138,30.302372046570763,-97.75452375411987,30.307929692159156"
+   },
+   {
+    "text": "Within 1 mile",
+    "value": "g:-97.77050971984863,30.294053515036044,-97.74493217468262,30.316284093102404"
+   },
+   {
+    "text": "Within 5 miles",
+    "value": "g:-97.80887603759766,30.260549927069945,-97.7065658569336,30.349472368261814"
+   }
+  ]
+ },
+ "ads_results": [
+  {
+   "block_position": "top",
+   "place_ids": [
+    "DV92UfXz_Lzyl4qi1w5c-w",
+    "cedar-valley-hot-stuffed-pizza-shop-austin"
+   ],
+   "title": "Cedar Valley Hot Stuffed Pizza Shop",
+   "link": "https://www.yelp.com/adredir?ad_business_id=DV92UfXz_Lzyl4qi1w5c-w&amp;campaign_id=223983611&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fen.yelp.com.hk%2Fbiz%2Fcedar-valley-hot-stuffed-pizza-shop-austin&amp;request_id=5a14c232ae1fe357&amp;signature=c47a1fbebfa3eb84fc54778aa4d827abffd66b1a7e8870eaaa3743ee879c583a&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=DV92UfXz_Lzyl4qi1w5c-w&start=0",
+   "categories": [
+    {
+     "title": "Pizza",
+     "link": "https://www.yelp.com/search?find_desc=Pizza&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "rating": 5.0,
+   "reviews": 2,
+   "neighborhoods": "Austin",
+   "phone": "(512) 288-4243",
+   "snippet": "Cedar Valley Hot Stuffed Pizza",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/L73pmQhswXNxTqZJ3O7hwg/ls.jpg"
+  },
+  {
+   "block_position": "bottom",
+   "place_ids": [
+    "BeaMTjBLSpNYzAol4fuq8Q",
+    "bobs-steak-and-chop-house-austin-barton-creek-austin"
+   ],
+   "title": "Bob\u2019s Steak & Chop House - Austin Barton Creek",
+   "link": "https://www.yelp.com/adredir?ad_business_id=BeaMTjBLSpNYzAol4fuq8Q&amp;campaign_id=204543255&amp;click_origin=search_results&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fen.yelp.com.hk%2Fbiz%2Fbobs-steak-and-chop-house-austin-barton-creek-austin&amp;request_id=5a14c232ae1fe357&amp;signature=fdbb8312cbbcc7f3c6e414e60df86bdcd62d177f8f2947508c5d9d0eb5bafacc&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=BeaMTjBLSpNYzAol4fuq8Q&start=0",
+   "categories": [
+    {
+     "title": "Steakhouses",
+     "link": "https://www.yelp.com/search?find_desc=Steakhouses&amp;find_loc=Austin%2C+TX"
+    },
+    {
+     "title": "Desserts",
+     "link": "https://www.yelp.com/search?find_desc=Desserts&amp;find_loc=Austin%2C+TX"
+    },
+    {
+     "title": "Seafood",
+     "link": "https://www.yelp.com/search?find_desc=Seafood&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "price": "$$$$",
+   "rating": 3.8,
+   "reviews": 74,
+   "neighborhoods": "Omni Barton Creek Resort & Spa",
+   "open_state": "Closed until 5:00 pm",
+   "offer_details": {
+    "title": "Bob\u2019s Steak and Chop House",
+    "description": "Savor an unforgettable meal at Bob's Steak and Chop House at Omni Barton Creek. Indulge in prime steaks, chops, and fresh seafood, paired with fine wines in an elegant yet lively atmosphere. A perfect setting for a dining experience that combines sophistication with bold flavors."
+   },
+   "phone": "+1-512-306-5830",
+   "button": {
+    "text": "See Offer",
+    "link": "https://www.yelp.com/adredir?ad_business_id=BeaMTjBLSpNYzAol4fuq8Q&amp;campaign_id=204543255&amp;click_origin=search_results&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fen.yelp.com.hk%2Fbiz%2Fbobs-steak-and-chop-house-austin-barton-creek-austin%3Foffer_id%3DRS8UssqajnOM71cLwU7pDw&amp;request_id=5a14c232ae1fe357&amp;signature=55baf587a497de32ccfbf285802d6bea2d05b0916aebcb7aa3acdd40b67ab831&amp;slot=0&amp;cta_value=See Offer"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/x8QBQQ_CdAsT9FmICrzSYQ/ls.jpg"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "place_ids": [
+    "fP8YU03hNC4MfzPp8JVMYg",
+    "iron-works-barbecue-austin"
+   ],
+   "title": "Iron Works Barbecue",
+   "link": "https://www.yelp.com/biz/iron-works-barbecue-austin?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=fP8YU03hNC4MfzPp8JVMYg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 3.7,
+   "reviews": 1300,
+   "neighborhoods": "Downtown",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "People come into my pub and ask me all the time \"what's the best barbecue in Austin?\"...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XQbPKMXqZkkq525TXfqh9g/ls.jpg"
+  },
+  {
+   "position": 2,
+   "place_ids": [
+    "YZs1gNSh_sN8JmN_nrpxeA",
+    "terry-blacks-barbecue-austin"
+   ],
+   "title": "Terry Black's Barbecue",
+   "link": "https://www.yelp.com/biz/terry-blacks-barbecue-austin?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=YZs1gNSh_sN8JmN_nrpxeA&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Southern",
+     "link": "https://www.yelp.com/search?find_desc=Southern&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.5,
+   "reviews": 9100,
+   "neighborhoods": "Bouldin Creek",
+   "open_state": "Closed until 10:30 am",
+   "snippet": "They also have a great selection of merchandise if you're into barbecue swag, with some really nice...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XT81AQCAwt2t_Rt_sbaKTg/ls.jpg"
+  },
+  {
+   "position": 3,
+   "place_ids": [
+    "EPkf96UcG2W3ttlQphWUGQ",
+    "la-barbecue-austin-3"
+   ],
+   "title": "la Barbecue",
+   "link": "https://www.yelp.com/biz/la-barbecue-austin-3?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=EPkf96UcG2W3ttlQphWUGQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.3,
+   "reviews": 3200,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "La Barbecue is world class. Ribs were equally excellent - smokey sweet and moist, tender.",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Kbva2hytfmTfDeXsftHEOA/ls.jpg"
+  },
+  {
+   "position": 4,
+   "place_ids": [
+    "MGzro82Fi4LYvc86acoONQ",
+    "franklin-barbecue-austin"
+   ],
+   "title": "Franklin Barbecue",
+   "link": "https://www.yelp.com/biz/franklin-barbecue-austin?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=MGzro82Fi4LYvc86acoONQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$$",
+   "rating": 4.5,
+   "reviews": 6500,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "This was the best barbecue brisket and pork ribs I've ever had. We tried the brisket, the pork ribs...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/MsXhN-6ehWVBsykS3TP5ng/ls.jpg"
+  },
+  {
+   "position": 5,
+   "place_ids": [
+    "zDVjN3dC9EfQno21m3O8Pg",
+    "stiles-switch-bbq-and-brew-austin"
+   ],
+   "title": "Stiles Switch BBQ & Brew",
+   "link": "https://www.yelp.com/biz/stiles-switch-bbq-and-brew-austin?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=zDVjN3dC9EfQno21m3O8Pg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Chicken Wings",
+     "link": "https://www.yelp.com/search?find_desc=Chicken+Wings&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.1,
+   "reviews": 2200,
+   "neighborhoods": "Brentwood",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "That was the best decision I made on trying BBQ restaurants in Austin.",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/zDVjN3dC9EfQno21m3O8Pg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/SOB12FqU1NyAiLlEkvJNPw/ls.jpg"
+  },
+  {
+   "position": 6,
+   "place_ids": [
+    "ih_MxWyh3OswxzG857v6TQ",
+    "rudys-country-store-and-bar-b-q-austin-11"
+   ],
+   "title": "Rudy's \"Country Store\" and Bar-B-Q",
+   "link": "https://www.yelp.com/biz/rudys-country-store-and-bar-b-q-austin-11?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=ih_MxWyh3OswxzG857v6TQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Gas Stations",
+     "link": "https://www.yelp.com/search?find_desc=Gas+Stations&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Takeaway & Fast Food",
+     "link": "https://www.yelp.com/search?find_desc=Takeaway+%26+Fast+Food&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 1200,
+   "neighborhoods": "Austin",
+   "open_state": "Open until 9:00 pm",
+   "snippet": "The focus of Rudy's barbecue, like much of Central Texas barbecue, is the quality and tenderness of...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/ih_MxWyh3OswxzG857v6TQ?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/EVezs810oqVLo4X9471fyg/ls.jpg"
+  },
+  {
+   "position": 7,
+   "place_ids": [
+    "WUHaV3UkpIl2IepGUnVjog",
+    "b-cooper-barbecue-austin-2"
+   ],
+   "title": "B. Cooper Barbecue",
+   "link": "https://www.yelp.com/biz/b-cooper-barbecue-austin-2?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=WUHaV3UkpIl2IepGUnVjog&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "rating": 4.8,
+   "reviews": 62,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 4:00 pm tomorrow",
+   "snippet": "Cooked perfectly. Brisket goes better with the spicy BBQ here to balance the flavor and add some...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Rlq2Wq5e-NfA-UuLGY-lJA/ls.jpg"
+  },
+  {
+   "position": 8,
+   "place_ids": [
+    "eJ7X_8KXVlyHZtGrrLz4yg",
+    "lamberts-downtown-barbecue-austin"
+   ],
+   "title": "Lamberts Downtown Barbecue",
+   "link": "https://www.yelp.com/biz/lamberts-downtown-barbecue-austin?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=eJ7X_8KXVlyHZtGrrLz4yg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Bars",
+     "link": "https://www.yelp.com/search?find_desc=Bars&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Music Venues",
+     "link": "https://www.yelp.com/search?find_desc=Music+Venues&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 3.8,
+   "reviews": 2100,
+   "neighborhoods": "Warehouse District",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "They improved on Texas BBQ. That is different from saying that Lamberts perfectly nails Texas BBQ.",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/eJ7X_8KXVlyHZtGrrLz4yg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/ukf78XERg_kBaNFMWVV37g/ls.jpg"
+  },
+  {
+   "position": 9,
+   "place_ids": [
+    "9e5lIroM6Eyd4aS26pWWEQ",
+    "coopers-old-time-pit-bar-b-que-austin"
+   ],
+   "title": "Cooper's Old Time Pit Bar-B-Que",
+   "link": "https://www.yelp.com/biz/coopers-old-time-pit-bar-b-que-austin?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=9e5lIroM6Eyd4aS26pWWEQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sports Bars",
+     "link": "https://www.yelp.com/search?find_desc=Sports+Bars&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Cocktail Bars",
+     "link": "https://www.yelp.com/search?find_desc=Cocktail+Bars&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.0,
+   "reviews": 2300,
+   "neighborhoods": "Downtown",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "It is NOT great barbecue or even good barbecue. Good barbecue means incredible meat taste.",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/9e5lIroM6Eyd4aS26pWWEQ?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/WBndUE_7HZUf8z31NauKYw/ls.jpg"
+  },
+  {
+   "position": 10,
+   "place_ids": [
+    "-zfm3zSoMNkLXyBZqseczw",
+    "interstellar-bbq-austin"
+   ],
+   "title": "Interstellar BBQ",
+   "link": "https://www.yelp.com/biz/interstellar-bbq-austin?osq=Iron+Works+Barbecue",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=-zfm3zSoMNkLXyBZqseczw&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 883,
+   "neighborhoods": "Lake Creek Village",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "Our order had almost everything we love about Texas barbecue: Brisket, sausage, and a beef rib.",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/GYFw3UqbfxwOgRRDL3EJDw/ls.jpg"
+  }
+ ],
+ "pagination": {
+  "next": "https://www.yelp.com.sg/search?find_desc=Iron+Works+Barbecue&find_loc=Austin%2C+TX%2C+USA&start=10"
+ },
+ "serpapi_pagination": {
+  "next_link": "https://serpapi.com/search.json?engine=yelp&find_desc=Iron+Works+Barbecue&find_loc=Austin%2C+TX%2C+USA&start=10",
+  "next": "https://serpapi.com/search.json?engine=yelp&find_desc=Iron+Works+Barbecue&find_loc=Austin%2C+TX%2C+USA&start=10"
+ }
+}

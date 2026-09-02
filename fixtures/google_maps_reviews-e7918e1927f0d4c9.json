@@ -1,0 +1,366 @@
+{
+ "search_metadata": {
+  "id": "6a9804d0529e4b3edf914f30",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/e_GYBTfCZAW3l-2faclbmmwlW3UrvMsw5W6Z3LRGXBs/6a9804d0529e4b3edf914f30.json",
+  "markdown_endpoint": "https://serpapi.com/searches/e_GYBTfCZAW3l-2faclbmmwlW3UrvMsw5W6Z3LRGXBs/6a9804d0529e4b3edf914f30.md",
+  "created_at": "2026-09-02 11:13:20 UTC",
+  "processed_at": "2026-09-02 11:13:20 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b50871079ba1:0xc2343145a767207f!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/e_GYBTfCZAW3l-2faclbmmwlW3UrvMsw5W6Z3LRGXBs/6a9804d0529e4b3edf914f30.html",
+  "prettify_html_file": "https://serpapi.com/searches/e_GYBTfCZAW3l-2faclbmmwlW3UrvMsw5W6Z3LRGXBs/6a9804d0529e4b3edf914f30.prettify",
+  "total_time_taken": 2.1
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b50871079ba1:0xc2343145a767207f",
+  "hl": "en",
+  "sort_by": "ratingLow"
+ },
+ "place_info": {
+  "title": "Cooper's Old Time Pit Bar-B-Que",
+  "address": "217 Congress Ave., Austin, TX 78701",
+  "rating": 4.4,
+  "reviews": 6717,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 159,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef ribs",
+   "mentions": 347,
+   "id": "EapRBH6_SRk"
+  },
+  {
+   "keyword": "bench seating",
+   "mentions": 6,
+   "id": "BFlfY_7e780"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 237,
+   "id": "AgpY-9eTufU"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 125,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 15,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "jalape\u00f1o mac and cheese",
+   "mentions": 76,
+   "id": "aluaKNEneQY"
+  },
+  {
+   "keyword": "pinto beans",
+   "mentions": 86,
+   "id": "CgyLIfL9aKU"
+  },
+  {
+   "keyword": "seating options",
+   "mentions": 5,
+   "id": "EBDGJGre1s0"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 724,
+   "id": "Ew6aYjb7Lyk"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0bVdGVXRiemxpVUZnd1oxcFFkSGx0VlVkc1NHYxAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOktmWFUtbzliUFgwZ1pQdHltVUdsSGc%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "3 weeks ago",
+   "iso_date": "2026-08-05T22:36:09Z",
+   "iso_date_of_last_edit": "2026-08-05T22:36:09Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bVdGVXRiemxpVUZnd1oxcFFkSGx0VlVkc1NHYxAB",
+   "user": {
+    "name": "Emily Farmer",
+    "link": "https://www.google.com/maps/contrib/111413878151163673860?hl=en-US",
+    "contributor_id": "111413878151163673860",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXbIjP_LWLmmV5fJAmWYQZyAzQDs_H0qBmDHfJ70MZFrqlpwMg=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 10,
+    "photos": 0
+   },
+   "snippet": "It made me sad, because the manager was so nice, but the ribs are bone-in jerky. I have never had to fight or gnaw to get pork off of a rib like that before. I made my self eat it because I paid $30 for 4 ribs. It made me miss KY (fall off the bone with tacky sauce covering the top). These were dehydrated and caked in cracked pepper. The boiled corn, free bread, and pickles were nice though.",
+   "extracted_snippet": {
+    "original": "It made me sad, because the manager was so nice, but the ribs are bone-in jerky. I have never had to fight or gnaw to get pork off of a rib like that before. I made my self eat it because I paid $30 for 4 ribs. It made me miss KY (fall off the bone with tacky sauce covering the top). These were dehydrated and caked in cracked pepper. The boiled corn, free bread, and pickles were nice though."
+   },
+   "details": {
+    "price_per_person": "$30\u201340",
+    "food": 1,
+    "service": 4,
+    "atmosphere": 3,
+    "noise_level": "Loud, but you can still talk",
+    "seating_type": "Indoor dining area",
+    "wheelchair_accessibility": "Good"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tnd1lscGZWRkJOVFdsUGRFaDJSREZZT1RGVE1tYxAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOkgwYlpfVFBNTWlPdEh2RDFYOTFTMmc%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "11 months ago",
+   "iso_date": "2025-09-16T20:01:34Z",
+   "iso_date_of_last_edit": "2025-09-16T20:01:34Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNytv3EZtj4M4QD4ueisoE6T00Bljl9P-TaGXIyzkMzeUcPoBZPM2Wdi8hXagUl8fjdlEEcS0rCu0i7rXdpGirb0Og4VI5gQsChwtkTsuZOK5dm0v8wHNeuuu74FbWE0UNUmsAlyCyR4LrN=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM1HFlCpvDEakyvX6fxjFigzoUctn3zzqeTRtxYRmcIas5kw--70QdCKv_3wdMeC5gd8DdazsST0BsfDsE36DlztQe8EnTu7Pd82oTdESNoKSz7noyLiIKqyvWku2KDLnRe0_ELu6mM8h6c=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnd1lscGZWRkJOVFdsUGRFaDJSREZZT1RGVE1tYxAB",
+   "user": {
+    "name": "Omar Wagih",
+    "link": "https://www.google.com/maps/contrib/114023070270706786333?hl=en-US",
+    "contributor_id": "114023070270706786333",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU3X6rsPCPLCtrHpfiKDOJN7TolaMq5XJHKYw-MVGSrzA3sNXl8=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 43,
+    "photos": 28
+   },
+   "snippet": "They served me more than I expected after telling them this was my first time having bbq in Texas. Definitely a tourist trap. Brisket, and ribs were dry and over salted. Sides were average. I\u2019m sure there are much better BBQ joints in town.",
+   "extracted_snippet": {
+    "original": "They served me more than I expected after telling them this was my first time having bbq in Texas. Definitely a tourist trap. Brisket, and ribs were dry and over salted. Sides were average. I\u2019m sure there are much better BBQ joints in town."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$50\u2013100",
+    "food": 1,
+    "service": 2,
+    "atmosphere": 3,
+    "group_size": "1 person",
+    "seating_type": "Indoor dining area"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WaGJGcFFTemsyVW14NlZsWmFaR1JyVVVKQ1dFRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOnVhbFpQSzk2Umx6VlZaZGRrUUJCWEE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-17T04:11:05Z",
+   "iso_date_of_last_edit": "2026-04-17T04:11:05Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WaGJGcFFTemsyVW14NlZsWmFaR1JyVVVKQ1dFRRAB",
+   "user": {
+    "name": "Eli Winningham",
+    "link": "https://www.google.com/maps/contrib/112546231720895514335?hl=en-US",
+    "contributor_id": "112546231720895514335",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIXSQM3tp86qSevjTBhWwb7MGv1GzQ2idzzoRmaaoqQvaKClg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 19,
+    "photos": 1
+   },
+   "snippet": "Staff are extremely aggressive in trying to sell more (very expensive) food by the pound than you can possibly eat or want.  Menu options aren't clear and staff are extremely impatient as customers try to understand the options and pricing.  I told them I wanted 1/4 pound so they cut off 1/2 pound and told me I needed to take that.  They angrily cut it down to 1/4 pound only when I firmly refused.  One lady in our group was sold 2lbs of brisket for a total of $80 when she couldn't possibly eat, or afford, more than 1/4 lb.",
+   "extracted_snippet": {
+    "original": "Staff are extremely aggressive in trying to sell more (very expensive) food by the pound than you can possibly eat or want.  Menu options aren't clear and staff are extremely impatient as customers try to understand the options and pricing.  I told them I wanted 1/4 pound so they cut off 1/2 pound and told me I needed to take that.  They angrily cut it down to 1/4 pound only when I firmly refused.  One lady in our group was sold 2lbs of brisket for a total of $80 when she couldn't possibly eat, or afford, more than 1/4 lb."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$20\u201330",
+    "food": 3,
+    "service": 1,
+    "atmosphere": 2,
+    "group_size": "5-8 people",
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21RdFRWWkNNSEZ6VFUxaGFIUmpWbEJpVUVsUWVrRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOmQtTVZCMHFzTU1haHRjVlBiUElQekE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-23T23:50:15Z",
+   "iso_date_of_last_edit": "2026-05-23T23:50:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOyKewZwwQT1L93akuj3Efq1A0F5F7yP_VTD6B1P3eYBOWB_odmVUXfUxaSsDU1031FD_JnXMmy80GJahgD8J5PeP6DrgUW8Jw6KNwb2RU8CORBPDof06E1FhL_DBAD29I_vbBHk5_UKTI=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RdFRWWkNNSEZ6VFUxaGFIUmpWbEJpVUVsUWVrRRAB",
+   "user": {
+    "name": "Armando Garcia",
+    "link": "https://www.google.com/maps/contrib/110956828591305553564?hl=en-US",
+    "contributor_id": "110956828591305553564",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV4cq1m78Nnxhnmh5ruKTGnb2GrVvpp1Mz5QNDpNKBEyEi8o5A=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 5,
+    "photos": 1
+   },
+   "snippet": "You're looking at $100 for this meal here... maybe I just got unlucky, but everything was salty...Honestly, I think it's expensive for what it is.",
+   "extracted_snippet": {
+    "original": "You're looking at $100 for this meal here... maybe I just got unlucky, but everything was salty...Honestly, I think it's expensive for what it is."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$50\u201360",
+    "food": 2,
+    "service": 4,
+    "atmosphere": 3,
+    "reservation": "Not sure",
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURkbjZteDJRRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CIHM0ogKEICAgIDdn6mx2QE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 years ago",
+   "iso_date": "2024-02-28T20:17:56Z",
+   "iso_date_of_last_edit": "2024-02-28T20:17:56Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMB_fOdgzMXR6vaB9Kf99a3MQ1xjY7vNfFNszmU1WWl8W_1G2f_VoQEJJC0QNGa0C3njMUAURc8XTZlKa9xRA7vWTUEEQ4JN_0DAtVPzePZvFPOPl7IvHu1DEVlknUBObo6bI_U=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOIbtiiin5Wbmg_k6RxpsJlsnOubgSvk2cSlXO9b0vgUAM7T0QN3rhh88beqPXp7Z5g_zRZFXihNmwZQF-eV3360wEi8YYfCw-R1xZMenIQM13WgHJ63OeZmKhPVuU--JUdjeOZLw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNJx2FQm-ZIuzL0Ho69xABxvoka7XLTDCDTDESEy7cF8sHrSj5xQDZM1vzdAI4unjCvvH1NwwQ00AOGZX2tLrXfaqnQT3KPCdQmHZLROgFLNFCjT6Qo76Kh-XeYKjycUfrm3LJOHg=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN9_o6auSf64YbnoB21MHoKeJPMpSUvrNlO2eeexE92tIBDyxReVUt3wwM37rQfdYh71kPKDC5f8WCT7FAwi0HDbLijoeM-Vt4Q7Al9Ta994HXN44usF_zqRRREp54Rlao3OBGm=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOFxIQwQtJJD6XHdlf3W7Ip3Na1ZRbyQ7awpehGikYR-0HXERh916LDD1mANptohWwN8Tmm6latm_OM1Y_0j7S_nu6IC1GTNotU9qWcsq34dfPhs28LCku4CVp4gI3mavT3nYRQ5w=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkbjZteDJRRRAB",
+   "user": {
+    "name": "Sirius Fidelity",
+    "link": "https://www.google.com/maps/contrib/101310424322869307519?hl=en-US",
+    "contributor_id": "101310424322869307519",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJKE3bPjTt0a8CimrJl53HU12yy0hdzxTdAzE7hQ526UoTVJQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 92,
+    "photos": 240
+   },
+   "snippet": "I've traveled to a lot of places and consider myself not to have a picky palate. Cooper's was recommended to us by a local resident...AFTER I insisted that I preferred Rudy's BBQ, as I tried it in New Mexico and enjoyed it.\n\nThey insisted that Cooper's was a must try. Since I wanted to give something new a try...boy were we WRONG.\n\nCooper's BBQ isn't the spot. The food is HORRIBLE and very costly. Very bland, \"raisins in the potatoe salad\" nasty. If you feel my drift.\n\nI had one beef rib, pork loin, bacon and Jalape\u00f1o mac and cheese,  and some banana pudding.  The bill came to over $51.00\n\nTried to put BBQ sauce on it, and it literally was watery based hot sauce. Very runny. I'm confused on the 5 star reviews.\n\nI agree with the review from Dimtry located below... Beef Rib was flavorless, dry, and very hard to chew/cut. Tried to put BBQ sauce on it to maybe help the taste...nah. Didn't help.\n\nSorry Austin. If this place is your \"Best version\" of Texas BBQ...then you'd might-as-well eat a McRib from McDonald's.  (Never had one).\n\nIt had mobile pay-to-park for $2.90 Clean restaurant,  Texas BBQ themed restaurant with a friendly staff...but this\n\nThis review is only based on the food.",
+   "extracted_snippet": {
+    "original": "I've traveled to a lot of places and consider myself not to have a picky palate. Cooper's was recommended to us by a local resident...AFTER I insisted that I preferred Rudy's BBQ, as I tried it in New Mexico and enjoyed it.\n\nThey insisted that Cooper's was a must try. Since I wanted to give something new a try...boy were we WRONG.\n\nCooper's BBQ isn't the spot. The food is HORRIBLE and very costly. Very bland, \"raisins in the potatoe salad\" nasty. If you feel my drift.\n\nI had one beef rib, pork loin, bacon and Jalape\u00f1o mac and cheese,  and some banana pudding.  The bill came to over $51.00\n\nTried to put BBQ sauce on it, and it literally was watery based hot sauce. Very runny. I'm confused on the 5 star reviews.\n\nI agree with the review from Dimtry located below... Beef Rib was flavorless, dry, and very hard to chew/cut. Tried to put BBQ sauce on it to maybe help the taste...nah. Didn't help.\n\nSorry Austin. If this place is your \"Best version\" of Texas BBQ...then you'd might-as-well eat a McRib from McDonald's.  (Never had one).\n\nIt had mobile pay-to-park for $2.90 Clean restaurant,  Texas BBQ themed restaurant with a friendly staff...but this\n\nThis review is only based on the food."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$50\u2013100",
+    "food": 1,
+    "service": 5,
+    "atmosphere": 5,
+    "parking_space": "Somewhat difficult to find parking",
+    "parking_options": "Paid street parking",
+    "wheelchair_accessibility": "This location does have a ramp for wheelchair or other mobility needs"
+   },
+   "likes": 4
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsbGJVWmFOMTh6YWtabVUyVlZiRmhNY2xWUk9WRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOlllbUZaN18zakZmU2VVbFhMclVROVE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "7 months ago",
+   "iso_date": "2026-01-20T08:18:15Z",
+   "iso_date_of_last_edit": "2026-01-20T08:18:15Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbGJVWmFOMTh6YWtabVUyVlZiRmhNY2xWUk9WRRAB",
+   "user": {
+    "name": "Teresa Miller",
+    "link": "https://www.google.com/maps/contrib/107440932235902523411?hl=en-US",
+    "contributor_id": "107440932235902523411",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIKZ_co1AW7MZ4b6RSUx24GvDjoBMtgbrBDn2-vqMX4SqYW0A=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 15,
+    "photos": 1
+   },
+   "snippet": "High priced. Unsliced meat.  Burnt brisket. Brisket given in big chunk like pot roast. Feel like I needed gravy not BBQ sauce. Not a good example of Texas BBQ.  Hot inside.",
+   "extracted_snippet": {
+    "original": "High priced. Unsliced meat.  Burnt brisket. Brisket given in big chunk like pot roast. Feel like I needed gravy not BBQ sauce. Not a good example of Texas BBQ.  Hot inside."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$70\u201380",
+    "food": 2,
+    "service": 2,
+    "atmosphere": 2,
+    "group_size": "2 people",
+    "seating_type": "Indoor dining area",
+    "parking_space": "Difficult to find parking",
+    "parking": "Congress ATX"
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1TWJrRjZUaTFIWnpWaVprOUZjRmR4YTNWak1sRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOk5MbkF6Ti1HZzViZk9FcFdxa3VjMlE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "10 months ago",
+   "iso_date": "2025-10-25T21:54:15Z",
+   "iso_date_of_last_edit": "2025-10-25T21:54:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOeUBIxviMYSFoSOp8ONXeLTzT-YowoN3yAfZc0slkRLEvANrbwsWJ0IdU9yzy-ogOgTWWUYDVLLKi2Uc5rUHG2ok-4aXf7iLDhB4CuiD7N8sOH2gPKlIvCIxJj2Kgy4L07h2QFPZwSoIZg=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM1Dok1Nqafb9O0bsNkBavIUP1tGzYHkij1ZEKtkCoSv7k5-3Y7ZVtbPaHMegp3l7lXOI6jW2b3KOaceL2gkPHGPa7aVx404dvFhWWv0PbqEpstsqfXEmmXX3srsf_NPZ-H9lI7SlO49pY=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TWJrRjZUaTFIWnpWaVprOUZjRmR4YTNWak1sRRAB",
+   "user": {
+    "name": "Wynona",
+    "link": "https://www.google.com/maps/contrib/104221772655058507787?hl=en-US",
+    "contributor_id": "104221772655058507787",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV-Ax1H8nWFUsGvfXEzlDFOWamRkpVRtWIvH-3bEaeGTE4FSpmM=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 91,
+    "photos": 218
+   },
+   "snippet": "This BBQ is definitely the worst in Texas. It\u2019s so salty that I wouldn\u2019t even consider coming back. And don\u2019t even get me started on the parking. It\u2019s incredibly difficult to find a spot nearby.",
+   "extracted_snippet": {
+    "original": "This BBQ is definitely the worst in Texas. It\u2019s so salty that I wouldn\u2019t even consider coming back. And don\u2019t even get me started on the parking. It\u2019s incredibly difficult to find a spot nearby."
+   },
+   "details": {
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOcmFFaGhabWN0TWpOTWRFRmxNMng1VlhKMmFrRRAB!2m1!1s0x0:0xc2343145a767207f!3m1!1s2@1:CAIQACodChtycF9oOlNraEhhZmctMjNMdEFlM2x5VXJ2akE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-18T05:28:21Z",
+   "iso_date_of_last_edit": "2026-06-18T05:28:21Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcmFFaGhabWN0TWpOTWRFRmxNMng1VlhKMmFrRRAB",
+   "user": {
+    "name": "Heather Stoess",
+    "link": "https://www.google.com/maps/contrib/114270157170216735922?hl=en-US",
+    "contributor_id": "114270157170216735922",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVG8tvtSh2nNctTKxkyE8uqJEad1RXZByRYmqM_MMQtiTbBTe8FIg=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 2,
+    "photos": 0
+   },
+   "snippet": "Visited as an out-of-towner and had one of the most unwelcoming experiences I\u2019ve ever had at a bar. I simply asked how much our beers were \u2014 a completely normal question \u2014 and was met with an aggressive, condescending response from what appeared to be a bartender or manager. He said \u201cdo you have a problem? Maybe you should leave,\u201d and when I explained I was just asking a question, he told me I \u201cshouldn\u2019t ask so many questions.\u201d The dismissive, misogynistic attitude was shocking and completely unprofessional. We left and will not be returning. If you\u2019re visiting from out of town, I\u2019d look elsewhere.",
+   "extracted_snippet": {
+    "original": "Visited as an out-of-towner and had one of the most unwelcoming experiences I\u2019ve ever had at a bar. I simply asked how much our beers were \u2014 a completely normal question \u2014 and was met with an aggressive, condescending response from what appeared to be a bartender or manager. He said \u201cdo you have a problem? Maybe you should leave,\u201d and when I explained I was just asking a question, he told me I \u201cshouldn\u2019t ask so many questions.\u201d The dismissive, misogynistic attitude was shocking and completely unprofessional. We left and will not be returning. If you\u2019re visiting from out of town, I\u2019d look elsewhere."
+   },
+   "details": {
+    "meal_type": "Other",
+    "price_per_person": "$20\u201330",
+    "food": 2,
+    "service": 1,
+    "atmosphere": 1,
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b50871079ba1%3A0xc2343145a767207f&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7-mwJ55P___EhCuHdNp09n4OkYqS1wAAAAAGgn92VACYSbMWLsYACIA&sort_by=ratingLow",
+  "next_page_token": "CjEIARIpCgoAP7-mwJ55P___EhCuHdNp09n4OkYqS1wAAAAAGgn92VACYSbMWLsYACIA"
+ }
+}

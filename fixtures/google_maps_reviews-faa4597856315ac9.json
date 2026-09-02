@@ -1,0 +1,448 @@
+{
+ "search_metadata": {
+  "id": "6a98065e95e9503d1cd7961f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_GTvbBHP8_hVR-sC5JEt6RVam_unkhZfQQeMdUmAs7Q/6a98065e95e9503d1cd7961f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_GTvbBHP8_hVR-sC5JEt6RVam_unkhZfQQeMdUmAs7Q/6a98065e95e9503d1cd7961f.md",
+  "created_at": "2026-09-02 11:19:58 UTC",
+  "processed_at": "2026-09-02 11:19:58 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5a8562ba8e3:0x45170022a7d54adc!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/_GTvbBHP8_hVR-sC5JEt6RVam_unkhZfQQeMdUmAs7Q/6a98065e95e9503d1cd7961f.html",
+  "prettify_html_file": "https://serpapi.com/searches/_GTvbBHP8_hVR-sC5JEt6RVam_unkhZfQQeMdUmAs7Q/6a98065e95e9503d1cd7961f.prettify",
+  "total_time_taken": 1.29
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5a8562ba8e3:0x45170022a7d54adc",
+  "hl": "en",
+  "sort_by": "qualityScore"
+ },
+ "place_info": {
+  "title": "Iron Works Barbecue",
+  "address": "100 Red River St, Austin, TX 78701, United States",
+  "rating": 4.3,
+  "reviews": 2863,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 91,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef ribs",
+   "mentions": 203,
+   "id": "EapRBH6_SRk"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 11,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 192,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "creamed corn",
+   "mentions": 59,
+   "id": "B57VY_5fqOw"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 33,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "sampler plate",
+   "mentions": 19,
+   "id": "MBlXbvq3Vpk"
+  },
+  {
+   "keyword": "pulled pork",
+   "mentions": 39,
+   "id": "JR9fW2G7IjU"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 65,
+   "id": "BzYeemUSQh4"
+  },
+  {
+   "keyword": "mac and cheese",
+   "mentions": 32,
+   "id": "tPmxvz9iXiw"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsUVNXOTJVbTEzT1cxSU9GUlRYMVEzY2xoaGVGRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOklQSW92Um13OW1IOFRTX1Q3clhheFE%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-20T03:03:42Z",
+   "iso_date_of_last_edit": "2026-06-20T03:03:42Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP-UJV1cSeajTc9sWnyJZ6Jf3LanDZBc9Qhl-ghSz1aWSB6rNcWSV09S12l20M-xLzWf8heTcD1uFxlZ4gcNlzZYPttWDvGWFHW8jV7kx7nDU4vn5Q91pMUzNT7zp5F1uDZHvUi3U_v2aeZ=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPai4OCspd8tnTjddPoYzwjTLjfue6oZmpSPcDENwt_cG1X8bDqxpn91L5CNTBPVXQ455yeaIRFncPl3FPPR79HpqJpICwNZJKyZ39UQAOyyO3dgim1PTuC7sa_o2z7GUKLznOgjmIvJNG-=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNVPt83mw2Z5nC6mpXn2b7cxOzQj7FljJy3_mBagC1o1GFJOWDzDlSO66P0y_J-McsUlG8FKctN9gzM97qvSbpU1xVhi3hWa0OCNkY1-9E4_eYW36dWQWHeBVkBCoHC_bjURSKb9nAe76TD=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPm3Ifp23VH8VOT2Tqj_MvAs8EY-lF19xFs6bg_s_0OFc0lIZb3HWC3rHL5F1cxyRtVDEyWfNNg8eQmj4HAJMK_oh1EvxpCNGMUcQW69pz3qIEiUgBDZUsUYzXLn3WJPr7oQOZwOgYQ32lM=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUVNXOTJVbTEzT1cxSU9GUlRYMVEzY2xoaGVGRRAB",
+   "user": {
+    "name": "HSG",
+    "link": "https://www.google.com/maps/contrib/105651140678555065434?hl=en-GB",
+    "contributor_id": "105651140678555065434",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVSibQ3q4MwBC6Qe60d9J3rxi-DG9cNoERDpze6xymuC-yuWi4=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 184,
+    "photos": 244
+   },
+   "snippet": "Iron Works is a great, low key restaurant in the downtown area. The staff are so friendly and went out of their way to help and make the place feel welcoming.\n\nThe BBQ was a bit dry. The ribs had great taste but was very dry on the edges. The brisket and sausage was also dry but dipped in the BBQ sauce well.\n\nNo AC in the building but they utilized fans well to keep the air moving. Sitting outside was relaxing.\n\nEnjoyed it! Was fun to look at the celebrities that have visited and the historical pieces.",
+   "extracted_snippet": {
+    "original": "Iron Works is a great, low key restaurant in the downtown area. The staff are so friendly and went out of their way to help and make the place feel welcoming.\n\nThe BBQ was a bit dry. The ribs had great taste but was very dry on the edges. The brisket and sausage was also dry but dipped in the BBQ sauce well.\n\nNo AC in the building but they utilized fans well to keep the air moving. Sitting outside was relaxing.\n\nEnjoyed it! Was fun to look at the celebrities that have visited and the historical pieces."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$10\u201320",
+    "noise_level": "Quiet, easy to talk",
+    "group_size": "Suitable for all group sizes"
+   },
+   "likes": 0,
+   "response": {
+    "date": "2 months ago",
+    "iso_date": "2026-06-20T14:32:42Z",
+    "iso_date_of_last_edit": "2026-06-20T14:32:42Z",
+    "snippet": "Thanks for sharing your experience and noticing the welcoming vibe and unique history. We\u2019re always aiming to improve, so your notes on the barbecue\u2019s texture are very helpful to us.\n\nWith gratitude, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Thanks for sharing your experience and noticing the welcoming vibe and unique history. We\u2019re always aiming to improve, so your notes on the barbecue\u2019s texture are very helpful to us.\n\nWith gratitude, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSbkxVZHliVkZXWVc4eFZHNXFTMjQyVTBsRmVWRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOlRnLUdybVFWYW8xVG5qS242U0lFeVE%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-27T01:03:02Z",
+   "iso_date_of_last_edit": "2026-06-27T01:03:02Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP4vpZwuMssLjNPI7YzjTUpqgEVwvoFAetuNLu3UH0pHoJ98OAD9B6BpT1NkRs-RnpbJOuhol7tZcTloljc3HB0X3aTdB7cfvG2dVIhA8tbzvc7Yy0n__9nyUS1KewoyJFbFBAnvoNRhEY=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP55vNjXUe9Afpf9PaaA4IWmB1n3N496iW5jnaJYC_Kchz58LyOl-M5SFqkMN-TTNEUPp7orOKc8JxuGERXccSLJVKfQvIbA9dEXTwGoIN83tBlqj45DSh3UVwhQVoUEvWAILtv1Gw2PU4=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPTO8QAU5dm6PV0vKLD3U7z--8Af3IJRzgmZSbvjAaYJddhXypRUeNRujubmLOTSAYzdeI-1C7Z8tNmS1Ocr_40vWKXt3p4k3KXVq5GP3y9LS982btj7ZyvkGvQ5BRBMdTGH5bMaEOoNw8k=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOLuVNipqfogyb6DyKByYSRGtpvy71rRFdBEImCgSh8tH_-qKLfb5LhCNgEJztVQkM-hVuRX61JcU1W7GDmqhnAEOcF7IkYjFHB7f9G-6tCtroAI9gpzpgs-JSyqDdGO7fOVy0BqJ1dDcvp=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNLUKp4duCJ1L7SB41jqYHqId_x3YpveDMCEoV4Vi32S0h5L_pn70kyL0PTFZWcCdwvi8FHQ9njZoqu5u0ADxDQy9fuYhRkigiDpp3MdsbwIqDL8AfmojHLKFUtvsqK0YC7veN2GhjPdRCb=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSbkxVZHliVkZXWVc4eFZHNXFTMjQyVTBsRmVWRRAB",
+   "user": {
+    "name": "Karl Peterman",
+    "link": "https://www.google.com/maps/contrib/115098964275579860401?hl=en-GB",
+    "contributor_id": "115098964275579860401",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjX3nHorwLlU9r2BKE_CNaOynLuMdT4j2VqmCt1GtpIUfC0qQpH4oQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 671,
+    "photos": 3392
+   },
+   "snippet": "Good barbecue joint. This was between my hotel and my conference and I stopped in here for an early dinner. I got a pulled pork plate with coleslaw and green beans (and a couple of slices of white bread) and a sweet tea. The outdoor seating is very nice - overlooking the newly finished pathway along Waller creek. I would not characterize the portions as generous. They\u2019re ok and probably appropriate for most. I enjoyed it and can recommend.",
+   "extracted_snippet": {
+    "original": "Good barbecue joint. This was between my hotel and my conference and I stopped in here for an early dinner. I got a pulled pork plate with coleslaw and green beans (and a couple of slices of white bread) and a sweet tea. The outdoor seating is very nice - overlooking the newly finished pathway along Waller creek. I would not characterize the portions as generous. They\u2019re ok and probably appropriate for most. I enjoyed it and can recommend."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "noise_level": "Quiet, easy to talk",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace, Booth seating"
+   },
+   "likes": 0,
+   "response": {
+    "date": "2 months ago",
+    "iso_date": "2026-06-27T04:21:27Z",
+    "iso_date_of_last_edit": "2026-06-27T04:21:27Z",
+    "snippet": "Karl,\n\nWe\u2019re glad you enjoyed relaxing by the creek and found a meal that hit the spot after your busy day. Your perspective on the portions is helpful, and we\u2019re grateful you took a moment to share your experience with others.\n\nWith appreciation, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Karl,\n\nWe\u2019re glad you enjoyed relaxing by the creek and found a meal that hit the spot after your busy day. Your perspective on the portions is helpful, and we\u2019re grateful you took a moment to share your experience with others.\n\nWith appreciation, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWeFQyNWpabnBJUlROR2EySlVVR3hsTmxWRFVWRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOjVxT25jZnpIRTNGa2JUUGxlNlVDUVE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-20T23:28:26Z",
+   "iso_date_of_last_edit": "2026-03-20T23:28:26Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPpD_AJnqiLgN6cdSlbrsFb7OZ1wTB8cWSN8g8vwPc0fJ5r-B4yJ2EODEr2-hglUNBwfrsBISd6mGovt4Pt7XZRzyb9J8d29ZVyBQ28x8pfakQag8hKAmFY8QW_g-APAKwPWdFg4JYOmgYj=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN4ZFNTFdXjgTKQMlND6H286aUheE_e3UZHUhB4osuCYuh2fe3r8hJpRSLwlA2xl-xt1jlsZv9FP3J6tEFMQxnZU59XWsh539Ct219kxVo6-rLiO39wP4n-aQT9axaa7WWgLRvui0WCKUMQ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeFQyNWpabnBJUlROR2EySlVVR3hsTmxWRFVWRRAB",
+   "user": {
+    "name": "Cason R",
+    "link": "https://www.google.com/maps/contrib/101340679674823913286?hl=en-GB",
+    "contributor_id": "101340679674823913286",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXtqr6FTKXLaONBBqkgO_lUuisZabPDsncCi0-BLUTTrA4s-3ao=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 233,
+    "photos": 870
+   },
+   "snippet": "Came into this spot because average rating was decent and we've been to all the top 6-7 spots in the immediate Austin area already. Figured try something new and see why so many 5 star ratings. Around 4:45pm on a Friday...not a soul in sight.\n\nThis was barely 1 star for us. Each meat was wrong. Brisket dry, zero fat. Rib so oily and chewy could barely pull off the bone. Turkey was over smoked. Sausage was run of the mill...filling was reminiscent of just a hot dog fill. Every side lacked flavor and freshness. Green beans mushy, slaw so runny it was dripping, bbq beans we're tasteless. Not sure why add the pickles and onions it added nothing to the plates. The only decent side was creamed corn as it had some flavor. All this was $80+ dollars with a beer.\n\nThe pro is the spot is really neat inside and location is right downtown Austin. Our assumption after eating here is that the 5-star ratings are not for the food but atmosphere, location, and was probably a great spot for bbq back in the day? I guess to each there own and try if you want.",
+   "extracted_snippet": {
+    "original": "Came into this spot because average rating was decent and we've been to all the top 6-7 spots in the immediate Austin area already. Figured try something new and see why so many 5 star ratings. Around 4:45pm on a Friday...not a soul in sight.\n\nThis was barely 1 star for us. Each meat was wrong. Brisket dry, zero fat. Rib so oily and chewy could barely pull off the bone. Turkey was over smoked. Sausage was run of the mill...filling was reminiscent of just a hot dog fill. Every side lacked flavor and freshness. Green beans mushy, slaw so runny it was dripping, bbq beans we're tasteless. Not sure why add the pickles and onions it added nothing to the plates. The only decent side was creamed corn as it had some flavor. All this was $80+ dollars with a beer.\n\nThe pro is the spot is really neat inside and location is right downtown Austin. Our assumption after eating here is that the 5-star ratings are not for the food but atmosphere, location, and was probably a great spot for bbq back in the day? I guess to each there own and try if you want."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$40\u201350",
+    "food": 1,
+    "service": 3,
+    "atmosphere": 5
+   },
+   "likes": 0,
+   "response": {
+    "date": "5 months ago",
+    "iso_date": "2026-03-21T03:38:04Z",
+    "iso_date_of_last_edit": "2026-03-21T03:38:04Z",
+    "snippet": "Cason,\n\nIt\u2019s tough to hear the meal fell so far short of your expectations, especially given the impression our atmosphere made. We\u2019re always striving to improve and will take your feedback seriously moving forward.\n\nSincerely, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Cason,\n\nIt\u2019s tough to hear the meal fell so far short of your expectations, especially given the impression our atmosphere made. We\u2019re always striving to improve and will take your feedback seriously moving forward.\n\nSincerely, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWNGFqSlNlRFJsYVc5clJYWm1kRzVPT1ZSdVFuYxAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOkV4ajJSeDRlaW9rRXZmdG5OOVRuQnc%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-07T00:21:51Z",
+   "iso_date_of_last_edit": "2026-04-07T00:21:51Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPC0ihT_hAk0B2ynpx3pUW4_0l1pdJKMBMOfVfUGyIP57cmYdYN2Yriv5ZNcIDP_BYgdHd0y-s4ppfOU3alNr0v769Kn1fzHnAyAwtIUBrSc0y8q5wev4V37RXdOazz2A16n6C-wMGkR2s5=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOuXknoOspuzHOqazHsb3NYDexxkIBKMFLmvsksfBC-wUXmfjaxVFvlHCeZ_e0PJ-1MVEV6hO1WB19TBZE9SwETIt1izjeJRqsT_6ksoXwMBuGgGnVOlJIBYaJNhwetnV05kXW73prlkxwL=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWNGFqSlNlRFJsYVc5clJYWm1kRzVPT1ZSdVFuYxAB",
+   "user": {
+    "name": "Mike A.",
+    "link": "https://www.google.com/maps/contrib/100276954028639418382?hl=en-GB",
+    "contributor_id": "100276954028639418382",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXKnwZmOqDj4H9WkD6EhCcOPx3I-smjq4UfYg-tfngRI4Zk-D0=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 128,
+    "photos": 719
+   },
+   "snippet": "Iron Works BBQ got it done\u2014plain and simple. Coming from a New Yorker with only a day in Austin, I wasn\u2019t about to stand on line for hours at the big-name spots. Walked into Iron Works, no nonsense, and walked out full and happy.\n\nYeah, I was bummed the beef ribs were sold out (heard they\u2019re the move), but the brisket, fries, and all the trimmings came through strong. Smoky, flavorful, exactly what you want.\n\nCrack open a Shiner Bock, grab a seat, and enjoy. No frills, just solid Texas BBQ on Dirty 6th. \ud83d\udc4d",
+   "extracted_snippet": {
+    "original": "Iron Works BBQ got it done\u2014plain and simple. Coming from a New Yorker with only a day in Austin, I wasn\u2019t about to stand on line for hours at the big-name spots. Walked into Iron Works, no nonsense, and walked out full and happy.\n\nYeah, I was bummed the beef ribs were sold out (heard they\u2019re the move), but the brisket, fries, and all the trimmings came through strong. Smoky, flavorful, exactly what you want.\n\nCrack open a Shiner Bock, grab a seat, and enjoy. No frills, just solid Texas BBQ on Dirty 6th. \ud83d\udc4d"
+   },
+   "details": {
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 4,
+    "atmosphere": 4,
+    "group_size": "Suitable for all group sizes",
+    "special_events": "No special event",
+    "seating_type": "Indoor dining area"
+   },
+   "likes": 0,
+   "response": {
+    "date": "4 months ago",
+    "iso_date": "2026-04-07T02:53:20Z",
+    "iso_date_of_last_edit": "2026-04-07T02:53:20Z",
+    "snippet": "Michael,\n\nIt\u2019s great to know our straightforward style and Texas flavors hit the spot during your quick visit to Austin. We truly appreciate you sharing your experience and hope there\u2019s a beef rib waiting for you next time.\n\nCheers from all of us at Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Michael,\n\nIt\u2019s great to know our straightforward style and Texas flavors hit the spot during your quick visit to Austin. We truly appreciate you sharing your experience and hope there\u2019s a beef rib waiting for you next time.\n\nCheers from all of us at Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxWmJ6WnBhMVoyVFdaVlQwNWZWRU5UY1VoNVZWRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOk1ZbzZpa1Z2TWZVT05fVENTcUh5VVE%7C%7C?hl=en-GB",
+   "rating": 3.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-12T17:16:48Z",
+   "iso_date_of_last_edit": "2026-03-12T17:16:48Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNF1V6m7GDRyknhxJul0q1QSrsvw8hGQcTJhV5ODxxYA8C9-4vxMTfCxpQ3ryJLcMZq3AmB0TupriAOtzB-9cJK3REDjm7bjiMo_ep3_fMGHPAME3gr9IV4Z3239k8iz3zkM6q7FpfLoZ9h=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWmJ6WnBhMVoyVFdaVlQwNWZWRU5UY1VoNVZWRRAB",
+   "user": {
+    "name": "Katsumi Nagata",
+    "link": "https://www.google.com/maps/contrib/113497762954426921688?hl=en-GB",
+    "contributor_id": "113497762954426921688",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWoalrS9E4kqsRRD4k8MIucRzQSTFM4bs7Mn1aXMZ4D-IERPDVN=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 5,
+    "photos": 3
+   },
+   "snippet": "Came to IWB during SXSW during lunch time and the place was not busy at all. \ud83e\udd28 Their service was super quick and it was reasonably priced. Read many good recommendations about Brisket, but it was not as juicy as what I was expecting. It was tender but drier and leaner. Knowing BBQ places in Dallas/Fort Worth region, it was a little disappointed. It was my first Brisket in Austin, let\u2019s see how others are\u2026.",
+   "extracted_snippet": {
+    "original": "Came to IWB during SXSW during lunch time and the place was not busy at all. \ud83e\udd28 Their service was super quick and it was reasonably priced. Read many good recommendations about Brisket, but it was not as juicy as what I was expecting. It was tender but drier and leaner. Knowing BBQ places in Dallas/Fort Worth region, it was a little disappointed. It was my first Brisket in Austin, let\u2019s see how others are\u2026."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$30\u201340",
+    "food": 2,
+    "service": 4,
+    "atmosphere": 4,
+    "noise_level": "Quiet, easy to talk",
+    "wait_time": "No wait"
+   },
+   "likes": 0,
+   "response": {
+    "date": "5 months ago",
+    "iso_date": "2026-03-12T22:34:25Z",
+    "iso_date_of_last_edit": "2026-03-12T22:34:25Z",
+    "snippet": "Katsumi,\n\nWe\u2019re glad you enjoyed the fast service, and we appreciate your honest thoughts on the brisket. Your feedback helps us keep raising the bar.\n\nBest, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Katsumi,\n\nWe\u2019re glad you enjoyed the fast service, and we appreciate your honest thoughts on the brisket. Your feedback helps us keep raising the bar.\n\nBest, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOSU1VOTRNVU42UnkxaGVEWnNValV4U1hkcExWRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOkNIMU94MUN6Ry1heDZsUjUxSXdpLVE%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-22T01:17:27Z",
+   "iso_date_of_last_edit": "2026-06-22T01:17:27Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOSU1VOTRNVU42UnkxaGVEWnNValV4U1hkcExWRRAB",
+   "user": {
+    "name": "\u00d6m\u00fcr \u00d6zg\u00fcr",
+    "link": "https://www.google.com/maps/contrib/102741561209789379597?hl=en-GB",
+    "contributor_id": "102741561209789379597",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjW00O2xPV12tZBp8duLolt4sTDf3kOIhQIiylIvQBV6xFMX0KN1=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 59,
+    "photos": 38
+   },
+   "snippet": "We had a great experience at Iron Works Barbecue. The staff were friendly, welcoming, and made us feel right at home from the moment we arrived.\n\nThe food was delicious, and the service was impressively fast. Everything came out quickly without sacrificing quality.\n\nWe also really enjoyed the outdoor seating area. Even on a hot day, it felt comfortable thanks to the shade and the nice breeze, making it a pleasant place to relax and enjoy our meal.\n\nGreat food, great service, and a great atmosphere. We\u2019d definitely come back the next time we\u2019re in Austin.",
+   "extracted_snippet": {
+    "original": "We had a great experience at Iron Works Barbecue. The staff were friendly, welcoming, and made us feel right at home from the moment we arrived.\n\nThe food was delicious, and the service was impressively fast. Everything came out quickly without sacrificing quality.\n\nWe also really enjoyed the outdoor seating area. Even on a hot day, it felt comfortable thanks to the shade and the nice breeze, making it a pleasant place to relax and enjoy our meal.\n\nGreat food, great service, and a great atmosphere. We\u2019d definitely come back the next time we\u2019re in Austin."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "food": 4,
+    "service": 4,
+    "atmosphere": 4,
+    "noise_level": "Quiet, easy to talk",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0,
+   "response": {
+    "date": "2 months ago",
+    "iso_date": "2026-06-22T15:07:57Z",
+    "iso_date_of_last_edit": "2026-06-22T15:07:57Z",
+    "snippet": "\u00d6m\u00fcr,\n\nIt\u2019s fantastic to hear you felt right at home and could relax outdoors while enjoying your meal with us. We\u2019re grateful for your kind words about the food and service, and we look forward to welcoming you again whenever you\u2019re back in Austin.\n\nWarm wishes, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "\u00d6m\u00fcr,\n\nIt\u2019s fantastic to hear you felt right at home and could relax outdoors while enjoying your meal with us. We\u2019re grateful for your kind words about the food and service, and we look forward to welcoming you again whenever you\u2019re back in Austin.\n\nWarm wishes, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2t0NFRIUnFMVlptYzFZeVlVMHRNazVrUm1WUmQzYxAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOkt4THRqLVZmc1YyYU0tMk5kRmVRd3c%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-22T01:19:44Z",
+   "iso_date_of_last_edit": "2026-04-22T01:19:44Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMkD_r-etveYaXFmjJn8h0q8dScI6h_ILkqp2zPM3BbCruGY1iD6C7LE0zoPIzkP-WNCsBvcUBJZo__QuQFkfDHdB0hF5a6aIVIXP0yahSwqpBn16ocmNugByLG7c4aYCQ_NtTIfbxPpZin=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NFRIUnFMVlptYzFZeVlVMHRNazVrUm1WUmQzYxAB",
+   "user": {
+    "name": "Derek Truong",
+    "link": "https://www.google.com/maps/contrib/100637419190841942217?hl=en-GB",
+    "contributor_id": "100637419190841942217",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJUhsfDdNGUVlmSbd9Y48LpEuAIAlbIeoS9uWxiEoQgcnxvBA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 281,
+    "photos": 172
+   },
+   "snippet": "Service is great. Mac and cheese and creamed corn was really good. Brisket I got was lean and delicious. Sausage and beef rib was also really good.\n\nI like that the drinks come in a reusable cup.",
+   "extracted_snippet": {
+    "original": "Service is great. Mac and cheese and creamed corn was really good. Brisket I got was lean and delicious. Sausage and beef rib was also really good.\n\nI like that the drinks come in a reusable cup."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Suitable for all group sizes",
+    "seating_type": "Indoor dining area",
+    "parking_space": "Difficult to find parking",
+    "parking_options": "Paid parking garage",
+    "parking": "Paid parking garage by the escape game about 2 blocks away."
+   },
+   "likes": 0,
+   "response": {
+    "date": "4 months ago",
+    "iso_date": "2026-04-22T03:39:25Z",
+    "iso_date_of_last_edit": "2026-04-22T03:39:25Z",
+    "snippet": "Derek,\n\nIt's fantastic to know you enjoyed both the flavors and the little touches that make our place unique, like the reusable cup. We\u2019re glad the service and your meal left such a positive impression, and we can\u2019t wait to welcome you again.\n\nAll our best, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Derek,\n\nIt's fantastic to know you enjoyed both the flavors and the little touches that make our place unique, like the reusable cup. We\u2019re glad the service and your meal left such a positive impression, and we can\u2019t wait to welcome you again.\n\nAll our best, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnTURJd09uQTBnRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CIHM0ogKEICAgMDIwOnA0gE%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "a year ago",
+   "iso_date": "2025-04-06T03:37:49Z",
+   "iso_date_of_last_edit": "2025-04-06T03:41:42Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMuZWLpzPwgowLmRKoGa4DLvrcWyXX418fYGiPHIJrVVxDe6oKB0SLREaaoS7hF7by2d-BHNdwSSkl89qrtORRae8-4Du1K3q_JbjKYEiir-t-hF8nAKCFn-hbi4dev5kuK2iXx=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPryq-uB80QSHoYL7daQ2nwvbjYZWx8X4Io1baN_shbtIgVW6OyNUhsj2Nj0gffF9txPkK6h01YK-6sSfrLLqkIzG19x8YY29JdY9TEaI57C566BXVFC3SmzUq2y5RA5Rpy6gutzw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNtJm6BbBLk6YY8CTxuhFw7Br3zSvC3aThKBAdXr4-eI2aj6MLnh29HJBbszKAAjT5oaOd3ciZ1br1aMHpkHjwn71WKLVkQZCSS396wykdoM1jvu_FIduvvgwUKGNtJ6BFQrcq-=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOMaMr4tXH-xDW-hpfZdxLRdgoiwfhLlRtjsRvn3Lp2Zcai_1xKICLWuUSUDq0dlCL7iB7gmlklRXnykm4y-27t8BGqsKpB54QwCecaXd2mwhXxTN0SACUS_Pfyt-ZH19JwubsD=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO2F0Da50vYeAQKDys3ljGvyt5kuOzV27n5qyls02yPCX8jnjPGL6YO65RWrdiht8dwXk58uN681lWU-h2pbOlaEjHmrDhPryWKfp0u3INjtQ4bZnsLj-KQE8QUNSiLEmtAbbgX=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNjH8aWDH_4_LVJo1oWm9w4IBzD2L97O_dNcgedoQJdrNbPwUy8BLMztWCqgqBgFOUSTKLNOugYpXBZ-6hGjqIfXFBQmuM2yyzuq4APYjUoRqT9YZ2kNAKtmq3tasmjtrDJn5FSyQ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJd09uQTBnRRAB",
+   "user": {
+    "name": "Reuben Reyes",
+    "link": "https://www.google.com/maps/contrib/111310057800240685365?hl=en-GB",
+    "contributor_id": "111310057800240685365",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV2zJi7RtjcgkAkd9P1CszJ5QwBZamkyy6KrZmAyURwFy1wezqd=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 1158,
+    "photos": 8465
+   },
+   "snippet": "This place has been serving BBQ since the early 70s. The building is old and has an even older history. I love that they have kept inside and out as original as possible. The service here was good with the staff being helpful and courteous throughout my visit. The food especially the brisket is tremendous. Sides were very good also. The only downside is the price has gone up and the value vs quantity ratio has dropped over the years. Overall great BBQ but pricy.",
+   "extracted_snippet": {
+    "original": "This place has been serving BBQ since the early 70s. The building is old and has an even older history. I love that they have kept inside and out as original as possible. The service here was good with the staff being helpful and courteous throughout my visit. The food especially the brisket is tremendous. Sides were very good also. The only downside is the price has gone up and the value vs quantity ratio has dropped over the years. Overall great BBQ but pricy."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Dinner",
+    "price_per_person": "$30\u201350",
+    "food": 4,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "Texas BBQ, BBQ, BBQ Sauce, Beef Brisket",
+    "parking_space": "Difficult to find parking",
+    "parking_options": "Free of charge parking lot, Paid street parking",
+    "parking": "They have a very small parking lot but it is usually full. Street paid parking is available but can take time to find a spot."
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5a8562ba8e3%3A0x45170022a7d54adc&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LAIJC____EhCn2SgukM-3r7ZbBFgAAAAAGgn92QMCafbPZtAYACIA&sort_by=qualityScore",
+  "next_page_token": "CjEIARIpCgoAP7_LAIJC____EhCn2SgukM-3r7ZbBFgAAAAAGgn92QMCafbPZtAYACIA"
+ }
+}

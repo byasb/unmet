@@ -1,0 +1,352 @@
+{
+ "search_metadata": {
+  "id": "6a98054e55ba65b58ed4f286",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/dYFD4w1IeiD_3U9s8jNzFwG4cvFUItkK-BnPn_GVF5U/6a98054e55ba65b58ed4f286.json",
+  "markdown_endpoint": "https://serpapi.com/searches/dYFD4w1IeiD_3U9s8jNzFwG4cvFUItkK-BnPn_GVF5U/6a98054e55ba65b58ed4f286.md",
+  "created_at": "2026-09-02 11:15:26 UTC",
+  "processed_at": "2026-09-02 11:15:26 UTC",
+  "tripadvisor_reviews_url": "https://www.tripadvisor.com/7251827",
+  "raw_html_file": "https://serpapi.com/searches/dYFD4w1IeiD_3U9s8jNzFwG4cvFUItkK-BnPn_GVF5U/6a98054e55ba65b58ed4f286.html",
+  "prettify_html_file": "https://serpapi.com/searches/dYFD4w1IeiD_3U9s8jNzFwG4cvFUItkK-BnPn_GVF5U/6a98054e55ba65b58ed4f286.prettify",
+  "total_time_taken": 0.98
+ },
+ "search_parameters": {
+  "engine": "tripadvisor_reviews",
+  "place_id": "7251827",
+  "tripadvisor_domain": "www.tripadvisor.com"
+ },
+ "search_information": {
+  "total_reviews": 54
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "title": "Best brisket I\u2019ve ever had!!",
+   "snippet": "Excellent Brisket!! Very juicy and it was cut slightly thicker than most!! The best I\u2019ve ever had!!",
+   "rating": 5,
+   "review_id": "1059608597",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r1059608597-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2026-05-09",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-05-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "92989F7DA20367D346122F55C76996DD",
+    "username": "giehadler",
+    "display_name": "giehadler",
+    "link": "https://www.tripadvisor.com/Profile/giehadler",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+    "contributions": 22,
+    "hometown": "Benton Harbor, Michigan"
+   }
+  },
+  {
+   "position": 2,
+   "title": "Austin, Texas BBQ at its BEST!",
+   "snippet": "Excellent brisket, prefer point/fattier over flat/leaner. Smoked chicken is amazing. Turkey phenomenal. Sausage crazy good. All the sides are wonderful and their 2 sauces are divine. Get them both! We always come back.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "946375708",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r946375708-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2024-04-11",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-04-30",
+    "type": "BUSINESS"
+   },
+   "tips": [
+    "They tend to sell out later in the day. So if wanting dinner, come get it and take it home before it gets too late."
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "CD9B8FDF8450C38FF9154C72A8AC7B9E",
+    "username": "TXGuys",
+    "display_name": "TXGuys",
+    "link": "https://www.tripadvisor.com/Profile/TXGuys",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg",
+    "contributions": 3,
+    "hometown": "Miami Beach, Florida"
+   }
+  },
+  {
+   "position": 3,
+   "title": "BBQ Bliss!",
+   "snippet": "We totally lucked out stumbling across Brown\u2019s while all the other nearby BBQ trucks were closed due to Austin\u2019s unexpected cold snap. The prices were incredibly reasonable, and the food was delicious. I\u2019m definitely not a BBQ expert, but my boyfriend and I were both pleased by our sandwiches and sides. Outdoor seating only!",
+   "rating": 4,
+   "review_id": "934152466",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r934152466-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2024-01-15",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2024-01-31",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/39/b1/3d/caption.jpg"
+   ],
+   "votes": 7,
+   "author": {
+    "author_id": "8D0CF5F02F1AB7DEABC77BA7A3084A89",
+    "username": "ellenoftroy728",
+    "display_name": "ellenoftroy728",
+    "link": "https://www.tripadvisor.com/Profile/ellenoftroy728",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg",
+    "contributions": 492,
+    "hometown": "Chicago, Illinois"
+   }
+  },
+  {
+   "position": 4,
+   "title": "A Must-Stop for Exceptional BBQ ",
+   "snippet": "Brown BBQ in Austin totally blew me away! During my short stint in Austin, I couldn't resist swinging by twice, and my taste buds are absolutely grateful I did. The brisket and sausage sandwich was the star of the show\u2014packed with flavor, especially that jalape\u00f1o kick!\n\nLet's talk sides because they're fantastic too. I tried their potato salad, coleslaw, and cabbage, and let me tell you, they're not your run-of-the-mill sides. The potato salad was creamy goodness, while the coleslaw and cabbage were delightful surprises with every bite.\n\nIf you find yourself in Austin and craving top-tier BBQ, Brown BBQ is a must-visit. The Brisket sandwich is a winner, and those sides? Unique and downright delicious. Don't miss out on this BBQ joint\u2014it's absolutely worth the stop!\n",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "927043554",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r927043554-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2023-11-23",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2023-11-30",
+    "type": "FRIENDS"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/df/68/40/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "9A4FB8295520320FBE20AC9D9BD562D3",
+    "username": "mountainhiking11",
+    "display_name": "mountainhiking11",
+    "link": "https://www.tripadvisor.com/Profile/mountainhiking11",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ef/73/default-avatar-2020-13.jpg",
+    "contributions": 37,
+    "hometown": "Minneapolis, Minnesota"
+   }
+  },
+  {
+   "position": 5,
+   "title": "Great Texas BBQ",
+   "snippet": "Food is awesome, good Texas Brisket and sides were amazing. This is my go to every time I'm in Austin.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    }
+   ],
+   "review_id": "902478674",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r902478674-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2023-07-12",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2023-05-31",
+    "type": "FRIENDS"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "AED92F19F6CFCF5E5B3C0A7FB0BEDC15",
+    "username": "juliewI1126WD",
+    "display_name": "Julie W",
+    "link": "https://www.tripadvisor.com/Profile/juliewI1126WD",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/eb/a3/default-avatar-2020-38.jpg",
+    "contributions": 1,
+    "hometown": "Lake Dallas, Texas"
+   }
+  },
+  {
+   "position": 6,
+   "title": "Brisket Heaven",
+   "snippet": "We were in Austin for 2 weeks and stopped at Brown\u2019s food truck 3 times! The brisket sandwich was delicious, juicy and smoky with a great spicy sauce that I could have drunk right from the cup. Had both the potato salad and coleslaw; potato salad was good but the coleslaw was perfect. The vinegar based slaw was perfect with the rich smoky brisket. Also took home a link of their boudin and it was excellent. So glad we had the chance to experience Brown\u2019s. Give it a try.",
+   "rating": 5,
+   "review_id": "889972218",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r889972218-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2023-05-11",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2023-05-31",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "DE7EAC5715153BE28F545B4DECDC96CD",
+    "username": "kathleend110",
+    "display_name": "Kathleen D",
+    "link": "https://www.tripadvisor.com/Profile/kathleend110",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-l/01/2a/fd/9c/avatar.jpg",
+    "contributions": 31
+   }
+  },
+  {
+   "position": 7,
+   "title": "Awesome que!",
+   "snippet": "Tender. Moist. Tasty. Reasonable prices.  We had brisket, sausage and pulled pork. It was all delicious.  The peach cobbler was one of the best we\u2019ve ever had.  The folks serving up the food were friendly and appreciative.  Didn\u2019t make us feel like we were privileged to eat there like at Terry Black\u2019s.  And it was a fraction of the cost. It\u2019s a must visit when in Austin!",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    }
+   ],
+   "review_id": "881089801",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r881089801-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2023-03-05",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2023-03-31",
+    "type": "NONE"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "2F75FFB48EEDCE2307E9E8D0D5E263C5",
+    "username": "bomac2021",
+    "display_name": "Bo M",
+    "link": "https://www.tripadvisor.com/Profile/bomac2021",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+    "contributions": 37,
+    "hometown": "Sorrento, Florida"
+   }
+  },
+  {
+   "position": 8,
+   "title": "Tender",
+   "snippet": "This is really great bbq. It\u2019s a good truck and it\u2019s no frills, but it\u2019s delicious. The brisket is melt in your mouth tender and moist. It\u2019s not cheap! The Mac and cheese was a little thick/sticky for me. There are several picnic tables if you want to eat there. Definitely check this place out!",
+   "rating": 4,
+   "review_id": "879641773",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r879641773-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2023-02-21",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2023-02-28",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/4b/b2/df/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "586722F8305A1DB51C6216AC4D358C36",
+    "username": "JenRed2014",
+    "display_name": "JenRed2014",
+    "link": "https://www.tripadvisor.com/Profile/JenRed2014",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/0b/e8/28/jenred2014.jpg",
+    "contributions": 1195,
+    "hometown": "Buffalo, New York"
+   }
+  },
+  {
+   "position": 9,
+   "title": "Darn good",
+   "snippet": "This place was legit! It had some of the best brisket weve had. You could tell it was fresh by how moist and tender it was and it went very well with their homeade bbq sauce. Definitely made for a perfect sandwich if you had some left over! Out potato salad was also delicious and you could tell all the side items were made in house which is rare these days. Service was excellent, friendly efficient and quick. A must try for BBQ lovers when visiting Austin.",
+   "rating": 5,
+   "review_id": "870132561",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r870132561-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2022-11-29",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2022-11-30",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "47DE777FFF8E2ABCC5906B9AF64282C5",
+    "username": "bradsA4341GA",
+    "display_name": "Bradley Sims",
+    "link": "https://www.tripadvisor.com/Profile/bradsA4341GA",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/7c/01/default-avatar-2020-5.jpg",
+    "contributions": 19,
+    "hometown": "Jeffersontown, Kentucky"
+   }
+  },
+  {
+   "position": 10,
+   "title": "Absolutely MUST go here!",
+   "snippet": "OMGosh ... this place rocks!!\nRound 2 of living in ATX ... this place was recommended by a friend of a friend (she lives close enough to walk there); SO glad we went!  Ordered a bunch of food - ate most of it, and had to take some home.  Beef ribs were HUGE ... the brisket is seriously THE best I have ever had ... and the sausage was tasty (not too hot).  Amazing sides too!! WILL return - 100% FACT!!  TY - truly amazing; kudos to the gals working to today (Tues)!!",
+   "rating": 5,
+   "review_id": "820209016",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d7251827-r820209016-Brown_s_Bar_B_Que-Austin_Texas.html",
+   "date": "2021-11-27",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2021-11-30",
+    "type": "NONE"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "0C64BC75B3667FA51D07997BDB923C5F",
+    "username": "HDgirl1",
+    "display_name": "J L",
+    "link": "https://www.tripadvisor.com/Profile/HDgirl1",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+    "contributions": 20,
+    "hometown": "Coimbra, Portugal"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor_reviews&offset=10&place_id=7251827&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

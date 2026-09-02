@@ -1,0 +1,481 @@
+{
+ "search_metadata": {
+  "id": "6a98058632f11d2deece101b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/4intm1Ht_w7uAkDoCRDiV28Hxzy0A5s9D_bfRrOvnX0/6a98058632f11d2deece101b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/4intm1Ht_w7uAkDoCRDiV28Hxzy0A5s9D_bfRrOvnX0/6a98058632f11d2deece101b.md",
+  "created_at": "2026-09-02 11:16:22 UTC",
+  "processed_at": "2026-09-02 11:16:22 UTC",
+  "yelp_url": "https://www.yelp.com/search?find_desc=Brown%27s+Bar-B-Que&find_loc=Austin%2C+TX%2C+USA",
+  "raw_html_file": "https://serpapi.com/searches/4intm1Ht_w7uAkDoCRDiV28Hxzy0A5s9D_bfRrOvnX0/6a98058632f11d2deece101b.html",
+  "total_time_taken": 2.73
+ },
+ "search_parameters": {
+  "engine": "yelp",
+  "find_desc": "Brown's Bar-B-Que",
+  "find_loc": "Austin, TX, USA"
+ },
+ "filters": {
+  "category": [
+   {
+    "text": "Sandwiches",
+    "value": "sandwiches"
+   },
+   {
+    "text": "Food Trucks",
+    "value": "foodtrucks"
+   },
+   {
+    "text": "Beer Bars",
+    "value": "beerbar"
+   },
+   {
+    "text": "BBQ & Barbecue",
+    "value": "bbq"
+   },
+   {
+    "text": "Restaurants",
+    "value": "restaurants"
+   },
+   {
+    "text": "Steakhouses",
+    "value": "steak"
+   },
+   {
+    "text": "American",
+    "value": "tradamerican"
+   },
+   {
+    "text": "Smokehouse",
+    "value": "smokehouse"
+   },
+   {
+    "text": "Burgers",
+    "value": "burgers"
+   },
+   {
+    "text": "Caterers",
+    "value": "catering"
+   }
+  ],
+  "price": [
+   {
+    "text": "$",
+    "value": "RestaurantsPriceRange2.1"
+   },
+   {
+    "text": "$$",
+    "value": "RestaurantsPriceRange2.2"
+   },
+   {
+    "text": "$$$",
+    "value": "RestaurantsPriceRange2.3"
+   },
+   {
+    "text": "$$$$",
+    "value": "RestaurantsPriceRange2.4"
+   }
+  ],
+  "distance": [
+   {
+    "text": "Within 2 miles",
+    "value": "g:-97.78329849243164,30.282936335784672,-97.73214340209961,30.327397491366572"
+   },
+   {
+    "text": "Bird's-eye View",
+    "value": "g:-97.86003112792969,30.21635515266855,-97.65541076660156,30.394199462058317"
+   },
+   {
+    "text": "Within 4 blocks",
+    "value": "g:-97.76091814041138,30.302372046570763,-97.75452375411987,30.307929692159156"
+   },
+   {
+    "text": "Within 1 mile",
+    "value": "g:-97.77050971984863,30.294053515036044,-97.74493217468262,30.316284093102404"
+   },
+   {
+    "text": "Within 5 miles",
+    "value": "g:-97.80887603759766,30.260549927069945,-97.7065658569336,30.349472368261814"
+   }
+  ]
+ },
+ "ads_results": [
+  {
+   "block_position": "top",
+   "place_ids": [
+    "7HD_ghJ7YH2NHYqmrWs2Bg",
+    "masons-famous-lobster-rolls-austin-austin"
+   ],
+   "title": "Mason\u2019s Famous Lobster Rolls - Austin",
+   "link": "https://www.yelp.com/adredir?ad_business_id=7HD_ghJ7YH2NHYqmrWs2Bg&amp;campaign_id=215771273&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fen.yelp.be%2Fbiz%2Fmasons-famous-lobster-rolls-austin-austin&amp;request_id=0d4afb4610a3e53b&amp;signature=0dbdfa3829c6421236b4d2dae323d4264e3a138361e21633852c9828a597f508&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=7HD_ghJ7YH2NHYqmrWs2Bg&start=0",
+   "categories": [
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Austin%2C+TX"
+    },
+    {
+     "title": "Seafood",
+     "link": "https://www.yelp.com/search?find_desc=Seafood&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.2,
+   "reviews": 187,
+   "neighborhoods": "Warehouse District",
+   "open_state": "Closed until 11:00",
+   "highlights": [
+    "Catering service",
+    "Locally owned & operated"
+   ],
+   "phone": "(512) 428-4006",
+   "snippet": "I was suspicious when I found that this lobster place had a fast food set up. You order at a counter. They said my lobster roll would be ready in 5\u2026",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/adredir?ad_business_id=7HD_ghJ7YH2NHYqmrWs2Bg&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fen.yelp.be%2Fbiz%2Fmasons-famous-lobster-rolls-austin-austin%3Fshow_platform_modal%3DTrue&amp;request_id=0d4afb4610a3e53b&amp;signature=27a2d346bdfebc06acc17f2fc2540f3724389fa7b0dab0f621c19f6fb2b2e432&amp;slot=0"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/6Y1qiYXqnzo0cto9CTIxWg/ls.jpg"
+  },
+  {
+   "block_position": "bottom",
+   "place_ids": [
+    "rvM4hrCnaChlw97NRPbgLg",
+    "cedar-door-patio-bar-and-grill-austin"
+   ],
+   "title": "Cedar Door Patio Bar & Grill",
+   "link": "https://www.yelp.com/adredir?ad_business_id=rvM4hrCnaChlw97NRPbgLg&amp;campaign_id=208747679&amp;click_origin=search_results&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fen.yelp.be%2Fbiz%2Fcedar-door-patio-bar-and-grill-austin&amp;request_id=0d4afb4610a3e53b&amp;signature=b4aaa1d51616897e391947b54833602e7ee510fa7a9b1ec42d6c5b958b1d34a8&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=rvM4hrCnaChlw97NRPbgLg&start=0",
+   "categories": [
+    {
+     "title": "Sports Bars",
+     "link": "https://www.yelp.com/search?find_desc=Sports+Bars&amp;find_loc=Austin%2C+TX"
+    },
+    {
+     "title": "American",
+     "link": "https://www.yelp.com/search?find_desc=American&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "price": "$$",
+   "rating": 3.8,
+   "reviews": 752,
+   "neighborhoods": "Downtown",
+   "open_state": "Closed until 15:00",
+   "highlights": [
+    "Sports on TV",
+    "Happy hour specials",
+    "On their website: <b>bbq</b>"
+   ],
+   "phone": "(512) 473-3712",
+   "snippet": "What do I love about the Cedar Door? Umm... Everything! The food is awesome (Turkey Sandwich, white wings!), the entire staff is super friendly and\u2026",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/adredir?ad_business_id=rvM4hrCnaChlw97NRPbgLg&amp;click_origin=search_results_platform&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fen.yelp.be%2Fbiz%2Fcedar-door-patio-bar-and-grill-austin%3Fshow_platform_modal%3DTrue&amp;request_id=0d4afb4610a3e53b&amp;signature=c74037852fe8405857ebb8311066ef3b68804992f67ccced82c0c3c5c661db34&amp;slot=0"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/zvYuSz1O2dbc9KDEX0Xqow/ls.jpg"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "place_ids": [
+    "cxQEW0JaFDqOqkavm4zKXg",
+    "browns-bar-b-que-austin"
+   ],
+   "title": "Brown's Bar-B-Que",
+   "link": "https://www.yelp.com/biz/browns-bar-b-que-austin?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=cxQEW0JaFDqOqkavm4zKXg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Food Trucks",
+     "link": "https://www.yelp.com/search?find_desc=Food+Trucks&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.7,
+   "reviews": 484,
+   "neighborhoods": "78704 (South Austin)",
+   "open_state": "Closed until 11:00",
+   "snippet": "I found this place on yelp and honestly... I'm drooling right now. Brown's Bar-B-Que is a food truck...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/cxQEW0JaFDqOqkavm4zKXg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/zY2plspN5agyVIRHA9mPwQ/ls.jpg"
+  },
+  {
+   "position": 2,
+   "place_ids": [
+    "YZs1gNSh_sN8JmN_nrpxeA",
+    "terry-blacks-barbecue-austin"
+   ],
+   "title": "Terry Black's Barbecue",
+   "link": "https://www.yelp.com/biz/terry-blacks-barbecue-austin?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=YZs1gNSh_sN8JmN_nrpxeA&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Southern",
+     "link": "https://www.yelp.com/search?find_desc=Southern&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.5,
+   "reviews": 9100,
+   "neighborhoods": "Bouldin Creek",
+   "open_state": "Closed until 10:30",
+   "snippet": "Yes, there are better places such as La Barbecue, Franklins, Brown's and Freedmen's.",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XT81AQCAwt2t_Rt_sbaKTg/ls.jpg"
+  },
+  {
+   "position": 3,
+   "place_ids": [
+    "qLJUDPOamhLdbtfbcWyHnA",
+    "the-salt-lick-bbq-driftwood"
+   ],
+   "title": "The Salt Lick BBQ",
+   "link": "https://www.yelp.com/biz/the-salt-lick-bbq-driftwood?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=qLJUDPOamhLdbtfbcWyHnA&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.1,
+   "reviews": 6000,
+   "neighborhoods": "Driftwood",
+   "open_state": "Closed until 11:00",
+   "highlights": [
+    "On their website: <b>bar-b-que</b>"
+   ],
+   "snippet": "it The sauce was good, wood like color instead of the heavy dark brown BBQ sauce, there was a spicy...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/4qv5K5oTwranZGhFQ2pZXw/ls.jpg"
+  },
+  {
+   "position": 4,
+   "place_ids": [
+    "ih_MxWyh3OswxzG857v6TQ",
+    "rudys-country-store-and-bar-b-q-austin-11"
+   ],
+   "title": "Rudy's \"Country Store\" and Bar-B-Q",
+   "link": "https://www.yelp.com/biz/rudys-country-store-and-bar-b-q-austin-11?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=ih_MxWyh3OswxzG857v6TQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Gas Stations",
+     "link": "https://www.yelp.com/search?find_desc=Gas+Stations&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Takeaway & Fast Food",
+     "link": "https://www.yelp.com/search?find_desc=Takeaway+%26+Fast+Food&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 1200,
+   "neighborhoods": "Austin",
+   "open_state": "Open until 21:00",
+   "snippet": "Like the name suggests, the brisket's extra moistness makes this BBQ meat so alluringly \"bad\", but...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/ih_MxWyh3OswxzG857v6TQ?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/EVezs810oqVLo4X9471fyg/ls.jpg"
+  },
+  {
+   "position": 5,
+   "place_ids": [
+    "hYD9oPrRBzKfrGhBkmJ3cg",
+    "smokey-mos-bbq-austin"
+   ],
+   "title": "Smokey Mo's Bbq",
+   "link": "https://www.yelp.com/biz/smokey-mos-bbq-austin?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=hYD9oPrRBzKfrGhBkmJ3cg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$",
+   "rating": 3.4,
+   "reviews": 165,
+   "neighborhoods": "Austin",
+   "open_state": "Opens in 44 min",
+   "snippet": "We even bought a bottle of their signature BBQ sauce which hands down, is one of the BEST from any...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/hYD9oPrRBzKfrGhBkmJ3cg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/gQ910CV0VE68-XgFfh-7NQ/ls.jpg"
+  },
+  {
+   "position": 6,
+   "place_ids": [
+    "MGzro82Fi4LYvc86acoONQ",
+    "franklin-barbecue-austin"
+   ],
+   "title": "Franklin Barbecue",
+   "link": "https://www.yelp.com/biz/franklin-barbecue-austin?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=MGzro82Fi4LYvc86acoONQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$$",
+   "rating": 4.5,
+   "reviews": 6500,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00",
+   "snippet": "write a book detailing how he produces each of the meats he cooks at Franklin BBQ as it has inspired...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/MsXhN-6ehWVBsykS3TP5ng/ls.jpg"
+  },
+  {
+   "position": 7,
+   "place_ids": [
+    "NdFcFAjTtfHv_LrwjzEhJQ",
+    "leroy-and-lewis-barbecue-austin-2"
+   ],
+   "title": "LeRoy and Lewis Barbecue",
+   "link": "https://www.yelp.com/biz/leroy-and-lewis-barbecue-austin-2?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=NdFcFAjTtfHv_LrwjzEhJQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Burgers",
+     "link": "https://www.yelp.com/search?find_desc=Burgers&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.2,
+   "reviews": 543,
+   "neighborhoods": "Austin",
+   "open_state": "Closed until 11:00",
+   "snippet": "After several years of solid cooking, L&amp;L hit gold with a No 5 ranking of Texas Monthly top 50 BBQ...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/RdYOAum7pOHVfQZ7kb4iLw/ls.jpg"
+  },
+  {
+   "position": 8,
+   "place_ids": [
+    "EPkf96UcG2W3ttlQphWUGQ",
+    "la-barbecue-austin-3"
+   ],
+   "title": "la Barbecue",
+   "link": "https://www.yelp.com/biz/la-barbecue-austin-3?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=EPkf96UcG2W3ttlQphWUGQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.3,
+   "reviews": 3200,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00",
+   "snippet": "To me LA BBQ is the best brisket in Austin TX! I will go out and say it is the best BBQ in the...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Kbva2hytfmTfDeXsftHEOA/ls.jpg"
+  },
+  {
+   "position": 9,
+   "place_ids": [
+    "-zfm3zSoMNkLXyBZqseczw",
+    "interstellar-bbq-austin"
+   ],
+   "title": "Interstellar BBQ",
+   "link": "https://www.yelp.com/biz/interstellar-bbq-austin?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=-zfm3zSoMNkLXyBZqseczw&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 883,
+   "neighborhoods": "Lake Creek Village",
+   "open_state": "Closed until 11:00",
+   "highlights": [
+    "On their website: <b>barbecue</b>"
+   ],
+   "snippet": "The brown sugar tea is excellent and unique. Different flavor from traditional sweet tea.",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/GYFw3UqbfxwOgRRDL3EJDw/ls.jpg"
+  },
+  {
+   "position": 10,
+   "place_ids": [
+    "9e5lIroM6Eyd4aS26pWWEQ",
+    "coopers-old-time-pit-bar-b-que-austin"
+   ],
+   "title": "Cooper's Old Time Pit Bar-B-Que",
+   "link": "https://www.yelp.com/biz/coopers-old-time-pit-bar-b-que-austin?osq=Brown%27s+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=9e5lIroM6Eyd4aS26pWWEQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sports Bars",
+     "link": "https://www.yelp.com/search?find_desc=Sports+Bars&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Cocktail Bars",
+     "link": "https://www.yelp.com/search?find_desc=Cocktail+Bars&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.0,
+   "reviews": 2300,
+   "neighborhoods": "Downtown",
+   "open_state": "Closed until 11:00",
+   "highlights": [
+    "On their website: <b>bbq</b>"
+   ],
+   "snippet": "They weigh it and wrap it up in brown wax paper. This is usually a sign of good BBQ in my opinion.",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/9e5lIroM6Eyd4aS26pWWEQ?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/WBndUE_7HZUf8z31NauKYw/ls.jpg"
+  }
+ ],
+ "pagination": {
+  "next": "https://en.yelp.ch/search?find_loc=Austin%2C+TX%2C+USA&find_desc=Brown's+Bar-B-Que&start=10"
+ },
+ "serpapi_pagination": {
+  "next_link": "https://serpapi.com/search.json?engine=yelp&find_desc=Brown%27s+Bar-B-Que&find_loc=Austin%2C+TX%2C+USA&start=10",
+  "next": "https://serpapi.com/search.json?engine=yelp&find_desc=Brown%27s+Bar-B-Que&find_loc=Austin%2C+TX%2C+USA&start=10"
+ }
+}

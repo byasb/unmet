@@ -1,0 +1,249 @@
+{
+ "search_metadata": {
+  "id": "6a9804cd5c9301fc538315c8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/dl22zmIp6TjQre7nibhkhLFged5yqzi6o7CeCUEy7Xo/6a9804cd5c9301fc538315c8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/dl22zmIp6TjQre7nibhkhLFged5yqzi6o7CeCUEy7Xo/6a9804cd5c9301fc538315c8.md",
+  "created_at": "2026-09-02 11:13:17 UTC",
+  "processed_at": "2026-09-02 11:13:17 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b51b0e822a65:0xc03ac22ba09158c7!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/dl22zmIp6TjQre7nibhkhLFged5yqzi6o7CeCUEy7Xo/6a9804cd5c9301fc538315c8.html",
+  "prettify_html_file": "https://serpapi.com/searches/dl22zmIp6TjQre7nibhkhLFged5yqzi6o7CeCUEy7Xo/6a9804cd5c9301fc538315c8.prettify",
+  "total_time_taken": 1.05
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b51b0e822a65:0xc03ac22ba09158c7",
+  "hl": "en",
+  "sort_by": "ratingLow"
+ },
+ "place_info": {
+  "title": "Terry Black's Barbecue",
+  "address": "1003 Barton Springs Rd, Austin, TX 78704",
+  "rating": 4.7,
+  "reviews": 26544,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 585,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef rib",
+   "mentions": 1293,
+   "id": "Ea6aRCbvLRs"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 173,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 3581,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 826,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "creamed corn",
+   "mentions": 613,
+   "id": "B57VY_5fqOw"
+  },
+  {
+   "keyword": "jalape\u00f1o cheddar sausage",
+   "mentions": 218,
+   "id": "OasyD1EAEyc"
+  },
+  {
+   "keyword": "cornbread",
+   "mentions": 341,
+   "id": "EB6x5v5Zjbk"
+  },
+  {
+   "keyword": "banana pudding",
+   "mentions": 268,
+   "id": "Ci0phuL2KdU"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 230,
+   "id": "AgpY-9eTufU"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taNVJEYzFaM0JZWjJaRk5qQm5iV2xQU2tOcGVrRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOkZ5RDc1Z3BYZ2ZFNjBnbWlPSkNpekE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-15T14:05:34Z",
+   "iso_date_of_last_edit": "2026-06-15T14:08:06Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPJJ_tS73eJN9GosS6WtQd3_Zdk0kQVqL0JEYUALZ6BYxtVNYKFcYyMqqTp-yVyLd0PIp93GN7ZWpQ8phOwMg1IwAkl0EIZJOH-mhXr5Q4oalYZuk-GYccVIr_vNhb-eEFds-BLBoWR0WA=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNVJEYzFaM0JZWjJaRk5qQm5iV2xQU2tOcGVrRRAB",
+   "user": {
+    "name": "Live News Atlanta",
+    "link": "https://www.google.com/maps/contrib/116913510022705737509?hl=en-US",
+    "contributor_id": "116913510022705737509",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXmYofAN8Pt5PQQ9OMqdDcTe-IYFGBRrds4NO9KHDzCECwcsKx0=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 32,
+    "photos": 57
+   },
+   "snippet": "I eaten there before and. Had a great meal, but this time it was a different story. The sides were great, but the brisket was 50% fat, and had so much salt that it was almost inedible. The meat that I did eat was good, but again, it was salty to an extreme. I actually like salty, but this was crazy. I drove 30 minutes. It\u2019s been almost $100 and stood in line for a half hour how late I\u2019ll never do it again. My go to place is the regular black barbecue, which is always consistent. It\u2019s a little gross, but I\u2019m including a picture of what was left on my plate. Again, it was 50% fat..",
+   "extracted_snippet": {
+    "original": "I eaten there before and. Had a great meal, but this time it was a different story. The sides were great, but the brisket was 50% fat, and had so much salt that it was almost inedible. The meat that I did eat was good, but again, it was salty to an extreme. I actually like salty, but this was crazy. I drove 30 minutes. It\u2019s been almost $100 and stood in line for a half hour how late I\u2019ll never do it again. My go to place is the regular black barbecue, which is always consistent. It\u2019s a little gross, but I\u2019m including a picture of what was left on my plate. Again, it was 50% fat.."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$90\u2013100",
+    "food": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21jd2FIaHNaRFEwTkZSblFWUjBhbkl3T1ZSSmRtYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOmcwaHhsZDQ0NFRnQVR0anIwOVRJdmc%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-05T23:44:27Z",
+   "iso_date_of_last_edit": "2026-04-05T23:44:27Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPAc5PqRl612CFgfJDzry3Q5l9jPKIUBV_-mguYksykpSxegvZWOE0uoKkjNSrEICKUEcguf8461yRo96kFOD0ITjIJAqt5zAoF6WhBGyG4G7TEQZdbjM3GyS694T6kEInKVPFYy4_EG0zr=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jd2FIaHNaRFEwTkZSblFWUjBhbkl3T1ZSSmRtYxAB",
+   "user": {
+    "name": "Barbara Corrales",
+    "link": "https://www.google.com/maps/contrib/101036096311718494071?hl=en-US",
+    "contributor_id": "101036096311718494071",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIfYSofQXqnwDr2iJFPUSO6jfLmM9N1I5o5cX5vd4VmWF9KXg=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 7,
+    "photos": 1
+   },
+   "snippet": "I went to Terry Black\u2019s Barbecue with high expectations, but my experience was quite disappointing. I ended up paying over $100 for a plate that had very little meat, which is unacceptable for a restaurant known for its BBQ.\n\nThe value for money does not match at all. I understand that prices can be high at places like this, but at the very least, portions should be fair and consistent with what you are being charged.\n\nI would recommend carefully checking what you are being served before paying. In my case, it was not a satisfying experience, and I would not consider coming back.",
+   "extracted_snippet": {
+    "original": "I went to Terry Black\u2019s Barbecue with high expectations, but my experience was quite disappointing. I ended up paying over $100 for a plate that had very little meat, which is unacceptable for a restaurant known for its BBQ.\n\nThe value for money does not match at all. I understand that prices can be high at places like this, but at the very least, portions should be fair and consistent with what you are being charged.\n\nI would recommend carefully checking what you are being served before paying. In my case, it was not a satisfying experience, and I would not consider coming back."
+   },
+   "details": {
+    "price_per_person": "$100+",
+    "wait_time": "10-30 min"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2poclRrUTNabFJqV2s4MVFXWkVlRWhrVGxneFZtYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOjhrTkQ3ZlRjWk81QWZEeEhkTlgxVmc%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-13T16:40:30Z",
+   "iso_date_of_last_edit": "2026-04-13T16:40:30Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNQ3zCg4rL1qzzhjQ2sz5B0u8KrNK7HGf2eJAIQCEeSR5s8B48XuaQbGseLAIOQtYgU0vFGBXn47TgWRLjEdkywoFqC9SmBYW84Tb9ffqSWwv9Gsx29DN5Ga1VvOkGXrzZuTW8iZv20wlQ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poclRrUTNabFJqV2s4MVFXWkVlRWhrVGxneFZtYxAB",
+   "user": {
+    "name": "Michal Mati",
+    "link": "https://www.google.com/maps/contrib/105863461231681776219?hl=en-US",
+    "contributor_id": "105863461231681776219",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWaM37r5_261BU9zS30QleOVeZLm-GOKMhJPuM8s3EQDno8rJHy1A=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 30,
+    "photos": 10
+   },
+   "snippet": "I get the beef ribs are sild by weight including the bone, but the guy split the two-bone rib in a way that my part contained mostly the bone (the piece you see in the picture was $60), leaving most of the meat on the other one. A rip-off. Taste-wise it was heavenly, though.",
+   "extracted_snippet": {
+    "original": "I get the beef ribs are sild by weight including the bone, but the guy split the two-bone rib in a way that my part contained mostly the bone (the piece you see in the picture was $60), leaving most of the meat on the other one. A rip-off. Taste-wise it was heavenly, though."
+   },
+   "details": {
+    "food": 2,
+    "service": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsQ1owRjVZbFJZU1daTE1WVlFRbWh1T1hFd1dWRRAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOklCZ0F5YlRYSWZLMVVQQmhuOXEwWVE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-24T18:22:22Z",
+   "iso_date_of_last_edit": "2026-06-24T18:33:14Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMF9DBga9U0jriNmefLVgEnB-Q33WTW2yewYrzxj8N-kFlJlJZmfq5D0OtrvcqQRsH9DWtEzz8I9jt5liRhT8rugElY7Z_54DD_Ab8n0ImSfUCMoytbRTkWQtAfeXEU0B7hVWNgBHvl7AJw=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQ1owRjVZbFJZU1daTE1WVlFRbWh1T1hFd1dWRRAB",
+   "user": {
+    "name": "Retiro Name",
+    "link": "https://www.google.com/maps/contrib/104739707352572570418?hl=en-US",
+    "contributor_id": "104739707352572570418",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJaGj8IaLSggNMFyR3pKs_rC5v1TRzgvbDchlvKha2yQoHUdF4=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 50,
+    "photos": 12
+   },
+   "snippet": "You can\u2019t spell Terrys without the first three letters of the word Terrible. The sides need \u201csiding\u201d like as in the clients side more than the owners. My bland green beans, hard and crunchy hurt my teeth; might was well have been chewing on rebar. Corn was water downed just like its pale friend Mac n cheese. Very rude woman serving bread held an empty bag as if I knew I had to ask her to go and refill it?! Brisket was not tender as other reviews, may have had better luck chewing on the cows hide. You can peel an unripe [d] banana but not the meat I was served. One star goes to the cheese sausage best I\u2019ve had in bbq. $60 tab for 1/2 lb of dry brisket, 3 regretful sides, and a fountain drink.",
+   "extracted_snippet": {
+    "original": "You can\u2019t spell Terrys without the first three letters of the word Terrible. The sides need \u201csiding\u201d like as in the clients side more than the owners. My bland green beans, hard and crunchy hurt my teeth; might was well have been chewing on rebar. Corn was water downed just like its pale friend Mac n cheese. Very rude woman serving bread held an empty bag as if I knew I had to ask her to go and refill it?! Brisket was not tender as other reviews, may have had better luck chewing on the cows hide. You can peel an unripe [d] banana but not the meat I was served. One star goes to the cheese sausage best I\u2019ve had in bbq. $60 tab for 1/2 lb of dry brisket, 3 regretful sides, and a fountain drink."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$60\u201370",
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1,
+    "noise_level": "Very loud, hard to hear",
+    "wait_time": "10-30 min",
+    "parking_space": "Somewhat difficult to find parking",
+    "parking_options": "Free parking lot",
+    "kid_friendliness": "Yes"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT205dVZucGFTMU5oWVRWcFYyTkViM0ZJWmtNM1IyYxAB!2m1!1s0x0:0xc03ac22ba09158c7!3m1!1s2@1:CAIQACodChtycF9oOm9uVnpaS1NhYTVpV2NEb3FIZkM3R2c%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-22T17:43:22Z",
+   "iso_date_of_last_edit": "2026-07-22T17:43:22Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dVZucGFTMU5oWVRWcFYyTkViM0ZJWmtNM1IyYxAB",
+   "user": {
+    "name": "Raoul Duke",
+    "link": "https://www.google.com/maps/contrib/100310319302524771154?hl=en-US",
+    "contributor_id": "100310319302524771154",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVl7VKL8Re07kXdXKoMy-229nwfgQgYUpkrqNLlvNe3OiOP4ZQb=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 2,
+    "photos": 0
+   },
+   "snippet": "Whenever we were checking out, getting our choice of proteins, the guy serving us placed the meat on the scale and pressed down hard. I didn\u2019t even think about it until later but that had to have absolutely changed the scale to heavier. We paid a little over $100 for 4 slices of brisket, 1 sausage, 1 small side, 1 medium side and 1 banana pudding. Seems high for what we got. Watch those scales folks \u2696\ufe0f",
+   "extracted_snippet": {
+    "original": "Whenever we were checking out, getting our choice of proteins, the guy serving us placed the meat on the scale and pressed down hard. I didn\u2019t even think about it until later but that had to have absolutely changed the scale to heavier. We paid a little over $100 for 4 slices of brisket, 1 sausage, 1 small side, 1 medium side and 1 banana pudding. Seems high for what we got. Watch those scales folks \u2696\ufe0f"
+   },
+   "details": {
+    "price_per_person": "$100+",
+    "food": 3,
+    "service": 1,
+    "atmosphere": 3,
+    "noise_level": "Loud, but you can still talk"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b51b0e822a65%3A0xc03ac22ba09158c7&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7-mwDWef___EhC3tk0SIzml1Q8iZzoAAAAAGgn92RACYUbLSvMYACIA&sort_by=ratingLow",
+  "next_page_token": "CjEIARIpCgoAP7-mwDWef___EhC3tk0SIzml1Q8iZzoAAAAAGgn92RACYUbLSvMYACIA"
+ }
+}

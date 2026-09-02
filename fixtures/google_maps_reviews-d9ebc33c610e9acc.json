@@ -1,0 +1,342 @@
+{
+ "search_metadata": {
+  "id": "6a9804d28976f70321d1b73d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/eNiw2BYkpZn4GRg-T4cIvuBQyuWIpKsOMV4RO5P2OPA/6a9804d28976f70321d1b73d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/eNiw2BYkpZn4GRg-T4cIvuBQyuWIpKsOMV4RO5P2OPA/6a9804d28976f70321d1b73d.md",
+  "created_at": "2026-09-02 11:13:22 UTC",
+  "processed_at": "2026-09-02 11:13:22 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5b97f094707:0x73413af34fe2662d!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/eNiw2BYkpZn4GRg-T4cIvuBQyuWIpKsOMV4RO5P2OPA/6a9804d28976f70321d1b73d.html",
+  "prettify_html_file": "https://serpapi.com/searches/eNiw2BYkpZn4GRg-T4cIvuBQyuWIpKsOMV4RO5P2OPA/6a9804d28976f70321d1b73d.prettify",
+  "total_time_taken": 0.95
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5b97f094707:0x73413af34fe2662d",
+  "hl": "en",
+  "sort_by": "newestFirst"
+ },
+ "place_info": {
+  "title": "Micklethwait Barbecue",
+  "address": "4602 Tanney St, Austin, TX 78721",
+  "rating": 4.7,
+  "reviews": 2050,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "pulled lamb",
+   "mentions": 66,
+   "id": "6F9YPE1Dgz8"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 289,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 65,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "jalape\u00f1o cheese grits",
+   "mentions": 41,
+   "id": "EKsxCVGmM-8"
+  },
+  {
+   "keyword": "frito pie",
+   "mentions": 43,
+   "id": "AJ1Y7e6nLWM"
+  },
+  {
+   "keyword": "live music",
+   "mentions": 3,
+   "id": "bdOKu_b9hgo"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 58,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "barbacoa",
+   "mentions": 32,
+   "id": "U0-eZhXrOR0"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 47,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 98,
+   "id": "BzYeemUSQh4"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWaGNsRmhOVU51WkVSa00wRnBZMWRKU1VZNGFWRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOjVhclFhNUNuZERkM0FpY1dJSUY4aVE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "3 days ago",
+   "iso_date": "2026-08-30T00:49:45Z",
+   "iso_date_of_last_edit": "2026-08-30T00:50:10Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaGNsRmhOVU51WkVSa00wRnBZMWRKU1VZNGFWRRAB",
+   "user": {
+    "name": "Daniel D",
+    "link": "https://www.google.com/maps/contrib/103330054204087280363?hl=en-US",
+    "contributor_id": "103330054204087280363",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUsKRpqmb8Lf7AciO8TiijiZTgO0miCpvhN2VY7IlfSapXTLSU=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 18,
+    "photos": 0
+   },
+   "snippet": "I have only good things to say about my experience today. What a well-run establishment. Keep doing what you're doing",
+   "extracted_snippet": {
+    "original": "I have only good things to say about my experience today. What a well-run establishment. Keep doing what you're doing"
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "3-4 people",
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKckxUZEpkMTg1Uld4WlpVRTFiV2RFVVdrdE1HYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOjJrLTdJd185RWxZZUE1bWdEUWktMGc%7C%7C?hl=en-US",
+   "rating": 3.0,
+   "date": "3 days ago",
+   "iso_date": "2026-08-29T23:39:09Z",
+   "iso_date_of_last_edit": "2026-08-29T23:39:09Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOhmLUV8V1hZ8tLJtXpwZFYh_caCSpaCNv-Jmm8w7jqEcEwpBlWqooL-fjOMJT7aBDXEUbgSxtGoxYphVMOcTXOjfPYge1pE20Ff3BxcriZwaI6nqCrEob1uP0g47VLIRxrIZ361TwV1Nbz=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPdMZZI-bz2n_UGVEjK8Qty3N7ArV6NS2Gk0RuyUkshXlPhPbIVvTIfBOP9o-4909jpSNzPfI-RalofIEr3_U37ibRy0swnCdUTNDhl2lj3Mir-p1GIVxURHtIXC0KhDakg9ItUeBK6bLuo=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKckxUZEpkMTg1Uld4WlpVRTFiV2RFVVdrdE1HYxAB",
+   "user": {
+    "name": "alan khoor",
+    "link": "https://www.google.com/maps/contrib/111395986902540657427?hl=en-US",
+    "contributor_id": "111395986902540657427",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWPgmSsOtSd3g13jRq01gYKl3fSkYkXCJqNsN2Rj1usV-tGTi7S=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 30,
+    "photos": 38
+   },
+   "snippet": "\u8fd8\u53ef\u4ee5\u5427 \ud83d\ude0b",
+   "extracted_snippet": {
+    "original": "\u8fd8\u53ef\u4ee5\u5427 \ud83d\ude0b",
+    "translated": "It's alright \ud83d\ude0b"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWSk1UZ3RXa05tTWtsV01reHZUbWhzY25vMlNWRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOjVJMTgtWkNmMklWMkxvTmhscno2SVE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "3 days ago",
+   "iso_date": "2026-08-29T18:56:40Z",
+   "iso_date_of_last_edit": "2026-08-29T18:56:40Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSk1UZ3RXa05tTWtsV01reHZUbWhzY25vMlNWRRAB",
+   "user": {
+    "name": "Matt Wood",
+    "link": "https://www.google.com/maps/contrib/108803377672050458889?hl=en-US",
+    "contributor_id": "108803377672050458889",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXvaTDrE4p253v_mctIsyaKNKzguSCrSdIR5SoNtALiLk1zB-1D=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 7,
+    "photos": 0
+   },
+   "snippet": "Best barbecue in Austin. But more than that - the best all-around meal in Austin. Everything on the menu, top to bottom, is delicious - the meats, the sides, the desserts. Superb!",
+   "extracted_snippet": {
+    "original": "Best barbecue in Austin. But more than that - the best all-around meal in Austin. Everything on the menu, top to bottom, is delicious - the meats, the sides, the desserts. Superb!"
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$30\u201340",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "group_size": "Suitable for all group sizes",
+    "wait_time": "Up to 10 min"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2sxYU0wOHdVVGRWYzNkb05rVkZNM2c0U1RkYVFVRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOk1aM08wUTdVc3doNkVFM3g4STdaQUE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-23T04:03:35Z",
+   "iso_date_of_last_edit": "2026-08-23T04:03:35Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPVxt8CKsYzBQvpPnX2tshMvJli0IBcYHKrAHhJC5hBrBM4w_5RmsFtt58P5k4SgJm_XlarrHGbzdKCDfJsYehs6qlyH-sjgus406_yzBc0nHjuhQjjTCaa32PazXm_ck3DBcE7TPcnp6An=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMHlq7EPEGAGmGqC-X-9oxRPmyyyPfmBdkvRaST6Zh4aczAktZ-k9TdhiGd4jE-XvrfxdG9eE8r0LfCNxLzDNfpSGB3RjjAdcVcVRN4fGziAybMKg83GkFoTu_xtM4mjI-dKkMKjMqadI6I=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxYU0wOHdVVGRWYzNkb05rVkZNM2c0U1RkYVFVRRAB",
+   "user": {
+    "name": "Benedetta Brigante",
+    "link": "https://www.google.com/maps/contrib/112294847986384084685?hl=en-US",
+    "contributor_id": "112294847986384084685",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUKhpi4Jg8saMau22w4xe7KAewHHQpz-fC_P-2x1WSscc3shD3j=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 3,
+    "photos": 2
+   },
+   "snippet": "Tonight me and my boyfriend had one of the best dinner ever!\nI\u2019ve ordered a two-meat plate with brisket and pastrami, potato salad and braised cabbage.\nEverything was absolutely perfect, even the service was exceptional!!!\nI recommend it!!!",
+   "extracted_snippet": {
+    "original": "Tonight me and my boyfriend had one of the best dinner ever!\nI\u2019ve ordered a two-meat plate with brisket and pastrami, potato salad and braised cabbage.\nEverything was absolutely perfect, even the service was exceptional!!!\nI recommend it!!!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "recommended_dishes": "Turkey, Plates, Brisket and Ribs"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xNek0zRkhiVWx1YldaWmR6SlZTR1ZsY1ZKcU5VRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOlMzM3FHbUlubWZZdzJVSGVlcVJqNUE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-23T03:59:04Z",
+   "iso_date_of_last_edit": "2026-08-23T03:59:04Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMZ36JUMatfTL2tzDwnzzXoG7_IxGPq4ws6ZOLPLnkzX7hRJFYJdRv66kAP0STTDKp7uao75xiB53gWQY_P9Quc2vaJctYsBUcp7alf5VNBSeIu_PKrYUhEUUkoMHu7XbQjiW0oq7EDP0K7=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNek0zRkhiVWx1YldaWmR6SlZTR1ZsY1ZKcU5VRRAB",
+   "user": {
+    "name": "Francesco Lenzi",
+    "link": "https://www.google.com/maps/contrib/107128601429516841236?hl=en-US",
+    "contributor_id": "107128601429516841236",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjU9EwbQywMboLUwdSnlRsStqD6o0S-A_h6gQG70DuQGlHGC7FI7=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 3,
+    "photos": 1
+   },
+   "snippet": "Exceptional quality. Got brisket, turkey and pastrami, and they were incredibly good. Sides and desserts are also delicious. Service was fast and the staff very friendly. Recommended!",
+   "extracted_snippet": {
+    "original": "Exceptional quality. Got brisket, turkey and pastrami, and they were incredibly good. Sides and desserts are also delicious. Service was fast and the staff very friendly. Recommended!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "reservation": "Reservations not required"
+   },
+   "likes": 0
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201c1ltNXRPRFl6UWs5S2VucDVVV0pPTldSclRIYxAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOm5sYm5tODYzQk9Kenp5UWJONWRrTHc%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "a week ago",
+   "iso_date": "2026-08-22T21:26:45Z",
+   "iso_date_of_last_edit": "2026-08-22T21:26:45Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPBa2TaA5H-aPwQCOpf6OQfWMZ7RRGE_-9Ir9NDGwR-UIpVPY5TjfOfYM_bdZaehwDwRGDFFl-SmhKbV-siz6mO3VnAW_bS1Ny40tWGfzlJXbzb-VVYpMd602kWBBks8GjVeweRryhZWbQj=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOw4YG0H6riy9IQEgVW7vtlHMvJnN_Tnk94iXnPRSjQxOPL_kD9FgwJeBKs4MtxL-2kUcd-jVVfuH1dYOMiqri7qh6SWAwFVPHQM-LMMvP3ogT3UPmuWWpf5sNrx_U2u8wVRpg68GLapaw=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201c1ltNXRPRFl6UWs5S2VucDVVV0pPTldSclRIYxAB",
+   "user": {
+    "name": "Amanda B",
+    "link": "https://www.google.com/maps/contrib/114803844340469997320?hl=en-US",
+    "contributor_id": "114803844340469997320",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWpQ8qJ5tisdPdDV0mefDtqcHEr1-yRXdXCsJYP1BiamS4xCpIchg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 60,
+    "photos": 18
+   },
+   "snippet": "Ridiculously good",
+   "extracted_snippet": {
+    "original": "Ridiculously good"
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21NeFNGTXRSRmgwUm5CaFJEZExNRTVaZDNWUU9FRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOmMxSFMtRFh0RnBhRDdLME5Zd3VQOEE%7C%7C?hl=en-US",
+   "rating": 4.0,
+   "date": "2 weeks ago",
+   "iso_date": "2026-08-16T22:36:03Z",
+   "iso_date_of_last_edit": "2026-08-16T22:36:03Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NeFNGTXRSRmgwUm5CaFJEZExNRTVaZDNWUU9FRRAB",
+   "user": {
+    "name": "Manuel Barron",
+    "link": "https://www.google.com/maps/contrib/117239917066666323911?hl=en-US",
+    "contributor_id": "117239917066666323911",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUa0W0SstoT2HOXFSSE67EcopUJSd89uTcRrTU11bIV49se-o8=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 103,
+    "photos": 34
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$20\u201330",
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1NlRURjJhSE5XVjBkNWJDMXNURmQxVUdoMFdFRRAB!2m1!1s0x0:0x73413af34fe2662d!3m1!1s2@1:CAIQACodChtycF9oOk56TTF2aHNWV0d5bC1sTFd1UGh0WEE%7C%7C?hl=en-US",
+   "rating": 5.0,
+   "date": "2 weeks ago",
+   "iso_date": "2026-08-16T18:25:48Z",
+   "iso_date_of_last_edit": "2026-08-16T18:25:48Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNqZwEtf_muPk5vCYwBPMySB12rVyO15Ztvrpjc6jDaTc5Kk4WFZoBk_T6ftkP0MKilngEolElNlzK-Xd0NSKYnnm-7Nshz7haSdB5Vp4FL9nLzQdfFY7P4KIs0dfFwtmqaovIi7Le9O-3C=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1NlRURjJhSE5XVjBkNWJDMXNURmQxVUdoMFdFRRAB",
+   "user": {
+    "name": "Jared Miniman",
+    "link": "https://www.google.com/maps/contrib/110389681707785785966?hl=en-US",
+    "contributor_id": "110389681707785785966",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVBlW00lq1cOwej9cxkbz2vCil6qntMk7z8M89IN9ZXlrHZO7_O=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 40,
+    "photos": 27
+   },
+   "snippet": "While researching BBQ spots from my perch outside of Austin, I happened upon Micklethwait by luck (and a solid social presence). This spot is different. It maintains the super friendly food truck \u201cvibe\u201d while offering a comfortable air conditioned in a quieter residential neighborhood. Meats are great (hard for me to see much separation from their competitors, TBH)\u2026it\u2019s their sides where they really pull ahead. Tons of house made, healthier veg-first options. And they are proud of seasonal ingredients use! I\u2019ll definitely be returning to this spot. Such a lucky find!",
+   "extracted_snippet": {
+    "original": "While researching BBQ spots from my perch outside of Austin, I happened upon Micklethwait by luck (and a solid social presence). This spot is different. It maintains the super friendly food truck \u201cvibe\u201d while offering a comfortable air conditioned in a quieter residential neighborhood. Meats are great (hard for me to see much separation from their competitors, TBH)\u2026it\u2019s their sides where they really pull ahead. Tons of house made, healthier veg-first options. And they are proud of seasonal ingredients use! I\u2019ll definitely be returning to this spot. Such a lucky find!"
+   },
+   "details": {
+    "food": 4,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5b97f094707%3A0x73413af34fe2662d&engine=google_maps_reviews&hl=en&next_page_token=Ci8IARInCgoAP72F_0LV10__EhASegd3gSqp0P1TWUQAAAAAGgf_Al_0LV10GAAiAA&sort_by=newestFirst",
+  "next_page_token": "Ci8IARInCgoAP72F_0LV10__EhASegd3gSqp0P1TWUQAAAAAGgf_Al_0LV10GAAiAA"
+ }
+}

@@ -1,0 +1,399 @@
+{
+ "search_metadata": {
+  "id": "6a9805094de49afccf8a0707",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/63OCJ-yXHTqbC-lLh_dq-gT829tIzqCp-Vj_B0XkwXg/6a9805094de49afccf8a0707.json",
+  "markdown_endpoint": "https://serpapi.com/searches/63OCJ-yXHTqbC-lLh_dq-gT829tIzqCp-Vj_B0XkwXg/6a9805094de49afccf8a0707.md",
+  "created_at": "2026-09-02 11:14:17 UTC",
+  "processed_at": "2026-09-02 11:14:17 UTC",
+  "tripadvisor_reviews_url": "https://www.tripadvisor.com/2515332",
+  "raw_html_file": "https://serpapi.com/searches/63OCJ-yXHTqbC-lLh_dq-gT829tIzqCp-Vj_B0XkwXg/6a9805094de49afccf8a0707.html",
+  "prettify_html_file": "https://serpapi.com/searches/63OCJ-yXHTqbC-lLh_dq-gT829tIzqCp-Vj_B0XkwXg/6a9805094de49afccf8a0707.prettify",
+  "total_time_taken": 0.62
+ },
+ "search_parameters": {
+  "engine": "tripadvisor_reviews",
+  "place_id": "2515332",
+  "tripadvisor_domain": "www.tripadvisor.com"
+ },
+ "search_information": {
+  "total_reviews": 589
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "title": "Everything was amazing",
+   "snippet": "The survive was great and the food was very good.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1068442748",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1068442748-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2026-07-14",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-07-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "B4F7AF8208F4FC52018AD7B6C96504D2",
+    "username": "jessiea778",
+    "display_name": "Jessie A",
+    "link": "https://www.tripadvisor.com/Profile/jessiea778",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/ed/00/default-avatar-2020-4.jpg",
+    "contributions": 4
+   }
+  },
+  {
+   "position": 2,
+   "title": "Good brisket Not cold beer. Flies on patio",
+   "snippet": "If you want Texas barbeque, go to this restaurant. This was one of the few times that I had more than I could eat. The brisket was the best I have ever had, however I would not order the turkey again. There was a line to order, however it moved quickly. When we got our food, there was no place to sit; so we had to go out to the patio. This is not a good spot since we had to constantly fight flies. My beer was not cold",
+   "rating": 3,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 4
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 3
+    }
+   ],
+   "review_id": "1066873068",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1066873068-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2026-07-03",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-06-30",
+    "type": "COUPLES"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "CBBEE224ECEC5352D89D20EA2C92009E",
+    "username": "193barlexington",
+    "display_name": "193barlexington",
+    "link": "https://www.tripadvisor.com/Profile/193barlexington",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+    "contributions": 343,
+    "hometown": "Lexington, Kentucky"
+   }
+  },
+  {
+   "position": 3,
+   "title": "BBQ - Brisket that Melts in your Mouth.",
+   "snippet": "We were excited to visit.  This was featured on Triple D.  It is a well oiled machine. Line moved quickly atmosphere is perfect.  We chose a 1 meat plate and 3 meat plate and ordered pork ribs, brisket, turkey and pulled pork.  Brisket was the winner.  Fork tender and excellent smoke. Sides we chose where homemade fries, Mac and cheese, Brussel sprouts in a mildly spicy sweet sauce.  Best BB ever had and we have had a lot.  Not like your mom used to make you eat.  Overall we were so very pleased and will definitely visit again when we return.",
+   "rating": 5,
+   "review_id": "1064129028",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1064129028-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2026-06-13",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-06-30",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/8a/c3/db/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "3DAEA4DAE43C44633D3455EBA5D58C6C",
+    "username": "mattps902",
+    "display_name": "Matthew B",
+    "link": "https://www.tripadvisor.com/Profile/mattps902",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/c0/8e/3c/caption.jpg",
+    "contributions": 119,
+    "hometown": "Oskaloosa, Iowa"
+   }
+  },
+  {
+   "position": 4,
+   "title": "Non il migliore, ma molto buono",
+   "snippet": "Ho provato altri ristoranti sempre de genere, ne ho trovati pochi migliori ma molto molto peggio.\nQuindi direi, ottima qualit\u00e0, voto molto alto",
+   "rating": 4,
+   "review_id": "1061545820",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1061545820-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2026-05-24",
+   "language": "it",
+   "original_language": "it",
+   "trip_info": {
+    "date": "2026-05-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "B883EF91E137923F11029529BC8F0F60",
+    "username": "Diego_Piazza",
+    "display_name": "Diego",
+    "link": "https://www.tripadvisor.com/Profile/Diego_Piazza",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/cf/a9/2c/diego-p.jpg",
+    "contributions": 1589,
+    "hometown": "Atlanta, Georgia"
+   }
+  },
+  {
+   "position": 5,
+   "title": "Best BBQ!",
+   "snippet": "This restaurant was phenomenal! The bbq was awesome! Definitely recommend the beef rib and the brisket.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1055445533",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1055445533-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2026-04-05",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-04-30",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "B33E671D0319BDF65B4108D6146E4435",
+    "username": "Leman121",
+    "display_name": "Leman121",
+    "link": "https://www.tripadvisor.com/Profile/Leman121",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f2/11/default-avatar-2020-23.jpg",
+    "contributions": 33,
+    "hometown": "Roanoke, Illinois"
+   }
+  },
+  {
+   "position": 6,
+   "title": "Such good BBQ. This place is legit!",
+   "snippet": "The best sides. If you care about quality. Brisket is solid, wings are great and smoked turkey and jalape\u00f1o cheddar sausage is some of the best.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1049869685",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1049869685-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2026-02-15",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-02-28",
+    "type": "FAMILY"
+   },
+   "tips": [
+    "Get there early. "
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "75A396F5BD70AEA47DEBDF7A5375ABAA",
+    "username": "juliewR1822KH",
+    "display_name": "Julie W",
+    "link": "https://www.tripadvisor.com/Profile/juliewR1822KH",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e7/99/default-avatar-2020-57.jpg",
+    "contributions": 1
+   }
+  },
+  {
+   "position": 7,
+   "title": "Great Texas BBQ",
+   "snippet": "The brisket and turkey were perfect. Corn casserole was unusual but delicious. Beans were also very tasty. Definitely coming back when in Austin.",
+   "rating": 5,
+   "review_id": "1040471546",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1040471546-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2025-11-26",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-11-30",
+    "type": "FAMILY"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/d8/d7/51/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/d8/d7/52/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "CCBFC79D3051E2758DE9FF61B32D82B2",
+    "username": "Mobile14077949474",
+    "display_name": "Joe",
+    "link": "https://www.tripadvisor.com/Profile/Mobile14077949474",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+    "contributions": 157,
+    "hometown": "Fort Worth, Texas"
+   }
+  },
+  {
+   "position": 8,
+   "title": "Great place for a private party with excellent BBQ!",
+   "snippet": "We were here for a private party which meant our food was served buffet style.  Our choices of meats were: Beef Brisket, St. Louis Pork Ribs, Jalapeno-Cheddar Sausage, or Beef Ribs.  The sides were potato salad and coleslaw.  Everything was amazing!  All the meats were smokey and tender.  The beef ribs were enormous!  One person took a rib and shared it with 3 or 4 other people.  I've had a lot of BBQ in Texas, but this meat was the best, the moistest, the most tender of any I've had!  The potato salad had something special in it, also very tasty.  The coleslaw was crunchy and flavorful.  Since we were having a private party, we also got a tour of the BBQ pit.  The two guys were full of information about the process of creating the wonderful meats.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1022995356",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1022995356-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2025-08-06",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-08-31",
+    "type": "FAMILY"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "9EF0CB7DB80E1C189B997AB49B8B31DB",
+    "username": "ReikiForAllBeings",
+    "display_name": "ReikiForAllBeings",
+    "link": "https://www.tripadvisor.com/Profile/ReikiForAllBeings",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/5a/default-avatar-2020-36.jpg",
+    "contributions": 94,
+    "hometown": "Tyler, Texas"
+   }
+  },
+  {
+   "position": 9,
+   "title": "First BBQ in Austin",
+   "snippet": "Sunday BBQ after church.\n\nWashed down half a pound of brisket with a Japanese style larger. Easier than it sounds.\n\nSides good - although in hindsight should have got more light, fresh pickled style sides as the brisket is pretty heavy work. \n\nRecommend. The blokes (and chick) here are legends.",
+   "rating": 5,
+   "review_id": "1010638319",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1010638319-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2025-06-01",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-06-30",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/09/b1/12/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/09/b1/14/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "B793BABCA89FF2D74190F09B72974A14",
+    "username": "DavidJamesConnolly",
+    "display_name": "DavidJamesConnolly",
+    "link": "https://www.tripadvisor.com/Profile/DavidJamesConnolly",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/4d/98/65/caption.jpg",
+    "contributions": 332,
+    "hometown": "Victoria, Australia"
+   }
+  },
+  {
+   "position": 10,
+   "title": "Rawhide Rib",
+   "snippet": "I admired this place as it was speical, good, fun, different.\nI pony up for a beef rib as a bday treat \nIt was the worst barbecue I can recall eating almost ever.\nI am sure it was a fluke, not common, and unusual.  Owner tried to guilt me into not posting or commenting.  Said I was childish, needing help.\n\nSaid I\u2019ll give you your money back.\nNot about the money I told him.\nIt\u2019s about how it happened on the first place.  Sending food back or getting reimbursed is an easy out and never a solution.  He stated I basically was wrong about it all.\n\nSo therefore I will eat there again even if somone is buying or it\u2019s catered.",
+   "rating": 3,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 1
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 3
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1010071964",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d2515332-r1010071964-Stiles_Switch_BBQ-Austin_Texas.html",
+   "date": "2025-05-28",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-05-31",
+    "type": "SOLO"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/00/60/e3/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "6E7FEA4AFE6C019DC90ABB762432703F",
+    "username": "mikemY9621IJ",
+    "display_name": "Mike M",
+    "link": "https://www.tripadvisor.com/Profile/mikemY9621IJ",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e3/1f/default-avatar-2020-46.jpg",
+    "contributions": 3
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor_reviews&offset=10&place_id=2515332&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

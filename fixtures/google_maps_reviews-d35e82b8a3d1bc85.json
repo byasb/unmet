@@ -1,0 +1,317 @@
+{
+ "search_metadata": {
+  "id": "6a9804ddc986af00f409db5e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/-kVyeKzDLK4FKN4PNHF9pnTyRLcIsdCMu7YFjv8PyAY/6a9804ddc986af00f409db5e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/-kVyeKzDLK4FKN4PNHF9pnTyRLcIsdCMu7YFjv8PyAY/6a9804ddc986af00f409db5e.md",
+  "created_at": "2026-09-02 11:13:33 UTC",
+  "processed_at": "2026-09-02 11:13:33 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b4df111f1e93:0xaccc169d5cf341fb!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/-kVyeKzDLK4FKN4PNHF9pnTyRLcIsdCMu7YFjv8PyAY/6a9804ddc986af00f409db5e.html",
+  "prettify_html_file": "https://serpapi.com/searches/-kVyeKzDLK4FKN4PNHF9pnTyRLcIsdCMu7YFjv8PyAY/6a9804ddc986af00f409db5e.prettify",
+  "total_time_taken": 0.82
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b4df111f1e93:0xaccc169d5cf341fb",
+  "hl": "en",
+  "sort_by": "ratingLow"
+ },
+ "place_info": {
+  "title": "Brown's BBQ",
+  "address": "1901 S Lamar Blvd, Austin, TX 78704",
+  "rating": 4.8,
+  "reviews": 875,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "brisket",
+   "mentions": 292,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "mac and cheese",
+   "mentions": 66,
+   "id": "tPmxvz9iXiw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 6,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 22,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "boudin",
+   "mentions": 17,
+   "id": "Qz-Komxqr2s"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 15,
+   "id": "AgpY-9eTufU"
+  },
+  {
+   "keyword": "wraps",
+   "mentions": 28,
+   "id": "Az9xCBkjaQ8"
+  },
+  {
+   "keyword": "food truck",
+   "mentions": 36,
+   "id": "EB2a_5qiM3E"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 27,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "cabbage",
+   "mentions": 33,
+   "id": "Qg-Qvh2PGU8"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201SGNFWTRVRE4wYW1SV1JFaHNlVXRKYjBoQ1prRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOm5HcEY4UDN0amRWREhseUtJb0hCZkE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-18T14:01:46Z",
+   "iso_date_of_last_edit": "2026-07-18T14:01:46Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SGNFWTRVRE4wYW1SV1JFaHNlVXRKYjBoQ1prRRAB",
+   "user": {
+    "name": "Kasey Claytor",
+    "link": "https://www.google.com/maps/contrib/106327121170225322033?hl=en-US",
+    "contributor_id": "106327121170225322033",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIXnlWy92Lmin50rgWS2i4RXhnusiGGBajBKaGCSxmBovMb=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 28,
+    "photos": 49
+   },
+   "snippet": "The food was talked up about by the guy on the double decker bus so we decided to chevk it out. We were hoping for a wow experience of flavor but were left disappointed. The polulled pork had a good smokey flavor but it was cold, the bun was soggy and the bbq saiuce was runny with little to no flavor. I got the beans on the side and these were also served cold and swimming in juice. I prefer to eat beans with a fork not like a bean soup. The bar was small and had a good small town feel to it. However, the bartender wasn't friendly at all. I would say 3/10 for my overall rating",
+   "extracted_snippet": {
+    "original": "The food was talked up about by the guy on the double decker bus so we decided to chevk it out. We were hoping for a wow experience of flavor but were left disappointed. The polulled pork had a good smokey flavor but it was cold, the bun was soggy and the bbq saiuce was runny with little to no flavor. I got the beans on the side and these were also served cold and swimming in juice. I prefer to eat beans with a fork not like a bean soup. The bar was small and had a good small town feel to it. However, the bartender wasn't friendly at all. I would say 3/10 for my overall rating"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTURBOGVqa2F3EAE!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CIHM0ogKEICAgMDA8ejkaw%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "a year ago",
+   "iso_date": "2025-02-09T22:51:58Z",
+   "iso_date_of_last_edit": "2025-02-09T22:51:58Z",
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOGVqa2F3EAE",
+   "user": {
+    "name": "Brian Portner",
+    "link": "https://www.google.com/maps/contrib/108229512073281646186?hl=en-US",
+    "contributor_id": "108229512073281646186",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV1t-CAnzFu0HcbB7SXcU6sU6f_pYIuYtqAqa4uVjSNLzQJpmx-6A=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 118,
+    "photos": 16
+   },
+   "snippet": "Man I hate to leave such a negative review especially with the workers being so nice. And I understand there is a lot of competition when it comes to ribs. But I spent almost $50 for the beef and pork ribs and they were tougher than a baked overcooked porkchop. Idk if it's just bad meat or lack of experience cooking ribs but I hope they make improvements. I plan to try the brisket and will update my review. As far as ribs, this is NOT where you want to go.",
+   "extracted_snippet": {
+    "original": "Man I hate to leave such a negative review especially with the workers being so nice. And I understand there is a lot of competition when it comes to ribs. But I spent almost $50 for the beef and pork ribs and they were tougher than a baked overcooked porkchop. Idk if it's just bad meat or lack of experience cooking ribs but I hope they make improvements. I plan to try the brisket and will update my review. As far as ribs, this is NOT where you want to go."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "food": 2,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR6dE95QXh3RRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CIHM0ogKEICAgIDztOyAxwE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 years ago",
+   "iso_date": "2024-06-07T23:37:40Z",
+   "iso_date_of_last_edit": "2024-06-07T23:37:40Z",
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6dE95QXh3RRAB",
+   "user": {
+    "name": "Nikki Casey",
+    "link": "https://www.google.com/maps/contrib/117581920044922603211?hl=en-US",
+    "contributor_id": "117581920044922603211",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVE2ksZPXQDXo5ltb1WDzPC72SbE9hkWUhlZRVtS-s4Q07zdMKA=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 32,
+    "photos": 14
+   },
+   "snippet": "I'd just like to leave an honest review of this place bc I can not for the life of my understand how the rating was a 4.8. This was some of the worst bbq I've ever paid money for. The meat was dry and tough and the maccaroni tasted like a nasty off-brand something from a box with bacon bits sprinkled in. The bread was just plain white bread straight up pulled out the wonderbread loaf. Not toasted. No butter. It was truly terrible and horribly overpriced. DO NOT RECOMMEND!",
+   "extracted_snippet": {
+    "original": "I'd just like to leave an honest review of this place bc I can not for the life of my understand how the rating was a 4.8. This was some of the worst bbq I've ever paid money for. The meat was dry and tough and the maccaroni tasted like a nasty off-brand something from a box with bacon bits sprinkled in. The bread was just plain white bread straight up pulled out the wonderbread loaf. Not toasted. No butter. It was truly terrible and horribly overpriced. DO NOT RECOMMEND!"
+   },
+   "details": {
+    "food": 1,
+    "service": 2,
+    "atmosphere": 2
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURwckpmU0R3EAE!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CIHM0ogKEICAgIDprJfSDw%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "3 years ago",
+   "iso_date": "2023-08-17T16:12:26Z",
+   "iso_date_of_last_edit": "2023-08-17T16:12:26Z",
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwckpmU0R3EAE",
+   "user": {
+    "name": "Joan Walker",
+    "link": "https://www.google.com/maps/contrib/109209710739589662562?hl=en-US",
+    "contributor_id": "109209710739589662562",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjV2oQOXYfpYRRGxrSdFLvdTTeNdAHtetflTdMX5UbQXEHej6Yg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 26,
+    "photos": 6
+   },
+   "snippet": "I thought about sharing this for a couple days. I have been visiting this truck at least once maybe twice a week while I'm out Ubering. I went on Monday and got what I always get, which is a brisket and sausage sandwich (Large), but on Monday I notice something different. When I paid I heard the lady with blondish/brown hair ask the older lady did she tip? ( She tried to whisper) The older lady looked at her screen and shook her head no. I'm like hmmm....ok I get my food and leave and open my food they gave me a small sandwich and the potato salad was not homemade. The younger lady also made my sandwich behind the screen which is also weird! I'm disappointed because a tip is a choice. Unfortunately, I have to find a new spot. Truly disappointed. The food is really good though.",
+   "extracted_snippet": {
+    "original": "I thought about sharing this for a couple days. I have been visiting this truck at least once maybe twice a week while I'm out Ubering. I went on Monday and got what I always get, which is a brisket and sausage sandwich (Large), but on Monday I notice something different. When I paid I heard the lady with blondish/brown hair ask the older lady did she tip? ( She tried to whisper) The older lady looked at her screen and shook her head no. I'm like hmmm....ok I get my food and leave and open my food they gave me a small sandwich and the potato salad was not homemade. The younger lady also made my sandwich behind the screen which is also weird! I'm disappointed because a tip is a choice. Unfortunately, I have to find a new spot. Truly disappointed. The food is really good though."
+   },
+   "likes": 1
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURXdmVINWZnEAE!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CIHM0ogKEICAgIDWveH5fg%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "4 years ago",
+   "iso_date": "2022-04-01T17:41:33Z",
+   "iso_date_of_last_edit": "2022-04-01T17:41:33Z",
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdmVINWZnEAE",
+   "user": {
+    "name": "Michael Halliburton",
+    "link": "https://www.google.com/maps/contrib/105136823949020955175?hl=en-US",
+    "contributor_id": "105136823949020955175",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXbYDqnX_vggpbQt-y1L6BkvhmefVdO-tr9cd2Cy85l7j4oqHr9=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 1,
+    "photos": 0
+   },
+   "snippet": "I was not satisfied with the brisket and sausage large sandwich for $15.00. The portion size was not adequate for the price it was akin to a small sandwich. In addition, the shredded brisket was stale. I would not be returning to this establishment and will not recommend Brown's BBQ to anyone.",
+   "extracted_snippet": {
+    "original": "I was not satisfied with the brisket and sausage large sandwich for $15.00. The portion size was not adequate for the price it was akin to a small sandwich. In addition, the shredded brisket was stale. I would not be returning to this establishment and will not recommend Brown's BBQ to anyone."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$10\u201320"
+   },
+   "likes": 0,
+   "response": {
+    "date": "4 years ago",
+    "iso_date": "2022-04-01T18:16:21Z",
+    "iso_date_of_last_edit": "2022-04-01T18:16:21Z",
+    "snippet": "I refunded your $15 sir. Don\u2019t want your $ if you didn\u2019t enjoy. Don\u2019t understand what happened but we\u2019re sorry. Hope you can enjoy the rest of your day. Mr. Brown.",
+    "extracted_snippet": {
+     "original": "I refunded your $15 sir. Don\u2019t want your $ if you didn\u2019t enjoy. Don\u2019t understand what happened but we\u2019re sorry. Hope you can enjoy the rest of your day. Mr. Brown."
+    }
+   }
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQwcFliSmdRRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CIHM0ogKEICAgID0pYbJgQE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "6 years ago",
+   "iso_date": "2019-11-13T01:49:58Z",
+   "iso_date_of_last_edit": "2019-11-13T01:49:58Z",
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwcFliSmdRRRAB",
+   "user": {
+    "name": "Charles Cryderman",
+    "link": "https://www.google.com/maps/contrib/116406521723595053353?hl=en-US",
+    "contributor_id": "116406521723595053353",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL1_Mxdzlgamh1XoLwm-tb8tG1sSa-Ylv23FCe1v3X50HJ4aw=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 9,
+    "photos": 0
+   },
+   "snippet": "Advertises he's open on Tuesday. Went by at 1:49 pm and he was closed. I drove from no.. Austin because I heard it was great bbq.\nI'll never go again\n.",
+   "extracted_snippet": {
+    "original": "Advertises he's open on Tuesday. Went by at 1:49 pm and he was closed. I drove from no.. Austin because I heard it was great bbq.\nI'll never go again\n."
+   },
+   "likes": 0,
+   "response": {
+    "date": "6 years ago",
+    "iso_date": "2019-11-14T01:50:24Z",
+    "iso_date_of_last_edit": "2019-11-14T01:50:24Z",
+    "snippet": "I am open on Tuesday. Fresh water tank froze last night. Can\u2019t be open without water. Some of the disadvantages of being a food trailer. If you decide to come back I\u2019ll buy you lunch. Mr. Brown",
+    "extracted_snippet": {
+     "original": "I am open on Tuesday. Fresh water tank froze last night. Can\u2019t be open without water. Some of the disadvantages of being a food trailer. If you decide to come back I\u2019ll buy you lunch. Mr. Brown"
+    }
+   }
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURBbDU2ZEdBEAE!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CIHM0ogKEICAgIDAl56dGA%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "10 years ago",
+   "iso_date": "2016-07-22T18:04:27Z",
+   "iso_date_of_last_edit": "2016-07-22T18:04:27Z",
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBbDU2ZEdBEAE",
+   "user": {
+    "name": "Jonathan Flores",
+    "link": "https://www.google.com/maps/contrib/112905119643569693982?hl=en-US",
+    "contributor_id": "112905119643569693982",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKCH2kSxzPX4q58NE8QuMdux_DLx27tEJo4mp8iIpWQDmQtiQ=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 2,
+    "photos": 0
+   },
+   "snippet": "I was so ready for some brisket and was so let down it was like they rolled it in salt . And the price was so outrageous. Never again please don't waist your money.",
+   "extracted_snippet": {
+    "original": "I was so ready for some brisket and was so let down it was like they rolled it in salt . And the price was so outrageous. Never again please don't waist your money."
+   },
+   "likes": 0
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURCZ2ZxQ2RREAE!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CIHM0ogKEICAgIDBgfqCdQ%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "3 years ago",
+   "iso_date": "2023-01-21T00:02:43Z",
+   "iso_date_of_last_edit": "2023-01-21T00:02:43Z",
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCZ2ZxQ2RREAE",
+   "user": {
+    "name": "Monty Byron",
+    "link": "https://www.google.com/maps/contrib/110074844968946736752?hl=en-US",
+    "contributor_id": "110074844968946736752",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocKNlMbwdcF4AVruRS4M2bbFv3tKZNgvU_zSEL0sIoBLHBki4A=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 1,
+    "photos": 0
+   },
+   "snippet": "We'd pay $45And received enough meat to feed a mouseI would not recommend going to this barbecue placeWhat",
+   "extracted_snippet": {
+    "original": "We'd pay $45And received enough meat to feed a mouseI would not recommend going to this barbecue placeWhat"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Dinner",
+    "price_per_person": "$30\u201350",
+    "parking": "Too much money for the"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b4df111f1e93%3A0xaccc169d5cf341fb&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7-m3pWYP___EhDNGvl-HwcnceDLWXIAAAAAGgn965oCei5dh7IYACIA&sort_by=ratingLow",
+  "next_page_token": "CjEIARIpCgoAP7-m3pWYP___EhDNGvl-HwcnceDLWXIAAAAAGgn965oCei5dh7IYACIA"
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "search_metadata": {
+  "id": "6a98065ff607a9a78e6a52ba",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/sczdi-MnvIYy--QDBN7p0UjWORmpTB_FQOAeml2o3eU/6a98065ff607a9a78e6a52ba.json",
+  "markdown_endpoint": "https://serpapi.com/searches/sczdi-MnvIYy--QDBN7p0UjWORmpTB_FQOAeml2o3eU/6a98065ff607a9a78e6a52ba.md",
+  "created_at": "2026-09-02 11:19:59 UTC",
+  "processed_at": "2026-09-02 11:19:59 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b4df111f1e93:0xaccc169d5cf341fb!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/sczdi-MnvIYy--QDBN7p0UjWORmpTB_FQOAeml2o3eU/6a98065ff607a9a78e6a52ba.html",
+  "prettify_html_file": "https://serpapi.com/searches/sczdi-MnvIYy--QDBN7p0UjWORmpTB_FQOAeml2o3eU/6a98065ff607a9a78e6a52ba.prettify",
+  "total_time_taken": 0.91
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b4df111f1e93:0xaccc169d5cf341fb",
+  "hl": "en",
+  "sort_by": "qualityScore"
+ },
+ "place_info": {
+  "title": "Brown's BBQ",
+  "address": "1901 S Lamar Blvd, Austin, TX 78704, United States",
+  "rating": 4.8,
+  "reviews": 875,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "brisket",
+   "mentions": 292,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "mac and cheese",
+   "mentions": 66,
+   "id": "tPmxvz9iXiw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 6,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 22,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "boudin",
+   "mentions": 17,
+   "id": "Qz-Komxqr2s"
+  },
+  {
+   "keyword": "peach cobbler",
+   "mentions": 15,
+   "id": "AgpY-9eTufU"
+  },
+  {
+   "keyword": "wraps",
+   "mentions": 28,
+   "id": "Az9xCBkjaQ8"
+  },
+  {
+   "keyword": "food truck",
+   "mentions": 36,
+   "id": "EB2a_5qiM3E"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 27,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "cabbage",
+   "mentions": 33,
+   "id": "Qg-Qvh2PGU8"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pKdmQybFNUek5rT1dwQllXNHpObU5MYjFkNFZHYxAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOjJvd2lSTzNkOWpBYW4zNmNLb1d4VGc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-19T18:58:10Z",
+   "iso_date_of_last_edit": "2026-04-19T18:58:10Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPR1Y18Sef5xF_XE1abB24Xs8C1jWJ126gmaALhYQiM56eBPvLIo5h0YRYgbm-lL7dwHxivlRsyO7Yde77yxAt_XTqeXf1ooLcevnWCpL59IdrpumrGe1hPT3TGvL6WoRpGcf4MTvlg3N0=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPbsOwPkt8hBqNo7KVjz-MTSa_USP1LrtJ27Q1XY1ooR-ZOnFmglNashuDk36EYsn0TTyAsh3QgEIdq7Dz1WiXoTc3rMrsmYrL5JJxvJ7GiFtYwbWN9urgQW6ENsDk83lFknU2NMqHNLnvP=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOeb6V_KCu62aQ6I99k_bh_Cpp1SLBdfPsmL1V-fH3i2tqKaiiTj0exbIf25Kq5OlvvHpHWDng6iZivagyE-S7RhXqG4_BFN9eqa_SKz3Ma_CKmqBSQO6JC-aTmYLl7lcI98bzmEUdJz7vc=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdmQybFNUek5rT1dwQllXNHpObU5MYjFkNFZHYxAB",
+   "user": {
+    "name": "Rachel Nikki Weigel",
+    "link": "https://www.google.com/maps/contrib/109727420260070188319?hl=en-GB",
+    "contributor_id": "109727420260070188319",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXEc2Su1inaRB3KoJqLX4wXDLPeB_bNFSd_Rl-HY1IdHM9vSXLP=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 116,
+    "photos": 204
+   },
+   "snippet": "Best brisket we've had in Austin so far. Even better than Terry Black's, Loro (so dry), and a couple others we tried but can't even recall. Moist, tender, great smoke ring, best flavor, and so affordable!\nMy photo of the one on regular white bread is the SMALL brisket sandwich!!!\nSeriously, if you're looking for incredible smoked brisket, this is where you find it.",
+   "extracted_snippet": {
+    "original": "Best brisket we've had in Austin so far. Even better than Terry Black's, Loro (so dry), and a couple others we tried but can't even recall. Moist, tender, great smoke ring, best flavor, and so affordable!\nMy photo of the one on regular white bread is the SMALL brisket sandwich!!!\nSeriously, if you're looking for incredible smoked brisket, this is where you find it."
+   },
+   "details": {
+    "food": 5,
+    "service": 5,
+    "atmosphere": 4
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSZmVHSTVVV2hVWTNjdGIwVnVZbVIxV0c5eGFXYxAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOlRfeGI5UWhUY3ctb0VuYmR1WG9xaWc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-19T21:08:13Z",
+   "iso_date_of_last_edit": "2026-04-19T21:08:13Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN1tHuUCvtysUZaAbeYFQWtoymtBEi5vFPiOQDVu5fHBsqgtYmTtoouHj6tlCqxYYkOXSZmbLhQOLfrgL2IHQUhfEq5f111RIwSSb3T314InkNVTH0Fo3NrmtKfAEeiRAbVRBUd901xhqvO=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMXAD4CXiQXpKOdcGR9rfPL2xM5oiR8WoDR5vAcHcg8oIU_BcF7wH5SuDDM_gOqMfMXlK6oHVFqHX4cnKvtCdmn7cH4rNUT6FMFA7VXw7x7G3YuWEkIXNvzzuiruYQtIPcTtTPLKaU0aK5i=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSZmVHSTVVV2hVWTNjdGIwVnVZbVIxV0c5eGFXYxAB",
+   "user": {
+    "name": "keith kurtz",
+    "link": "https://www.google.com/maps/contrib/112690147230634804513?hl=en-GB",
+    "contributor_id": "112690147230634804513",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIUhXhHzAL41AIORR00-JwbNyk8EJVOvKiRpFomcBRNsdikOVE=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 48,
+    "photos": 36
+   },
+   "snippet": "First of all the guy inside who I\u2019m assuming is the owner was a really nice guy with great customer service. I only tried the pork ribs and the beef ribs and both were great. I especially loved how he did the beef ribs and they were smaller room less fatty than what I\u2019m used to. He did them a different way but I really like them a lot.  The pork ribs were good too, and I\u2019m not a big sauce guy, but the two sauces he gave me were very good.  It\u2019s a food trailer parked outside a bar. And I guess if you pay $15 and drink inside the bar on Sundays, you get free barbecue or something like that. Which seems like a pretty good deal to me. I\u2019m definitely going back. I\u2019m glad I decided to stop.",
+   "extracted_snippet": {
+    "original": "First of all the guy inside who I\u2019m assuming is the owner was a really nice guy with great customer service. I only tried the pork ribs and the beef ribs and both were great. I especially loved how he did the beef ribs and they were smaller room less fatty than what I\u2019m used to. He did them a different way but I really like them a lot.  The pork ribs were good too, and I\u2019m not a big sauce guy, but the two sauces he gave me were very good.  It\u2019s a food trailer parked outside a bar. And I guess if you pay $15 and drink inside the bar on Sundays, you get free barbecue or something like that. Which seems like a pretty good deal to me. I\u2019m definitely going back. I\u2019m glad I decided to stop."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Dinner",
+    "price_per_person": "$20\u201330",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tFMFVEaHhUbVpyY25odmRXVnFhSEJrTFdod2VGRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOkE0UDhxTmZrcnhvdWVqaHBkLWhweFE%7C%7C?hl=en-GB",
+   "rating": 4.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-19T03:44:46Z",
+   "iso_date_of_last_edit": "2026-07-19T03:44:46Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO5i6i8AjzBOXG_ojTzEf0ONxseInXjCS19XzyyL7V6RQJLgoNLLsXbly72Gmzu7VwADSMt4jhdxVFLNsDV-moKHugwNPAa6eCNxHGVkW3mp7a7cbvUbauFDRE4XvuVefFqAjqsvOqAvCmn=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMFVEaHhUbVpyY25odmRXVnFhSEJrTFdod2VGRRAB",
+   "user": {
+    "name": "True Oceanside",
+    "link": "https://www.google.com/maps/contrib/107864765473332158790?hl=en-GB",
+    "contributor_id": "107864765473332158790",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUyxtW9xDXnG21W4kV_orkbfSHnV9E3ZrHzuwW3cNRqAbnXc5fB=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 66,
+    "photos": 246
+   },
+   "snippet": "Outdoor trailer barbecue place. Good bar right across the way. Mac & cheese absolutely delicious. Brisket sausage sandwich was made. Two barbecue sauces one mustard based one sweeter, red or sauce. Go for the sweeter Ritter sauce.",
+   "extracted_snippet": {
+    "original": "Outdoor trailer barbecue place. Good bar right across the way. Mac & cheese absolutely delicious. Brisket sausage sandwich was made. Two barbecue sauces one mustard based one sweeter, red or sauce. Go for the sweeter Ritter sauce."
+   },
+   "details": {
+    "price_per_person": "$20\u201330",
+    "food": 4,
+    "service": 5,
+    "atmosphere": 4,
+    "reservation": "Reservations not required",
+    "special_events": "Not sure",
+    "wait_time": "No wait",
+    "parking_space": "Somewhat difficult to find parking",
+    "parking_options": "Free of charge parking lot, Free of charge street parking"
+   },
+   "likes": 0
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21selJETXlUVTlTTm5WdE1YRXhYM1ZaVm0xaU1YYxAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOmlzRDMyTU9SNnVtMXExX3VZVm1iMXc%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-20T16:00:16Z",
+   "iso_date_of_last_edit": "2026-04-20T16:00:16Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMWEyfigQeL1dYnTJr5UwitIKrHQvWtp6BJYKTomI6CwdIE_S_C6iWgFXHqGp0uqwCvlT1Ybr1gOC_oBCzwehmZ0SyAEAtqzaCvME6OEQzRCzylwjoy1bciAyO5kpT67Yw9FTmSGne47-FM=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21selJETXlUVTlTTm5WdE1YRXhYM1ZaVm0xaU1YYxAB",
+   "user": {
+    "name": "emma",
+    "link": "https://www.google.com/maps/contrib/111970236621162005996?hl=en-GB",
+    "contributor_id": "111970236621162005996",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUliwsIdMR84sow276_2BZiZTc_ZVGh_NWu5E0rNzthdaXoBXg=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 20,
+    "photos": 13
+   },
+   "snippet": "Delicious food and great service. Basically no line which was shocking.\n\nAccording to someone who\u2019s been in Austin 30+ years, this food was way better and cheaper than some of the other well known (and Michelin starred) BBQ places. Will definitely be back!",
+   "extracted_snippet": {
+    "original": "Delicious food and great service. Basically no line which was shocking.\n\nAccording to someone who\u2019s been in Austin 30+ years, this food was way better and cheaper than some of the other well known (and Michelin starred) BBQ places. Will definitely be back!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$10\u201320",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "seating_type": "Indoor dining area, Bar area, Outdoor patio / terrace",
+    "parking_options": "Free of charge parking lot, Free of charge street parking"
+   },
+   "likes": 1
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214eGMwUlVjWEZVYzBOc1JqazJkSFJmUm1ad1kwRRAB!2m1!1s0x0:0xaccc169d5cf341fb!3m1!1s2@1:CAIQACodChtycF9oOmxxc0RUcXFUc0NsRjk2dHRfRmZwY0E%7C%7C?hl=en-GB",
+   "rating": 5.0,
+   "date": "9 months ago",
+   "iso_date": "2025-11-21T00:58:27Z",
+   "iso_date_of_last_edit": "2025-11-21T00:58:27Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPlNh0aQTAUK0MEE3-i4bRNCXwCmTwxMj1-AYqa8qMfUrRnuiozZAL6FWuFW189JjktnHW8LLW9Kp_02xgBZUixNhwF-2gFhqZSYjTi12jhKyFGmoC2mdMfJUFIA8rKtVJjubUTxDlT0Ti3=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNrnGj6vpNypSLcIVrXzZRROwCNbx2thLLtfzbxjOmcuTUEYv50azD_zqgQo-uz89vZbvDMJXkDSgq5Ga0bHsRB1mJVQaUEQSV_TwvGpuQjAwWPF2ow7t8IT-PKsKEGV6ZSeY8D7sPmtjQ7=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP2qLV_jBDob7T40cgJ7uv4mIniObK8t9pZHITCVMpKiheokRp_o3N_QxFNnmvMBlE_IDD6ok0Twq92J-Bsw1ed6B-fVXZU1vQWwy1NFR76HdTGLLd1HYUQw0rb-JI9XGx7JmzO-h59aTA5=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOPADXT_nGcjv6NdjtIYri3GQFlcW3hUjrPKy7URTmLwZLguqAH-nhsvGRUrEG-2QJfb-U0XcCmu6lnpVPgRaboyuOOpX_YCoBm3Ofhu8uwkOYqC4mwoTxA9MhhWi-6JmK4nDnp5XZDuxI=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214eGMwUlVjWEZVYzBOc1JqazJkSFJmUm1ad1kwRRAB",
+   "user": {
+    "name": "Christopher T",
+    "link": "https://www.google.com/maps/contrib/102134851159561307591?hl=en-GB",
+    "contributor_id": "102134851159561307591",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXLgJ2BhjMXepwQfKmwAoIoEick_VJvwoti7nnCJols-wRSPlQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 684,
+    "photos": 8178
+   },
+   "snippet": "Went here when they just open for a quick bite before heading to the airport.  Need last bbq before heading out.  Simply delicious and juicy and the meats are just simple tasty and tender and clever thing you could think of.  It\u2019s a food truck parks right infront of the bar so you ordered, get your foods and go inside and get drinks and enjoys the foods.  The service is great & friendly and turnaround is quick too.  The vibe is just simple great and easy going plus the bar is more of a garage type & simple with great music.  Love it.",
+   "extracted_snippet": {
+    "original": "Went here when they just open for a quick bite before heading to the airport.  Need last bbq before heading out.  Simply delicious and juicy and the meats are just simple tasty and tender and clever thing you could think of.  It\u2019s a food truck parks right infront of the bar so you ordered, get your foods and go inside and get drinks and enjoys the foods.  The service is great & friendly and turnaround is quick too.  The vibe is just simple great and easy going plus the bar is more of a garage type & simple with great music.  Love it."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "price_per_person": "$30\u201350",
+    "food": 5,
+    "service": 5,
+    "atmosphere": 5,
+    "special_events": "No special event",
+    "wait_time": "No wait",
+    "vegetarian_options": "It bbq so meats but they do have side dishes that don\u2019t have meat\u2026",
+    "parking_space": "Plenty of parking",
+    "parking_options": "Free of charge parking lot, Free of charge street parking",
+    "kid_friendliness": "Yes",
+    "wheelchair_accessibility": "Yes"
+   },
+   "likes": 0
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b4df111f1e93%3A0xaccc169d5cf341fb&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7_LAHBM____EhCmrSCwD0DXFsXF0psAAAAAGgn92QACYqAhcSIYACIA&sort_by=qualityScore",
+  "next_page_token": "CjEIARIpCgoAP7_LAHBM____EhCmrSCwD0DXFsXF0psAAAAAGgn92QACYqAhcSIYACIA"
+ }
+}

@@ -1,0 +1,467 @@
+{
+ "search_metadata": {
+  "id": "6a980577b463f326e7ffbdf5",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rFjzEooko7NSuyqpd0LJCdwal7_yUzyEZikqjp2gU3k/6a980577b463f326e7ffbdf5.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rFjzEooko7NSuyqpd0LJCdwal7_yUzyEZikqjp2gU3k/6a980577b463f326e7ffbdf5.md",
+  "created_at": "2026-09-02 11:16:07 UTC",
+  "processed_at": "2026-09-02 11:16:07 UTC",
+  "yelp_url": "https://www.yelp.com/search?find_desc=Cooper%27s+Old+Time+Pit+Bar-B-Que&find_loc=Austin%2C+TX%2C+USA",
+  "raw_html_file": "https://serpapi.com/searches/rFjzEooko7NSuyqpd0LJCdwal7_yUzyEZikqjp2gU3k/6a980577b463f326e7ffbdf5.html",
+  "total_time_taken": 2.12
+ },
+ "search_parameters": {
+  "engine": "yelp",
+  "find_desc": "Cooper's Old Time Pit Bar-B-Que",
+  "find_loc": "Austin, TX, USA"
+ },
+ "filters": {
+  "category": [
+   {
+    "text": "Specialty Food",
+    "value": "gourmet"
+   },
+   {
+    "text": "Sandwiches",
+    "value": "sandwiches"
+   },
+   {
+    "text": "Food Trucks",
+    "value": "foodtrucks"
+   },
+   {
+    "text": "Meat Shops",
+    "value": "meats"
+   },
+   {
+    "text": "BBQ & Barbecue",
+    "value": "bbq"
+   },
+   {
+    "text": "Sports Bars",
+    "value": "sportsbars"
+   },
+   {
+    "text": "Restaurants",
+    "value": "restaurants"
+   },
+   {
+    "text": "Steakhouses",
+    "value": "steak"
+   },
+   {
+    "text": "American",
+    "value": "tradamerican"
+   },
+   {
+    "text": "Smokehouse",
+    "value": "smokehouse"
+   },
+   {
+    "text": "Burgers",
+    "value": "burgers"
+   },
+   {
+    "text": "Event Planning & Event Services",
+    "value": "eventservices"
+   },
+   {
+    "text": "Music Venues",
+    "value": "musicvenues"
+   },
+   {
+    "text": "Caterers",
+    "value": "catering"
+   }
+  ],
+  "price": [
+   {
+    "text": "$",
+    "value": "RestaurantsPriceRange2.1"
+   },
+   {
+    "text": "$$",
+    "value": "RestaurantsPriceRange2.2"
+   },
+   {
+    "text": "$$$",
+    "value": "RestaurantsPriceRange2.3"
+   },
+   {
+    "text": "$$$$",
+    "value": "RestaurantsPriceRange2.4"
+   }
+  ],
+  "distance": [
+   {
+    "text": "Within 2 miles",
+    "value": "g:-97.78329849243164,30.282936335784672,-97.73214340209961,30.327397491366572"
+   },
+   {
+    "text": "Bird's-eye View",
+    "value": "g:-97.86003112792969,30.21635515266855,-97.65541076660156,30.394199462058317"
+   },
+   {
+    "text": "Within 4 blocks",
+    "value": "g:-97.76091814041138,30.302372046570763,-97.75452375411987,30.307929692159156"
+   },
+   {
+    "text": "Within 1 mile",
+    "value": "g:-97.77050971984863,30.294053515036044,-97.74493217468262,30.316284093102404"
+   },
+   {
+    "text": "Within 5 miles",
+    "value": "g:-97.80887603759766,30.260549927069945,-97.7065658569336,30.349472368261814"
+   }
+  ]
+ },
+ "ads_results": [
+  {
+   "block_position": "top",
+   "place_ids": [
+    "JfiU9qihvVrH_KC_7luxXg",
+    "eggs-up-grill-austin-2"
+   ],
+   "title": "Eggs Up Grill",
+   "link": "https://www.yelp.com/adredir?ad_business_id=JfiU9qihvVrH_KC_7luxXg&amp;campaign_id=223205047&amp;click_origin=search_results&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fen.yelp.my%2Fbiz%2Feggs-up-grill-austin-2&amp;request_id=5436fd3d410d80d2&amp;signature=0afa69818bbe6bc74cbaac32ea871c0d87bb8c512884d932b0029a86bc9cce14&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=JfiU9qihvVrH_KC_7luxXg&start=0",
+   "categories": [
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&amp;find_loc=Austin%2C+TX"
+    },
+    {
+     "title": "Burgers",
+     "link": "https://www.yelp.com/search?find_desc=Burgers&amp;find_loc=Austin%2C+TX"
+    },
+    {
+     "title": "Breakfast & Brunch",
+     "link": "https://www.yelp.com/search?find_desc=Breakfast+%26+Brunch&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "rating": 4.0,
+   "reviews": 52,
+   "neighborhoods": "Southeast Austin",
+   "open_state": "Open until 2:00 pm",
+   "phone": "(737) 399-5054",
+   "snippet": "Eggs Up Grill serves breakfast, brunch and lunch daily as well as catering.",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/adredir?ad_business_id=JfiU9qihvVrH_KC_7luxXg&amp;click_origin=search_results_platform&amp;placement=vertical_0&amp;placement_slot=0&amp;redirect_url=https%3A%2F%2Fen.yelp.my%2Fbiz%2Feggs-up-grill-austin-2%3Fshow_platform_modal%3DTrue&amp;request_id=5436fd3d410d80d2&amp;signature=e08eb60e55d162cdb8cdf0bc0303446974ef8e14642a0833481f2a91f03c533f&amp;slot=0"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/q6b49-O-cgq7dlna459rsQ/ls.jpg"
+  },
+  {
+   "block_position": "bottom",
+   "place_ids": [
+    "DV92UfXz_Lzyl4qi1w5c-w",
+    "cedar-valley-hot-stuffed-pizza-shop-austin"
+   ],
+   "title": "Cedar Valley Hot Stuffed Pizza Shop",
+   "link": "https://www.yelp.com/adredir?ad_business_id=DV92UfXz_Lzyl4qi1w5c-w&amp;campaign_id=223983611&amp;click_origin=search_results&amp;placement=below_search&amp;placement_slot=1&amp;redirect_url=https%3A%2F%2Fen.yelp.my%2Fbiz%2Fcedar-valley-hot-stuffed-pizza-shop-austin&amp;request_id=5436fd3d410d80d2&amp;signature=1a90d4ffa729a2373d0f7632fe6b2071aefe921ad69369f804c10cf1b60ffa7c&amp;slot=0",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=DV92UfXz_Lzyl4qi1w5c-w&start=0",
+   "categories": [
+    {
+     "title": "Pizza",
+     "link": "https://www.yelp.com/search?find_desc=Pizza&amp;find_loc=Austin%2C+TX"
+    }
+   ],
+   "rating": 5.0,
+   "reviews": 2,
+   "neighborhoods": "Austin",
+   "phone": "(512) 288-4243",
+   "snippet": "Cedar Valley Hot Stuffed Pizza",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/L73pmQhswXNxTqZJ3O7hwg/ls.jpg"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "place_ids": [
+    "9e5lIroM6Eyd4aS26pWWEQ",
+    "coopers-old-time-pit-bar-b-que-austin"
+   ],
+   "title": "Cooper's Old Time Pit Bar-B-Que",
+   "link": "https://www.yelp.com/biz/coopers-old-time-pit-bar-b-que-austin?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=9e5lIroM6Eyd4aS26pWWEQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sports Bars",
+     "link": "https://www.yelp.com/search?find_desc=Sports+Bars&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Cocktail Bars",
+     "link": "https://www.yelp.com/search?find_desc=Cocktail+Bars&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.0,
+   "reviews": 2300,
+   "neighborhoods": "Downtown",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "So, we headed over to Cooper's Old Time Pit Bar-B-Que. Cooper's is a classic BBQ joint with picnic...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/9e5lIroM6Eyd4aS26pWWEQ?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/WBndUE_7HZUf8z31NauKYw/ls.jpg"
+  },
+  {
+   "position": 2,
+   "place_ids": [
+    "YZs1gNSh_sN8JmN_nrpxeA",
+    "terry-blacks-barbecue-austin"
+   ],
+   "title": "Terry Black's Barbecue",
+   "link": "https://www.yelp.com/biz/terry-blacks-barbecue-austin?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=YZs1gNSh_sN8JmN_nrpxeA&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Southern",
+     "link": "https://www.yelp.com/search?find_desc=Southern&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.5,
+   "reviews": 9100,
+   "neighborhoods": "Bouldin Creek",
+   "open_state": "Closed until 10:30 am",
+   "snippet": "They also have a great selection of merchandise if you're into barbecue swag, with some really nice...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/XT81AQCAwt2t_Rt_sbaKTg/ls.jpg"
+  },
+  {
+   "position": 3,
+   "place_ids": [
+    "MGzro82Fi4LYvc86acoONQ",
+    "franklin-barbecue-austin"
+   ],
+   "title": "Franklin Barbecue",
+   "link": "https://www.yelp.com/biz/franklin-barbecue-austin?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=MGzro82Fi4LYvc86acoONQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$$",
+   "rating": 4.5,
+   "reviews": 6500,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "This was the best barbecue brisket and pork ribs I've ever had. We tried the brisket, the pork ribs...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/MsXhN-6ehWVBsykS3TP5ng/ls.jpg"
+  },
+  {
+   "position": 4,
+   "place_ids": [
+    "-zfm3zSoMNkLXyBZqseczw",
+    "interstellar-bbq-austin"
+   ],
+   "title": "Interstellar BBQ",
+   "link": "https://www.yelp.com/biz/interstellar-bbq-austin?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=-zfm3zSoMNkLXyBZqseczw&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 883,
+   "neighborhoods": "Lake Creek Village",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "Our order had almost everything we love about Texas barbecue: Brisket, sausage, and a beef rib.",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/GYFw3UqbfxwOgRRDL3EJDw/ls.jpg"
+  },
+  {
+   "position": 5,
+   "place_ids": [
+    "EPkf96UcG2W3ttlQphWUGQ",
+    "la-barbecue-austin-3"
+   ],
+   "title": "la Barbecue",
+   "link": "https://www.yelp.com/biz/la-barbecue-austin-3?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=EPkf96UcG2W3ttlQphWUGQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Sandwiches",
+     "link": "https://www.yelp.com/search?find_desc=Sandwiches&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.3,
+   "reviews": 3200,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "La Barbecue is world class. Ribs were equally excellent - smokey sweet and moist, tender.",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Kbva2hytfmTfDeXsftHEOA/ls.jpg"
+  },
+  {
+   "position": 6,
+   "place_ids": [
+    "eJ7X_8KXVlyHZtGrrLz4yg",
+    "lamberts-downtown-barbecue-austin"
+   ],
+   "title": "Lamberts Downtown Barbecue",
+   "link": "https://www.yelp.com/biz/lamberts-downtown-barbecue-austin?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=eJ7X_8KXVlyHZtGrrLz4yg&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Bars",
+     "link": "https://www.yelp.com/search?find_desc=Bars&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Music Venues",
+     "link": "https://www.yelp.com/search?find_desc=Music+Venues&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 3.8,
+   "reviews": 2100,
+   "neighborhoods": "Warehouse District",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "They improved on Texas BBQ. That is different from saying that Lamberts perfectly nails Texas BBQ.",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/eJ7X_8KXVlyHZtGrrLz4yg?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/ukf78XERg_kBaNFMWVV37g/ls.jpg"
+  },
+  {
+   "position": 7,
+   "place_ids": [
+    "WUHaV3UkpIl2IepGUnVjog",
+    "b-cooper-barbecue-austin-2"
+   ],
+   "title": "B. Cooper Barbecue",
+   "link": "https://www.yelp.com/biz/b-cooper-barbecue-austin-2?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=WUHaV3UkpIl2IepGUnVjog&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "rating": 4.8,
+   "reviews": 62,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 4:00 pm tomorrow",
+   "snippet": "Really impressed with B Cooper Barbecue. Had the pulled pork, baby back ribs and lamb ribs last...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Rlq2Wq5e-NfA-UuLGY-lJA/ls.jpg"
+  },
+  {
+   "position": 8,
+   "place_ids": [
+    "ih_MxWyh3OswxzG857v6TQ",
+    "rudys-country-store-and-bar-b-q-austin-11"
+   ],
+   "title": "Rudy's \"Country Store\" and Bar-B-Q",
+   "link": "https://www.yelp.com/biz/rudys-country-store-and-bar-b-q-austin-11?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=ih_MxWyh3OswxzG857v6TQ&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Gas Stations",
+     "link": "https://www.yelp.com/search?find_desc=Gas+Stations&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "Takeaway & Fast Food",
+     "link": "https://www.yelp.com/search?find_desc=Takeaway+%26+Fast+Food&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.4,
+   "reviews": 1200,
+   "neighborhoods": "Austin",
+   "open_state": "Open until 9:00 pm",
+   "snippet": "The focus of Rudy's barbecue, like much of Central Texas barbecue, is the quality and tenderness of...",
+   "button": {
+    "text": "Order",
+    "link": "https://www.yelp.com/biz/ih_MxWyh3OswxzG857v6TQ?show_platform_modal=True"
+   },
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/EVezs810oqVLo4X9471fyg/ls.jpg"
+  },
+  {
+   "position": 9,
+   "place_ids": [
+    "sjgbSELDpzaabRe8bZwUbw",
+    "micklethwait-craft-meats-austin"
+   ],
+   "title": "Micklethwait Craft Meats",
+   "link": "https://www.yelp.com/biz/micklethwait-craft-meats-austin?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=sjgbSELDpzaabRe8bZwUbw&start=0",
+   "categories": [
+    {
+     "title": "Food Trucks",
+     "link": "https://www.yelp.com/search?find_desc=Food+Trucks&find_loc=Austin%2C+TX%2C+USA"
+    },
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 4.5,
+   "reviews": 1200,
+   "neighborhoods": "East Austin",
+   "open_state": "Closed until 11:00 am tomorrow",
+   "snippet": "When it comes to top tier barbecue, it's difficult for me to make too great a distinction of one...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/zW2wAr58hy5M3qxC4rfh_w/ls.jpg"
+  },
+  {
+   "position": 10,
+   "place_ids": [
+    "_JOSiG_X--3W0FWgPrHO0g",
+    "stubbs-bar-b-q-austin"
+   ],
+   "title": "Stubb's Bar-B-Q",
+   "link": "https://www.yelp.com/biz/stubbs-bar-b-q-austin?osq=Cooper%27s+Old+Time+Pit+Bar-B-Que",
+   "reviews_link": "https://serpapi.com/search.json?engine=yelp_reviews&num=49&place_id=_JOSiG_X--3W0FWgPrHO0g&start=0",
+   "categories": [
+    {
+     "title": "BBQ & Barbecue",
+     "link": "https://www.yelp.com/search?find_desc=BBQ+%26+Barbecue&find_loc=Austin%2C+TX%2C+USA"
+    }
+   ],
+   "price": "$$",
+   "rating": 3.4,
+   "reviews": 1700,
+   "neighborhoods": "Downtown",
+   "open_state": "Closed until 11:00 am",
+   "snippet": "She said it's 10 times better than St. Louis barbecue. I agree !!! Texas barbecue is always better...",
+   "thumbnail": "https://s3-media0.fl.yelpcdn.com/bphoto/Qw26NzoDHjxjg6Lo6-IJ5w/ls.jpg"
+  }
+ ],
+ "pagination": {
+  "next": "https://www.yelp.com.au/search?find_desc=Cooper's+Old+Time+Pit+Bar-B-Que&find_loc=Austin%2C+TX%2C+USA&start=10"
+ },
+ "serpapi_pagination": {
+  "next_link": "https://serpapi.com/search.json?engine=yelp&find_desc=Cooper%27s+Old+Time+Pit+Bar-B-Que&find_loc=Austin%2C+TX%2C+USA&start=10",
+  "next": "https://serpapi.com/search.json?engine=yelp&find_desc=Cooper%27s+Old+Time+Pit+Bar-B-Que&find_loc=Austin%2C+TX%2C+USA&start=10"
+ }
+}

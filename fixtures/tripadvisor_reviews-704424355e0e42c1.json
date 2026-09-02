@@ -1,0 +1,369 @@
+{
+ "search_metadata": {
+  "id": "6a9805435c4bf486d67d5723",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Ut38HUF0piuo6QmAu_u85Z1NhypNoE-52xEhTpl6gnQ/6a9805435c4bf486d67d5723.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Ut38HUF0piuo6QmAu_u85Z1NhypNoE-52xEhTpl6gnQ/6a9805435c4bf486d67d5723.md",
+  "created_at": "2026-09-02 11:15:15 UTC",
+  "processed_at": "2026-09-02 11:15:15 UTC",
+  "tripadvisor_reviews_url": "https://www.tripadvisor.com/6856168",
+  "raw_html_file": "https://serpapi.com/searches/Ut38HUF0piuo6QmAu_u85Z1NhypNoE-52xEhTpl6gnQ/6a9805435c4bf486d67d5723.html",
+  "prettify_html_file": "https://serpapi.com/searches/Ut38HUF0piuo6QmAu_u85Z1NhypNoE-52xEhTpl6gnQ/6a9805435c4bf486d67d5723.prettify",
+  "total_time_taken": 0.55
+ },
+ "search_parameters": {
+  "engine": "tripadvisor_reviews",
+  "place_id": "6856168",
+  "tripadvisor_domain": "www.tripadvisor.com"
+ },
+ "search_information": {
+  "total_reviews": 1877
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "title": "Day trip",
+   "snippet": "The BBQ was excellent. We arrived right at lunch time so inside tables were hard to come by.  It is a little overwhelming but it is worth it.",
+   "rating": 5,
+   "review_id": "1075497746",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1075497746-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-08-29",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-08-31",
+    "type": "FAMILY"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/63/ae/3f/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/63/ae/40/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/63/ae/83/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "AF25FCD2D1F2B0EAEEFB16A5C4BF1E18",
+    "username": "622denniss",
+    "display_name": "Dennis S",
+    "link": "https://www.tripadvisor.com/Profile/622denniss",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/df/2b/default-avatar-2020-39.jpg",
+    "contributions": 19
+   }
+  },
+  {
+   "position": 2,
+   "title": "Best Texas BBQ",
+   "snippet": "Went for Texas bbq and it did not disappoint! Lots of options for sides and the meat was fresh. Ordering was a bit chaotic but was part of the charm!",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 5
+    },
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1074165222",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1074165222-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-08-20",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-05-31",
+    "type": "FRIENDS"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/46/01/96/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/46/01/97/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/46/01/98/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "BB730A21726FC7CBD6F1CDC1C057412F",
+    "username": "AlexS174",
+    "display_name": "AlexS174",
+    "link": "https://www.tripadvisor.com/Profile/AlexS174",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/f0/d5/default-avatar-2020-17.jpg",
+    "contributions": 68,
+    "hometown": "Toronto, Canada"
+   }
+  },
+  {
+   "position": 3,
+   "title": "Great BBQ",
+   "snippet": "The meat and the side dishes were really toasty.",
+   "rating": 5,
+   "additional_ratings": [
+    {
+     "label": "Service",
+     "rating": 5
+    },
+    {
+     "label": "Food",
+     "rating": 5
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 5
+    }
+   ],
+   "review_id": "1073874548",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1073874548-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-08-18",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-08-31",
+    "type": "BUSINESS"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/40/bc/0e/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "061169E38C1367EDC6CB72CB04E7CD49",
+    "username": "kar808",
+    "display_name": "kar808",
+    "link": "https://www.tripadvisor.com/Profile/kar808",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/a4/6a/15/kar808.jpg",
+    "contributions": 242,
+    "hometown": "Bad Homburg, Germany"
+   }
+  },
+  {
+   "position": 4,
+   "title": "Good not Great",
+   "snippet": "I was impressed with how efficient they get the food out here. That said, the bbq is kinda bland imo. Sauces were not anything to rave about. In general the food was expensive but average.",
+   "rating": 3,
+   "review_id": "1072094945",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1072094945-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-08-07",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-08-31",
+    "type": "BUSINESS"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "98E0B07BF08A0D9438752938D96C00DB",
+    "username": "stevesZ9507CN",
+    "display_name": "Steve S",
+    "link": "https://www.tripadvisor.com/Profile/stevesZ9507CN",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/de/e7/default-avatar-2020-37.jpg",
+    "contributions": 57
+   }
+  },
+  {
+   "position": 5,
+   "title": "100% Perfection! This was the ultimate spoil!!!!",
+   "snippet": "Terry Black\u2019s BBQ is nothing short of sensational! We booked the VIP package with a pit tour. \nYes it\u2019s expensive but, being a chef and hard to please, this authentic experience was excellent and will forever be etched in my culinary memory. \nThe quality of the Brisket (ask for fatty), Beef Ribs and Steak was truly delicious with generous sides-each of the eight dishes brimming with flavour. \nService from Cesar (his first day on the job) was stellar and he packed the leftovers in a bag weighing in excess of 1KG! \nVisiting from South Africa where our Braais are world renowned, Terry\u2019s BBQ puts us to shame. \nThis is the ultimate Texan BBQ experience. \nPerfection, generosity, flavour (so naturally good, no relishes necessary), vibe, service- it\u2019s remarkable!\nThank you! Fabulous to say the least.",
+   "rating": 5,
+   "review_id": "1071249999",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1071249999-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-08-02",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-08-31",
+    "type": "FAMILY"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/dd/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/de/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/df/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/e0/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/e1/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/e2/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/e3/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/e4/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/e5/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/10/08/e6/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "8C705A594E6431ECEDB1A1E7EC1BBA05",
+    "username": "Traveldelightbb",
+    "display_name": "Traveldelightbb",
+    "link": "https://www.tripadvisor.com/Profile/Traveldelightbb",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/6c/68/4a/caption.jpg",
+    "contributions": 466,
+    "hometown": "Johannesburg, South Africa"
+   }
+  },
+  {
+   "position": 6,
+   "title": "Barbacoa en Austin",
+   "snippet": "Si habia un restaurant que queria conocer y queria degustar su comida era Terry Black's Barbecue, un restaurant con estrella Michelin y con una historia y fama de altisima estima , y les dire que fue maravilloso , primero que nada debo decir que los precios no son baratos pero es que la calidad supera la oferta de verdad , hay fila como cualquier restaurant de BBQ pero la fila se mueve rapido , los cortes son una maravilla, las costillas de pork fueron mis favoritas , la costilla de res es algo que sin duda hay que degustar , el brisket bueno quizas esperaba mas , y la salchicha muy buena , todos los sides son realmente buenos , una visita con tildes de suen\u0308o cumplido.",
+   "rating": 4,
+   "review_id": "1071111148",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1071111148-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-08-01",
+   "language": "es",
+   "original_language": "es",
+   "trip_info": {
+    "date": "2026-08-31",
+    "type": "FAMILY"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0d/a6/24/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0d/a6/25/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0d/a6/26/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0d/a6/27/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0d/a6/28/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0d/a6/29/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/0d/a6/2a/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "0CF2F76F82782858BE10624675C51858",
+    "username": "L6731MRjuano",
+    "display_name": "juan o",
+    "link": "https://www.tripadvisor.com/Profile/L6731MRjuano",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/6f/45/94/caption.jpg",
+    "contributions": 219,
+    "hometown": "Dallas, Texas"
+   }
+  },
+  {
+   "position": 7,
+   "title": "First visit also last",
+   "snippet": "Our first visit was also our last!!!!!\ud83d\ude2b\ud83d\ude2b  after eating there my faimly got horrible diarrhea. Myself went to sleep in a BED then woke up in a cold sweat on the floor in a whole different area of the room. I then crawled all the way to the bathroom while enduring horrible nausea. I proped myself against the toilet then terry black came flying out my mouth!!!!            Terry food took a heavy toll on the whole faimly",
+   "rating": 1,
+   "additional_ratings": [
+    {
+     "label": "Value",
+     "rating": 2
+    },
+    {
+     "label": "Service",
+     "rating": 3
+    },
+    {
+     "label": "Food",
+     "rating": 1
+    },
+    {
+     "label": "Atmosphere",
+     "rating": 4
+    }
+   ],
+   "review_id": "1070064427",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1070064427-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-07-25",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2025-08-31",
+    "type": "FAMILY"
+   },
+   "tips": [
+    "The food was cold.did not like buffet style!! Claims to be best brisket in texas!! Not even close."
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "CAA547F735719B1CB007D0C46CF14C12",
+    "username": "daviss517",
+    "display_name": "Davis S",
+    "link": "https://www.tripadvisor.com/Profile/daviss517",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e2/e6/default-avatar-2020-45.jpg",
+    "contributions": 1
+   }
+  },
+  {
+   "position": 8,
+   "title": "Delicious lunch",
+   "snippet": "This is the best barbecue I\u2019ve had in Texas in my three day stay. I thought the chopped beef sandwich was absolutely delicious. Coleslaw very good. Meats are gluten-free. Very efficient style of \u00e0 la carte. Grab your food sit down. Line moves very quickly. Hope to come back tomorrow. A bit pricey, but nothing seems to be cheap in this area.",
+   "rating": 5,
+   "review_id": "1067948546",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1067948546-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-07-11",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-07-31",
+    "type": "SOLO"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "087766916D46141844670F898E8526A4",
+    "username": "Traderjoey",
+    "display_name": "Traderjoey",
+    "link": "https://www.tripadvisor.com/Profile/Traderjoey",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/cb/57/13/traderjoey.jpg",
+    "contributions": 917,
+    "hometown": "Chicago, Illinois"
+   }
+  },
+  {
+   "position": 9,
+   "title": "La mejor barbacoa de Texas",
+   "snippet": "La mejor barbacoa q he probado todos los cortes exquisitos y suaves lo acompa\u00f1amientos.  Excelentes.    Todo al 100",
+   "rating": 5,
+   "review_id": "1067442751",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1067442751-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-07-07",
+   "language": "es",
+   "original_language": "es",
+   "trip_info": {
+    "date": "2026-06-30",
+    "type": "FRIENDS"
+   },
+   "votes": 0,
+   "author": {
+    "author_id": "B0B427AFD6453BD8A48F7C68BEEBD38D",
+    "username": "juanp819",
+    "display_name": "juan p",
+    "link": "https://www.tripadvisor.com/Profile/juanp819",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/3c/25/5d/juan-p.jpg",
+    "contributions": 523,
+    "hometown": "Guatemala City, Guatemala"
+   }
+  },
+  {
+   "position": 10,
+   "title": "Terry Black\u2019s Austin",
+   "snippet": "Decent BBQ but, not even close to the best I\u2019ve had. Glad we tried it but, found it to be overpriced for what it was.  Parking is sparse, I recommend getting there early.  It was a one time thing for us.  Probably would not go again if we were to visit Austin again.",
+   "rating": 3,
+   "review_id": "1067254681",
+   "link": "https://www.tripadvisor.com/ShowUserReviews-g30196-d6856168-r1067254681-Terry_Black_s_Barbecue-Austin_Texas.html",
+   "date": "2026-07-06",
+   "language": "en",
+   "original_language": "en",
+   "trip_info": {
+    "date": "2026-07-31",
+    "type": "COUPLES"
+   },
+   "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c6/f9/90/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c6/f9/91/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c6/f9/92/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c6/f9/93/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c6/f9/94/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c6/f9/95/caption.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/33/c6/f9/96/caption.jpg"
+   ],
+   "votes": 0,
+   "author": {
+    "author_id": "5EE98FF2457A9A0B6E9414F0CF08319E",
+    "username": "jodyp880",
+    "display_name": "Jody P",
+    "link": "https://www.tripadvisor.com/Profile/jodyp880",
+    "avatar": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f6/e4/2d/default-avatar-2020-48.jpg",
+    "contributions": 136
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?engine=tripadvisor_reviews&offset=10&place_id=6856168&tripadvisor_domain=www.tripadvisor.com"
+ }
+}

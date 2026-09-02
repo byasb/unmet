@@ -1,0 +1,410 @@
+{
+ "search_metadata": {
+  "id": "6a9804d871a90d28258989e5",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/sh545Ek2ZLyEADUlII9CgYleZ2BYMyh7oaPtQ9679Ps/6a9804d871a90d28258989e5.json",
+  "markdown_endpoint": "https://serpapi.com/searches/sh545Ek2ZLyEADUlII9CgYleZ2BYMyh7oaPtQ9679Ps/6a9804d871a90d28258989e5.md",
+  "created_at": "2026-09-02 11:13:28 UTC",
+  "processed_at": "2026-09-02 11:13:28 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5a8562ba8e3:0x45170022a7d54adc!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/sh545Ek2ZLyEADUlII9CgYleZ2BYMyh7oaPtQ9679Ps/6a9804d871a90d28258989e5.html",
+  "prettify_html_file": "https://serpapi.com/searches/sh545Ek2ZLyEADUlII9CgYleZ2BYMyh7oaPtQ9679Ps/6a9804d871a90d28258989e5.prettify",
+  "total_time_taken": 2.64
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5a8562ba8e3:0x45170022a7d54adc",
+  "hl": "en",
+  "sort_by": "ratingLow"
+ },
+ "place_info": {
+  "title": "Iron Works Barbecue",
+  "address": "100 Red River St, Austin, TX 78701, United States",
+  "rating": 4.3,
+  "reviews": 2863,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "texas bbq",
+   "mentions": 91,
+   "id": "MxOOfwfvIcw"
+  },
+  {
+   "keyword": "beef ribs",
+   "mentions": 203,
+   "id": "EapRBH6_SRk"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 11,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "brisket",
+   "mentions": 192,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "creamed corn",
+   "mentions": 59,
+   "id": "B57VY_5fqOw"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 33,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "sampler plate",
+   "mentions": 19,
+   "id": "MBlXbvq3Vpk"
+  },
+  {
+   "keyword": "pulled pork",
+   "mentions": 39,
+   "id": "JR9fW2G7IjU"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 65,
+   "id": "BzYeemUSQh4"
+  },
+  {
+   "keyword": "mac and cheese",
+   "mentions": 32,
+   "id": "tPmxvz9iXiw"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWeFQyNWpabnBJUlROR2EySlVVR3hsTmxWRFVWRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOjVxT25jZnpIRTNGa2JUUGxlNlVDUVE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-20T23:28:26Z",
+   "iso_date_of_last_edit": "2026-03-20T23:28:26Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPpD_AJnqiLgN6cdSlbrsFb7OZ1wTB8cWSN8g8vwPc0fJ5r-B4yJ2EODEr2-hglUNBwfrsBISd6mGovt4Pt7XZRzyb9J8d29ZVyBQ28x8pfakQag8hKAmFY8QW_g-APAKwPWdFg4JYOmgYj=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN4ZFNTFdXjgTKQMlND6H286aUheE_e3UZHUhB4osuCYuh2fe3r8hJpRSLwlA2xl-xt1jlsZv9FP3J6tEFMQxnZU59XWsh539Ct219kxVo6-rLiO39wP4n-aQT9axaa7WWgLRvui0WCKUMQ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeFQyNWpabnBJUlROR2EySlVVR3hsTmxWRFVWRRAB",
+   "user": {
+    "name": "Cason R",
+    "link": "https://www.google.com/maps/contrib/101340679674823913286?hl=en-GB",
+    "contributor_id": "101340679674823913286",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXtqr6FTKXLaONBBqkgO_lUuisZabPDsncCi0-BLUTTrA4s-3ao=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 233,
+    "photos": 870
+   },
+   "snippet": "Came into this spot because average rating was decent and we've been to all the top 6-7 spots in the immediate Austin area already. Figured try something new and see why so many 5 star ratings. Around 4:45pm on a Friday...not a soul in sight.\n\nThis was barely 1 star for us. Each meat was wrong. Brisket dry, zero fat. Rib so oily and chewy could barely pull off the bone. Turkey was over smoked. Sausage was run of the mill...filling was reminiscent of just a hot dog fill. Every side lacked flavor and freshness. Green beans mushy, slaw so runny it was dripping, bbq beans we're tasteless. Not sure why add the pickles and onions it added nothing to the plates. The only decent side was creamed corn as it had some flavor. All this was $80+ dollars with a beer.\n\nThe pro is the spot is really neat inside and location is right downtown Austin. Our assumption after eating here is that the 5-star ratings are not for the food but atmosphere, location, and was probably a great spot for bbq back in the day? I guess to each there own and try if you want.",
+   "extracted_snippet": {
+    "original": "Came into this spot because average rating was decent and we've been to all the top 6-7 spots in the immediate Austin area already. Figured try something new and see why so many 5 star ratings. Around 4:45pm on a Friday...not a soul in sight.\n\nThis was barely 1 star for us. Each meat was wrong. Brisket dry, zero fat. Rib so oily and chewy could barely pull off the bone. Turkey was over smoked. Sausage was run of the mill...filling was reminiscent of just a hot dog fill. Every side lacked flavor and freshness. Green beans mushy, slaw so runny it was dripping, bbq beans we're tasteless. Not sure why add the pickles and onions it added nothing to the plates. The only decent side was creamed corn as it had some flavor. All this was $80+ dollars with a beer.\n\nThe pro is the spot is really neat inside and location is right downtown Austin. Our assumption after eating here is that the 5-star ratings are not for the food but atmosphere, location, and was probably a great spot for bbq back in the day? I guess to each there own and try if you want."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$40\u201350",
+    "food": 1,
+    "service": 3,
+    "atmosphere": 5
+   },
+   "likes": 0,
+   "response": {
+    "date": "5 months ago",
+    "iso_date": "2026-03-21T03:38:04Z",
+    "iso_date_of_last_edit": "2026-03-21T03:38:04Z",
+    "snippet": "Cason,\n\nIt\u2019s tough to hear the meal fell so far short of your expectations, especially given the impression our atmosphere made. We\u2019re always striving to improve and will take your feedback seriously moving forward.\n\nSincerely, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Cason,\n\nIt\u2019s tough to hear the meal fell so far short of your expectations, especially given the impression our atmosphere made. We\u2019re always striving to improve and will take your feedback seriously moving forward.\n\nSincerely, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Ga2FqTk5aR2RHVmxkRmQwZzJkVFE1VDNWcmNVRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOnFkajNNZGdGVldFd0g2dTQ5T3VrcUE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "6 months ago",
+   "iso_date": "2026-02-25T20:30:49Z",
+   "iso_date_of_last_edit": "2026-02-25T20:30:49Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN8OZ8DGxkHiVLHaaoSgI0jBQCRHLPk3NbpGg07Slj2iT7nNa2d7t7-2gdjyOKwk5AklHE6OWxTOb5vYHyCSre_R8iww9Ex6ceTnXtc205M9kjt91eV4qfjz3SalGaAQe5Ql2-oH2eRDENC=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ga2FqTk5aR2RHVmxkRmQwZzJkVFE1VDNWcmNVRRAB",
+   "user": {
+    "name": "Yasenny Camejo",
+    "link": "https://www.google.com/maps/contrib/103138419087430565582?hl=en-GB",
+    "contributor_id": "103138419087430565582",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUUNvHYXgzWUpnNkQMKxjZAhvTkXqwG39M9_LKu3k1kAt3JKJf_=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 8,
+    "photos": 4
+   },
+   "snippet": "The takeout order was less than acceptable bbq. The meat was over cooked, the beans were tasteless and the Mac and cheese had a hair in it.\n\nCustomer service wise first the staff was behind the counter and didn\u2019t really greet me.\nI was asked for my ID when I approached the staff. Then was questioned on what I ordered. I checked the order and the portions were very very small. I wouldn\u2019t recommend this place.",
+   "extracted_snippet": {
+    "original": "The takeout order was less than acceptable bbq. The meat was over cooked, the beans were tasteless and the Mac and cheese had a hair in it.\n\nCustomer service wise first the staff was behind the counter and didn\u2019t really greet me.\nI was asked for my ID when I approached the staff. Then was questioned on what I ordered. I checked the order and the portions were very very small. I wouldn\u2019t recommend this place."
+   },
+   "details": {
+    "meal_type": "Lunch",
+    "price_per_person": "$60\u201370",
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25ObllVbGxaRXM1UjBVM2NHSnRNRWhVVFZWNlJuYxAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOnNnYUllZEs5R0U3cGJtMEhUTVV6Rnc%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "2 months ago",
+   "iso_date": "2026-06-05T20:45:49Z",
+   "iso_date_of_last_edit": "2026-06-05T20:45:49Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObllVbGxaRXM1UjBVM2NHSnRNRWhVVFZWNlJuYxAB",
+   "user": {
+    "name": "Jim Moss",
+    "link": "https://www.google.com/maps/contrib/112438252204685703993?hl=en-GB",
+    "contributor_id": "112438252204685703993",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVL0Kg5g30p0NVoGABKxzOQiSUwv3r4r9dA3gtDu9ksNdQJ69Q3=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 41,
+    "photos": 2
+   },
+   "snippet": "I chose Iron Works BBQ for a team dinner with my boss and several colleagues based on its reputation and reviews, and unfortunately it turned out to be a disappointing experience.\n\nThe staff was friendly, but there were warning signs from the start. We arrived around 6:00 PM and were the only customers in the restaurant. Despite having a group of eight and an otherwise empty dining room, we were seated outside in 100-degree heat with limited airflow from a few weak fans. It made for a very uncomfortable dining experience, especially when there appeared to be plenty of indoor seating available.\n\nThe ordering process was also surprisingly slow for a larger group. Orders are taken one at a time, with a single employee carving and serving the meat, creating a bottleneck that doesn't work well when several people are trying to order together.\n\nAs for the food, it simply didn't live up to the restaurant's reputation. The ribs were fatty and lacked tenderness. The brisket was dry. The sides\u2014including the beans and mac and cheese\u2014were bland and forgettable. Nothing we ordered stood out in a positive way.\n\nWhat made the experience particularly disappointing was that I had specifically recommended Iron Works to my coworkers based on the strong reviews I'd seen. The next morning, several of us were discussing where we could have gone for truly great Texas barbecue instead.\n\nFor comparison, I later stopped at Salt Lick BBQ in the Austin airport and found the food to be dramatically better across the board.\n\nGiven the quality of the food, the uncomfortable seating arrangement, and the overall experience, I don't feel Iron Works justifies its rating or its prices. I can't recommend it based on my visit.",
+   "extracted_snippet": {
+    "original": "I chose Iron Works BBQ for a team dinner with my boss and several colleagues based on its reputation and reviews, and unfortunately it turned out to be a disappointing experience.\n\nThe staff was friendly, but there were warning signs from the start. We arrived around 6:00 PM and were the only customers in the restaurant. Despite having a group of eight and an otherwise empty dining room, we were seated outside in 100-degree heat with limited airflow from a few weak fans. It made for a very uncomfortable dining experience, especially when there appeared to be plenty of indoor seating available.\n\nThe ordering process was also surprisingly slow for a larger group. Orders are taken one at a time, with a single employee carving and serving the meat, creating a bottleneck that doesn't work well when several people are trying to order together.\n\nAs for the food, it simply didn't live up to the restaurant's reputation. The ribs were fatty and lacked tenderness. The brisket was dry. The sides\u2014including the beans and mac and cheese\u2014were bland and forgettable. Nothing we ordered stood out in a positive way.\n\nWhat made the experience particularly disappointing was that I had specifically recommended Iron Works to my coworkers based on the strong reviews I'd seen. The next morning, several of us were discussing where we could have gone for truly great Texas barbecue instead.\n\nFor comparison, I later stopped at Salt Lick BBQ in the Austin airport and found the food to be dramatically better across the board.\n\nGiven the quality of the food, the uncomfortable seating arrangement, and the overall experience, I don't feel Iron Works justifies its rating or its prices. I can't recommend it based on my visit."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$50\u201360",
+    "food": 1,
+    "service": 2,
+    "atmosphere": 1,
+    "noise_level": "Quiet, easy to talk",
+    "seating_type": "Indoor dining area, Outdoor patio / terrace"
+   },
+   "likes": 0,
+   "response": {
+    "date": "2 months ago",
+    "iso_date": "2026-06-06T03:27:53Z",
+    "iso_date_of_last_edit": "2026-06-06T03:27:53Z",
+    "snippet": "Jim,\n\nWe\u2019re genuinely sorry your team dinner didn\u2019t measure up in comfort or food quality, especially after you put your trust in us. I\u2019m sorry you chose to sit on the patio as it is self seating.  Your feedback is being taken seriously as we work to improve every aspect of what we do.\n\nWith respect, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Jim,\n\nWe\u2019re genuinely sorry your team dinner didn\u2019t measure up in comfort or food quality, especially after you put your trust in us. I\u2019m sorry you chose to sit on the patio as it is self seating.  Your feedback is being taken seriously as we work to improve every aspect of what we do.\n\nWith respect, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KSVJqbFZUSGhhTm1SVE1sTmZjMnBTV2sweFFrRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOmJIRjlVTHhaNmRTMlNfc2pSWk0xQkE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "10 months ago",
+   "iso_date": "2025-10-25T21:57:27Z",
+   "iso_date_of_last_edit": "2025-10-25T22:00:45Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPR4FTyyvP6-sRN9jPPyZEA867ZxIhjb890wCj9V5GS4w7qbvYPTj5o_gWjT7yGJ5zr8pfh0QxO5H-Lc3uReq9kBc9l8moSJMFHZPO5BaqT1gix_DNmFstSr98YTN5K4-SmS2bREjlSVSLg=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSVJqbFZUSGhhTm1SVE1sTmZjMnBTV2sweFFrRRAB",
+   "user": {
+    "name": "Priscilla B\u00e1ez",
+    "link": "https://www.google.com/maps/contrib/102565429031282465620?hl=en-GB",
+    "contributor_id": "102565429031282465620",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUjU2nyUJWo5vcvzPO8srNobHhkOvcQiBvDf_cmxC3J4ZHrBkKt=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 15,
+    "photos": 2
+   },
+   "snippet": "Visited on a Friday night and was surprised the place wasn\u2019t full for a BBQ restaurant. Unfortunately, the food explained why.\n\nThe baked beans looked and tasted like they came straight out of a can. The bread was being taken right out of the plastic bag, which makes it obvious there\u2019s no real effort in the food. The mac and cheese looked microwaved, honestly, Kraft\u2019s version tastes better. And the meat was completely tasteless, which is the biggest disappointment for a BBQ spot.\n\nSave your time and money and go somewhere else.\nTo the owners: please cook with love so it shows in the food. Very disappointed.",
+   "extracted_snippet": {
+    "original": "Visited on a Friday night and was surprised the place wasn\u2019t full for a BBQ restaurant. Unfortunately, the food explained why.\n\nThe baked beans looked and tasted like they came straight out of a can. The bread was being taken right out of the plastic bag, which makes it obvious there\u2019s no real effort in the food. The mac and cheese looked microwaved, honestly, Kraft\u2019s version tastes better. And the meat was completely tasteless, which is the biggest disappointment for a BBQ spot.\n\nSave your time and money and go somewhere else.\nTo the owners: please cook with love so it shows in the food. Very disappointed."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$20\u201330",
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1,
+    "noise_level": "Quiet, easy to talk",
+    "wait_time": "No wait"
+   },
+   "likes": 0
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKVlZHZFVSbDh6TmtWM1J6ZFFUVGxXVWpSMldWRRAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOlJVVGdURl8zNkV3RzdQTTlWUjR2WVE%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-17T17:53:40Z",
+   "iso_date_of_last_edit": "2026-03-17T17:53:40Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVlZHZFVSbDh6TmtWM1J6ZFFUVGxXVWpSMldWRRAB",
+   "user": {
+    "name": "Robert Williams",
+    "link": "https://www.google.com/maps/contrib/104565743787605426187?hl=en-GB",
+    "contributor_id": "104565743787605426187",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUVx_mCp21OBCRbcwflewbLlsE2yw6LMVOZrx6JQUx8UCLBtZcw=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 1,
+    "photos": 0
+   },
+   "snippet": "Got the sampler and sausage was average, brisket was not very flavorful and if it cooked longer at low heat the fat would have rendered more. Corn average. No love in the meal. When I ordered they didn\u2019t even ask if I wanted pork or beef ribs and gave us 2 plates of beef. This restaurant is placed perfectly downtown but they have no pride in the food. So much potential here.",
+   "extracted_snippet": {
+    "original": "Got the sampler and sausage was average, brisket was not very flavorful and if it cooked longer at low heat the fat would have rendered more. Corn average. No love in the meal. When I ordered they didn\u2019t even ask if I wanted pork or beef ribs and gave us 2 plates of beef. This restaurant is placed perfectly downtown but they have no pride in the food. So much potential here."
+   },
+   "details": {
+    "price_per_person": "$50\u201360",
+    "food": 2,
+    "service": 2,
+    "atmosphere": 3,
+    "noise_level": "Quiet, easy to talk",
+    "group_size": "Suitable for all group sizes"
+   },
+   "likes": 0,
+   "response": {
+    "date": "5 months ago",
+    "iso_date": "2026-03-17T20:09:05Z",
+    "iso_date_of_last_edit": "2026-03-17T20:09:05Z",
+    "snippet": "Robert,\n\nWe\u2019re sorry you didn\u2019t feel the meal or service showed the care you expected, and your experience isn\u2019t what we aim for. Your feedback urges us to focus on quality and hospitality.\n\nSincerely, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Robert,\n\nWe\u2019re sorry you didn\u2019t feel the meal or service showed the care you expected, and your experience isn\u2019t what we aim for. Your feedback urges us to focus on quality and hospitality.\n\nSincerely, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwMlkxRTFNRWRqUkZkcFdVbE1XRVJUWm5sbE1YYxAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOlp2Y1E1MEdjRFdpWUlMWERTZnllMXc%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "a month ago",
+   "iso_date": "2026-07-21T00:38:15Z",
+   "iso_date_of_last_edit": "2026-07-21T00:38:15Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM3xHQYkHoK_hpwcszA8cmnt1yJYMs4sHYTd_XcC7D80FGnHEQ7NnT77mU2JufobAEDajqg-m95S8LS91KXfUOxvdgcQ7p4AGovVyct2yjP_ULZKTaPnYQoKzluwD0e-5VisiptEkJs21Ut=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmN58BgqizGRyLzs7tztOyAQuaQir25J7Fpyt3MhfICbctGrvxIKT6VYgzvkAeh0nvc3vjRmVR0uVSnf2rDfA1UA-zf9uHCm8eB5lslruBUqxqpz-R1UwikrXUwJfxly_aE0QsL_1VOmEGKJ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwMlkxRTFNRWRqUkZkcFdVbE1XRVJUWm5sbE1YYxAB",
+   "user": {
+    "name": "Russ Smith",
+    "link": "https://www.google.com/maps/contrib/109950671561361606081?hl=en-GB",
+    "contributor_id": "109950671561361606081",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocJCJJyedAASUaMl1XrBPBS77-nFRTpsqW3gBj2j85-SSazTPQ=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 162,
+    "photos": 149
+   },
+   "snippet": "Totally shocked.  This little amount of food was $73.00 on styrofoam plates. Terry Blacks it is now on.",
+   "extracted_snippet": {
+    "original": "Totally shocked.  This little amount of food was $73.00 on styrofoam plates. Terry Blacks it is now on."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$70\u201380",
+    "food": 1,
+    "service": 3,
+    "atmosphere": 3,
+    "group_size": "2 people"
+   },
+   "likes": 0,
+   "response": {
+    "date": "a month ago",
+    "iso_date": "2026-07-21T12:39:09Z",
+    "iso_date_of_last_edit": "2026-07-21T12:39:09Z",
+    "snippet": "Russ,\n\nWe\u2019re sorry your experience didn\u2019t match your expectations, and we truly value your feedback. We\u2019re always working to improve and hope you\u2019ll notice changes ahead.\n\nSincerely, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Russ,\n\nWe\u2019re sorry your experience didn\u2019t match your expectations, and we truly value your feedback. We\u2019re always working to improve and hope you\u2019ll notice changes ahead.\n\nSincerely, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pscVYzaFJiRU13TFdZM01FeHBSVEp5VFRScVFuYxAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOjlqV3hRbEMwLWY3MExpRTJyTTRqQnc%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "a year ago",
+   "iso_date": "2025-09-01T20:27:00Z",
+   "iso_date_of_last_edit": "2025-09-01T20:27:00Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP5GoY7aK3T9FTl5SAo1_jhrp-dNMuKDVkEemNr3sbuJlEnyy4u7kLHHyjTZxKdqsB7r25eLi2Nsk6UlL2-u_DdnOFYAmNmk7KJNFCzIlwcBIFlxUh8yM2VqEIazSvCXgFnW8UyfHhGyALO=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscVYzaFJiRU13TFdZM01FeHBSVEp5VFRScVFuYxAB",
+   "user": {
+    "name": "Tina Kelley",
+    "link": "https://www.google.com/maps/contrib/108584913123544985030?hl=en-GB",
+    "contributor_id": "108584913123544985030",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWvVDM56eVRnoZ6OV7mi-7SdxLzliQO6rLPdfUSeGJW3kXMwm8H=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 9,
+    "photos": 2
+   },
+   "snippet": "The staff is respectful! I wanted a 2 meat plate which don\u2019t have you either get a 1 meat plate and add the other meat only how they serve it! Cool so I just got the brisket plate today! It is extremely dried out and I\u2019m not even certain it\u2019s brisket as it has a taste like wild game deer \ud83e\udd8c meat type taste!! I would not recommend this place and will never go back",
+   "extracted_snippet": {
+    "original": "The staff is respectful! I wanted a 2 meat plate which don\u2019t have you either get a 1 meat plate and add the other meat only how they serve it! Cool so I just got the brisket plate today! It is extremely dried out and I\u2019m not even certain it\u2019s brisket as it has a taste like wild game deer \ud83e\udd8c meat type taste!! I would not recommend this place and will never go back"
+   },
+   "details": {
+    "food": 1,
+    "service": 2,
+    "atmosphere": 3
+   },
+   "likes": 0,
+   "response": {
+    "date": "11 months ago",
+    "iso_date": "2025-09-03T19:55:17Z",
+    "iso_date_of_last_edit": "2025-09-03T19:57:03Z",
+    "snippet": "Tina,\n\nWe\u2019re sorry your meal wasn\u2019t right and appreciate you sharing your experience. We\u2019re taking your feedback seriously as we work to improve.\n\nRespectfully, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Tina,\n\nWe\u2019re sorry your meal wasn\u2019t right and appreciate you sharing your experience. We\u2019re taking your feedback seriously as we work to improve.\n\nRespectfully, Iron Works Barbecue"
+    }
+   }
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCdWJWaHJPVGR2VVU5aVZtdGpiVXRtZWtNeVFXYxAB!2m1!1s0x0:0x45170022a7d54adc!3m1!1s2@1:CAIQACodChtycF9oOjBubVhrOTdvUU9iVmtjbUtmekMyQWc%7C%7C?hl=en-GB",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-14T14:06:05Z",
+   "iso_date_of_last_edit": "2026-03-14T14:06:05Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdWJWaHJPVGR2VVU5aVZtdGpiVXRtZWtNeVFXYxAB",
+   "user": {
+    "name": "Linda",
+    "link": "https://www.google.com/maps/contrib/106113123838738730851?hl=en-GB",
+    "contributor_id": "106113123838738730851",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXGLCqGRB1H3a7_oTjVSO_v1BadLt2_au1O4qQTUVnK-tvbgO4=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 2,
+    "photos": 0
+   },
+   "snippet": "While traveling with family we ate supper here. Our hotel recommended this bbq restaurant. The atmosphere is unique, it\u2019s an old blacksmith shop. The bbq was subpar, very small servings - the beans tasted \u201coff\u201d - not the beans we are used to. I didn\u2019t see any \u201clocals\u201d so I\u2019m thinking the surrounding hotels just suggest the closest bbq. Over $25 (to include tax) for each small styrofoam white plate with plastic forks.",
+   "extracted_snippet": {
+    "original": "While traveling with family we ate supper here. Our hotel recommended this bbq restaurant. The atmosphere is unique, it\u2019s an old blacksmith shop. The bbq was subpar, very small servings - the beans tasted \u201coff\u201d - not the beans we are used to. I didn\u2019t see any \u201clocals\u201d so I\u2019m thinking the surrounding hotels just suggest the closest bbq. Over $25 (to include tax) for each small styrofoam white plate with plastic forks."
+   },
+   "details": {
+    "meal_type": "Dinner",
+    "price_per_person": "$30\u201340",
+    "food": 1,
+    "service": 5,
+    "atmosphere": 3,
+    "noise_level": "Loud, but you can still talk",
+    "seating_type": "Indoor dining area"
+   },
+   "likes": 0,
+   "response": {
+    "date": "5 months ago",
+    "iso_date": "2026-03-14T16:14:21Z",
+    "iso_date_of_last_edit": "2026-03-14T16:14:21Z",
+    "snippet": "Linda,\n\nWe\u2019re glad you found the setting interesting, but we\u2019re sorry your meal and portions missed the mark. Your thoughts are important to us, and we\u2019ll use them as we work to improve.\n\nKind wishes, Iron Works Barbecue",
+    "extracted_snippet": {
+     "original": "Linda,\n\nWe\u2019re glad you found the setting interesting, but we\u2019re sorry your meal and portions missed the mark. Your thoughts are important to us, and we\u2019ll use them as we work to improve.\n\nKind wishes, Iron Works Barbecue"
+    }
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5a8562ba8e3%3A0x45170022a7d54adc&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7-mwHQY____EhB7nliF1-N2PI5hLnkAAAAAGgn92TYCYxNU2AQYACIA&sort_by=ratingLow",
+  "next_page_token": "CjEIARIpCgoAP7-mwHQY____EhB7nliF1-N2PI5hLnkAAAAAGgn92TYCYxNU2AQYACIA"
+ }
+}

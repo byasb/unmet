@@ -1,0 +1,362 @@
+{
+ "search_metadata": {
+  "id": "6a9804c6ac1765535fb52dce",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/qiuYF4TOGqrX6faIvWZI5QRGrzMBuwRbkVWATi0mpg8/6a9804c6ac1765535fb52dce.json",
+  "markdown_endpoint": "https://serpapi.com/searches/qiuYF4TOGqrX6faIvWZI5QRGrzMBuwRbkVWATi0mpg8/6a9804c6ac1765535fb52dce.md",
+  "created_at": "2026-09-02 11:13:10 UTC",
+  "processed_at": "2026-09-02 11:13:10 UTC",
+  "google_maps_reviews_url": "https://www.google.com/maps/place/data=!4m7!3m6!1s0x8644b5a4ae3bcc33:0x31aba8abf8f64c84!5m2!4m1!1i2!9m1!1b1?hl=en",
+  "raw_html_file": "https://serpapi.com/searches/qiuYF4TOGqrX6faIvWZI5QRGrzMBuwRbkVWATi0mpg8/6a9804c6ac1765535fb52dce.html",
+  "prettify_html_file": "https://serpapi.com/searches/qiuYF4TOGqrX6faIvWZI5QRGrzMBuwRbkVWATi0mpg8/6a9804c6ac1765535fb52dce.prettify",
+  "total_time_taken": 4.36
+ },
+ "search_parameters": {
+  "engine": "google_maps_reviews",
+  "data_id": "0x8644b5a4ae3bcc33:0x31aba8abf8f64c84",
+  "hl": "en",
+  "sort_by": "ratingLow"
+ },
+ "place_info": {
+  "title": "Franklin Barbecue",
+  "address": "900 E 11th St, Austin, TX 78702",
+  "rating": 4.7,
+  "reviews": 7237,
+  "type": "Barbecue restaurant"
+ },
+ "topics": [
+  {
+   "keyword": "brisket",
+   "mentions": 1242,
+   "id": "Ew6aYjb7Lyk"
+  },
+  {
+   "keyword": "pork ribs",
+   "mentions": 190,
+   "id": "Ax8fSBSrYRw"
+  },
+  {
+   "keyword": "limited seating",
+   "mentions": 9,
+   "id": "ChXOgcvmiCg"
+  },
+  {
+   "keyword": "long lines",
+   "mentions": 279,
+   "id": "Avtrs817wXg"
+  },
+  {
+   "keyword": "wait time",
+   "mentions": 798,
+   "id": "ALvakRP3QVw"
+  },
+  {
+   "keyword": "outdoor seating",
+   "mentions": 12,
+   "id": "AEmHqxr-_tg"
+  },
+  {
+   "keyword": "potato salad",
+   "mentions": 164,
+   "id": "AAh5vfqUbFE"
+  },
+  {
+   "keyword": "folding chairs",
+   "mentions": 47,
+   "id": "GBgWu9zdqAs"
+  },
+  {
+   "keyword": "sausage",
+   "mentions": 274,
+   "id": "BzYeemUSQh4"
+  },
+  {
+   "keyword": "turkey",
+   "mentions": 195,
+   "id": "UQwSWAznjHU"
+  }
+ ],
+ "reviews": [
+  {
+   "position": 1,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xOM1R6RXpVM3B0VEVFNE9YQjVUMnB2WTNKaGFWRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOlN3TzEzU3ptTEE4OXB5T2pvY3JhaVE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "4 months ago",
+   "iso_date": "2026-04-09T23:07:02Z",
+   "iso_date_of_last_edit": "2026-04-09T23:07:02Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP2H_WLanT8LCtXJ-8dnsf5x4kA0B0n0M5d17FvZ8CqY2vVaBH81K1qBKGZYu2wXQx-2PWDHev6CohVVIGLWCxi7R984--UnW0yQ1vzYNy523LWvR7iwbVwOki6FYkBWrI5BXyb5XzqAvA=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOM1R6RXpVM3B0VEVFNE9YQjVUMnB2WTNKaGFWRRAB",
+   "user": {
+    "name": "Carolina Alejandra",
+    "link": "https://www.google.com/maps/contrib/101245611307648889481?hl=en-US",
+    "contributor_id": "101245611307648889481",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocIeB_IsCmbdtAwnwpUSjyrBpW0_zT4kcv7Z19ioEySUbUAIEw=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 2,
+    "photos": 2
+   },
+   "snippet": "The food is good, but you have to wait at least two hours to eat\u2014what a waste of time! It\u2019s not worth it. There is only one person slicing the meat. Terrible experience !",
+   "extracted_snippet": {
+    "original": "The food is good, but you have to wait at least two hours to eat\u2014what a waste of time! It\u2019s not worth it. There is only one person slicing the meat. Terrible experience !"
+   },
+   "details": {
+    "order_type": "Dine in"
+   },
+   "likes": 0
+  },
+  {
+   "position": 2,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25wWVNGVk9kWGhWVDFoMWJXVmtSMFpyVXpsM01YYxAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOnpYSFVOdXhVT1h1bWVkR0ZrUzl3MXc%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "6 months ago",
+   "iso_date": "2026-02-06T09:06:40Z",
+   "iso_date_of_last_edit": "2026-02-07T06:07:32Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOHzcGlP822Pzcd3fWmsrs12DviEMv1ej2lVFAIPWF3nbHVRW2wigUhM7v_WYeNkhrz8jSbeyhLQCe8bxO9ygo390ScuSzDJZZiv3RPv6Ke6ie7YM-fI6QcJ7gmJIoIbECAWZ8qxY6S-be8=k-no"
+   ],
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWVNGVk9kWGhWVDFoMWJXVmtSMFpyVXpsM01YYxAB",
+   "user": {
+    "name": "T J",
+    "link": "https://www.google.com/maps/contrib/113127486791581665253?hl=en-US",
+    "contributor_id": "113127486791581665253",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocLF6w3DG_a2uxQzUU75AhGMRw1_aCkEvxmgnPhXneGMpV68-g=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 58,
+    "photos": 23
+   },
+   "snippet": "This place was on my bucket list due to all the hype. I don\u2019t think any BBQ place that can\u2019t cook enough food to stay open more than 1 hour should be allowed to be rated in the top 100 restaurants. The only reason they run out of food in 2 hours is how inefficient the service is. If it was efficient they would run out of food within 1 hour. I tried to avoid downtown Austin every chance I get due to the traffic. I was already in downtown and thought I don\u2019t get the opportunity very often to try this place. I waited in line about an hour. It was definitely not worth the wait. The line moved very slow and they need to be a lot more efficient at what they do. They only have one person taking orders, one cash register, and one preparing the food. The Brisket sandwich was very good at $18.50. The pulled pork was OK, the turkey was not very good and dry. The sausage was not good at all, and it was spongy. The beans were not good, The potato salad was average, and the coleslaw was horrible. Probably the worst coleslaw I\u2019ve ever had in my life. I thought the brisket was way overpriced at $39 a pound. it is an old building that should\u2019ve been renovated years ago. I won\u2019t say it\u2019s a dump, but I don\u2019t understand why barbecue places have to look so rundown and trashy. The food is extremely expensive and they are sure not spending any of the profits on the restaurant itself. I don\u2019t understand why the so-called wonderful barbecue restaurants only cook enough meat to last two or three hours knowing they run out every day. If you\u2019ve been in business for 20 or 30 years and you know you\u2019re going to run out in two or three hours cook more food! It\u2019s just poor business. And at the expense of the customers who support you. This is just an example of selfish business owners. Any bubba can learn how to cook meat but they are clueless as to how to run a business. Wow we are doing great cause we sell out in a couple of hours. That\u2019s because you only cook a few pounds. Wow look how long our line is we are doing great. No that\u2019s because you are so inept at running a business. I can now check it off my list and I will never go back to this place. Trust me it\u2019s not worth the wait. There are other great barbecue places that are open 8 to 10 hours a day and have plenty of food. Apparently Franklin\u2019s hasn\u2019t figured this out. It\u2019s just a poorly run business. I will not be one of the stupid ones to fall for this again. We also tried one of their pies took one bite and threw it away. The desserts are horrible.",
+   "extracted_snippet": {
+    "original": "This place was on my bucket list due to all the hype. I don\u2019t think any BBQ place that can\u2019t cook enough food to stay open more than 1 hour should be allowed to be rated in the top 100 restaurants. The only reason they run out of food in 2 hours is how inefficient the service is. If it was efficient they would run out of food within 1 hour. I tried to avoid downtown Austin every chance I get due to the traffic. I was already in downtown and thought I don\u2019t get the opportunity very often to try this place. I waited in line about an hour. It was definitely not worth the wait. The line moved very slow and they need to be a lot more efficient at what they do. They only have one person taking orders, one cash register, and one preparing the food. The Brisket sandwich was very good at $18.50. The pulled pork was OK, the turkey was not very good and dry. The sausage was not good at all, and it was spongy. The beans were not good, The potato salad was average, and the coleslaw was horrible. Probably the worst coleslaw I\u2019ve ever had in my life. I thought the brisket was way overpriced at $39 a pound. it is an old building that should\u2019ve been renovated years ago. I won\u2019t say it\u2019s a dump, but I don\u2019t understand why barbecue places have to look so rundown and trashy. The food is extremely expensive and they are sure not spending any of the profits on the restaurant itself. I don\u2019t understand why the so-called wonderful barbecue restaurants only cook enough meat to last two or three hours knowing they run out every day. If you\u2019ve been in business for 20 or 30 years and you know you\u2019re going to run out in two or three hours cook more food! It\u2019s just poor business. And at the expense of the customers who support you. This is just an example of selfish business owners. Any bubba can learn how to cook meat but they are clueless as to how to run a business. Wow we are doing great cause we sell out in a couple of hours. That\u2019s because you only cook a few pounds. Wow look how long our line is we are doing great. No that\u2019s because you are so inept at running a business. I can now check it off my list and I will never go back to this place. Trust me it\u2019s not worth the wait. There are other great barbecue places that are open 8 to 10 hours a day and have plenty of food. Apparently Franklin\u2019s hasn\u2019t figured this out. It\u2019s just a poorly run business. I will not be one of the stupid ones to fall for this again. We also tried one of their pies took one bite and threw it away. The desserts are horrible."
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$100+",
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1,
+    "group_size": "2 people, 3-4 people",
+    "parking_space": "Difficult to find parking",
+    "parking_options": "Free parking lot"
+   },
+   "likes": 0
+  },
+  {
+   "position": 3,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xUGVUUlNiRTlWVDJob2JTMUJRVjgwTTBOWVdGRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOm1PeTRSbE9VT2hobS1BQV80M0NYWFE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "3 months ago",
+   "iso_date": "2026-05-14T01:19:56Z",
+   "iso_date_of_last_edit": "2026-05-14T01:19:56Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUGVUUlNiRTlWVDJob2JTMUJRVjgwTTBOWVdGRRAB",
+   "user": {
+    "name": "Dave Santure",
+    "link": "https://www.google.com/maps/contrib/113328398786334726165?hl=en-US",
+    "contributor_id": "113328398786334726165",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocL7-0SMKxBoQkK00oWym5xNL_5Z6VucqReaYoRQAhar0xB_9w=s120-c-rp-mo-br100",
+    "local_guide": true,
+    "reviews": 5,
+    "photos": 0
+   },
+   "snippet": "Wanted to go here, checked on-line, found directions and got an Uber.  Only to arrive and find they had a private party so they were closed.  No notice on line at Google.   So they sold out to a corporate man.  To make more money versus serve the simple customer.  So be it.  Won\u2019t return.  Sleep in the bed you make.",
+   "extracted_snippet": {
+    "original": "Wanted to go here, checked on-line, found directions and got an Uber.  Only to arrive and find they had a private party so they were closed.  No notice on line at Google.   So they sold out to a corporate man.  To make more money versus serve the simple customer.  So be it.  Won\u2019t return.  Sleep in the bed you make."
+   },
+   "details": {
+    "food": 1,
+    "service": 1,
+    "atmosphere": 2
+   },
+   "likes": 0,
+   "response": {
+    "date": "3 months ago",
+    "iso_date": "2026-05-15T16:45:27Z",
+    "iso_date_of_last_edit": "2026-05-15T16:45:27Z",
+    "snippet": "Hi Dave. So sorry to disappoint you. Our hours online state that we are only open for lunch -- folks start lining up a bit before we open and we are usually closed by 3pm. If you popped by at night, and we were having a private party, that would not have interrupted our normal business hours. Have a look at our business hours and hopefully you can try again. ",
+    "extracted_snippet": {
+     "original": "Hi Dave. So sorry to disappoint you. Our hours online state that we are only open for lunch -- folks start lining up a bit before we open and we are usually closed by 3pm. If you popped by at night, and we were having a private party, that would not have interrupted our normal business hours. Have a look at our business hours and hopefully you can try again. "
+    }
+   }
+  },
+  {
+   "position": 4,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VNZmV0LW5HaGRIZlFBEAE!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CIHM0ogKEMfet-nGhdHfQA%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "a year ago",
+   "iso_date": "2025-05-13T02:26:52Z",
+   "iso_date_of_last_edit": "2025-05-13T02:26:52Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPMmMFUyCe6HkfPjGlhi_jkEv7MZMjcIUvAobv6ElfzYRLl2DmKXgAuJe9BbFC-_nHcGcmcrCB19xLhFoxtcto334FDSUNYhbqet3oeAHG0sGGrMybrmKOOoFKxmYrJ-pz5RuTFRg=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMY1rurprDeO4Bp7u1-L5Yj1fbenoK-vQBmfTasXq4555N4fk0uvYaJPLetNSelMt_u7ge_yVulhJBGAsOm6zpAMbm6e0slTkfJquPqcpbh5frM8u1DbHMtXZ1qdkiY0nEaugKU=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM34s7J6m20aUua_Thwz8g945FHOF8vQX9m7xuDebx2E10vfzNe-XDxJsIUU8MLJOkGwJFOBlwlYguZaZcv8Vi9PUuFvOBeKFbghtGjHqumuBBhUrtX-efQAiUdiv9T6vSWai8N=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNhsaAEL-ejzL-H1MMqvmvqIEwAQUlSCT1mbr68cT0VudWASJF63pAcZFWUEUEs6b8uCmYeec1nhKHf52msFDgX9j1SGiLdvholcnU31AlSquvSkAOGOOYBceG-vLf_C97upcEM=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM8CjXSwEZHqDZRYY7SkI-5_nsu8l8QSI2nrxfXfVJJSAm7XpnKX3tNcjFLB1x5WKDwRMWcsvimOB9hLvrpzX8fLxAaw_Grq_1CeaFXIGKHbFqS9Jx-deb4K5LBMyuG0zD0G125=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP9hIkd981BpC4s0jaWzFTlakq9yi9M_h-LUl3Pc575BVcOq9fcBnNBRI-Rc7CDvlSuCeBKsXZloNlTDglPqD56VJ-EWAakgKNwkr2HWrXzUMmMa0c54weL374HQivtiBa8VGFl=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNV74V_dH8dTR15wCxRRBXwqIUI4a7eezGwWYOHr45bDWUY7tLcM6vXRm8zQa9lPzIhAOOzCAxGO6VnqRa7fhkrSPPRHGDzZKe3pqO5kNFrm1QPeZxHLtOBoKcdcy44_XWtz1Uq=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOZ_IV3tm-KwafJQu5rMhzSO4T7p833yI1iEEzCVAWDBY_Psy1lpnzZQxAwqBeknaWcWz5Q-OqWg-o8A5wkBpXvG2s9j5F_iJy3d_sVlef370MDJtwzu8_tQyDkFpqgyclZzjlbuw=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPGMZbuYnH3yuIUo6iS3RU251s-AreIcvSHj1aOCoegXzmVmcmocqr3bsC1cUEQZWz_Z2RK79WAtKzNl8-JVCqz-XMK11tJ-V1hh7jH14m0sSyuXaVAWFniN-MCypSUlFTEWyyR6A=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMN8lmvSmVLdIwgNvoIiEBhnenRDwayVIbmMQPoiAVdYHkdx9JBA0yj0ZJWAgByZuMQ_6DFjwfl-GYh1QOLYH-xg431ChxjP2vd0leDOXndS-pt7CHLb5QxQ7JcnFqI_MdM3o_N=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO7f4nSCg8VpWIUT-pQLN3vogwcMx0BpNZ4rznQHagKATqD4UWXGU67wSE5mtd2ReSr8tK3mlJaoFS-iYUovX61bS_J7O79TwM7Z_YdFXbKpyGHcw8-crtVqvY0NF1SJm71kdph=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPdhNr2Bqm3zAP1gGN2eGs6R08dseRZfNzXfxC-xgMnRR-4hTTrBodX7PIIFV9SAYx-vxawTxPnXrS-rnAJ3w-3iHFnuwcMZ5WdT9JmRD-bSieDdF8beWjt5LeAx0_qMMpjNXuT=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP7Yh4aJcb08iLB_dL4Hxs8oB7tAysIDGKYrc7tDOVrDIVtjWicQOpNPyKDPzRokMBinfqS-uGsx05ZLgn7GXlFrCymVX6X_AlFYz4ITiBoTER_IhQoTDsr0TS9ALx97Y2D8pfu2w=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPNxXBKuXHQczUZXEwyS3CV2FEok7eIZdBCc_HgqjcVQTYiWANyy6OwhGgk5Zhp2HbKV7MSSQypeximKhlnM8QDUh5QikZ-91jfpwO2hIFe_Q33Aqm4LXsamfoKl1DYlizSrhy-=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmNK2rSE3UdrAvsiadTUWNarRQXdQBUHfykqmkrygrQINCREjLaxt0LuCXdHJLhsoLzfrM7RuzaAfAV0b_U0kST35CVQ5OUVsNyvGfiXgjYbMVbYTu3vlqwvGsg2zBm_ux_zVLAO=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMLXdLxTcUda9sloi4aP9CDO3eyrRRik8kcOA-Kuq704IDcxjYbANDn95SHIpz7cnqATqUZx1BQEScL3uVZpmFgF39W5fgWq5wBkGRqY7aKnLEeJGRzbPIvT3UZCT5KS3e2bfwMPA=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmPAnH_wzJ_F4GDNN4CGua-s6p1jpjkYF-OpLwkjxi5CnJ35UbDM4WDYw3gOGVq2HxI9vH7CZIyhNjDAuh8SrWcmXiwcveE7fdD0Xf0u9QSEAM9hhm6G_MC6ODFRmrOlJY8GbFv4pQ=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMiEyB6VUtLBOXoP0PoHfaTm12cQoJoEg900saBR_teGpKqOeUFFa4WtsF4JSyWiu3xj6E6Ot5lqqPD3trdjJD3OexnKj5Z-jYnOyMdR8XqFpVBW_pRuZUproxC-Z8DcCp6u1Ezpg=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmM6CTAB8oNw_a24j4V9MvFUJEcyVOu1_zRV_8EPyj68Z7Gz-E9sEUaJ6qLp5J6VAsKmxusE3N5GoyXEh7v2Q0hsvleUXZrGDamTBqkVo7smLIfhsgJFLxR6peX0g4KbE68elQiArQ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VNZmV0LW5HaGRIZlFBEAE",
+   "user": {
+    "name": "Mojtaba Noghabaei",
+    "link": "https://www.google.com/maps/contrib/105322733019303849316?hl=en-US",
+    "contributor_id": "105322733019303849316",
+    "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK3VUDaf94rMLFHM-d8qkJ7vgurLB7V1ZEbzotNTAkxUu0iVRE=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 31,
+    "photos": 716
+   },
+   "snippet": "Mediocre food. They work so slow! That is why there is a line! This in on purpose to show that they are popular. I would never go there. Just go to Aba Austin if you want real food!",
+   "extracted_snippet": {
+    "original": "Mediocre food. They work so slow! That is why there is a line! This in on purpose to show that they are popular. I would never go there. Just go to Aba Austin if you want real food!"
+   },
+   "details": {
+    "order_type": "Dine in",
+    "meal_type": "Lunch",
+    "price_per_person": "$100+",
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1,
+    "wait_time": "1+ hour"
+   },
+   "likes": 2
+  },
+  {
+   "position": 5,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURnOU1XdnBBRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CIHM0ogKEICAgIDg9MWvpAE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "Edited 4 years ago",
+   "iso_date": "2018-06-03T14:20:07Z",
+   "iso_date_of_last_edit": "2021-10-14T18:36:28Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOm6X-ok3GMqNppHNx3dcvELqnI9CO0dy-5U2ZQpeLy0vUrUb4E45BcAudRTZOAv2KG7twt-aPZbiOCqoh51X5fj7hfPXCa-BVg2Di1qub8L5oygRm65jOD1smHIzt61yjb6Jc=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmP35bitVJXA-R0Q8-E-c39SJX_KvoaguBAxiUr5Eab9XpCuwQEp467SrGTE1Om2w1exIjXByr2xHCEyOi6RGncmsXuVsWgSOlnHBjV0GMspF7cHh0Dzg4SntIlsd5h-tywA2PlROw=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnOU1XdnBBRRAB",
+   "user": {
+    "name": "Ann Wu",
+    "link": "https://www.google.com/maps/contrib/115828556262596092252?hl=en-US",
+    "contributor_id": "115828556262596092252",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUesfqFAe_G_LkEFtWHULgvnfk9DvLpBRr5DcPz5LNx6CzI6kV6=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 21,
+    "photos": 2
+   },
+   "snippet": "Today, I take back what I said 3 years ago because they didn't give me the correct portion of meat.  When I inquired about it, they insisted that they gave me at least 5lbs, and their scale is calibrated frequently.  The reason why after I repacked my meat it didn't weigh up to 5lbs is because I repack the meat, and the weight is lost in the juice & fat in repacking.  I repacked my meat after they were completed cold!  Please see the pictures.  I am almost 0.25lb shy of being 5lbs.  The butcher's paper is their original wrapper, not too oily or wet, my cutting board is dry, and my packages in parchment paper are also dry.\n\nA total disappointment of this place that I have loved in the past 6 years.\n\n==3 years ago, I said==\nI love this place. People are nice and their brisket is the best",
+   "extracted_snippet": {
+    "original": "Today, I take back what I said 3 years ago because they didn't give me the correct portion of meat.  When I inquired about it, they insisted that they gave me at least 5lbs, and their scale is calibrated frequently.  The reason why after I repacked my meat it didn't weigh up to 5lbs is because I repack the meat, and the weight is lost in the juice & fat in repacking.  I repacked my meat after they were completed cold!  Please see the pictures.  I am almost 0.25lb shy of being 5lbs.  The butcher's paper is their original wrapper, not too oily or wet, my cutting board is dry, and my packages in parchment paper are also dry.\n\nA total disappointment of this place that I have loved in the past 6 years.\n\n==3 years ago, I said==\nI love this place. People are nice and their brisket is the best"
+   },
+   "likes": 8
+  },
+  {
+   "position": 6,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25SWlRFUkpOSEk1TlRsMk9VZFlhRVJ6U21WV01FRRAB!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CAIQACodChtycF9oOnRZTERJNHI5NTl2OUdYaERzSmVWMEE%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "5 months ago",
+   "iso_date": "2026-03-04T04:09:36Z",
+   "iso_date_of_last_edit": "2026-03-04T04:09:36Z",
+   "source": "Google",
+   "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWlRFUkpOSEk1TlRsMk9VZFlhRVJ6U21WV01FRRAB",
+   "user": {
+    "name": "Allen",
+    "link": "https://www.google.com/maps/contrib/114006006615625238112?hl=en-US",
+    "contributor_id": "114006006615625238112",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVvA0ONCll7yqqeRFLUtqzsutPwdqeHZiLZwMrJLtXRKz3cIa2L=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 259,
+    "photos": 154
+   },
+   "snippet": "I don't get it. This is the exact same as every Texas BBQ place in Austin. They are all \"Texas Style\" BBQ which means the sides are plain and boring and the bbq is all about the seasoning which taste kinda the same everywhere in town. Place was overcrowded and service was not very pleasant.",
+   "extracted_snippet": {
+    "original": "I don't get it. This is the exact same as every Texas BBQ place in Austin. They are all \"Texas Style\" BBQ which means the sides are plain and boring and the bbq is all about the seasoning which taste kinda the same everywhere in town. Place was overcrowded and service was not very pleasant."
+   },
+   "details": {
+    "food": 1,
+    "service": 1,
+    "atmosphere": 1
+   },
+   "likes": 0
+  },
+  {
+   "position": 7,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURWcUpxc1pREAE!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CIHM0ogKEICAgIDVqJqsZQ%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "2 years ago",
+   "iso_date": "2023-12-10T17:31:12Z",
+   "iso_date_of_last_edit": "2023-12-10T17:31:12Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmOVtc_1KGBDK1z8VvnyaTRq3TlgvGA3shX_k0fWWe_wURo_dAhZGUwpZgpSx-lTyDL-q4GrGLcxMs2P7ORuuJMykbG1MbrHD1OrnEiG0qLcEcyaz4VJ97Oxq8KT80uIiPxEe2w2dQ=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWcUpxc1pREAE",
+   "user": {
+    "name": "Jake Z",
+    "link": "https://www.google.com/maps/contrib/105336989676416081321?hl=en-US",
+    "contributor_id": "105336989676416081321",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjWhLLcP7OVoO_Zzq5w6VGEKgQNJP5oqp6vya5PMY3dzOM_W694=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 17,
+    "photos": 4
+   },
+   "snippet": "They can easily avoid this long wait line by having 2 people cutting meat. But they choose not to.\nThe barbecue overall is too salty that covered the original taste of meat. Cold slaw was awful which tastes like mud.\nI feel sorry for all the people like me wasting time and money here.\nAtmosphere was ok though, I can see their effort decorating the interior.",
+   "extracted_snippet": {
+    "original": "They can easily avoid this long wait line by having 2 people cutting meat. But they choose not to.\nThe barbecue overall is too salty that covered the original taste of meat. Cold slaw was awful which tastes like mud.\nI feel sorry for all the people like me wasting time and money here.\nAtmosphere was ok though, I can see their effort decorating the interior."
+   },
+   "details": {
+    "food": 1,
+    "service": 1,
+    "atmosphere": 4
+   },
+   "likes": 9
+  },
+  {
+   "position": 8,
+   "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNtMkxtRkdnEAE!2m1!1s0x0:0x31aba8abf8f64c84!3m1!1s2@1:CIHM0ogKEICAgICm2LmFGg%7C%7C?hl=en-US",
+   "rating": 1.0,
+   "date": "Edited 4 years ago",
+   "iso_date": "2021-12-17T18:42:58Z",
+   "iso_date_of_last_edit": "2021-12-19T03:14:19Z",
+   "images": [
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmO_zwkiVMHi11kX5W-jmAEukq-7818xo-rIEpeXeyDGDmZ0QAT2l0uZ7Ezp6OrqHdnW5UAYNGwef3SMDQ3KuqQOmWe400VacWsFi7Md_RL2vni9D5m9uKb1BKcW4CryNO39h4LOeQ=k-no",
+    "https://lh3.googleusercontent.com/grass-cs/ACvplmMgkRCydToWlZXTbd7m290Od5gsohTVZRnK7e7jLQmqGutQgOokdsOA-eixae95mW6O29Coa4xeQ9kfGaoEzrBSjKqagXr8cFnQGtS4j7RkYOzkVQz4fpDt4KPdkcPvLcmQIymg=k-no"
+   ],
+   "source": "Google",
+   "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtMkxtRkdnEAE",
+   "user": {
+    "name": "Sam S",
+    "link": "https://www.google.com/maps/contrib/116580761244983774491?hl=en-US",
+    "contributor_id": "116580761244983774491",
+    "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUz6W6eBQW6hfwhDmIQlJ77XBUzhAmVZe24kK12rixJ63LFQcDv8g=s120-c-rp-mo-ba12-br100",
+    "local_guide": true,
+    "reviews": 58,
+    "photos": 100
+   },
+   "snippet": "Update: finally ate it and it's too salty for my taste, you taste too much pepper and not juicy as I've had from la barbecue or q39 in KS. Seriously, not worth waiting an hour in line.\n\nHaven't tried it but glad I could still get brisket and ribs after waiting in line for an hr, got Tyler black bbq but disappointed, hope this is good",
+   "extracted_snippet": {
+    "original": "Update: finally ate it and it's too salty for my taste, you taste too much pepper and not juicy as I've had from la barbecue or q39 in KS. Seriously, not worth waiting an hour in line.\n\nHaven't tried it but glad I could still get brisket and ribs after waiting in line for an hr, got Tyler black bbq but disappointed, hope this is good"
+   },
+   "likes": 5
+  }
+ ],
+ "serpapi_pagination": {
+  "next": "https://serpapi.com/search.json?data_id=0x8644b5a4ae3bcc33%3A0x31aba8abf8f64c84&engine=google_maps_reviews&hl=en&next_page_token=CjEIARIpCgoAP7-mwSwH____EhBMCFEpjpThRxmQlnQAAAAAGgn92aYCgi9RKHMYACIA&sort_by=ratingLow",
+  "next_page_token": "CjEIARIpCgoAP7-mwSwH____EhBMCFEpjpThRxmQlnQAAAAAGgn92aYCgi9RKHMYACIA"
+ }
+}
