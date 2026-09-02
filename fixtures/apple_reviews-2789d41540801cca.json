@@ -1,0 +1,359 @@
+{
+ "search_metadata": {
+  "id": "6a96c9cdd0a88f0d386af99a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/4YdZNVvWDR3hFNjdSxYJpUZplBfsFiuxp1ljRRWlja0/6a96c9cdd0a88f0d386af99a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/4YdZNVvWDR3hFNjdSxYJpUZplBfsFiuxp1ljRRWlja0/6a96c9cdd0a88f0d386af99a.md",
+  "created_at": "2026-09-01 12:49:17 UTC",
+  "processed_at": "2026-09-01 12:49:17 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1528595748&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/4YdZNVvWDR3hFNjdSxYJpUZplBfsFiuxp1ljRRWlja0/6a96c9cdd0a88f0d386af99a.html",
+  "prettify_html_file": "https://serpapi.com/searches/4YdZNVvWDR3hFNjdSxYJpUZplBfsFiuxp1ljRRWlja0/6a96c9cdd0a88f0d386af99a.prettify",
+  "total_time_taken": 5.38
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1528595748",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 20,
+  "reviews_for_current_version": 20,
+  "total_page_count": 2,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14492640772",
+   "title": "Not ok",
+   "text": "It could be alittle better for ppl if it helps",
+   "rating": 1,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.199",
+   "author": {
+    "name": "Dollar tree stuff",
+    "author_id": "1674100239"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14492612711",
+   "title": "Finch",
+   "text": "This game is super fun and calming. I love getting to talk to my finch and getting rainbow stones so I can buy stuff and I also love getting pets in the game. In conclusion, this game rocks.",
+   "rating": 4,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Raventail8712",
+    "author_id": "132070561"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14492481354",
+   "title": "I have an idea",
+   "text": "Finch devs, if you\u2019re seeing this, PLEASE make it so you can make your own custom sound mixes. Even if it\u2019s just a Plus feature, I don\u2019t think it should, those who don\u2019t have it can just only make mixes out of the free soundscapes. Also in the mixes can you please make it so you can customize how loud each soundscape in the mixes are. Etc: the Cozy Cuddles sound mix. I want to make the kitty sound louder. I can hardly hear him. So as I was saying before, add custom mixes. What if I wanted a farm mix with horses and cows and chicken and sheep. Along with maybe a quiet temperate rainforest in the background. I think the app is great, but could use some quality of life updates.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "ROXYDOGGO",
+    "author_id": "1571252563"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14492281009",
+   "title": "Finch<3",
+   "text": "Finch helps me it\u2019s a wonderful express my lesbian girl side and a good helper.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Mia Vasquez Villatoro",
+    "author_id": "1003494334"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14492029577",
+   "title": "Antonio\u2019s first review",
+   "text": "It\u2019s a great way to do fun things and get to do chores",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Antonio 90LT",
+    "author_id": "1516644848"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14492018378",
+   "title": "Helpful to grow stronger",
+   "text": "I love how it is a fun way to accomplish everyday task that you would normally not like doing",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Minimama365",
+    "author_id": "1962822480"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14491982537",
+   "title": "Very nice and fun app",
+   "text": "I have been on Finch for about 2 months now and I am still having fun. This app helps to keep me organized and accountable. I am able to reach goals to achieve rewards such as diamonds, clothes, and even furniture for My Finch\u2019s home. I love being able to share reflections anytime of the day and it helps with my mood. If you are struggling with stay organized and procrastination \u2026 this is the app for you.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.199",
+   "author": {
+    "name": "bamalady100",
+    "author_id": "672072127"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14491929705",
+   "title": "Okay",
+   "text": "Good for gamifying goals and check lists. The monthly events have been weird.",
+   "rating": 4,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Sabewena",
+    "author_id": "346732150"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14491859044",
+   "title": "If you need good habits!",
+   "text": "The little birb is so cute :) it\u2019s motivating!",
+   "rating": 4,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Artist 519",
+    "author_id": "1212272983"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14491656119",
+   "title": "it\u2019s good!\ud83e\udef6",
+   "text": "as a girl with adhd, I find this helpful with tracking but not my thoughts or mental health,and that was the goal I was looking for. It does get annoying but it is an Awsome app. To all the adhd people, I like it to stay organized, but not mental health.",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Ugh ew stop ew stinky",
+    "author_id": "1625478919"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14491117509",
+   "title": "Depresso Help",
+   "text": "It really helps when you feel on a low. When you\u2019re self care (the basics) is failing it has helped me get back up on my feet",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "BroskiBen2k",
+    "author_id": "1942577905"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14491074441",
+   "title": "love!!",
+   "text": "i\u2019ve had this app for years, i genuinely love it so much. it keeps me motivated! the friends i have on there are people i\u2019ve never met, but it makes me so happy to know i\u2019m not alone, and to help motivate each other! \ud83d\udc9e\ud83d\udc9e",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "inkobinko",
+    "author_id": "979430134"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14490618033",
+   "title": "I love yhus",
+   "text": "I love this app it's so cute and fun it's also super comforting please this this app if you struggle with anxiety \ud83d\ude1fthis will cure it!!",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Lavendergurly246",
+    "author_id": "1609566985"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14490435899",
+   "title": "Care for your self",
+   "text": "Great app no need to pay free the hole way",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Frendsys",
+    "author_id": "1514926788"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14490057268",
+   "title": "Two words",
+   "text": "Absolutely amazing",
+   "rating": 4,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.199",
+   "author": {
+    "name": "Is not what it looks like",
+    "author_id": "1338263734"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14489826382",
+   "title": "Helpful",
+   "text": "This app is so so helpful if you need to get stuff done and if you can\u2019t remember it in your head",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "\ufffcMick",
+    "author_id": "1802507422"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14489801685",
+   "title": "Making self care fun!!",
+   "text": "This app is such a good motivator, it\u2019s like taking care of a Tamagotchi that\u2019s secretly taking care of you.",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "EmpathLess",
+    "author_id": "334652907"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14488874139",
+   "title": "He did diamond",
+   "text": "I love this app it's helped me to stay on task and set goals while still being rewarded, However it can feel like a chore after I while. Im on my 298 day and it's a lot of work to keep up",
+   "rating": 4,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Liliowerr",
+    "author_id": "1266662927"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14488482060",
+   "title": "Finch",
+   "text": "I think that it helps me do things",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "\ufffcPixie",
+    "author_id": "1779085962"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14488479244",
+   "title": "Pronouns?",
+   "text": "\ud83e\udd28",
+   "rating": 1,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "High School Stu23",
+    "author_id": "888639709"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14488363390",
+   "title": "Self care Encouraging",
+   "text": "Has helped so much more than I expected and has really encouraged me to be more accountable and self reflective",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Ndbenwms",
+    "author_id": "1428247060"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14488263213",
+   "title": "Great app, but I (still) have a problem!",
+   "text": "Awesome app!!! BUTTT I\u2019m having issues with the monthly quests! So for this recent Queen of Hearts event, i\u2019ve been checking in and getting all my rewards on time but now it\u2019s pushed me back and instead of me being on Day 20 and receiving awards for the 20th, the app has me on Day 18. It\u2019s been like this since i got the app back in November. It pushes me back even when I do everything on time and it\u2019s so unfair, i haven\u2019t been getting all the rewards I should\u2019ve been getting. Please, is there any way to fix this issue on my account and in general? UPDATE: that never got resolved, and now i\u2019m having another problem \ud83d\ude2d I had to delete the app in order to free up storage on my phone for a software update. When I redownloaded Finch, everything seemed fine, except the app had pushed me a day back and took away a reward I had already claimed! Day 25 of August\u2019s Game On! The Gamer Den PC decor. I already had it in color Sweet! My last reward is supposed to be on Day 27. Please, can you put it back on my account? This isn\u2019t the first time this has happened unfortunately.",
+   "rating": 3,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "lovelyziy",
+    "author_id": "579509220"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14488100104",
+   "title": "Healing",
+   "text": "I\u2019ve been using this app with my child for over three years. It has helped us tremendously to unite with each other other positive influences, and to our own journey of healing thank you.",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 3.73.201",
+   "author": {
+    "name": "Body-talk",
+    "author_id": "1404432329"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14486967345",
+   "title": "AMAZING",
+   "text": "This app has helped me so much! I\u2019m in high school and Finch has helped me keep everything together. Highly recommend if you\u2019re struggling to stay consistent with your habits and want something super fun to help you!",
+   "rating": 5,
+   "review_date": "Aug 29, 2026",
+   "reviewed_version": "Version 3.73.199",
+   "author": {
+    "name": "beary_cute_11",
+    "author_id": "1822898715"
+   }
+  },
+  {
+   "position": 25,
+   "id": "14486475234",
+   "title": "finch fanatic",
+   "text": "it\u2019s cute, it\u2019s fun, & it def helps me organize & build healthy habits which i love! my only complaint is i wish it would let us decorate more space because the space is very limited and after getting mostly everything you want it can become boring. i hope the creators try to find new ways of keeping their users entertained like games or in app messaging etc which would help users want to interact with the app more.",
+   "rating": 4,
+   "review_date": "Aug 29, 2026",
+   "reviewed_version": "Version 3.73.199",
+   "author": {
+    "name": "sleepy lamb",
+    "author_id": "1577715877"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1528595748&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1528595748&sort=mostrecent"
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "search_metadata": {
+  "id": "6a96ca65410cdad9741c97c4",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/3_cUOY_WEOaH0TjMc6vGiDFRvyImsYe7Ml31ED87Z7Y/6a96ca65410cdad9741c97c4.json",
+  "markdown_endpoint": "https://serpapi.com/searches/3_cUOY_WEOaH0TjMc6vGiDFRvyImsYe7Ml31ED87Z7Y/6a96ca65410cdad9741c97c4.md",
+  "created_at": "2026-09-01 12:51:49 UTC",
+  "processed_at": "2026-09-01 12:51:49 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1538521095&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/3_cUOY_WEOaH0TjMc6vGiDFRvyImsYe7Ml31ED87Z7Y/6a96ca65410cdad9741c97c4.html",
+  "prettify_html_file": "https://serpapi.com/searches/3_cUOY_WEOaH0TjMc6vGiDFRvyImsYe7Ml31ED87Z7Y/6a96ca65410cdad9741c97c4.prettify",
+  "total_time_taken": 1.45
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1538521095",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 9,
+  "reviews_for_current_version": 9,
+  "total_page_count": 26,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "9830357218",
+   "title": "Just what I was looking for!",
+   "text": "SimplyWise is an amazing app that helps you manage your expenses in the most effortless way possible. One of the most impressive features of the app is the simplicity and speed at which receipts can be scanned and saved. The app's powerful OCR technology accurately scans receipts, making it incredibly easy to keep track of your expenses. The user experience and user interface of SimplyWise are also top-notch. The app's intuitive design and user-friendly interface make it easy to navigate and use, even for those who are not tech-savvy. The app's smooth and seamless operation makes managing expenses a breeze. Compared to other expense management apps like Zoho Expense, Expensify, and Wise, SimplyWise stands out as the winner. The app's superior features and functionalities make it the go-to choice for anyone looking for a reliable and efficient expense management app. I was so impressed with SimplyWise that I decided to upgrade to the business version, and I'm glad I did. The added features and benefits have made managing expenses for my business a lot easier and more streamlined. Overall, I highly recommend SimplyWise to anyone looking for an easy and efficient way to manage their expenses. With its outstanding features and functionalities, SimplyWise is truly a game-changer in the world of expense management.",
+   "rating": 5,
+   "helpfulness_vote_information": "25 out of 46 customers found this review helpful",
+   "review_date": "Apr 17, 2023",
+   "reviewed_version": "Version 0.60.2",
+   "author": {
+    "name": "SupermanMikail",
+    "author_id": "23740709"
+   }
+  },
+  {
+   "position": 2,
+   "id": "9088303548",
+   "title": "Scans are not processing correctly",
+   "text": "I saw this app advertised a month or two back and I was curious to try it out against Evernote or Expensify. I initially like the scan feature and it\u2019s ability to cut and make make clean copies of the receipts or documents I was scanning. However after a few times I started to notice inconsistencies and errors. Several of my scanned documents were scanning blurry, and automatically coming up with the wrong business name, date, etc. A scan for let\u2019s say Starbucks Coffee would display as \u201cspectrum\u201d with a bogus date. So I found myself having to manually adjust the error. Additionally the scans were coming out blurry for documents or not always auto cropping on large receipts. Additionally the app doesn\u2019t appear to save this info to the cloud so I\u2019m concerned my info won\u2019t back up and be saved if I lose my phone. Additionally it would be nice to have a way to sun group receipts or categories based on store/practitioner/topic/etc. rather than by year. I also find that the document size for scanning is difficult to collect when trying to take photos. The emailing of receipts and not stop email confirmations and having to manually enter in the info for the receipts is also annoying. Apple app receipts were not scanning as the vendor and only appearing as apple. Super annoying. Otherwise I like the app and hope they can make some improvements to make this more function-able.",
+   "rating": 3,
+   "helpfulness_vote_information": "6 out of 8 customers found this review helpful",
+   "review_date": "Sep 15, 2022",
+   "reviewed_version": "Version 0.46.13",
+   "author": {
+    "name": "yellowkiwi",
+    "author_id": "121740349"
+   }
+  },
+  {
+   "position": 3,
+   "id": "9020786156",
+   "title": "App is great, pricing scheme not so much",
+   "text": "So far I've done the week trial and have enjoyed the app and how it mostly works. I think I've only had one receipt that didn't populate the info but I think that was because it was an old and faded one. The email function has worked decently as well, just have to remember to get the right email. The few things that I didn't like, and the reason why I'm only giving it 4 stars are: 1) the app doesn't seem to always save the settings. I think I've gone through the \"set up account\" thing like 4 times and it's still coming up. 2) the pricing scheme. In the app there's two choices, base and business. Simple enough, right? Well you'd think so but if you look in your subscriptions or even in the app on the app store, there's at least 8 different options, with no explanation about what they do. If they're old options, they probably shouldn't be shown let alone be able to pick them. Other than that, the app is great.",
+   "rating": 4,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Aug 26, 2022",
+   "reviewed_version": "Version 0.46.12",
+   "author": {
+    "name": "andacanaver",
+    "author_id": "206268162"
+   }
+  },
+  {
+   "position": 4,
+   "id": "8378112082",
+   "title": "Love this App!!",
+   "text": "I can't believe how well the scanning feature works. Every single receipt I've scanned has imported the merchant and date correctly. Only twice have I had to make a minor modification to the dollar amount, and this was likely to a wrinkled receipt. I'm in awe of how well the OCR works - which makes this app a pleasure to use. It's also easy to change the category of a filed receipt at a later date. The export option is well worth the price as you have an option to export date ranges with or without receipt images. Lovely. ----Only suggestions would be an option to import or download into the iOS Files app and import directly into iOS Numbers vs email link. Also adding more icon options would be useful. Specifically more types of buildings and folder colors/designs. I very very rarely write reviews. This is a Great app!!",
+   "rating": 5,
+   "helpfulness_vote_information": "24 out of 41 customers found this review helpful",
+   "review_date": "Feb 20, 2022",
+   "reviewed_version": "Version 0.44.8",
+   "author": {
+    "name": "Zupplemental",
+    "author_id": "21107028"
+   }
+  },
+  {
+   "position": 5,
+   "id": "8147535030",
+   "title": "Best app & customer service",
+   "text": "This app is the best app I have found for receipts! It has great customer service and I love the fact that you pay what\u2019s fair. I\u2019m going through tough times and this allowed me to still do what I needed without spending a ton of money. I asked the customer service team if they could add multi page receipts, and they out of the feature very quickly within a week or so. They asked questions and were very respectful. I\u2019ve seen a lot of growth in the app meaning constant development which I love. The app is easy to use. I like that they are working on features and are willing to put this in the FAQ. That they give you work around if it\u2019s something they don\u2019t currently have. I suggest this to all my friends and family. Thank you all so much for your wonderful app and your friendly customer service.",
+   "rating": 5,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Dec 19, 2021",
+   "reviewed_version": "Version 0.44.2",
+   "author": {
+    "name": "yasurefineokayleave",
+    "author_id": "18554725"
+   }
+  },
+  {
+   "position": 6,
+   "id": "8647394389",
+   "title": "Where have you been all my life?",
+   "text": "I\u2019m going to sound dramatic but this is true\u2026 I\u2019ve been looking for an app like this for SO long! I\u2019ve tried so many other apps but they didn\u2019t have the features I needed. I resigned myself to buying a receipt scanner, which is not cheap, and even that didn\u2019t work as well as this little app does. I have to admit that I cringed at the yearly fee but I got to test it out for free for one week and saw how well it works. The fee boils down to about $2/mo AND allows me to get rid of receipt clutter and organize my receipts (and other documents like prescriptions, etc) digitally. It looks like the app creators are pretty responsive as well, if I ever have any issues. I can\u2019t ask for anything more (well, \u201cfree\u201d would be nice, but what can ya do?)",
+   "rating": 5,
+   "review_date": "May 07, 2022",
+   "reviewed_version": "Version 0.46.4",
+   "author": {
+    "name": "Cassiopeia829",
+    "author_id": "455276411"
+   }
+  },
+  {
+   "position": 7,
+   "id": "13459537612",
+   "title": "Great at scanning receipts, Awful at reconciling",
+   "text": "It is very cool how well this app reads receipts although it doesn\u2019t do great at handwriting so if you go to a restaurant and add a tip, you have to edit. If the app sold itself as just a depository of receipts, that would be fine. I could then go through my bank account manually and reconcile transactions however, it claims to have a reconciliation function. But it is awful. When you connect your bank account and click on a transaction, the program suggests a receipt you can either say yes or no, but you cannot search through your database to find the correct receipt, nor can you reconcile from the receipt database. And the suggestions are ridiculously wrong. Often the merchant date and amount don\u2019t match and for some reason it gets obsessed with suggesting the same receipt for every transaction even if you\u2019ve already reconciled that receipt to a transaction.",
+   "rating": 2,
+   "review_date": "Nov 30, 2025",
+   "reviewed_version": "Version 0.81.2",
+   "author": {
+    "name": "koshpeli",
+    "author_id": "13134531"
+   }
+  },
+  {
+   "position": 8,
+   "id": "7708166472",
+   "title": "The best receipt organizer I have ever used!",
+   "text": "I have tried all kinds of receipt scanners and organizers over the years, both in PC format and OSI format, to only be disappointed to the point I quit using them. Storing digital receipts is really important to me. I hate looking for paper receipts, bills, and documents that take up space and can be hard to find. When I heard about SimplyWise I was a little hopeful but very skeptical about trying it. When I read about the features, the modern layout, and the price structure, I had to try it. I am still new at using it but so far I am very pleased. It does a lot of what other apps are not able to do, at lease as easy. The one feature that I need is the ability to scan multiple page documents. I asked SimplyWise if it is possible to scan multiple pages and they respond with an answer quicker that I expected with the response that it is a feature they are currently working on. I hope it is apart of their next update, as it was indicated it will be!!! Keep it up SimplyWise! This app has the potential to be a better product than even Adobe Scan as far as simplicity of use and organization. I also appreciate the ability to store on their encrypted cloud (so all my devices has access to the same information) as well as the ease of storing on my local drive. I don\u2019t like being married to a company that stores all of my data. I want control of where this information is stored for years to come. I feel storing on the app\u2019s cloud without a local backup is unwise. Looking foreword to further updates. But it is already a great product, so you don\u2019t need to wait any longer. And they back up their desire to provide the best product they can produce by providing a \u201cpay what you feel it is worth\u201d fee schedule that you can change up or down at any time. It is simply a no brainer to try this product. I hope you are impressed as well.",
+   "rating": 5,
+   "review_date": "Aug 18, 2021",
+   "reviewed_version": "Version 0.35.0",
+   "author": {
+    "name": "JWFox",
+    "author_id": "85569915"
+   }
+  },
+  {
+   "position": 9,
+   "id": "8823629375",
+   "title": "Love the features, but the dollar amount on individual items keeps turning up way wrong",
+   "text": "I thought this app was so cool, especially because you could select individual items within receipts and move them to different folders or categories. For example if I bought home goods and personal items, I could select the personal items to go in that folder and the home goods to go in a separate folder. That is amazing. However, the whole concept is ruined because the scanner doesn\u2019t input the amounts of those items correctly. The amount as a whole is correct but it kept getting WAY off when it came to each item within a receipt. Deleted my subscription right away. If they can fix that issue within the app it would be well worth the 24 dollars a year",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jun 29, 2022",
+   "reviewed_version": "Version 0.46.7",
+   "author": {
+    "name": "rissermonique",
+    "author_id": "826270506"
+   }
+  },
+  {
+   "position": 10,
+   "id": "7400504369",
+   "title": "Be Wise Get SimplyWise!",
+   "text": "I do bookkeeping, business management, and prepare taxes I\u2019m recommending that all my clients get the SimplyWise app. It scans in your receipts and keeps an itemized list of your purchases. Easy to create a series of folders for specific businesses. The superior export to spreadsheet function allows sorting and categorizing all expenses on a monthly and weekly basis. My clients will have more accurate information about net income on an ongoing basis. This will enable them to know their cash flow so they have the capacity to take advantage of investment opportunities with confidence. Extra benefit no boxes or bags of paper to find and sort at tax time! Purchases are categorized and filed at the time of purchase. A win for everyone.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 4 customers found this review helpful",
+   "review_date": "May 29, 2021",
+   "reviewed_version": "Version 0.26.0",
+   "author": {
+    "name": "Sudoku-nut",
+    "author_id": "165711387"
+   }
+  },
+  {
+   "position": 11,
+   "id": "9113135562",
+   "title": "eReceipts are not working",
+   "text": "Need help with the e receipts every time I forward the email it doesn\u2019t work. I went to the app support link on the App Store and it leads me to a web version of the app. No help at all. I think the e receipts should have better instructions in the beginning. It\u2019s very confusing. And I\u2019m begging for the setting to be able to turn off the additional emails I get after I forward an email receipt. It\u2019s way too much clutter. Also would love some folder icons more inclusive to women. Like a cosmetics one and for clothes maybe some dresses instead of a men\u2019s work shirt. Would also be nice to have different colors in each for different family members. But mostly I just want eReceipts to work again. I\u2019m on the seven day trial right now and the fact that I\u2019m already having issues is extremely disheartening because I was very excited.",
+   "rating": 2,
+   "review_date": "Sep 23, 2022",
+   "reviewed_version": "Version 0.46.13",
+   "author": {
+    "name": "Emilie Bo-Bemely.",
+    "author_id": "1161749389"
+   }
+  },
+  {
+   "position": 12,
+   "id": "9817661090",
+   "title": "Absolutely The BEST receipt Keeper",
+   "text": "What an outstanding app. I\u2019ve tried a few others whose name I won\u2019t mention that have left me dazed and confused. This app scans your receipts no matter how torn, wrinkled or messed up they are flawlessly and once taught where each item goes does it flawlessly and efficiently. I am able to scan all my receipts from shopping to dining to travel to whatever and bingo! Correctly scanned and placed in the correct finder. I live the running balance of my spending as well as the awesome reports it issues. For a few extra bucks you can even have it linked to your QuickBooks where it flawlessly integrates your receipts. Keep up the great work!!",
+   "rating": 5,
+   "review_date": "Apr 13, 2023",
+   "reviewed_version": "Version 0.60.2",
+   "author": {
+    "name": "Fred the German Chef",
+    "author_id": "759255180"
+   }
+  },
+  {
+   "position": 13,
+   "id": "10826835453",
+   "title": "Keeping me sane!",
+   "text": "This app has been a lifesaver! Before I was drowning in paper receipts, and now, whenever I have to look for anything it\u2019s just a matter of a few seconds to find it. My paper piles have shrunk to almost nothing! I started a small business with friends, and we were able to use it to keep ourselves square with spending! I love how intuitive it is reading the receipt and knowing where to categorize it. Of course, it\u2019s always worth checking each item as you scan it because sometimes the receipt is not clear and the information can get picked up incorrectly. But way better than trying to read faded receipt!",
+   "rating": 5,
+   "review_date": "Jan 16, 2024",
+   "reviewed_version": "Version 0.76.0",
+   "author": {
+    "name": "Divergentkelly",
+    "author_id": "277872916"
+   }
+  },
+  {
+   "position": 14,
+   "id": "7319961570",
+   "title": "SimplyWise is simply great",
+   "text": "I\u2019ve only been using this app for a short time, but I\u2019m already finding it indispensable. It saves me a lot of time dealing with paper receipts. I\u2019m able to take a picture upload them and export them so that I have them all in a central location that is easy to find, and I\u2019m able to export the data into my budgeting software program.I\u2019m really looking forward to exploring the new functionality that the developers have put into the program, and I am excited to see what they might do in the future with this app. However, just as it is, it is definitely worth a download and is a huge time saver!",
+   "rating": 5,
+   "helpfulness_vote_information": "0 out of 3 customers found this review helpful",
+   "review_date": "May 10, 2021",
+   "reviewed_version": "Version 0.22.0",
+   "author": {
+    "name": "crstevens2",
+    "author_id": "511001904"
+   }
+  },
+  {
+   "position": 15,
+   "id": "12341738063",
+   "title": "Does the job",
+   "text": "My daughter-in-law recommended this app to me to keep track of my annual medical expenses for tax filing so I don\u2019t have to manually add them up each year. It has done the job well except for two issues. 1) The AI does not always find the right total on some receipts I guess due to size, shape, or location. I have found a work around on the few instances that happens. 2) The app does not keep a running total except by month. At the end of the year, I have to total the twelve months. That however, is better than running a tape twice to ensure accuracy. Both of these are really minor issues and I am happy with the app as it saves me a lot of time in preparing my tax return.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Feb 22, 2025",
+   "reviewed_version": "Version 0.78.7",
+   "author": {
+    "name": "Ruskin1949",
+    "author_id": "235738939"
+   }
+  },
+  {
+   "position": 16,
+   "id": "9300266429",
+   "title": "Best App ever",
+   "text": "This app is great. I use it for receipts, documents, etc. it is also great for both sides of loyalty cards. Previously I almost always forgot and left it in the car. The pictures of everything are clear, as are the receipts, documents, cards, etc. it is also great for copying business cards, and organizing them; medical, auto, restaurants, etc. Almost forgot, great for copying menus, even multi page. I know I missed a few I use it for now, and more in the future. Best of all, response from customer service is outstanding; which is all to rare these days. Keep up the outstanding work\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffe\ud83d\udc4d\ud83c\udffeplus Carl",
+   "rating": 5,
+   "review_date": "Nov 17, 2022",
+   "reviewed_version": "Version 0.48.0",
+   "author": {
+    "name": "sgamemno",
+    "author_id": "745630441"
+   }
+  },
+  {
+   "position": 17,
+   "id": "11030586973",
+   "title": "Simple, Efficient, Quick Works!",
+   "text": "I started using this to track business expenses/receipts. The ability to set up folders is simple and to navigate. I love that I can quickly pull up the app after purchasing something and in less than 15 seconds it is logged with all of the information that I need. The only negative that is not really a negative is that you have to pay in order to be able to export in spreadsheet form, but I prefer that to ads. I have not purchased premium but the free functionality is very well executed. Kudos to the develops of the UI.",
+   "rating": 5,
+   "review_date": "Mar 10, 2024",
+   "reviewed_version": "Version 0.77.11",
+   "author": {
+    "name": "MattR14",
+    "author_id": "464365581"
+   }
+  },
+  {
+   "position": 18,
+   "id": "13511351866",
+   "title": "Great app with minor bugs",
+   "text": "This app normally works great. I just have a few complaints I would like to development team to address. 1) when you\u2019re scanning a receipt and you temporarily navigate away from the app to another app and then return to the receipt capture the entire receipt entry is cleared out, and the process starts from the beginning. 2) the currency conversion from foreign currencies to US dollars is frequently out of date with current exchange rates. Aside from these annoying bugs, which are easily fixed, the AI based receipt scan works really well and the folder system of organizing receipts by category is fantastic.",
+   "rating": 4,
+   "review_date": "Dec 14, 2025",
+   "reviewed_version": "Version 0.82.4",
+   "author": {
+    "name": "Jdgullett",
+    "author_id": "25756357"
+   }
+  },
+  {
+   "position": 19,
+   "id": "9588953432",
+   "title": "Not a true trial, you\u2019re charged immediately",
+   "text": "I thought I was getting a 7 day trial & am very angry I was charge before the trial period. The app is NOT AT ALL what I expected. Tried to cancel & get a refund & Apple says I\u2019m not eligible for one I wouldn\u2019t be angry if you had not charged me. If you are going to offer a trial at least wait until the trial period is up before charging. I will be posting this on my social media accounts. WOW \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1fI\u2019m changing my review because once I contacted the developer they were prompt to respond & very understanding and resolved the issue immediately. ALL GOOD\u203c\ufe0f",
+   "rating": 5,
+   "review_date": "Feb 06, 2023",
+   "reviewed_version": "Version 0.53.0",
+   "author": {
+    "name": "NLPalmer",
+    "author_id": "33538339"
+   }
+  },
+  {
+   "position": 20,
+   "id": "11595091660",
+   "title": "Spectacular image capturing",
+   "text": "Has made 30 years of home improvement records very relatively easy. Captures correctly VERY faded receipts from 1994. Amazing. For all its smarts, it does lack one puzzling ability: for some reason it doesn\u2019t recognize dates of receipts\u2014 so I have to manually correct each one. (It always puts in today\u2019s date, which is a safe bet since this is probably meant for expense statements reporting). In my case, I\u2019m preparing to use all these receipts to reduce my capital gains taxes by increasing my base. It\u2019s amazing what you spend on a home over 30 years!",
+   "rating": 5,
+   "review_date": "Aug 10, 2024",
+   "reviewed_version": "Version 0.77.16",
+   "author": {
+    "name": "bbeebe",
+    "author_id": "25217248"
+   }
+  },
+  {
+   "position": 21,
+   "id": "13889692231",
+   "title": "GREAT APP",
+   "text": "Great app! Literally I use this all the time now for my cleaning business. I was looking for something to help me keep track of all my expenses w/out having to keep a bunch of receipts that by the end of the year I can\u2019t even read! And this is perfect...It\u2019s super easy to scan all of my receipts and then it also pulls everything off it as well(line items)and you can separate all your expenses/etc., like it just works. Def recommend it if anyone is looking for the same. And tbh, I NEVER write reviews, this is my 1st!Thank you!",
+   "rating": 5,
+   "review_date": "Mar 26, 2026",
+   "reviewed_version": "Version 0.83.1",
+   "author": {
+    "name": "Chicolocogirl",
+    "author_id": "1762266940"
+   }
+  },
+  {
+   "position": 22,
+   "id": "12909035985",
+   "title": "Top tier expense tracking app!",
+   "text": "This app has made tracking my expenses easier and more enjoyable than ever. It\u2019s well designed, reliable, and packed with helpful features. What really makes it stand out is how responsive the developer is! They actually listen to user feedback, and I\u2019ve seen my suggestions implemented in just a few weeks. It\u2019s rare to find that kind of support. I\u2019ve also tried some of their other apps, and they\u2019re just as well built. Definitely worth checking them all out!",
+   "rating": 5,
+   "helpfulness_vote_information": "0 out of 1 customers found this review helpful",
+   "review_date": "Jul 19, 2025",
+   "reviewed_version": "Version 0.81.2",
+   "author": {
+    "name": "FB2LB",
+    "author_id": "294637570"
+   }
+  },
+  {
+   "position": 23,
+   "id": "12869685779",
+   "title": "Such a Gem!",
+   "text": "SimplyWise is such a wonderful app! It\u2019s easy to organize folders and upload/scan receipts. I can see everything I\u2019m doing now that\u2019s related to my taxes and businesses expenses. I\u2019m so grateful to have found this app because I was diligently collecting receipts for the last several years and felt all the physical receipts would need to start paying part of my mortgage because they were piling up so much. Now I can manage everything so much better. Thank you Simply Wise\u2026this app is just\u2026 Simply Wise.",
+   "rating": 5,
+   "review_date": "Jul 09, 2025",
+   "reviewed_version": "Version 0.81.2",
+   "author": {
+    "name": "Mousey2232",
+    "author_id": "24894606"
+   }
+  },
+  {
+   "position": 24,
+   "id": "7278559330",
+   "title": "SO ADDICTING! I\u2019m on a roll. No more piles of junk!\ud83d\ude0e",
+   "text": "I\u2019m so excited about this app!! My daughter said, \u201cMOM, you will love this, you have to get it!\u201d. I AM loving it, and am on a roll plowing through YEARS of built up paper piles that not only clutter my home BUT ALSO MY MIND. I am already feeling relieved and hopeful that this paper mess has been combated once and for all!\ud83d\ude0e I can see this saving a lot of grief, time, and MONEY! So many times I\u2019ve returned things to the store, only to get the sale price bcs I cannot find the receipt!! I am planning to throw these receipts away after scanning. Have most of you had luck presenting either a digital or printed receipt to stores for returns? I HAVE A FEW SUGGESTIONS FOR THE DEVS. I would love: 1). Ability to CROP a photo 2). Ability to DARKEN text 3). ENCRYPTED feature to securely store sensitive Docs, ie medical bills 4). I would like assurance knowing I\u2019ll be able to retrieve these downloaded docs if for some reason you discontinue the app",
+   "rating": 4,
+   "helpfulness_vote_information": "3 out of 4 customers found this review helpful",
+   "review_date": "Apr 29, 2021",
+   "reviewed_version": "Version 0.20.0",
+   "author": {
+    "name": "TwitterBias",
+    "author_id": "481714291"
+   }
+  },
+  {
+   "position": 25,
+   "id": "12693334379",
+   "title": "Inconsistencies",
+   "text": "2 month ago the app is showing inconsistencies between my wife and my numbers. Even though I even erased my account and she shared everything back from scratch (premium plan) the app got totally confused, sustaining data from my old user, unable to actually delete the user, and having data from my wife that didn\u2019t pass to me to begin with. This people have SQL problems, updating time and consistencies. It is great for a single user. 2 users sharing and everything start to fail. Random record at shared and others are not. Some record update in seconds, some never do. What a disappointment. In the times of AI this guys are failing in the basics.",
+   "rating": 2,
+   "review_date": "May 24, 2025",
+   "reviewed_version": "Version 0.80.2",
+   "author": {
+    "name": "Diegoodluck.died",
+    "author_id": "390428447"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1538521095&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1538521095&sort=mosthelpful"
+ }
+}

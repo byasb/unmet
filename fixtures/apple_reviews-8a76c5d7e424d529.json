@@ -1,0 +1,359 @@
+{
+ "search_metadata": {
+  "id": "6a96ca70b463f3ef0a17db24",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/UICx7pYWygiG3ZEbywBLeZp0a9w2VwZsrqC8s7Nge4Q/6a96ca70b463f3ef0a17db24.json",
+  "markdown_endpoint": "https://serpapi.com/searches/UICx7pYWygiG3ZEbywBLeZp0a9w2VwZsrqC8s7Nge4Q/6a96ca70b463f3ef0a17db24.md",
+  "created_at": "2026-09-01 12:52:00 UTC",
+  "processed_at": "2026-09-01 12:52:00 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1450157256&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/UICx7pYWygiG3ZEbywBLeZp0a9w2VwZsrqC8s7Nge4Q/6a96ca70b463f3ef0a17db24.html",
+  "prettify_html_file": "https://serpapi.com/searches/UICx7pYWygiG3ZEbywBLeZp0a9w2VwZsrqC8s7Nge4Q/6a96ca70b463f3ef0a17db24.prettify",
+  "total_time_taken": 0.58
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1450157256",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 14,
+  "reviews_for_current_version": 14,
+  "total_page_count": 63,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14491559649",
+   "title": "Jar",
+   "text": "Awesomeness",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Onemanonesaw",
+    "author_id": "610639320"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14482640182",
+   "title": "I like the app, however, up to five minutes to upload online receipts?",
+   "text": "When I attempted to load the online receipts, it took A LOT longer than that so I gave up.",
+   "rating": 4,
+   "review_date": "Aug 28, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Ziggy5987",
+    "author_id": "600702083"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14479590907",
+   "title": "Scammers",
+   "text": "I used ReceiptJar consistently for YEARS and spent a huge amount of time scanning receipts. I successfully redeemed a $50 Amazon gift card and a $20 gift card in the past, so I had no reason to believe I was doing something wrong. Recently, I reached another $20 redemption and requested it. Instead of receiving my reward, my redemption was rejected and my entire account was suspended. The explanation? \u201cReceipt Diving - Occasional.\u201d What makes absolutely no sense to me is that I submitted receipts from my own purchases and, occasionally, receipts that members of my family gave me after they went shopping. Receipts don\u2019t necessarily have the purchaser\u2019s name on them, so I don\u2019t understand how ReceiptJar decided that this was \u201creceipt diving.\u201d I was never clearly told which receipts supposedly violated the rules, what I specifically did wrong, or given any evidence explaining the decision. After YEARS of spending my time scanning receipts, this is extremely frustrating. Yes, I received two gift cards previously, but losing access to my account and having another $20 redemption rejected after putting in years of effort is ridiculous. If you are going to spend your time scanning receipts for this app, make sure you fully understand their rules before investing years of your time into it.",
+   "rating": 1,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "B-Valentino",
+    "author_id": "1278345088"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14477148922",
+   "title": "Buen servicio",
+   "text": "Ellos me dieron buen servicio a tendieron mi consulta Que pens\u00e9 que la aplicion no servia y me ayudaron tienen muy buen servicio La aplicacion si sirve yo estaba teniendo una confusi\u00f3n el screen la pantalla estaba muy grande pero era el zum que le abia puesto y no me dejaba ver el bot\u00f3n para seguir. .",
+   "rating": 5,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "CuadroFR",
+    "author_id": "940967969"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14470635969",
+   "title": "This app is a scam",
+   "text": "It took me forever to finally have enough to cash out and as soon as I wanted to, they kicked me off telling me I did something wrong, but would not tell me what that was. I\u2019ve read a lot of other reviews that they did the same thing to other people. Don\u2019t waste your time.",
+   "rating": 1,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Drepsdt",
+    "author_id": "584149370"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14470578387",
+   "title": "It really works",
+   "text": "I just got my first $20 sent to PayPal \ud83d\udc4d\ud83c\udffb",
+   "rating": 5,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "tots37",
+    "author_id": "24599016"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14466509394",
+   "title": "Cool",
+   "text": "Cool app let\u2019s see if I really do get cash back",
+   "rating": 4,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Kormannn",
+    "author_id": "1618735811"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14462914936",
+   "title": "15 days to get reward!",
+   "text": "I\u2019m so turned off by this app. I work hard submitting receipts only to be told it will take 15 days to get a $5 reward! None of the other apps take that long. It\u2019s so not worth it.",
+   "rating": 4,
+   "review_date": "Aug 23, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Purplej07",
+    "author_id": "462992703"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14458285965",
+   "title": "Fun & Legit",
+   "text": "Why not scan receipts and get extra money? You won\u2019t get rich, but every bit helps me. And it is legit if you follow their instructions. Cashing out a quick $5 to get laundry cleaner I forgot to get with my regular grocery hauls.",
+   "rating": 5,
+   "review_date": "Aug 22, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Kjg1000000",
+    "author_id": "34510161"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14455436898",
+   "title": "1 Star Review",
+   "text": "Need more point rewards and unlimited number of receipts that can be submitted within the deadline. This app limits the points within a timeframe and does not offer other options like games to accumulate extra points. May stop using app when I have enough points to redeem $25.",
+   "rating": 1,
+   "review_date": "Aug 21, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Linda2sons",
+    "author_id": "834296542"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14452095287",
+   "title": "Frozen Out for a Week",
+   "text": "I have had a frozen screen in this program for a solid week. I did notice a \u201cbug\u201d Update. Did the Update,problem still there.\ud83d\ude02\ud83d\ude02",
+   "rating": 1,
+   "review_date": "Aug 20, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "joaniemjf",
+    "author_id": "930902719"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14450954903",
+   "title": "Use Fetch instead",
+   "text": "I used receipt jar for a couple of years. I read another reviewer that had same thing happen to them. We have 2 adult kids and if my husband buys something at the grocery store or at a fast food place and I buy my own meal later or my kids do and u scan the receipts they flag ur account and disable your account. I was about to collect $10 In Rewards and that happened. What a scam!They are not as good as fetch. Smaller rewards for receipts submitted and smaller amount of points awarded for receipts. And after all that (you giving THEM your information on what you are buying- you are doing THEM a favor) they suspend your account. Deleted the app after I got that suspension email and will stick with FETCH! Would NOT recommend!!",
+   "rating": 1,
+   "review_date": "Aug 20, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "ImmaQT",
+    "author_id": "178939430"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14450837407",
+   "title": "Slow to pay",
+   "text": "It will take up to two weeks for them to send the money to PayPal.",
+   "rating": 2,
+   "review_date": "Aug 20, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "885000",
+    "author_id": "728146481"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14447085340",
+   "title": "SCAM",
+   "text": "After I reach the 50$ gift card reward I\u2019m trying to make it up to the hundred but then I\u2019m about 92% in progress. One time I logged in to upload my receipts and to find out they logged me out due to inactivity and I\u2019m suspended in 30 days and wont be able to redeem my rewards. I spend years in uploading and using this app. Dont waste your time cos they\u2019re NOT gonna give you anything. SUCH A SCAM!!!!",
+   "rating": 1,
+   "review_date": "Aug 19, 2026",
+   "reviewed_version": "Version 16.1.0",
+   "author": {
+    "name": "Niiicleskie",
+    "author_id": "1041759350"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14432003273",
+   "title": "Love this APP!!",
+   "text": "I\u2019ve been using this app almost 2 year\u2019s and I love it. It\u2019s easy to but the only thing sometimes it\u2019s every 10 day\u2019s not 7 so you have to be on watch otherwise the receipts are old. \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f. But overall great App!!",
+   "rating": 5,
+   "review_date": "Aug 15, 2026",
+   "reviewed_version": "Version 14.0.0",
+   "author": {
+    "name": "Ss964kl",
+    "author_id": "213110023"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14431332085",
+   "title": "Review",
+   "text": "Love many extra money with something so easy \ud83d\ude0a",
+   "rating": 5,
+   "review_date": "Aug 15, 2026",
+   "reviewed_version": "Version 14.0.0",
+   "author": {
+    "name": "Meitl",
+    "author_id": "260219667"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14425389738",
+   "title": "Awful People!",
+   "text": "After having & actively using this app for a long time, & having lots of accumulated points, I fell, was hospitalized & had emergency surgery, followed by a long recovery period. My account was terminated due to inactivity. I wrote an appeal and asked, not to get my points back, but just to have an account again and I was denied.",
+   "rating": 1,
+   "review_date": "Aug 14, 2026",
+   "reviewed_version": "Version 13.0.0",
+   "author": {
+    "name": "MyOp117",
+    "author_id": "908787085"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14423474255",
+   "title": "Thieves",
+   "text": "I faithfully uploaded my receipts to this app, with several other apps as well. I always wait to redeem at 50$. The last I time I attempted, I was denied. They said I was receipt diving. Now mind you they have all my information from receipts. I may have had a couple extra. I may have picked up as I\u2019m leaving the stores that I patron. They stole $50 from me. I do not recommend this app.I would use any of the other ones Fetch Frisbee or any of the other others besides this one ReceiptJar is horrible",
+   "rating": 1,
+   "review_date": "Aug 13, 2026",
+   "reviewed_version": "Version 12.0.0",
+   "author": {
+    "name": "Blue Ith",
+    "author_id": "1133665056"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14423093537",
+   "title": "Locked screen pop up that pops up and stays soo I can\u2019t actually access the app for over a week now.",
+   "text": "Can this be fixed? Not on my end for sure",
+   "rating": 1,
+   "review_date": "Aug 13, 2026",
+   "reviewed_version": "Version 12.0.0",
+   "author": {
+    "name": "wthasmile",
+    "author_id": "1042239858"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14415017049",
+   "title": "A Keeper",
+   "text": "I deleted the app then gave it another try - managed to get my account back. Eye-pleasing platform easy to navigate. Redeemed my first $20 gift card which took a day with clear instructions. It\u2019s worth trying. Thank you!",
+   "rating": 4,
+   "review_date": "Aug 11, 2026",
+   "reviewed_version": "Version 11.0.0",
+   "author": {
+    "name": "DeeJuli808",
+    "author_id": "1401760374"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14412778675",
+   "title": "Happy",
+   "text": "I have always had a good experience with this app. Payouts are easy and relatively quick! I just cashed out $100 for barely any work!",
+   "rating": 5,
+   "review_date": "Aug 11, 2026",
+   "reviewed_version": "Version 11.0.0",
+   "author": {
+    "name": "skarlyttblue",
+    "author_id": "431784730"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14397606655",
+   "title": "New phone hassle",
+   "text": "I got a new phone& it seems as though it\u2019s be easier to get into the oval Office than to just move my app to my new phone !",
+   "rating": 3,
+   "review_date": "Aug 07, 2026",
+   "reviewed_version": "Version 11.0.0",
+   "author": {
+    "name": "sherrimichelle",
+    "author_id": "1141955980"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14394630805",
+   "title": "Overnight my points were gone no customer service to help.",
+   "text": "I faithful leaves this app for several years until yesterday when I went into scan a receipt the app went wild deleted all my points. I think I had like 10,000 and started me off from the beginning. Needless to say you get no customer support so I deleted the app.. Major scam! I hate apps with no customer service believe me I will be telling 10 people and they will tell 10 people about this app and not to use it. I\u2019ve been using it for six years. Tonya.",
+   "rating": 1,
+   "review_date": "Aug 06, 2026",
+   "reviewed_version": "Version 11.0.0",
+   "author": {
+    "name": "thumper4382",
+    "author_id": "619465107"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14388527692",
+   "title": "Easy to use",
+   "text": "It\u2019s pretty fun !!! Had a couple of issues but hopefully I hear back from them since I did put an issue through there customer support.",
+   "rating": 5,
+   "review_date": "Aug 04, 2026",
+   "reviewed_version": "Version 11.0.0",
+   "author": {
+    "name": "Eshepp1701",
+    "author_id": "709139426"
+   }
+  },
+  {
+   "position": 25,
+   "id": "14381217796",
+   "title": "Suspended my account after inactive for a month",
+   "text": "Don\u2019t download this app unless you really want to deal with them suspending your account when you don\u2019t use it for a month if you\u2019re gonna continually use it then go ahead and download this app. I haven\u2019t gotten much money from them either and it\u2019s not just that but their points also expire and they don\u2019t tell you that upon signing up for an account.",
+   "rating": 1,
+   "review_date": "Aug 03, 2026",
+   "reviewed_version": "Version 11.0.0",
+   "author": {
+    "name": "Mewpeeedoopsee",
+    "author_id": "1888994195"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1450157256&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1450157256&sort=mostrecent"
+ }
+}

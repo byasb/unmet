@@ -1,0 +1,114 @@
+{
+ "search_metadata": {
+  "id": "6a96c9e0a688559e449aa6e8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/X06QWsboN-EP8cuBHpW_4nwU2oVAyFOM9LALqTLzI8Y/6a96c9e0a688559e449aa6e8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/X06QWsboN-EP8cuBHpW_4nwU2oVAyFOM9LALqTLzI8Y/6a96c9e0a688559e449aa6e8.md",
+  "created_at": "2026-09-01 12:49:36 UTC",
+  "processed_at": "2026-09-01 12:49:36 UTC",
+  "google_autocomplete_url": "https://www.google.com/complete/search?q=habit+tracker&client=chrome&dpr=1",
+  "raw_html_file": "https://serpapi.com/searches/X06QWsboN-EP8cuBHpW_4nwU2oVAyFOM9LALqTLzI8Y/6a96c9e0a688559e449aa6e8.html",
+  "prettify_html_file": "https://serpapi.com/searches/X06QWsboN-EP8cuBHpW_4nwU2oVAyFOM9LALqTLzI8Y/6a96c9e0a688559e449aa6e8.prettify",
+  "total_time_taken": 0.51
+ },
+ "search_parameters": {
+  "engine": "google_autocomplete",
+  "q": "habit tracker"
+ },
+ "search_information": {
+  "autocomplete_results_state": "Showing completion results."
+ },
+ "suggestions": [
+  {
+   "value": "habit tracker app",
+   "relevance": 950,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+app"
+  },
+  {
+   "value": "habit tracker printable",
+   "relevance": 850,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+printable"
+  },
+  {
+   "value": "habit tracker template",
+   "relevance": 750,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+template"
+  },
+  {
+   "value": "habit tracker journal",
+   "relevance": 601,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+journal"
+  },
+  {
+   "value": "habit tracker ideas",
+   "relevance": 600,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+ideas"
+  },
+  {
+   "value": "habit tracker pdf",
+   "relevance": 559,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+pdf"
+  },
+  {
+   "value": "habit tracker app free",
+   "relevance": 558,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+app+free"
+  },
+  {
+   "value": "habit tracker google sheets",
+   "relevance": 557,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+google+sheets"
+  },
+  {
+   "value": "habit tracker free printable",
+   "relevance": 556,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+free+printable"
+  },
+  {
+   "value": "habit tracker bullet journal",
+   "relevance": 555,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+bullet+journal"
+  },
+  {
+   "value": "habit tracker free",
+   "relevance": 554,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+free"
+  },
+  {
+   "value": "habit tracker template google sheets",
+   "relevance": 553,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+template+google+sheets"
+  },
+  {
+   "value": "habit tracker planner",
+   "relevance": 552,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+planner"
+  },
+  {
+   "value": "habit tracker notebook",
+   "relevance": 551,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+notebook"
+  },
+  {
+   "value": "habit tracker notion",
+   "relevance": 550,
+   "type": "QUERY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_autocomplete&q=habit+tracker+notion"
+  }
+ ],
+ "verbatim_relevance": 1300
+}

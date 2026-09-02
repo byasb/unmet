@@ -1,0 +1,372 @@
+{
+ "search_metadata": {
+  "id": "6a96ca63a973c4fbcc66a393",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/18RJo0_1cg1clYzLJfuEs9JCy7j5aO-RnEw19lqT83s/6a96ca63a973c4fbcc66a393.json",
+  "markdown_endpoint": "https://serpapi.com/searches/18RJo0_1cg1clYzLJfuEs9JCy7j5aO-RnEw19lqT83s/6a96ca63a973c4fbcc66a393.md",
+  "created_at": "2026-09-01 12:51:47 UTC",
+  "processed_at": "2026-09-01 12:51:47 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1182474649&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/18RJo0_1cg1clYzLJfuEs9JCy7j5aO-RnEw19lqT83s/6a96ca63a973c4fbcc66a393.html",
+  "prettify_html_file": "https://serpapi.com/searches/18RJo0_1cg1clYzLJfuEs9JCy7j5aO-RnEw19lqT83s/6a96ca63a973c4fbcc66a393.prettify",
+  "total_time_taken": 0.51
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1182474649",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "total_page_count": 6,
+  "reviews_for_currrent_version": 7601000,
+  "reviews_for_current_version": 7601000,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "13710670874",
+   "title": "How I feel about Fetch",
+   "text": "I absolutely 100% LOVE Fetch. Fetch is the only reward program that does what they say they are going to do. Rather scanning a receipt or playing a game, I know I will always receive points and I know I am able to turn those points into whatever I choose. I have had one issue with receiving points from a game and all I had to do was call them and they fixed the issue in minutes. Not only did they fix it and give me my points, they gave me a lot of extra points for my inconvenience. To be honest, I was extremely surprised and impressed with what Fetch offers, how they work, how easy Fetch is and how quick and simple they are. I have tried other point earning apps and not one of them do or offer what Fetch does. If you do not have Fetch and you\u2019re reading reviews to see what other people think, you absolutely need to get Fetch because I can promise you that you will not be disappointed. Last year I saved all my points and waited till the beginning of December, I cashed them in all at once and I was able to give my family an extremely nice Christmas. I was able to get my guys what they wanted from where they wanted it and it didn\u2019t cost me a dime. To be honest, I could go on and on about how amazing Fetch truly is but I won\u2019t. Only because I would be writing this review for hours. But please, don\u2019t take my word for it, give it a try. After all, what could trying it hurt ? Hope everyone is having a fabulous day and that my review helps someone out.",
+   "rating": 5,
+   "review_date": "Feb 04, 2026",
+   "reviewed_version": "Version 4.28.0",
+   "author": {
+    "name": "wildlillies",
+    "author_id": "464664182"
+   }
+  },
+  {
+   "position": 2,
+   "id": "9428922226",
+   "title": "It\u2019s amazing!",
+   "text": "I like it but the only thing I don\u2019t like is that you only get 14 days to enter your receipt if you try to submit a receipt that you just found within the month of a purchase it\u2019s sad that you don\u2019t get Nothing. I had an original accountWith a lot more points that for some odd reason I was unable to log back in and when you request a password reset it neverGave me a email reset confirmation although the page said it did. So I started a new account with hopes thatI can merge both accounts into one so I Started from scratch.I was never able to merge the accounts so I lost a lot of points turn almost a whole year of them. I haven\u2019t heard back from any staff regarding the matter. Overall it\u2019s fun \u2026but there has not been no benefits for me personally. feels like they just want to know what I\u2019m buying but they give very little to nothing back for the information that I\u2019m taking the time and effort and saving the receipts thing for submission with hopes that it\u2019s honored words point system most of the things that I buy are not on the list or it\u2019s so underground thatI get no more than 25 points a receipt that is almost 3 feet long filled with product. I think that they should try to give you a bigger points system on the number of items that you\u2019re reporting or submitting Because nevertheless you\u2019re still giving information on the products that you are buying it shows where you\u2019re spending your money. Just because the product is not in contract with them it should not be excluded at its bare minimum.",
+   "rating": 5,
+   "review_date": "Dec 24, 2022",
+   "reviewed_version": "Version 2.83.0",
+   "author": {
+    "name": "Marl\u00e9n Holmes",
+    "author_id": "1363300526"
+   }
+  },
+  {
+   "position": 3,
+   "id": "12029509694",
+   "title": "Glitchy",
+   "text": "When the app works the way it\u2019s supposed to it\u2019s awesome. You just snap pics of your receipts and it scans email/amazon/Walmart for your e-receipts and your on your ways to gathering points. You don\u2019t have to select things ahead of time and pan thru alot of scrolling to find deals if you don\u2019t want to. If you want to optimize your rewards you can look and see what\u2019s going to give you points that week and buy accordingly but you don\u2019t have to select it like some apps. What I absolutely hate and I been using this app for a couple years and have dealt with it the whole time is its glitchiness! It\u2019s maddening. It sometimes will not gather my receipts even tho my accounts are linked and they are being scan. For over 6 months it stopped recognizing my email receipts even tho it would scan my email. I got sick of it and stoped using this app all together as 90% of my shopping is e-receipts. Came back months later and it was working again and been using it for a few months now happy again and it started acting up again. This time it\u2019s doing it with all the linked accounts. Sometimes it does recognize and credit me for some however it\u2019s super delayed and will autogenerate them later but only some not all of them. I take all the steps to unlink/link the accounts, update the app and clear cookies and it\u2019s continuously glitchy and frustrating. Esp when I purposely purchased something online to get the pts and it won\u2019t find the receipt! I am in fb groups for fetch customers and this is a ongoing issue with many people.",
+   "rating": 5,
+   "review_date": "Dec 05, 2024",
+   "reviewed_version": "Version 3.75.1",
+   "author": {
+    "name": "SMetcalf17",
+    "author_id": "320751206"
+   }
+  },
+  {
+   "position": 4,
+   "id": "11091298416",
+   "title": "So Happy I Found Fetch! They Definitely Deserve More Than 5 Stars\ud83d\udc4f\ud83c\udffc\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\ud83d\udc4f\ud83c\udffc\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\ud83d\udc4f\ud83c\udffc",
+   "text": "I didn\u2019t know nothing about Fetch until My sister told me about it. She said all I gotta do is snap any/all of my receipts showing the items I purchased and I\u2019ll earn points for each receipt I snap. And after I\u2019ve earned a certain amount of points I can then redeem them for a gift card of my choice. I\u2019ve heard of other apps like that, but it takes so long just to earn anything. But she told me Fetch isn\u2019t like those other apps. So she showed me her Fetch account and the gift cards she earned from redeeming her points. I was shocked after I seen that. Especially since she hadn\u2019t even had her account that long and she already redeemed her points for 3 Ulta Beauty supply gift cards and 2 Walmart gift cards. So after I seen that I immediately signed up. And what was even cooler was because my sister referred me, we both earned 4,000 points. Just from me signing up with the link she sent me, all I had to do was snap my first receipt and Boom!..Just like that we both got 4,000 points added to our account. Since I signed up last year in November 2023, I\u2019ve already earned enough points that I\u2019ve redeemed for like 4-5 Walmart gift cards. I\u2019m So Happy my sister showed me this app. You Seriously can\u2019t go wrong with Fetch. You\u2019re basically earning Free Money and All you gotta do is snap a picture of your receipts and earn points for things you were gonna purchase anyways. It\u2019s Definitely A Win Win!",
+   "rating": 5,
+   "review_date": "Mar 27, 2024",
+   "reviewed_version": "Version 3.40.1",
+   "author": {
+    "name": "$Fetcher$",
+    "author_id": "1640022235"
+   }
+  },
+  {
+   "position": 5,
+   "id": "8411186589",
+   "title": "FREE $$$? What the FETCH!!!\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0",
+   "text": "If you like free $$, rewards keeping your friends, family, or followers if your big in the social media. Then you have to go to the App Store and download the free \u201ccash back rewards app\u201d FETCH. So easy to use and great Rewards, CASH back rewards on the everyday purchases your going to make anyway so why not put some cash back into your pocket instead of only taking cash out of your pocket. From major retailers to chain restaurants and stores of all kinds of products. The biggest names in the industry mainstream, upscale, or even that little quirky corner store in town you know that one you hope the neighbors don\u2019t see you going in or out of LOL. Seriously there\u2019s cash back waiting for everyone in the FETCH app it\u2019s kinda fun to you can share your link to the app with anyone you want and then you are the coach and your picking your team all your (players) will be in a leaderboard with you so you can get competitive if you want and see who gets the most points and rewards that week or whatever you decide to do it\u2019s cool \ud83d\ude0e because FETCH will be there to drop a few $$ back into your piggy bank as you go on about your day just download the app follow instructions on how to use it which is super easy and if you can find a link from another app or podcast or something like that you may even get lucky to get free cash just for using that specific link to get the free FETCH app. Start saving for that vacation or new car right now by using FETCH the best cash back app!",
+   "rating": 5,
+   "review_date": "Mar 02, 2022",
+   "reviewed_version": "Version 2.62.0",
+   "author": {
+    "name": "outlawdad1",
+    "author_id": "1182651557"
+   }
+  },
+  {
+   "position": 6,
+   "id": "11893227524",
+   "title": "EASIEST Rewards App Ever!!",
+   "text": "I am not one to normally write a review, like EVER, so me actually taking my time to write this one should show you just how amazing I feel this app is!! It is by far the EASIEST rewards app ever! All you have to do is keep your receipts long enough (but not too long\u2014I'll get to that in a second \ud83d\ude09) to take a picture and upload them to earn points. Once you\u2019ve accumulated enough points, you can decide which gift card you\u2019d like to redeem. How simple is that!? The only downfall (if you can really even call it that) that I have found is that the receipt can\u2019t be more than 14 days old. I\u2019ve only had a handful of times where that\u2019s happened to me. BUT that is totally my own fault for not taking the 5-10 seconds to pull up the app and take a picture of my receipt right away and/or waiting longer than 2 weeks to try and upload it. I feel that 2 weeks is a pretty generous timeframe to get your receipts scanned. I will also add that you are only able to scan 35 receipts in a 7-day period. Which again, I can totally understand as most of us really don\u2019t shop at more than 5 stores per day every day. I feel like that limit is to help cut down on the \u201ccheating\u201d aspect by someone using other people\u2019s receipts and uploading like 100 a week per say. Which is only fair for a free rewards app! So it can take quite awhile to build up your points, but I didn\u2019t expect anything less when I signed up for this free app that gives away free gift cards for simply scanning your receipts. It\u2019s so Easy Peasy Lemon Squeezy \ud83d\ude01 Thank you, Fetch!!",
+   "rating": 5,
+   "review_date": "Oct 30, 2024",
+   "reviewed_version": "Version 3.70.1",
+   "author": {
+    "name": "#1BBFan",
+    "author_id": "160015656"
+   }
+  },
+  {
+   "position": 7,
+   "id": "11527168997",
+   "title": "Edited: not so great anymore.",
+   "text": "Shop and get money back. What\u2019s not to love? Update: while I still like the app, it appears that all of the awesome point earning options are fewer and farther between. The offers used to be \u2018buy one thing and get a lot of points\u2019. Now it\u2019s buy a ridiculous amount of items from the same brand and and get mediocre points. And the offers are pretty much all the same now. General Mills, Pillsbury, candy and alcohol. There\u2019s only so much cereal and taco shells I can eat. There used to be a daily bonus that you\u2019d spin a wheel to get but that has been replaced with playing games to win points, and the points you earn are not worth the time and effort. Lastly I\u2019ve shopped thru Fetch 4 times at Temu which should have given me a ton of points and only one of the orders is showing up as pending. The other three are gone. I\u2019ve tried contacting them about it and all I get is an answer they cut and paste to everyone explaining what the program is. I know what it is. I also know that it takes 90 days for the points to show up in my account. What I don\u2019t know is where the other three orders are that are supposed to be pending on my account. I\u2019ve sent them a list of the missing orders, dates, amounts etc. 3 times now and each time they want me to give them even more information. Pretty soon they are going to ask me for a kidney before they actually resolve the issue. Here\u2019s an idea\u2026don\u2019t advertise 250 points per dollar spent on Temu if you don\u2019t plan on awarding them. This is all very disappointing because the app used to really be awesome.",
+   "rating": 5,
+   "review_date": "Jul 23, 2024",
+   "reviewed_version": "Version 3.57.0",
+   "author": {
+    "name": "Kittypop72",
+    "author_id": "440804473"
+   }
+  },
+  {
+   "position": 8,
+   "id": "1844450990",
+   "title": "Trying My Patience",
+   "text": "This app should be simple, but it has some major issues. The scanning program lacks \"intelligence\" and misinterprets words to the point I think I am reading a lost language. There is no way to verify accuracy BEFORE the scanned receipt is submitted creating the cumbersome task of addressing items \"not accepted\" days after the submission. There is nothing like saving a bunch of packaging with barcodes for days after the product has been used to be on the safe side of being able to adequately challenge Fetch Rewards \"denials\". Today, I had a receipt denied because I had reached the maximum of 7 receipts in 14 days without having any reason to know that is FR policy. Where is it written? Why??? Some people shop often because they cannot store a lot at one time. I would think the food manufacturers would love people shopping for their brands several days a week. There is no clear way to know which inventory within a given brand is acceptable before purchase. I have somehow managed to accumulate 3,000+ points pretty fast, but I spent a ridiculous amount of time to earn points equal to $3. I chalked up the low earnings vs time spent to improving my learning curve. Would someone please explain how point distribution is determined. Does it vary by brand, price, item or according to whether or not the planets are in proper alignment. I am trying to be patient because I WANT to like this app.",
+   "rating": 5,
+   "helpfulness_vote_information": "123 out of 198 customers found this review helpful",
+   "review_date": "Oct 12, 2017",
+   "reviewed_version": "Version 1.9.0",
+   "author": {
+    "name": "bjbJAX",
+    "author_id": "426707166"
+   }
+  },
+  {
+   "position": 9,
+   "id": "10601960012",
+   "title": "Best & Easiest User Friendly Easy Navigation Scan App",
+   "text": "It\u2019s been 2 years using this app. It\u2019s helped me earn gift cards for essentials I need for my home. Highly recommended. Best scan receipt app by far. I only have one suggestion. Can you make more regular beverages and/or food with high points like you do alcohol and otc medications? I feel like you promote alcohol and otc meds more. I don\u2019t drink but inorder to get the highest points I need to become a drinker. I\u2019m a recovering alcoholic. I\u2019d rather see more points on food. Such as Produce I have sweet tooth. Sweet stuff is good. Otherwise I pick and recommend fetch to everyone I can!! So not a complicated app and fetch allows you to fix errors. Some Item codes on receipt are unrecognized by Fetch. It depends on where you live. Fetch allows the consumer to make th proper correction by manually adding the item. Same for date correction store name. Which saves the consumer and Fetch customer service the hassle. If a CSR is needed I can shoot them and email, depending the hour, CSR, replies immediately up to 24hours. My point is they always reply. I love this app. Fetch is constantly improving. Adding new products and extra bonus points regularly. One more thing: can you please add more products conducive to customers demographics. I rarely shop at Walmart petsmart and Costco. They are no where near my house. I walk everywhere. Those stores seem to catch the most items and points It makes it difficult for me to earn worthwhile points when I don\u2019t shop at those retailers.",
+   "rating": 5,
+   "review_date": "Nov 19, 2023",
+   "reviewed_version": "Version 3.23.1",
+   "author": {
+    "name": "ELginter",
+    "author_id": "1013112622"
+   }
+  },
+  {
+   "position": 10,
+   "id": "11647963606",
+   "title": "My bestie for the restie",
+   "text": "I LOVE THIS APP!! I have been a user for a few years now I found out about this before it started getting really popular and now that it\u2019s gotten more popular they\u2019ve upgraded it so much. I remember when you used to only scan receipts and that was it now they have features where you can earn points that get you gift cards, real gift cards by playing games on your phone. I understand how fake this sounds, and I still do this day, Will not openly download or use an app that incentivizes me to make money by playing a game. This is the only app that I fall so vulnerable to because it really works. I have gotten a multitude of gift cards and they really do work. They really work. I promise on everything. They are real gift cards. I have gotten hot topic, gift cards, Dunkin\u2019 Donuts gift cards, AMC gift cards. I\u2019ve even gotten Visa cards. The reason that this app works so well for me is because I am an Instacart shopper, I shop for other peoples groceries and I am required to keep the receipts now when I do that I can scan them here and get lots of points. my part-time job on the side is a large contributor to why I have so many points but you can get gift cards in increments of five dollars and up so you don\u2019t have to wait to gather 20,000 points. You can still get a gift card in about maybe two months of regular shopping. it takes a while to get there, but it\u2019s worth it because without this app you wouldn\u2019t have a surprise here and there to spoil yourself. it\u2019s so easy to take five seconds after every shopping trip to scan a receipt because it pays out in the end.",
+   "rating": 5,
+   "review_date": "Aug 24, 2024",
+   "reviewed_version": "Version 3.61.1",
+   "author": {
+    "name": "One fox over all",
+    "author_id": "420548723"
+   }
+  },
+  {
+   "position": 11,
+   "id": "6670372601",
+   "title": "I don\u2019t know why you wouldn\u2019t use it.",
+   "text": "I love your app. I buy both brand name and store brand products. Sometimes I like the feel or smell of a brand better, sometimes I like the value of the the generic brand. I have run across running out of submissions because I have more than 14. It\u2019s a bit worse lately because now you accept fast food and restaurant receipts. I just leave them until the end because they are only 5 points. I do tell people to look over your points because sometimes you don\u2019t get them like you should. Walmart is notorious for giving things odd abbreviations or hard to see receipts. Gatorade always gets points but they call it GZ 32 sometimes. (Gatorade Zero 32ounce). So I just fix it. So be sure you look and get all of your points. Fetch even lets you scan the product if that\u2019s easier for you to show what you really bought. Thank you so much for your APP. It helps my budget go further when I get money back for buying what I was going to buy anyway. Sometimes I do make a choice between 2 items because one gets points. But usually I just do my shopping and scan my receipts. Oh, the best time to scan your receipts is just after you put them in the car and before you leave the parking lot. I put a little notch on one corner so I know I\u2019ve scanned it. That way it\u2019s done but if I need to return something that doesn\u2019t fit, etc, I still have an intact receipt.",
+   "rating": 5,
+   "helpfulness_vote_information": "371 out of 666 customers found this review helpful",
+   "review_date": "Nov 21, 2020",
+   "reviewed_version": "Version 2.39.1",
+   "author": {
+    "name": "b. laninfa",
+    "author_id": "711546887"
+   }
+  },
+  {
+   "position": 12,
+   "id": "1888786372",
+   "title": "Limited Submissions",
+   "text": "Overall I\u2019ve had no issues with this app! It\u2019s simple to get around, but I do have one chief complaint! This app has a weekly limit of scans to submit for rewards. The limit is 14 that\u2019s average out to two shopping trips daily per 7 days. I don\u2019t think that there should even be a limit on the number of times to submit a receipt for rewards. I don\u2019t even get the same items each shopping trip. I take care of a mind failing paraplegic who tends to forget more than she remembers. So sometimes I\u2019m sent to the store two or more times daily. Or we shop at two different stores daily. When we shop there may be two separate orders to pay for in one trip per store. So in one week I may be sent to the store 16 times. Today is a prime example I shopped at Kroger then she remembered she wanted cash back, round two at Kroger was like this, because atm was down I had to buy something else. Then we get home and she needs something from Walmart. Oh then after I get her to bed she asked did ya get this or that. I reply it was not on the list so yep I was sent back for round two at Walmart. So see four separate shopping trips in one day is the norm for me and because each item is different there should not be a limit on anyone\u2019s submission for rewards. Other than this app is wonderful, but ya only get 4 stars because ya limit my shopping trips.",
+   "rating": 5,
+   "helpfulness_vote_information": "505 out of 783 customers found this review helpful",
+   "review_date": "Nov 01, 2017",
+   "reviewed_version": "Version 1.9.0",
+   "author": {
+    "name": "Angelscry2o",
+    "author_id": "560809007"
+   }
+  },
+  {
+   "position": 13,
+   "id": "10223188086",
+   "title": "False Advertisement of points",
+   "text": "Fetch doesn\u2019t give you the points they advertise on the discover page if you have a long grocery receipt. I even add extra photos with close ups of the items that I should be getting extra points for, yet I still only get the initial 25 points. General Mills, Natures Own, Nature Valley, and the brand that makes the bagels, I can\u2019t think of their name right now, all give you extra points when you purchase their products, But that\u2019s only if you purchase them one at a time, otherwise you\u2019re issued the standard 25 points. Yes I know I have three days to correct the receipt, but I shouldn\u2019t have to when I\u2019ve already given you extra photos that allow you to clearly see my purchases, not to mention the process is long and drawn out. I once submitted a corrected receipt for 12 items which I should\u2019ve received extra points for and I never heard anything about that receipt again. I don\u2019t have time to sit around calling and emailing customer service for something that shouldn\u2019t even be an issue. I loved Fetch a year ago, but that\u2019s because I didn\u2019t realize I wasn\u2019t actually receiving my points. Also, the cash card reward is false advertisement as well. They do not allow you to turn it into cash by adding it to your cash app or paypal. You just have to use it as a gift card. So why are they called cash cards:-/ I give three stars instead of just the one star that they\u2019ve earned from me, because I\u2019m a nice person.",
+   "rating": 3,
+   "helpfulness_vote_information": "18 out of 23 customers found this review helpful",
+   "review_date": "Aug 05, 2023",
+   "reviewed_version": "Version 3.9.0",
+   "author": {
+    "name": "taraleigh24112",
+    "author_id": "1428699353"
+   }
+  },
+  {
+   "position": 14,
+   "id": "11347397695",
+   "title": "Fetch could be batter IMO",
+   "text": "The app is a great idea but the unrelenting request to know where i am at all times is a weakness by your management to take someone who claims to be an expert in their field and probably have convinced Fetch leaders that just have to have my location. And THEY want, not need my precise location. Not even in the same county unless in the case that i am redeeming a prize. Then a well guarded share of my personal position at all times isn\u2019t even this apps motive i\u2019d bet, but DYOR Fetch team. You don\u2019t have be their victim in turn making your users highly venerable to who ever wants to stalk us if they have half the information you\u2019ve provided to the dozens of companies(?). In the conglomerate of which Fetch has become. I\u2019m starting to think fetch isn\u2019t preforming up to standard. So you\u2019ve started a game room to keep the people that believe in you still satiated and somewhat medicated on hopes they\u2019ve traded their internet behaviors for a few measly more Fetch points. Just a distraction that leads me to my last point which is if i may lay the final blow now: no new features and the loss of points if you do partake in helping your business, - we get them torn from us. Revoked if we don\u2019t comply and get busy by making Fetch look like its an app worth getting. And it is, if you don\u2019t mind naked as your privacy. Just a preview. -tal",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 3 customers found this review helpful",
+   "review_date": "Jun 05, 2024",
+   "reviewed_version": "Version 3.49.0",
+   "author": {
+    "name": "disgaea bear",
+    "author_id": "747729633"
+   }
+  },
+  {
+   "position": 15,
+   "id": "8810492383",
+   "title": "Customer service is questionable",
+   "text": "So I recently just downloaded this app! I absolutely love this app because of how easy it is to get points when shopping and then getting gift cards. Recently I went shopping at Walgreens and I had no idea that they sent receipts via email so I tried to use the receipt scanner in the app to detect the email but it didn\u2019t. I took screenshots and sent them to my husbands phone so that I could try to scan them and get the points! Well it thought I bought something completely different so I went to correct the items with the item barcode and sent it. Well it didn\u2019t work so I contacted customer support and sent proof of everything for them to tell me that I was basically lying and so I looked to make sure that it was a store that they accepted and it was so I sent that and even verified my email and that everything is linked and I would even send proof from my bank statement that I did shop at Walgreens! I\u2019ve already referred 5 people to this app and if I don\u2019t get help I\u2019m just going to tell them to delete the app and not even bother with it and I won\u2019t recommend it to anyone. If it was only worth 25 points I wouldn\u2019t care but the 2 items I bought are worth 2,000 each! All the other stores were out of the body wash so I went to Walgreens. This app needs to do better with detecting email receipts or get rid of that option all together because I\u2019ve seen other people having issues with the same thing!",
+   "rating": 3,
+   "helpfulness_vote_information": "16 out of 21 customers found this review helpful",
+   "review_date": "Jun 25, 2022",
+   "reviewed_version": "Version 2.70.1",
+   "author": {
+    "name": "morg94",
+    "author_id": "457599070"
+   }
+  },
+  {
+   "position": 16,
+   "id": "11458778518",
+   "title": "Don\u2019t play the games",
+   "text": "I will give fetch three stars as they have been great with the awards that I have received on my receipts and even playing the games. However, I will never play another game please if you download this do not play any games I got cheated out of 13,000 points. I played a game all the way to the end and they gave me points but they won\u2019t give me that last points that I\u2019m owed and when I get a hold of customer service, they said we\u2019ve already given you the points for it and I\u2019ve shown him pictures and showed him how you know I have not received and I just got some guy from Mexico that I don\u2019t know that just tells me that I\u2019ve already got my point. Download some more game and playing there\u2019s no way I\u2019ve got a hold on here before customer service received on other things that I feel where I didn\u2019t get points and sometimes they pointed out to me where I didn\u2019t complete all that I needed to for the points and I understood completely went back over and thought yeah I see that. I just can\u2019t get them to understand so great for receipts just not those games I\u2019ve gotten other ones I\u2019ve completed that they\u2019ve given me all the points, but I\u2019ll never try it again. hopefully you can understand what I\u2019m saying as I\u2019ve been pretty upset about this and I tend to go on, but when you worked as hard as I did to complete this game, it\u2019s hard not to be disappointed when you don\u2019t get the points you know that you earned.",
+   "rating": 3,
+   "helpfulness_vote_information": "5 out of 6 customers found this review helpful",
+   "review_date": "Jul 05, 2024",
+   "reviewed_version": "Version 3.53.0",
+   "author": {
+    "name": "Lin mcd",
+    "author_id": "291188353"
+   }
+  },
+  {
+   "position": 17,
+   "id": "11732339498",
+   "title": "Can\u2019t win",
+   "text": "When I first got the app, I was scanning lots of my receipts, but then it told me that I had reached my limit of receipts, and I couldn\u2019t scan anymore for a certain amount of time. Pausing my scanning made me completely forget all about the app and then I wasn\u2019t really using it. Then, I got an alert saying that my rewards were all going to expire if I didn\u2019t scan any receipts because I hadn\u2019t used it for a while. It\u2019s like they were just trying to keep me from earning any points by using the app. I feel like if you are getting a receipt scanning app that you should be able to scan as many receipts as you have or want to. They barely give you any points for the receipts as is, so making you take a break or having it where you can\u2019t scan for a long period because you\u2019ve reached your limit seems a little ridiculous to me. It\u2019s not even like I sops ton or anything. I just tend to shop all at once when I get my paychecks. So I have a bunch of receipts all at one time. If I don\u2019t scan them all in right whenever I do my shopping then they\u2019re going to expire because they also don\u2019t take any receipts that are older than 14 days. It\u2019s really hard to earn any points or to save them up with the way the app is designed. I feel like this app is bait and switch. They make it seem like you can get prizes and have a benefit from scanning in your receipts, but then they do everything they can to steal them all from you.",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Sep 17, 2024",
+   "reviewed_version": "Version 3.65.0",
+   "author": {
+    "name": "Silver_Fen",
+    "author_id": "169128580"
+   }
+  },
+  {
+   "position": 18,
+   "id": "10399216491",
+   "title": "Keeps My Family on Budget!",
+   "text": "The app is a great resource for setting a budget for the week, month etc. and then following it or knowing what you have or haven\u2019t spent! Love that there are numerous products that you are made aware that are available for points. One if my favorite features are the Rewards...I have a few retailers that I frequent often and I can use my points. In addition, you can scan receipts from some restaurants, fast foods stores and even my dry cleaners store receipts are approved! So I wasn\u2019t sure what was approved or allowed, although I suppose you could contact Fetch & they would advise you! I enjoy the surprise... My only misgiving at this point since the app was updated and changed a bit several months ago, is once your taking photos of your receipts the app just goes blank and this occurs often! Unfortunately you have to reshot the receipt and start over which is very frustrating..... Positive: I know what I spend, keeping to my Budget Negative: Screen goes Black or completely blank while taking photos of receipt As of today, I have been contacted regarding the issues I explained that I have experienced recently, to my surprise:)) I have been given instructions to assist in resolving these issues, I\u2019ll try them and offer my opinion once they have been tried and hopefully resolved.",
+   "rating": 5,
+   "helpfulness_vote_information": "2 out of 6 customers found this review helpful",
+   "review_date": "Sep 23, 2023",
+   "reviewed_version": "Version 3.15.0",
+   "author": {
+    "name": "Dugger14",
+    "author_id": "767377289"
+   }
+  },
+  {
+   "position": 19,
+   "id": "9802823426",
+   "title": "I love everything about this app, except one major thing!",
+   "text": "This would be an Amazing app for saving $ & getting some back for what you\u2019re going to spend in the first place. If it wasn\u2019t for them or punishing or limiting the points, that people like myself that are overachievers and trying to get the maximum amount of points possible, can get! I\u2019ve realized that once you get up to about 10,000 points every receipt you scan seems like you only get 25 points so basically once you get to 10,000 and above you\u2019re not gonna get any points for anything. Also, I referred 2 people and got my 2000 bonus points for each. So I referred another friend and mind you it\u2019s not easy, talking someone in to download an app and putting all their information in just because you tell them to! When I did they cut me down to 100 points for my referral which screwed me & the person I referred. I\u2019m referring people to the app and getting them to sign up. The least you could do is give me my bonus points. Actually, my bonus points should go up as a referral more people because I\u2019m getting more people on the app. This really ticks me off but other than that that\u2019s great. Oh, and I put in 5000 points worth of entries to win an I phone (over a month scanning everyday to get that) which was a lot of entry\u2019s and didn\u2019t hear see anything so how do we even know that these giveaways are even real and not just design to take our points back away??",
+   "rating": 3,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Apr 09, 2023",
+   "reviewed_version": "Version 2.92.0",
+   "author": {
+    "name": "FASTGuns05",
+    "author_id": "491086018"
+   }
+  },
+  {
+   "position": 20,
+   "id": "10455704233",
+   "title": "Bonus points mostly a 5",
+   "text": "I do really like this app but it has some drawbacks. Yes bonus points are generally only a 5. Usually a disappointment. When you see the wheel spin, it will show all these possible points all the way up to I believe 10k or 100k. I wonder if anyone ever got that. But all these years I\u2019ve never gotten more than a couple of 250 points. Don\u2019t get me wrong, 250 points are great, but way to far and few between those 5 bonus points. I do enjoy seeing those cute little animated guys do there funny routine which does change seasonally. Pretty cool! But, yes here comes the but, l\u2019m not a fan of the 14 day limit to scan receipts. And I haven\u2019t referred anyone to this app ever since they lowered the referral points. Originally it was 2k to receive and to give to whoever you referred, which is sometimes difficult to convince someone to download an app in which they have to frequently use. The 2k was a nice start to refer and to get as new user! But last month it was 750 points and this month 1k to the person referring and the person receiving is only getting 500 points. Very disappointing! Why in the world did you lower the points instead of raising them? If you kept it to 2k or even higher, it would be better incentives and much more likely get more referrals from new customers!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Oct 09, 2023",
+   "reviewed_version": "Version 3.18.0",
+   "author": {
+    "name": "CarminNooch",
+    "author_id": "826893516"
+   }
+  },
+  {
+   "position": 21,
+   "id": "13858745149",
+   "title": "Too many ads, takes forever to get points",
+   "text": "I\u2019ve had this app for a year and I\u2019ve barely cleared 46K points (roughly $46). It takes a LONG time to accumulate points worthy enough to cash out (25 points per receipt). In addition, when you open the app, after the first receipt scan it\u2019s usually interrupted by these stupid laughing animated balls that eat up 5-7 seconds of your time (add that up for every time you open the app). The next scan is interrupted by shooting confetti which adds another 5 seconds. No one cares about the stupid laughing balls! But the worst is they are trying to squeeze in as many advertisers as possible, so after you\u2019re done scanning receipts they have 6-10 different offers, sales, even game promotions trying to get you to buy more or sign up for more. It was a good app but now it\u2019s become a giant platform for nonstop promotions and ads. Plus it\u2019s really not worth the 12+ month wait for a lousy $50 store credit (which I\u2019m still waiting to accumulate ) after uploading thousands of dollars worth of receipts. If you shop with the brands that advertise/sponsor them you get extra points, but we don\u2019t because it\u2019s usually garbage products or toxic/chemical filled food items. They keep you enticed and amused with games and flashy designs to try and keep you on the app. Sort of like social media platforms\u2026the longer you stay on the more ads they can show which means the more they can charge brands. If you have some time and months to waste and wait, it might be worth it\u2026",
+   "rating": 2,
+   "review_date": "Mar 17, 2026",
+   "reviewed_version": "Version 4.35.0",
+   "author": {
+    "name": "mikeaf3",
+    "author_id": "141129674"
+   }
+  },
+  {
+   "position": 22,
+   "id": "8174165371",
+   "title": "Update Fail",
+   "text": "I have loved using Fetch Rewards for the last two years. I have been able to get rewards from my normal shopping activity. There are times when I am buying an item like soda and It isn\u2019t brand specific, so I will choose one that offers bonuses (ex. buying Pepsi vs. coke). Getting gift cards on all my purchases has been great. However, the December 2021 app update added a feature that made me want to immediately delete the app forever. I am a private person and don\u2019t share purchases or anything else personal with friends, family, and definitely not with strangers. The Social/Beta feature immediately showed what \u201cfriends \u201c my account was connected with from referrals. I could see all the activity these people had with Fetch. It also showed them everything I did, so that we could \u201ccompete\u201d. One of these friends was a person I did not know at all (Wes). Now, my friends may have always been able to see my activity and I didn\u2019t know it, but that is something I will never appreciate. After a long time researching I figured out how to disconnect friends from my account. This fixes future activity, but these people (remember Wes is a person I have never met), can still see previous activity. Also, if you invite others to join Fetch, they will be able to see your private information unless you manually disconnect them. Fetch, please remove this feature. I will not be sharing your app with friends as long as this feature is an automatic feature.",
+   "rating": 2,
+   "helpfulness_vote_information": "13 out of 23 customers found this review helpful",
+   "review_date": "Dec 27, 2021",
+   "reviewed_version": "Version 2.58.1",
+   "author": {
+    "name": "Kimberreader",
+    "author_id": "333442199"
+   }
+  },
+  {
+   "position": 23,
+   "id": "10433555201",
+   "title": "It\u2019s worth it",
+   "text": "I shop a lot and I mean more then 20 receipts in less than five days not including what is online my kids benefit from the app because my son that\u2019s 15 will scan all my receipts and he collects all the points and they get themselves Xbox cash and Microsoft so they can buy things they like on there games they play so for me it\u2019s a win because I hear less of mom can I use your debit card and more if they want every receipt even the gas station my son loves to scan them and see how many points we get we are down to 11, now but we had over 43, a few weeks ago they build up fast you just have to be on top of doing your part an also when you book a room online are airline it counts as well. So I would say yes to this app I been using it since it first game out an i tell everybody about it. Even when they ask do you want your receipt? I say yes an tell them about fetch even out of town trips I scan my receipts I think it\u2019s a good thing an for people with no kinds you can get gift cards for so many things. And it has offers you just have to pay attention one day I bought just best foods Mayo and got 1000 points so yes I\u2019m very happy with this app. It\u2019s every day stuff we buy and do it not going to kill you to scan your receipt you will be loving the after math trust me.",
+   "rating": 5,
+   "helpfulness_vote_information": "3 out of 5 customers found this review helpful",
+   "review_date": "Oct 03, 2023",
+   "reviewed_version": "Version 3.15.0",
+   "author": {
+    "name": "MarieFurio12",
+    "author_id": "1307869105"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14080295933",
+   "title": "Removing the daily spin was not cool you guys",
+   "text": "Before the update I loved this app. Although it\u2019s not much you get back, every penny counts to a college student. They used do have a daily spin for extra points, and I loved that because although most days it was 5-15 points you spun, it was the big amounts of points that kept me coming back and using the app every day. I would save my receipts if I had multiple in a day and make sure to scan one everyday for the points, thus coming back to the app and using it daily, making it a bigger part of my routine. However, they since removed the daily spin for another \u201cplay\u201d feature, which uses tracking across your phone. I don\u2019t care if they keep the play feature on, but give me back my daily points or I lose motivation to come back to the app everyday. This app used to be great, and it\u2019s still okay but lost points in my book. 6/10 at best now. Also, whenever you go to claim some points for a receipt, they literally have 10+ ads you need to skip through to get back to the Home Screen. It\u2019s actually crazy. So I updated to add on some critiques, and I love the way they only looked at the old criticism, not the new one. I\u2019ve had the og part about the daily spin up for several years, I just hate the pop up promotions constantly, so when they only look at the first bit of a review and not the second it tells me they\u2019re aren\u2019t fully reading reviews.",
+   "rating": 3,
+   "review_date": "May 19, 2026",
+   "reviewed_version": "Version 4.43.0",
+   "author": {
+    "name": "ash_r_26",
+    "author_id": "519252241"
+   }
+  },
+  {
+   "position": 25,
+   "id": "12444446131",
+   "title": "Great app overall but\u2026..",
+   "text": "One of my favorite receipt scanning apps due to ease of use. I like that I can play games, get boosts on points for certain products, certain retailers, spending a certain dollar amount at select retailers, and getting products at certain retailers. I like that it tells you if the receipt will be approved before it is submitted (must have date, retailer and total spent completely visible, will show green check when ready to submit). Rewards are select retailers and restaurants and visa cash cards. Dollar amount of rewards is based on how many points you have. This is one of the higher point rewarding apps (25 vs 5-10 for other apps) but, as mentioned earlier, point boosts can happen if you plan right. There is a log of what products, retailers and dollar amount spent to check and how many points. Plus, with games, you download (through fetch) and reach levels to get points. The higher the level, the more points but it needs to be done in a certain timeframe. You have to be a new user to earn points with Fetch. You also can\u2019t double up-meaning if you use another receipt app that allows you to earn points the same way with the same game, you can\u2019t earn points off that game through that app. Only thing I can complain about is, with other receipt apps, you can \u201ccash out\u201d points via PayPal. That would be nice.",
+   "rating": 4,
+   "review_date": "Mar 20, 2025",
+   "reviewed_version": "Version 3.87.0",
+   "author": {
+    "name": "RylaRaelynn",
+    "author_id": "85096978"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1182474649&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1182474649&sort=mosthelpful"
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "search_metadata": {
+  "id": "6a96ca72827031aaf86c5eec",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/YFQ8FFwc-qp20s-db4XXMkjcHmbyGl655HXzhQbzycY/6a96ca72827031aaf86c5eec.json",
+  "markdown_endpoint": "https://serpapi.com/searches/YFQ8FFwc-qp20s-db4XXMkjcHmbyGl655HXzhQbzycY/6a96ca72827031aaf86c5eec.md",
+  "created_at": "2026-09-01 12:52:02 UTC",
+  "processed_at": "2026-09-01 12:52:02 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1550270774&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/YFQ8FFwc-qp20s-db4XXMkjcHmbyGl655HXzhQbzycY/6a96ca72827031aaf86c5eec.html",
+  "prettify_html_file": "https://serpapi.com/searches/YFQ8FFwc-qp20s-db4XXMkjcHmbyGl655HXzhQbzycY/6a96ca72827031aaf86c5eec.prettify",
+  "total_time_taken": 1.73
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1550270774",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 9,
+  "reviews_for_current_version": 9,
+  "total_page_count": 5,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14070824084",
+   "title": "Lost all content",
+   "text": "I was keeping recipts for almost 2 years and now there all gone",
+   "rating": 5,
+   "review_date": "May 16, 2026",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Lawn care service",
+    "author_id": "141553710"
+   }
+  },
+  {
+   "position": 2,
+   "id": "13954189015",
+   "title": "Multiple Receipts",
+   "text": "App crashes every time I use scan multiple receipts function. TRASH.",
+   "rating": 1,
+   "review_date": "Apr 13, 2026",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "JoeMama42069911",
+    "author_id": "1009884187"
+   }
+  },
+  {
+   "position": 3,
+   "id": "13708668768",
+   "title": "This app is giving me a hard time",
+   "text": "For some reason, I can print my receipts and he doesn\u2019t give me a balance, which is ridiculous",
+   "rating": 1,
+   "review_date": "Feb 03, 2026",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "comoomt",
+    "author_id": "378740224"
+   }
+  },
+  {
+   "position": 4,
+   "id": "13671961569",
+   "title": "Pay $10/week or sign out",
+   "text": "No free functionality. Subscription based garbage. Rather pay for a good app than in app purchases",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 24, 2026",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Epstein is alive12345",
+    "author_id": "42569937"
+   }
+  },
+  {
+   "position": 5,
+   "id": "13602454121",
+   "title": "Create folder",
+   "text": "The app over all is great, I think just being able to start fresh for a new year and have folders for each year of receipts would be beneficial",
+   "rating": 3,
+   "review_date": "Jan 06, 2026",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Boogeyman82",
+    "author_id": "667520993"
+   }
+  },
+  {
+   "position": 6,
+   "id": "13416944739",
+   "title": "Horrific",
+   "text": "You will spend hours submitting all the receipts only for the stupid app to freeze when you try and generator report for what you actually need it for. unless you wanna waste hours and hours and hours of your time for $10 a month don\u2019t get this app.",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Nov 19, 2025",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Luke Munz",
+    "author_id": "934753227"
+   }
+  },
+  {
+   "position": 7,
+   "id": "13235857037",
+   "title": "Does separate by year or total",
+   "text": "I have been scanning receipts last year and this year. It does not give a total or separate by year. I still have to manually add up. When I click report nothing shows up. I thought this would make my life easier but the only thing it does is keep track of receipts that\u2019s it.",
+   "rating": 1,
+   "review_date": "Oct 07, 2025",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Kaypea1979",
+    "author_id": "154460457"
+   }
+  },
+  {
+   "position": 8,
+   "id": "13233913436",
+   "title": "Not Happy",
+   "text": "I regret purchasing the annual subscription for $99.99. The app frequently crashes while scanning receipts, though it does save your progress upon restarting. It lacks essential features like organizing receipts by month or day and does not provide totals or visual spending graphs. Additionally, there are no export options to common formats like PDF or Excel, not even email making it hard to manage finances effectively. Given its limitations, the price feels excessive; a more reasonable annual fee would be around $30. I can't recommend this app in its current state. Skip do not download until features are added.",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Oct 07, 2025",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Lone poet",
+    "author_id": "274375734"
+   }
+  },
+  {
+   "position": 9,
+   "id": "13172330479",
+   "title": "It\u2019s ok, needs some work",
+   "text": "Why give the option of being able to add expenses in a variety of different currencies when it doesn\u2019t show up on reports? I also wish you could pull a report in Excel format. It\u2019s not bad the app, but if you have expenses in different currencies, the reports won\u2019t show it for some reason.",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Sep 23, 2025",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "JDC7idbrvfks",
+    "author_id": "348441536"
+   }
+  },
+  {
+   "position": 10,
+   "id": "12925140360",
+   "title": "Not Simple to handle cancellation and refunds",
+   "text": "Not easy to cancel and receive refund",
+   "rating": 2,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jul 23, 2025",
+   "reviewed_version": "Version 5.3.6",
+   "author": {
+    "name": "bueabda",
+    "author_id": "524227933"
+   }
+  },
+  {
+   "position": 11,
+   "id": "12864724592",
+   "title": "Working great",
+   "text": "I really like this app. Easy to scan recipes or upload from photos. Very organized.",
+   "rating": 5,
+   "review_date": "Jul 07, 2025",
+   "reviewed_version": "Version 5.3.6",
+   "author": {
+    "name": "rjr5942",
+    "author_id": "174993339"
+   }
+  },
+  {
+   "position": 12,
+   "id": "12597479026",
+   "title": "Not impressed",
+   "text": "One of the 3 apps included isn\u2019t available in my region, found that out after paying and started scanning.when I tried making a report it\u2019s not adding in the selected receipts and the date it\u2019s stuck on December 1969? Not worth the money.",
+   "rating": 1,
+   "review_date": "Apr 29, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "mahbrandambassador",
+    "author_id": "735778269"
+   }
+  },
+  {
+   "position": 13,
+   "id": "12543943521",
+   "title": "Not Syncing",
+   "text": "This has happened several times. The app will not sync so you can edit your receipts. It has been three days now and is still not working. I contacted Support with no response. it looks like I wasted several hours in receipts over the past few months. I would highly suggest find a different app that is more reliable and also has a support team that will actually reach out to you.",
+   "rating": 1,
+   "review_date": "Apr 14, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Jeff 8538",
+    "author_id": "163151845"
+   }
+  },
+  {
+   "position": 14,
+   "id": "12542576751",
+   "title": "dont buy this",
+   "text": "This app freezes a lot. its not user freindly and the cost is outragous for what you get. 10 per week . I can not wait to cancel this I did not realize it was going to be this expensive . Its difficult to sort thorugh the receipts",
+   "rating": 1,
+   "review_date": "Apr 14, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "799887",
+    "author_id": "31039431"
+   }
+  },
+  {
+   "position": 15,
+   "id": "12484626530",
+   "title": "New review",
+   "text": "Don\u2019t download it\u2019s useless if you want to scan multiple receipts it keeps crashing when I hit the save button every time I do multiple receipts then I have to start over again worthless",
+   "rating": 1,
+   "review_date": "Mar 31, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "jojo the iraqi",
+    "author_id": "1143782537"
+   }
+  },
+  {
+   "position": 16,
+   "id": "12401542645",
+   "title": "It is an abandoned app",
+   "text": "Bad very bad",
+   "rating": 1,
+   "review_date": "Mar 09, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "En deudado",
+    "author_id": "189923100"
+   }
+  },
+  {
+   "position": 17,
+   "id": "12378736831",
+   "title": "Not happy with EOY options",
+   "text": "The app would not let me print end of year or group the entire year together for tax purposes. Deleting and requested refund but denied.",
+   "rating": 1,
+   "review_date": "Mar 03, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Mofosdime",
+    "author_id": "100122444"
+   }
+  },
+  {
+   "position": 18,
+   "id": "12331512706",
+   "title": "Freeze up",
+   "text": "This app freeze up every time I open up a report and try to share it. Making it useless. I need my money back asap",
+   "rating": 1,
+   "review_date": "Feb 20, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Nat3DaGr8",
+    "author_id": "541508357"
+   }
+  },
+  {
+   "position": 19,
+   "id": "12296915898",
+   "title": "Freezes",
+   "text": "The scanning part is great. Sending a report to my email to print out with all the pictures of receipts is not working. As soon as I press send, it stays stuck. I have all my receipts for 2024 with my report and I can\u2019t even get to it. Luckily it mysteriously worked and I was able to email the report, later to find out none of my receipts were in the report. It\u2019s some type of glitch. I won\u2019t be able to print anything out for 2024. Not good.",
+   "rating": 2,
+   "review_date": "Feb 11, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Appmoeses",
+    "author_id": "497818807"
+   }
+  },
+  {
+   "position": 20,
+   "id": "12204313656",
+   "title": "App worked for 2 days",
+   "text": "Beware Save your $10.00, I Purchased this app, scanned a bunch of receipts, at first the app allowed me to continue adding receipts to a specific report I created and then it wouldn\u2019t allow me too\u201d it doesn\u2019t allow you to create more than I report either. It also doesn\u2019t allow you to store a report, nor does it allow you to create a new report if you already have one. I thought maybe I needed to delete the app and reenstall it and even that didn\u2019t work.",
+   "rating": 1,
+   "review_date": "Jan 19, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "TonyLasVegas",
+    "author_id": "177249979"
+   }
+  },
+  {
+   "position": 21,
+   "id": "12177971104",
+   "title": "Great app",
+   "text": "This app is great, but we need to be able to add negative numbers, it is too restrictive.",
+   "rating": 4,
+   "review_date": "Jan 13, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Delia208",
+    "author_id": "167836902"
+   }
+  },
+  {
+   "position": 22,
+   "id": "12164689531",
+   "title": "It\u2019s not free.",
+   "text": "You only find out after setting up your account, scanning your first receipt, and tagging it that it\u2019s going to be 9.99 a month. just be transparent about the pricing!",
+   "rating": 1,
+   "review_date": "Jan 09, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Longtime wsj subscriber",
+    "author_id": "115463250"
+   }
+  },
+  {
+   "position": 23,
+   "id": "12077300525",
+   "title": "Cheap Product/Cheap Results",
+   "text": "I scanned in all of my business receipts to this app. Now that I need it for taxes, the app won\u2019t allow me access and print the report and half of the receipt pictures won\u2019t open up. Thanks for nothing",
+   "rating": 1,
+   "review_date": "Dec 18, 2024",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Chi Darling 1984",
+    "author_id": "563953150"
+   }
+  },
+  {
+   "position": 24,
+   "id": "12025951973",
+   "title": "$100/year",
+   "text": "Are you kidding?",
+   "rating": 1,
+   "review_date": "Dec 04, 2024",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Shifndkahsidsnab",
+    "author_id": "1391088874"
+   }
+  },
+  {
+   "position": 25,
+   "id": "11945972566",
+   "title": "Intended to pay the Free Trial",
+   "text": "Intended to pay the free trial, obviously being an app I have never used I wanted to give it a try. Paid for the yearly by mistake, called the same day to get a refund but they denied it. $100 gone",
+   "rating": 1,
+   "review_date": "Nov 13, 2024",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "0297371726",
+    "author_id": "670563526"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1550270774&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1550270774&sort=mostrecent"
+ }
+}

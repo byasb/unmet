@@ -1,0 +1,359 @@
+{
+ "search_metadata": {
+  "id": "6a96ca6bd17a80631ad03930",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rLhevN6n5VYoQv6OqG37Mg6TtrdgVKuSkPebZixOs7k/6a96ca6bd17a80631ad03930.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rLhevN6n5VYoQv6OqG37Mg6TtrdgVKuSkPebZixOs7k/6a96ca6bd17a80631ad03930.md",
+  "created_at": "2026-09-01 12:51:55 UTC",
+  "processed_at": "2026-09-01 12:51:55 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=377672876&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/rLhevN6n5VYoQv6OqG37Mg6TtrdgVKuSkPebZixOs7k/6a96ca6bd17a80631ad03930.html",
+  "prettify_html_file": "https://serpapi.com/searches/rLhevN6n5VYoQv6OqG37Mg6TtrdgVKuSkPebZixOs7k/6a96ca6bd17a80631ad03930.prettify",
+  "total_time_taken": 0.67
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "377672876",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 98,
+  "reviews_for_current_version": 98,
+  "total_page_count": 672,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14492748873",
+   "title": "Amazing app that makes scanning easy",
+   "text": "I\u2019ve been using this app for almost a decade. Intuitive, high quality, and easy to use. Streamlines the process of exporting and emailing. Highly recommend and only app needed for scanning.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "da ke ai",
+    "author_id": "485510641"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14486895466",
+   "title": "It\u2019s great!",
+   "text": "Today was my first time using this app. It was easy to use and understand.",
+   "rating": 5,
+   "review_date": "Aug 29, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Sonya H2",
+    "author_id": "1962772510"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14486001372",
+   "title": "The Best!",
+   "text": "I have tried all, if not, almost all the scanning apps avail in the app store. Genius Scan is by far the easiest to use and produces the clearest scans. The edit functions work well, most especially the crop tool. If you scan something in angle or crookedly, it allows you to crop the image by perspective to straighten it out. i highly recommend this product!",
+   "rating": 5,
+   "review_date": "Aug 29, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "pheeluh",
+    "author_id": "43308338"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14484384186",
+   "title": "Genius Scan",
+   "text": "A colleague recommended this scan app and it is excellent. Free and so very easy! Everyone should try it. I recommend to everyone. Forget diamonds, Genius Scan is a working girls best friend.",
+   "rating": 5,
+   "review_date": "Aug 29, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "3onatree",
+    "author_id": "694074854"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14483099124",
+   "title": "What a life saver",
+   "text": "This is a huge help in uploading documents",
+   "rating": 5,
+   "review_date": "Aug 28, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "HikerMsBlood",
+    "author_id": "525644977"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14480685423",
+   "title": "So helpful",
+   "text": "Honestly this app is so helpful! It is very easy to use. No more wondering where you put this or that document. If you immediately scan it you\u2019ll never search for anything again. I use the free version for reference*",
+   "rating": 5,
+   "review_date": "Aug 28, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "ccduzzi",
+    "author_id": "37476876"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14480654221",
+   "title": "PDF scanner sucks",
+   "text": "The pdf version sucks. It doesn\u2019t get all my text",
+   "rating": 2,
+   "review_date": "Aug 28, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Muitoki",
+    "author_id": "1207384684"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14480613834",
+   "title": "AMAZING AND EASY",
+   "text": "I never write reviews but I needed to say this is the best pdf converter I\u2019ve ever used it\u2019s so easy and so clear once converted I love this app",
+   "rating": 5,
+   "review_date": "Aug 28, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "sierra dikens",
+    "author_id": "1145040598"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14479514145",
+   "title": "Look No Further!",
+   "text": "I am so glad my employer recommended Genius Scan. I had downloaded so many scanner apps, but none did all that I wanted in a scanning app until my workplace recommended Genius Scan. It automatically crops documents. It\u2019s easy to add and delete pages, rename the document, and send it in a variety of ways. That\u2019s just the beginning. I\u2019ve recommended it to family, friends, and colleagues, and never heard a complaint. Enjoy!",
+   "rating": 5,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "loyal for a reason",
+    "author_id": "245050423"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14476954631",
+   "title": "Cost worth convenience!",
+   "text": "User friendly, efficient, no real \u201cquirks\u201d, self explanatory, docs come out just as you\u2019d expect.",
+   "rating": 5,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "amtremblay99",
+    "author_id": "215121558"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14476601877",
+   "title": "Amazing",
+   "text": "Super easy to use and super fast, love this app.",
+   "rating": 5,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "pompismaster",
+    "author_id": "1137898759"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14474798754",
+   "title": "Genius Scan",
+   "text": "Great easy to use system",
+   "rating": 5,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "mpkbegs",
+    "author_id": "243249183"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14474684141",
+   "title": "Clear document scans",
+   "text": "I always have clear document scans when I use Genius scan ! This app is a life saver",
+   "rating": 5,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "clear documents",
+    "author_id": "590480846"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14474645946",
+   "title": "Scans",
+   "text": "It eorks great",
+   "rating": 5,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "HellinaM3",
+    "author_id": "1032757863"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14474232805",
+   "title": "Genius indeed!",
+   "text": "I had light casting across my page that I was having to block with my left hand while trying to focus and press the button to take the picture with my right. No need! As soon as the image was properly framed, the app knew the intent and happily snapped away by itself, producing a perfect result. Excellent tech.",
+   "rating": 5,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "OICU2A",
+    "author_id": "1368805626"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14474029909",
+   "title": "OOUTSTANDING",
+   "text": "I\u2019ve used genius scan since 2021. Used almost daily, it was my go to for any I need as I was always on the go and needed it in my business and personal interactions.",
+   "rating": 5,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "SERA-MA",
+    "author_id": "36605587"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14472853068",
+   "title": "Does not send information at all very slow",
+   "text": "Terrible app is very slow annoying doesn\u2019t send anything",
+   "rating": 1,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "cooldude_Eb",
+    "author_id": "993810940"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14471185713",
+   "title": "Love it!",
+   "text": "I absolutely love this app! It has been a life saver since I first got it. Saves so much time and energy! Highly recommend.",
+   "rating": 5,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Piratedoggy.com",
+    "author_id": "403695970"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14470999109",
+   "title": "Neutral",
+   "text": "This app is great for scanning documents and sending to emails. However, I have it a 3 because after updating my email I\u2019m not able to access all of the features.",
+   "rating": 3,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "nsjcjr",
+    "author_id": "591947283"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14468142605",
+   "title": "Grateful for this app",
+   "text": "Thank you\ud83d\udc95",
+   "rating": 4,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Kim\ud83d\udc4d\ud83c\udffd",
+    "author_id": "994309399"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14468046730",
+   "title": "Absolutely great but lost ALL my documents!",
+   "text": "My phone got stolen and they weren\u2019t able to get into any of my documents or anything, but because I had to re-download this app again, everything was lost. It\u2019s a very easy to use app and I really like it, but it really sucks that everything is now lost\u2026",
+   "rating": 3,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Alyz123",
+    "author_id": "406344283"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14467878187",
+   "title": "Easy of use",
+   "text": "Genius Scan is easy to use. The intuitive nature of the app allows for ease of use increasing implementation. It is powerful enough to have a place in my mobile professional office suite and elegant enough to hold a place in my personal office space !",
+   "rating": 5,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Pegleg22",
+    "author_id": "202273125"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14465735563",
+   "title": "The best app",
+   "text": "This scanning app is absolutely amazing! The lighting and automatic photo adjustments are fantastic, and it scanned all my old photos so easily while keeping them looking beautiful. Such a great way to preserve precious memories! \u2728\ud83d\udcf8",
+   "rating": 5,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Mahh_0098",
+    "author_id": "1960762236"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14463044163",
+   "title": "Amazing Scanner!!",
+   "text": "Scanning is easy and quick. The scans are super clear!",
+   "rating": 5,
+   "review_date": "Aug 23, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Brookey43",
+    "author_id": "262416984"
+   }
+  },
+  {
+   "position": 25,
+   "id": "14461119654",
+   "title": "Excelencia por encima de todo",
+   "text": "He usado el app desde hace como 6 a\u00f1os y siempre he tenido la mejor calidad en mis documentos escaneados. Es muy amigable y la versi\u00f3n gratuita es excelente.",
+   "rating": 5,
+   "review_date": "Aug 23, 2026",
+   "reviewed_version": "Version 8.13.1",
+   "author": {
+    "name": "Gabriela Misteal",
+    "author_id": "344450485"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=377672876&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=377672876&sort=mostrecent"
+ }
+}

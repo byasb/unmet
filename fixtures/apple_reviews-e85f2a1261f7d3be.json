@@ -1,0 +1,363 @@
+{
+ "search_metadata": {
+  "id": "6a96c9c1bb48adf8f2afd709",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_mKH4FGEvdN81RIXYWyYJDJ16Z8vWZC11tx9kYwf6mw/6a96c9c1bb48adf8f2afd709.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_mKH4FGEvdN81RIXYWyYJDJ16Z8vWZC11tx9kYwf6mw/6a96c9c1bb48adf8f2afd709.md",
+  "created_at": "2026-09-01 12:49:05 UTC",
+  "processed_at": "2026-09-01 12:49:05 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=6443918070&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/_mKH4FGEvdN81RIXYWyYJDJ16Z8vWZC11tx9kYwf6mw/6a96c9c1bb48adf8f2afd709.html",
+  "prettify_html_file": "https://serpapi.com/searches/_mKH4FGEvdN81RIXYWyYJDJ16Z8vWZC11tx9kYwf6mw/6a96c9c1bb48adf8f2afd709.prettify",
+  "total_time_taken": 1.0
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "6443918070",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "total_page_count": 9,
+  "reviews_for_currrent_version": 2390,
+  "reviews_for_current_version": 2390,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "12150441065",
+   "title": "Almost perfect",
+   "text": "I\u2019ve tried a few habit apps, and absolutely love using this one so far. The user experience is extremely intuitive and easy to use, and has (almost) all the features I was looking for. Just as an example, the Shortcuts integration is great for me - I was able to integrate HabitKit into an existing Shortcut I was using for recording a daily journal, and so now recording one will also automatically mark the habit complete for the day too. The widgets are really nice too and improve the overall interaction. All that said, there are just a few additional features I\u2019d like to see. First, a MacOS version of the app would be great, though I can confirm that it does work to install the iOS version. However, it would really be awesome if it could sync to iCloud both to make this actually usable, as well as to make it easy when you get a new device. There is an export / import feature for this but this would make it a lot. Lee seamless. Finally, it would be nice to have additional Shortcuts support - the ability to look at past completions / streaks, change completion for other dates, export / import from Shortcut, etc. With that list, why did I still give it 5 stars? Because even as-is it is incredibly useful and I would recommend it to everyone even without these features (though they would be great!)",
+   "rating": 5,
+   "review_date": "Jan 06, 2025",
+   "reviewed_version": "Version 1.10.1",
+   "author": {
+    "name": "cognitive gears",
+    "author_id": "736122072"
+   }
+  },
+  {
+   "position": 2,
+   "id": "12934585259",
+   "title": "One of the best habit tracking apps - but NEEDS iOS Reminders integration and maybe APIs exposed ?",
+   "text": "This is by far the most visually appealing app. I was actually going to develop my own app which was similar to this, where it had the altair heatmap chart. But this goes beyond my initial idea and also has step counts/tiered counting. Moreover, the ease of completing a task with a tap, setting of reminders, color coding and the availability to switch between three different views is exactly what I needed. This is way better than todoist, it is simple and intuitive. Most other apps have a lot of clutter and have too many details and clunky interfaces. One important feature that is missing though is its integration with Calendar and Reminders. Not just that, PLEASE expose APIs to interact with the data, this would have a limited use case, but still could be very useful. For example, one could ingest their daily step count and automatically mark a habit. Another example is that say if I want to block a particular app unless I do X, it could allow it to do so. Lets say that I have a habit like \u201cno scrolling videos in the morning for 2 hours\u201d, I should be able to enforce this and mark the habit only when certain conditions outside the app are met - I know this is a little outside the scope of this app and probably would fit into another \u201chabit enforcer\u201d app that could integrate with this, but in any case this requires REST APIs to be exposed. I would love to partner with the dev and work on this idea.",
+   "rating": 4,
+   "review_date": "Jul 25, 2025",
+   "reviewed_version": "Version 1.13.3",
+   "author": {
+    "name": "smartraccoon1111",
+    "author_id": "1813155757"
+   }
+  },
+  {
+   "position": 3,
+   "id": "11526306665",
+   "title": "Great Simple App, Great Developer, Some Limitations",
+   "text": "I really love how simple and easy this app is to use. The pricing is also extremely reasonable for $0.99 when most apps charge way more just for some basic functions. I think it would be great if we would were able to create our own account so we can sync progress across different devices. I have ADHD and this app really helps me stay motivated and manage my executive dysfunction because I have to gamify EVERYTHING just to do simple things. I like how we are able to select different days for when we want to track a habit, but I wish we could select different reminder times for different days as well under the same habit. Say you want to add a yoga habit for each day, but want reminders at 2:00pm on certain days and 3:00pm on other days for those with varying schedules. I also think sub-habit/task would be an interesting game changer. Say you\u2019re trying to incorporate an entire morning routine habit, you can just label the habit morning routine, and you can click it to open, add a sub-habit/task, like make bed, brush teeth, do skin care, and once you check off all three of those things, it will complete that habit for the day. I feel like this would help with lessening the amount of habits you have to make when one habit can incorporate many things you want to do!",
+   "rating": 5,
+   "review_date": "Jul 23, 2024",
+   "reviewed_version": "Version 1.8.1",
+   "author": {
+    "name": "LegendaryPink",
+    "author_id": "455880431"
+   }
+  },
+  {
+   "position": 4,
+   "id": "13432617886",
+   "title": "A Game Changer",
+   "text": "I recently turned started using a minimalist phone setup to help me to be more productive. A key part of the design was adding HabitKit widgets to my home screen. It's very motivating to see your habit history packed into a beautiful little chart, with the ability to check off (or increment) habits without having to open the app. After making these changes to my phone, this past week has been the most productive week of my life, and I sincerely believe HabitKit has been the main reason for that. The support is also incredible. I reached out to the solo developer via email, asking him about 2 different features I was hoping he could add to the app. 2 days later, he got back to me, in a very friendly and well-thought-out email. In this email, he told me that he had already been working on adding the first feature, and the other had been added to his todo list. Given that he is a solo developer, and also working on another up-and-coming app at the same time, I'd say his support services are the best I've ever seen, from any app on the app store.",
+   "rating": 5,
+   "review_date": "Nov 23, 2025",
+   "reviewed_version": "Version 1.14.2",
+   "author": {
+    "name": "Cole Lentini",
+    "author_id": "553255229"
+   }
+  },
+  {
+   "position": 5,
+   "id": "13695520678",
+   "title": "Almost perfect - Few updates needed",
+   "text": "I first downloaded HabitKit in the ending of March 2025. I bought the lifetime premium version. When I first downloaded the app, it didn't have an option for putting your own emojis for habits, which was really frustrating. I'm very happy that they finally put an emoji update. I was tired of using a dog bone for my seafood habit. My issue with the new update is that you can't change the skin color of the emojis. It's also disappointing that you can't choose a set of Crayola like colors for your habits including brown, instead of the preset pastel colors that is given. No true red or solid purples just a pastel palette for everything... I also think that the counter for 1, 5, 10 , 15 shouldn't be there. I think that instead the only option should be to set your own number of \"Pages read\" for each habit. It would look much better for the eyes that way. Or at least give the option to turn it off and only have your own preset number. I also think that the HabitKit wrapped should be worded better and upgraded. Besides those things, this is a decent app for habit tracking. I do also believe having a bad habit tracker section or page would be great, and helpful for separation of good and bad habits. Plus not being able to sync to iCloud is hella wack. I can only give 2 stars because I know it could be better.",
+   "rating": 2,
+   "helpfulness_vote_information": "0 out of 1 customers found this review helpful",
+   "review_date": "Jan 31, 2026",
+   "reviewed_version": "Version 1.14.4",
+   "author": {
+    "name": "Angiestarlit",
+    "author_id": "1689200973"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14089093879",
+   "title": "Absolutely Love!",
+   "text": "I love this app for tracking my habits! I\u2019ve tried other apps and none of them were as good as this one. I like that I can choose a dark background and because of all the bright colors, it looks beautiful. I have the PRO version and o definitely think it\u2019s worth the money; and it\u2019s not expensive at all. I can track as many habits as I want to, and I can archive them when I want to stop tracking them (but it doesn\u2019t delete them so I can \u201cunarchive\u201dthem if I want to start tracking that habit again. I would like to suggest a couple of things that I think could make it better\u2026first, I\u2019d love to be able to set an alarm for my habits to remind me to do some of them. I\u2019d also like to have a bigger color selection to choose from. The colors it has are beautiful and vibrant but I\u2019d just like to add some more shades (because I track a lot of habits). I love the icons too, and the fact that I can reorder my habits at any time. All in all, it\u2019s a fantastic app and I use it everyday! I\u2019d definitely recommend for EVERYONE to get the pro version, and start tracking your habits! I\u2019ve gotten a lot more consistent since I started using this app!",
+   "rating": 4,
+   "review_date": "May 21, 2026",
+   "reviewed_version": "Version 1.15.1",
+   "author": {
+    "name": "a2thaMb",
+    "author_id": "366946501"
+   }
+  },
+  {
+   "position": 7,
+   "id": "13690973300",
+   "title": "The Perfect App For What I Needed",
+   "text": "This app on my phone has been insanely helpful and so easy to use. I can track anything going on in my life and then easily look back over the history of my habit. Things like how frequently I\u2019m vacuuming or if I took my medication each day or week. Every time I login and track my habits it also reminds me of things I might not have done yet like\u2026oh I haven\u2019t done that thing yet today. So I often get up to start or finish something because I see that it isn\u2019t checked off for the day. What makes this app better than others I was looking at is that I\u2019m 100% choosing my own categories and specific tasks. So my weird and wonderful lists are tailored perfectly to me, and there isn\u2019t anything extraneous. The only complaint I have is that the data is only on your device. So I can see and use it on my phone but I can\u2019t pull it up on my tablet or computer. I reached out to the developers and they say they hope to change this in the future. So fingers crossed, this app could get even better.",
+   "rating": 5,
+   "review_date": "Jan 30, 2026",
+   "reviewed_version": "Version 1.14.4",
+   "author": {
+    "name": "Hattrik103",
+    "author_id": "212213786"
+   }
+  },
+  {
+   "position": 8,
+   "id": "11196441680",
+   "title": "Fantastic Habit Tracker from a Responsive Developer",
+   "text": "The app is an intuitive, visually pleasing way to track your habits. It does a great job of allowing users to customize their habits while not crowding the ui or creating a convoluted user experience. Overall, it is a near-perfect habit tracker with a nice minimalist aesthetic Also, the developer shows a lot of respect for the users of the app. I wrote to them regarding some functionality that I was hoping they would add and they quickly wrote back to let me know they were working on that. A couple months later they reached out to let me know they were rolling out that feature! In my experience, it is hard to find a developer that is so genuinely responsive to user feedback Lastly, the app, which does have a premium option, makes the non-premium version actually worthwhile to use and offers the premium version via both subscription and one-time-purchase. Both of those are big pluses in my book!",
+   "rating": 5,
+   "review_date": "Apr 24, 2024",
+   "reviewed_version": "Version 1.6.8",
+   "author": {
+    "name": "AngletonReviews",
+    "author_id": "267076595"
+   }
+  },
+  {
+   "position": 9,
+   "id": "11999151976",
+   "title": "10/10 Customer Satisfaction",
+   "text": "If you\u2019re looking to change your life, \u201catomic habits\u201d style, then you need this app. Not the other habit trackers.. you need this one. This one right here is the best. I honestly can\u2019t remember what the free version is like because I saw the value of upgrading within a week of downloading. I\u2019ve added HabitKit widgets all across my phone and not only have I see my productivity increase, but my lifestyle and mindset have greatly benefited from using this app. If Apple were to release a habit tracking app, it wouldn\u2019t compare to this one. It\u2019s sleek, easily customizable, and it\u2019s just an overall better application compared to other habit trackers on the App Store. If you\u2019re NOT a fan of subscription based services, then THIS IS THE APP FOR YOU. I made a one time payment and this developer has continued to push out updates with an increasing attention to detail. The developer has helped me troubleshoot and they might even incorporate some of my feedback within future updates. If you\u2019re hesitant to buy their product, then think of it this way. Apple wants you to subscribe to their iCloud service indefinitely and the developer of this app only wants a one-time contribution from you. That\u2019s it. You\u2019re not renting this product, it is yours to keep. You receive all the future benefits without a monthly/yearly recurring charge to your bank.",
+   "rating": 5,
+   "review_date": "Nov 27, 2024",
+   "reviewed_version": "Version 1.10.0",
+   "author": {
+    "name": "nbagajewicz",
+    "author_id": "1525460364"
+   }
+  },
+  {
+   "position": 10,
+   "id": "9475276997",
+   "title": "The Ultimate Habit Tracking App!",
+   "text": "I absolutely love HabitKit! It is by far the best habit tracking app I have ever used. The tile-based grid charts make it super easy to visualize my progress, and the customization options for the dashboard are a great touch. The ability to choose my own colors, icons, and descriptions really helps me to personalize the app to my own needs and goals. One of the things I love most about HabitKit is the motivation it provides. Seeing the tiles on my dashboard fill up with color as I complete my habits is a great way to stay motivated and on track. The app is also very user-friendly and easy to navigate. I highly recommend HabitKit to anyone looking to form new habits or break old ones. Overall, I would give HabitKit a solid 5 out of 5 stars. It has truly made a difference in my life and I am so grateful to have found it. Thank you, Sebastian, for creating such a wonderful app!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 05, 2023",
+   "reviewed_version": "Version 1.1.2",
+   "author": {
+    "name": "Chevy Phillip",
+    "author_id": "260625897"
+   }
+  },
+  {
+   "position": 11,
+   "id": "9474887392",
+   "title": "The Ultimate Habit Tracking App!",
+   "text": "I absolutely love HabitKit. It is by far the best habit tracking app I have ever used. The tile-based grid charts make it super easy to visualize my progress, and the customization options for the dashboard are a great touch. The ability to choose my own colors, icons, and descriptions really helps me to personalize the app to my own needs and goals. One of the things I love most about HabitKit is the motivation it provides. Seeing the tiles on my dashboard fill up with color as I complete my habits is a great way to stay motivated and on track. The app is also very user-friendly and easy to navigate. I highly recommend HabitKit to anyone looking to form new habits or break old ones. Overall, I would give HabitKit a solid 5 out of 5 stars. It has truly made a difference in my life and I am so grateful to have found it. Thank you, for creating such a wonderful app!",
+   "rating": 5,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Jan 05, 2023",
+   "reviewed_version": "Version 1.1.2",
+   "author": {
+    "name": "Chevy Phillip",
+    "author_id": "260625897"
+   }
+  },
+  {
+   "position": 12,
+   "id": "9859117108",
+   "title": "Effective and Motivating Habit Tracker!",
+   "text": "As someone who has always struggled with maintaining consistency in my daily habits, I have tried numerous habit tracking apps in the past. However, none of them have managed to motivate and engage me as much as HabitKit! This app has completely transformed my approach to habit tracking and has helped me build lasting habits that I can finally stick to. The daily notifications are a gentle but effective reminder to complete my habits, making it nearly impossible to forget or procrastinate. The best part, though, is the GitHub contribution-style chart that visually represents my progress. This brilliant feature has turned habit tracking into an exciting game, where I eagerly work to maintain my streak and fill in the chart. The interface is clean, intuitive, and user-friendly, allowing me to easily add, edit, and manage my habits. The customization options are also impressive, enabling me to tailor the notifications and chart according to my preferences. HabitKit has not only helped me stay consistent in my daily routines but has also significantly improved my productivity and overall well-being. I am genuinely grateful for this app and highly recommend it to anyone looking to build and maintain healthy habits. Give HabitKit a try, and I promise you won't be disappointed!",
+   "rating": 5,
+   "review_date": "Apr 25, 2023",
+   "reviewed_version": "Version 1.4.4",
+   "author": {
+    "name": "upsetti with this spagetti",
+    "author_id": "656078779"
+   }
+  },
+  {
+   "position": 13,
+   "id": "13561249037",
+   "title": "Simple is Beautiful",
+   "text": "This app checks a few boxes for me: It allows me to see the trends of my habits over time; allowing me to see what i need to improve or fix. I can easily keep track of habits in multiple areas of my life, from working out, studying, and down to simple things like remembering to water my plants. While I can use notes, or a to-do list, or alarms, HabitKit allows you to come to one place for all of that-in a more fun and satisfying place. Honestly, the colors, icons, calendar, and organization through putting habits in certain categories keeps everything neat and aesthetically pleasingly. Everyone has their way of doing what this app does, but the way habit kit does it is what allows me to use it this thoroughly. Actually, it makes keeping in touch with my goals and to-dos fun-something lacking from other apps whether pre-installed, or otherwise. Being able to see your goals and habits stack up or lack over time is the big indicator on how well/poor Im doing, and thats the motivator for however you choose to track your trends. Long time user of the app, and I\u2019ll keep on using it to perfect my routine. Well done Habitkit, looking forward to future updates that reflect the simple brilliance you have here already.",
+   "rating": 5,
+   "review_date": "Dec 27, 2025",
+   "reviewed_version": "Version 1.14.4",
+   "author": {
+    "name": "Become9",
+    "author_id": "1864146975"
+   }
+  },
+  {
+   "position": 14,
+   "id": "12458258118",
+   "title": "The only habit tracker that makes me feel good!",
+   "text": "I have tried many habit trackers but this is the only one that doesn't give me so much anxiety and stress when I miss my streaks. A lot of the other ones try to hold you accountable and stick to goals. While I do wanna do that, some days just make it hard and my busy schedule makes it hard to keep up with everything. HabitKit on the other hand lets you actually just keep tabs on your progress. Yes, maybe you missed a day or week, but you can always see your previous progress and remind yourself that you can still make it up and catch up! It's no surprise that other apps are copying this now! Sebastian's also a really responsive and friendly founder! Really happy to get to support this project!",
+   "rating": 5,
+   "review_date": "Mar 24, 2025",
+   "reviewed_version": "Version 1.10.3",
+   "author": {
+    "name": "aescay",
+    "author_id": "172225707"
+   }
+  },
+  {
+   "position": 15,
+   "id": "13206904375",
+   "title": "Easy, motivating, and ad free",
+   "text": "I\u2019ve been using this app for almost two months now to track the days I drink enough water. The layout itself is pretty self explanatory and simple, and the lack of ads makes it very easy to log on and check off a streak without distractions and wasting time. The free version of Habitkit works very well if you have a few habits you want to track, and works perfect despite not being premium. I personally hate when developers force users into buying a subscription for the basic features their app has been made to offer by nagging with constant ads and an overall worse experience with the app, so Habitkit is one of the rare gems among many slop apps who suffer from such issues. Thank you, developer!",
+   "rating": 5,
+   "review_date": "Oct 01, 2025",
+   "reviewed_version": "Version 1.14.1",
+   "author": {
+    "name": "ducky4756",
+    "author_id": "1359661675"
+   }
+  },
+  {
+   "position": 16,
+   "id": "13621381288",
+   "title": "Good",
+   "text": "It\u2019s a good app! I have the pro version and as much as I enjoy it, I do not feel that the pro version should cost as much as it does. The app does not have enough features to justify the $13 pro. $5 or $10 would be more acceptable. Also, there is a fixed amount of colors that you can make your habits that you\u2019re tracking, and of the 21 available colors, 4 of them are just different shades of grey. I really wish there was access to a color wheel or something so you can select more colors. The blues and greens that are available are way too similar. I, and I\u2019m sure many others, need a lot of visual variety when tracking habits like this. And when you\u2019re tracking over 10 habits, it gets difficult to visually distinguish between 4 shades of grey and 6 shades of mildly different blueish green",
+   "rating": 4,
+   "review_date": "Jan 11, 2026",
+   "reviewed_version": "Version 1.14.4",
+   "author": {
+    "name": "beck.duncan",
+    "author_id": "1198191520"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14195166358",
+   "title": "Simplicity",
+   "text": "I've tried several habit tracking apps but this was the one I decided to purchase and use for almost 6 months atp. It's by far the most simplistic of the apps in its category, but that's what's drawn me to it and kept me in it. If I do the thing, it's easy to open the app and quickly mark it. If I need to do it multiple times a day, I set it up in the advanced options. I don't care much about the analytics of my habits but I really appreciate the different week, month, ytd viewing options. I think some improvements could be made with managing categories/labels, but anything else would generally take away from the minimalism of habitkit that i so deeply appreciate. It's been such a help for my mental health. Thank you!",
+   "rating": 5,
+   "review_date": "Jun 17, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "bgakes",
+    "author_id": "39319355"
+   }
+  },
+  {
+   "position": 18,
+   "id": "12078215982",
+   "title": "It\u2019s great",
+   "text": "I paid for pro almost immediately after starting to use it. The dot grid is such a great way to get a feel for how good you\u2019ve been about keeping up with your habit goals and then there\u2019s all these detailed stats you get on top of that. The design of the app is great too, very easy to use and and simple enough that you aren\u2019t distracted from the info you\u2019re looking at. It\u2019s worth the cost of the pro version for sure. It would be cool to get some new themes to play with and be able to set multiple reminders for habits that have multiple completions in a day but I\u2019m sure the developer already has that in mind for future updates.",
+   "rating": 5,
+   "review_date": "Dec 18, 2024",
+   "reviewed_version": "Version 1.10.0",
+   "author": {
+    "name": "HunsonAbadeer",
+    "author_id": "31451230"
+   }
+  },
+  {
+   "position": 19,
+   "id": "11426923525",
+   "title": "Amazing Habit Tracker",
+   "text": "This is an awesome app to track your daily habits however the main reason I bought the app, the widgets, are finicky. When a new day happens, I have to open the application for the widgets to show up as incomplete. Also for the checkbox widget it would be so nice to have the ability to \u201ccomplete\u201d the habit by clicking the small check mark. If both of these were addressed it would be 5 stars easily. UPDATE: the developer of this app is amazing and actually implemented the only two things about the app I wished were true. 5 stars, amazing app and worth the one time purchase price to unlock widgets.",
+   "rating": 5,
+   "review_date": "Jun 26, 2024",
+   "reviewed_version": "Version 1.7.2",
+   "author": {
+    "name": "Somethingthatworks",
+    "author_id": "367634305"
+   }
+  },
+  {
+   "position": 20,
+   "id": "12149973548",
+   "title": "Pretty simple and solid",
+   "text": "I just recently started using this app because I like the UX and how it easily conveys how often you are doing something similar to GitHub. So far I really enjoy it and I am excited to keep tracking my habits \ud83e\udd1e\ud83c\udffd One thing I wish there was is the ability to have a widget that can display multiple habits even if in a condensed list view or something similar. I would also like to see if there is any way to add the ability on making a habit to quit something (I.e create a habit and I want to make sure that I don\u2019t do this habit more than x amount of times per week/month/day etc. or something similar. Basically if I stay under my set limit then the habit is considered complete or good)",
+   "rating": 4,
+   "review_date": "Jan 06, 2025",
+   "reviewed_version": "Version 1.10.1",
+   "author": {
+    "name": "pBarti6",
+    "author_id": "1131111074"
+   }
+  },
+  {
+   "position": 21,
+   "id": "13590107753",
+   "title": "Love this app",
+   "text": "I\u2019ve tried a number of habit tracking apps, but this one just works for me. It\u2019s been fun and flexible to customize, and I find myself checking it daily. Better yet I added my habits as a stacked widget on one of my iPhone home screens and it\u2019s been satisfying to swipe through and check off set habits each day. I had a small feature request, sent feedback to the developer and same day, he mentioned this feature was already on the roadmap. Was impressed with the response time. Glad to support this independent developer and his great app which has improved my life!",
+   "rating": 5,
+   "review_date": "Jan 03, 2026",
+   "reviewed_version": "Version 1.14.4",
+   "author": {
+    "name": "hpmcmill",
+    "author_id": "42214670"
+   }
+  },
+  {
+   "position": 22,
+   "id": "10938500677",
+   "title": "Favorite Habit App Tried Many",
+   "text": "Tried so many habit tracking apps. And there are a lot of great ones out there but this is probably my favorite. I like the inutitve ui, simple easy to use which keeps me coming back. The set up is prob gonna take the longest and the fight for myself in many apps. But this one its easy, once set up i keep adding new ones as needed. Add more widget sizes, possibly customization options is the only thing i ask for so hopefully thats in the future roadmap. As i like to see more than one habit without launching full app. Thank you for the awesome app, i swear. This has been godsend.",
+   "rating": 5,
+   "review_date": "Feb 14, 2024",
+   "reviewed_version": "Version 1.6.8",
+   "author": {
+    "name": "Mr Kreus",
+    "author_id": "42640921"
+   }
+  },
+  {
+   "position": 23,
+   "id": "13308817559",
+   "title": "Best habit tracker out there",
+   "text": "HabitKit is by far the best habit tracker I have used\u2026 and I have used several. It is sleek and simple, yet customizable. The options for viewing my habits are perfect for the ways in which I think about them- in both the short and long term. I can manage my day-to-day easily with a high-level, consolidated view of all my habits, while still being able to see the big picture over an extended period of time with a GitHub-esque chart. Bonus points for a responsive developer, and continued improvements. Highly recommend.",
+   "rating": 5,
+   "review_date": "Oct 24, 2025",
+   "reviewed_version": "Version 1.14.2",
+   "author": {
+    "name": "BrainOfTarth",
+    "author_id": "1274535487"
+   }
+  },
+  {
+   "position": 24,
+   "id": "13116460966",
+   "title": "Form and Function \ud83e\udd0c\ud83c\udffc",
+   "text": "HabitKit has been able to accomplish something that no other habit tracker has: I actually use it. The layout is so useful and logical, with all of the distracting junk stripped away. Its simplicity does not make it any less powerful, however. In fact, I think that is the thing that propels HabitKit ahead of all the others in terms of excellence. It strikes the perfect balance of simple and functional/customizable while also being beautiful. Data is powerful, but only if you can actually collect it. Now, I can.",
+   "rating": 5,
+   "review_date": "Sep 09, 2025",
+   "reviewed_version": "Version 1.14.1",
+   "author": {
+    "name": "Djerujnvd",
+    "author_id": "254622626"
+   }
+  },
+  {
+   "position": 25,
+   "id": "13657506354",
+   "title": "Does one thing and does it well!",
+   "text": "Interface is clean and responsive, the app doesn\u2019t feel sluggish at all. Records your data smoothly and then shows it to you how you want it, exactly how a habit tracker should. Developer is active and responsive to feedback. Pro subscription offers a lifetime option which is greatly appreciated in a sea of apps and services where you keep paying up every month for no additional value and could lose features if you don\u2019t go up a tier at any time.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 21, 2026",
+   "reviewed_version": "Version 1.14.4",
+   "author": {
+    "name": "pastellexists",
+    "author_id": "1231782547"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6443918070&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=6443918070&sort=mosthelpful"
+ }
+}

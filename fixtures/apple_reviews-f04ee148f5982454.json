@@ -1,0 +1,365 @@
+{
+ "search_metadata": {
+  "id": "6a96ca71de1f33821ca0581b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_QSkvT-5MVJxNBz8ISVfQru5fTu-WfoenRPjfpMNprg/6a96ca71de1f33821ca0581b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_QSkvT-5MVJxNBz8ISVfQru5fTu-WfoenRPjfpMNprg/6a96ca71de1f33821ca0581b.md",
+  "created_at": "2026-09-01 12:52:01 UTC",
+  "processed_at": "2026-09-01 12:52:01 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1550270774&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/_QSkvT-5MVJxNBz8ISVfQru5fTu-WfoenRPjfpMNprg/6a96ca71de1f33821ca0581b.html",
+  "prettify_html_file": "https://serpapi.com/searches/_QSkvT-5MVJxNBz8ISVfQru5fTu-WfoenRPjfpMNprg/6a96ca71de1f33821ca0581b.prettify",
+  "total_time_taken": 0.53
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1550270774",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 9,
+  "reviews_for_current_version": 9,
+  "total_page_count": 5,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "10589495886",
+   "title": "Expensive",
+   "text": "This was obviously made for larger businesses/incomes. If you\u2019re a small business $9.99 a month is a little much for what it provides.",
+   "rating": 5,
+   "review_date": "Nov 15, 2023",
+   "reviewed_version": "Version 4.0.4",
+   "author": {
+    "name": "6839190",
+    "author_id": "1034269619"
+   }
+  },
+  {
+   "position": 2,
+   "id": "11100188350",
+   "title": "UPDATED Unable to scan multiple pages for single receipt entry",
+   "text": "Great app to log your receipts but it does not support scanning multiple pages for a single receipt. Some of my receipts don\u2019t show what the charges are for on the total page so I need to include a second or 3rd page for a receipt entry. After emailing the company for instruction, they said \u201cyes you can, good luck\u201d basically. When I emailed back twice more for more specific clarification they have neglected to respond. There may be better options/scanners out there, but I paid for a year upfront. I\u2019ll be looking in to other options next year UPDATE I have now heard back from the development team and was informed of a way to log multiple pages. It requires a little more effort, which is not ideal, but it is a way to scan multiple images. I have recommended they add the ability to scan multiple pages for a single receipt entry and will try the workaround method they described to me in the meanwhile. If added, a multiple image scan for a single receipt would make this app top tier imo",
+   "rating": 3,
+   "helpfulness_vote_information": "2 out of 5 customers found this review helpful",
+   "review_date": "Mar 29, 2024",
+   "reviewed_version": "Version 5.1.1",
+   "author": {
+    "name": "Mike Stance",
+    "author_id": "313573083"
+   }
+  },
+  {
+   "position": 3,
+   "id": "11403950518",
+   "title": "Expected something different,..",
+   "text": "Upon downloading this he app in a great rush to get caught up on my receipts. The app appeared to be getting into position to make the scan of the receipt with the green capture field. The field had to be initiated with h the take a picture button at the bottom of the screen, and the first capture was a picture of the receipt, background and everything. So I tried it again, I am thinking that I know how he green field will capture the receipt and bring the receipt into frame and I will have a digital copy of my actual receipt. The second go to as the same, wrinkles and unevenness. I guess I expected more of a scan of the receipt than just a snap shot or pic of the receipt, especially with the green capture field moving and searching for the edges and format of the receipt. The app is pretty simple to use and after the accepted scan the price is 8.99 per month. I would like a more clear and detailed look to the receipts for ease of detail information if needed.",
+   "rating": 2,
+   "review_date": "Jun 20, 2024",
+   "reviewed_version": "Version 5.2.3",
+   "author": {
+    "name": "InDiGloview",
+    "author_id": "1669483695"
+   }
+  },
+  {
+   "position": 4,
+   "id": "8235834947",
+   "title": "Requires too much manual manipulation",
+   "text": "I currently have credit and debit as my budget tracking app. This app exports expenses easily to credit and debit, but when I scan receipts I would say it only recognizes the correct date, total, merchant about 50 to 60% of the time. Some of the receipts it never gets correct no matter how many different ways I try to scan it. Consequently I have to manually edit many of the purchases which makes this app less efficient for me. Increasing the accuracy or helping the app to learn receipts from stores I frequent (CVS receipt seemed to confuse it) would make it a time saver. The other feature that would be helpful is to get the app to recognize which account (credit card and which one, cash, etc) was charged and include that in the information about the purchase. Currently this app seems only marginally more effective than manual entry to me so I did not purchase the subscription.",
+   "rating": 3,
+   "helpfulness_vote_information": "4 out of 7 customers found this review helpful",
+   "review_date": "Jan 13, 2022",
+   "reviewed_version": "Version 1.8",
+   "author": {
+    "name": "ptrickccmd",
+    "author_id": "11479187"
+   }
+  },
+  {
+   "position": 5,
+   "id": "7739978884",
+   "title": "Ok for very basic basics",
+   "text": "This app is alright for tracking expenses and capturing receipts and invoices and then running a report for tax purposes. You can categorize expenses by type per their limited list and can add notes for each receipt. You can scan receipts they the app or upload thru the camera photo function. The bad aspect of this app is once the expenses are added and reports built (By the way, you can only create 2 reports in the free version) there is no way to sort by category, amount , date, vendor, etc. it\u2019s essentially a list of chronological receipts based on the date they were added. This makes it extremely difficult for verification of recurring expenses that may occur weekly or monthly to ensure you\u2019ve captured everything. It\u2019s basically a list you must mull thru and no way to search or sort. Not the best, but works for very basic capture and storing and A report. The paid unlocked version is way to expensive considering the clunky user interface.",
+   "rating": 2,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Aug 27, 2021",
+   "reviewed_version": "Version 1.3.1",
+   "author": {
+    "name": "logan480",
+    "author_id": "1253938290"
+   }
+  },
+  {
+   "position": 6,
+   "id": "9074152991",
+   "title": "Buggy",
+   "text": "Scanning pretty good but had to go back and change every date when discovered it was putting in the day before. It therefore was not scanning for detecting the right day report was nice but again had the wrong dates even after changing the original receipt. Needs work to be effective. Cancelled my subscription and will see if there is something else out there that will save time and aggravation with expense tracking. Obviously the 99.9% accuracy was an illusion for me",
+   "rating": 2,
+   "review_date": "Sep 11, 2022",
+   "reviewed_version": "Version 2.1.3",
+   "author": {
+    "name": "FamilyguyAZ",
+    "author_id": "103344028"
+   }
+  },
+  {
+   "position": 7,
+   "id": "8606987038",
+   "title": "It\u2019s ok",
+   "text": "First the good parts: Slick interface and it captures and crops receipts quickly. The bad: Needs a few clicks to get to scanning, which is frustrating; Lacks folder organization; On Home Depot receipts it never gets the date and merchant right. I mean come on, that\u2019s home depot we are talking about. I have tried all the receipt apps, and really like the interface and scan quality of this one, but I have to go through hundreds of receipts and fixing the merchant name and date on each one is not much better than manually scanning everything. Every other scanning app gets the Home Depot receipts right, but they are either not cropping the receipts or the quality is blurry. I hope this review helps the developers to improve on this app.",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Apr 26, 2022",
+   "reviewed_version": "Version 1.8",
+   "author": {
+    "name": "slavi.yordanov",
+    "author_id": "373868845"
+   }
+  },
+  {
+   "position": 8,
+   "id": "9373929500",
+   "title": "Potential for Greatness",
+   "text": "I love this app. The functionality is great and it\u2019s easy enough to add expenses. However, the app has lots of bugs. I am frequently booted out of my account and have to restore my subscription and sometimes I am unable to view my expenses or edit reports which can be really frustrating. Only use this if you have patience for a developing app with lots of bugs.",
+   "rating": 3,
+   "review_date": "Dec 08, 2022",
+   "reviewed_version": "Version 2.5.1",
+   "author": {
+    "name": "AvaLinds",
+    "author_id": "411732856"
+   }
+  },
+  {
+   "position": 9,
+   "id": "9117530960",
+   "title": "Too many bugs and lacks features",
+   "text": "\u2022 can\u2019t delete receipts or reports \u2022 the date after you scan a receipt is always one day prior to the date on the receipt so you have to manually change it \u2022 can\u2019t search expenses by the month, date, category, or total amount only by the name \u2022 the reports have the wrong dates (this time, one day after the saved date) \u2022 the data is accessible even after you sign out \u2022 you can save future dates in expenses (like if you have a receipt from the future) The concept is great and has potential, but it needs to be better quality. Currently it looks like an app some kid made for a school project. There are much better apps out there for managing finances.",
+   "rating": 2,
+   "review_date": "Sep 24, 2022",
+   "reviewed_version": "Version 2.1.3",
+   "author": {
+    "name": "3un+Shine",
+    "author_id": "24690185"
+   }
+  },
+  {
+   "position": 10,
+   "id": "13172330479",
+   "title": "It\u2019s ok, needs some work",
+   "text": "Why give the option of being able to add expenses in a variety of different currencies when it doesn\u2019t show up on reports? I also wish you could pull a report in Excel format. It\u2019s not bad the app, but if you have expenses in different currencies, the reports won\u2019t show it for some reason.",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Sep 23, 2025",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "JDC7idbrvfks",
+    "author_id": "348441536"
+   }
+  },
+  {
+   "position": 11,
+   "id": "11478508022",
+   "title": "App needs work",
+   "text": "I\u2019ve been using Saldo for a few months running a construction business. At first it seemed to work great. A little slow generating reports. Now the app hardly scans one receipt without bugging out and closing the app. I do not want to use the app any longer. I have paid until May of 2025, but have found a $10 cheaper, more organized, and faster receipt scanner instead.",
+   "rating": 2,
+   "review_date": "Jul 10, 2024",
+   "reviewed_version": "Version 5.3.1",
+   "author": {
+    "name": "Nash Hammock",
+    "author_id": "123883959"
+   }
+  },
+  {
+   "position": 12,
+   "id": "11685240794",
+   "title": "Good for simplicity, lacking\u2026",
+   "text": "Perfect for on the go. Entering receipts is fast and easy, the AI grabs the total and merchant so that makes entry even quicker. Lacks categorization capabilities such as being able to subcategorize, ultimately for a much cleaner report. Will check back for improvements, but for now I need to find something that makes tax time easier.",
+   "rating": 3,
+   "review_date": "Sep 03, 2024",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "ncaltara",
+    "author_id": "276230273"
+   }
+  },
+  {
+   "position": 13,
+   "id": "12543943521",
+   "title": "Not Syncing",
+   "text": "This has happened several times. The app will not sync so you can edit your receipts. It has been three days now and is still not working. I contacted Support with no response. it looks like I wasted several hours in receipts over the past few months. I would highly suggest find a different app that is more reliable and also has a support team that will actually reach out to you.",
+   "rating": 1,
+   "review_date": "Apr 14, 2025",
+   "reviewed_version": "Version 5.3.5",
+   "author": {
+    "name": "Jeff 8538",
+    "author_id": "163151845"
+   }
+  },
+  {
+   "position": 14,
+   "id": "9915714540",
+   "title": "Not great. Disappointed.",
+   "text": "The number are consistently wrong and sometimes the currency isn\u2019t even US currency. I only by in the US. Also, it doesn\u2019t add the receipts up to give you a total. That\u2019s kind of why I bought premium and downloaded this app. It is not worth it at all. Another thing, I can\u2019t click on individual categories to at least add those up myself in those specific categories. Very unorganized.",
+   "rating": 1,
+   "review_date": "May 11, 2023",
+   "reviewed_version": "Version 3.3.2",
+   "author": {
+    "name": "riverstevens21",
+    "author_id": "183422346"
+   }
+  },
+  {
+   "position": 15,
+   "id": "8356532940",
+   "title": "Decent app if it would let me use it",
+   "text": "Paid for the full version which I\u2019m not even able to use, it just says \u201cupgrade to full version\u201d then when I click on that it says I\u2019m already subscribed without giving me access to features.",
+   "rating": 3,
+   "review_date": "Feb 15, 2022",
+   "reviewed_version": "Version 1.8",
+   "author": {
+    "name": "Sky G.",
+    "author_id": "480371649"
+   }
+  },
+  {
+   "position": 16,
+   "id": "10246974913",
+   "title": "The free version doesn\u2019t even scan receipts",
+   "text": "It let me scan like 10 receipts but now when I try just get a pop up trying to sell me the $10/mo subscription, and I can\u2019t close the pop up to scan my receipt. I don\u2019t need fancy features like expense reports, just want a dedicated place to store pictures of receipts, that\u2019s not worth $10/mo.",
+   "rating": 2,
+   "review_date": "Aug 11, 2023",
+   "reviewed_version": "Version 4.0.0",
+   "author": {
+    "name": "unodrummer",
+    "author_id": "7786541"
+   }
+  },
+  {
+   "position": 17,
+   "id": "10178696013",
+   "title": "Unable to take multiple pictures of receipts",
+   "text": "It clearly says while using the camera you can take multiple pictures of receipts but this is not true because it always keeps the first photo. Will this ever get fixed?",
+   "rating": 3,
+   "review_date": "Jul 25, 2023",
+   "reviewed_version": "Version 3.3.5",
+   "author": {
+    "name": "Dustin Mankillah",
+    "author_id": "1409880901"
+   }
+  },
+  {
+   "position": 18,
+   "id": "11190603690",
+   "title": "Love this app!",
+   "text": "So easy. So detailed and convenient. Makes my life a lot easier at the end of the month when CC reconciliation is due. Thank you!",
+   "rating": 5,
+   "review_date": "Apr 23, 2024",
+   "reviewed_version": "Version 5.2.2",
+   "author": {
+    "name": "Hanny buggy",
+    "author_id": "334350413"
+   }
+  },
+  {
+   "position": 19,
+   "id": "9177362416",
+   "title": "Not reliable",
+   "text": "The app experiences issues with receipts. If a report needs to be created or updated then you are at the mercy of it working right that moment. Customer service only tells you issues will be fixed but don\u2019t tell you when. I\u2019ve had to request extensions at work to make sure I can gather all receipts and offer reports",
+   "rating": 1,
+   "review_date": "Oct 12, 2022",
+   "reviewed_version": "Version 2.1.3",
+   "author": {
+    "name": "Santyyy",
+    "author_id": "103486639"
+   }
+  },
+  {
+   "position": 20,
+   "id": "12864724592",
+   "title": "Working great",
+   "text": "I really like this app. Easy to scan recipes or upload from photos. Very organized.",
+   "rating": 5,
+   "review_date": "Jul 07, 2025",
+   "reviewed_version": "Version 5.3.6",
+   "author": {
+    "name": "rjr5942",
+    "author_id": "174993339"
+   }
+  },
+  {
+   "position": 21,
+   "id": "13235857037",
+   "title": "Does separate by year or total",
+   "text": "I have been scanning receipts last year and this year. It does not give a total or separate by year. I still have to manually add up. When I click report nothing shows up. I thought this would make my life easier but the only thing it does is keep track of receipts that\u2019s it.",
+   "rating": 1,
+   "review_date": "Oct 07, 2025",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Kaypea1979",
+    "author_id": "154460457"
+   }
+  },
+  {
+   "position": 22,
+   "id": "8403424354",
+   "title": "Pleased but have a question",
+   "text": "How do you have the app total the scanned receipts and generate a report? I have the paid version.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Feb 27, 2022",
+   "reviewed_version": "Version 1.8",
+   "author": {
+    "name": "t-o-t-a-l-l-y AWESOME!!!!!!!!!!!!!",
+    "author_id": "42918078"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14070824084",
+   "title": "Lost all content",
+   "text": "I was keeping recipts for almost 2 years and now there all gone",
+   "rating": 5,
+   "review_date": "May 16, 2026",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Lawn care service",
+    "author_id": "141553710"
+   }
+  },
+  {
+   "position": 24,
+   "id": "9836554860",
+   "title": "Scanner",
+   "text": "Love it fast easy makes keeping track so much easier",
+   "rating": 5,
+   "review_date": "Apr 19, 2023",
+   "reviewed_version": "Version 3.3.1",
+   "author": {
+    "name": "the cookie critic\u2764\ufe0f",
+    "author_id": "742389728"
+   }
+  },
+  {
+   "position": 25,
+   "id": "13602454121",
+   "title": "Create folder",
+   "text": "The app over all is great, I think just being able to start fresh for a new year and have folders for each year of receipts would be beneficial",
+   "rating": 3,
+   "review_date": "Jan 06, 2026",
+   "reviewed_version": "Version 6.0.1",
+   "author": {
+    "name": "Boogeyman82",
+    "author_id": "667520993"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1550270774&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1550270774&sort=mosthelpful"
+ }
+}

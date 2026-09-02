@@ -1,0 +1,362 @@
+{
+ "search_metadata": {
+  "id": "6a96c9d34707f1d3a8f8517f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/YQNGHDWcJiieudAVorHznz6-dWI4XHDtgnDRdEOjBZI/6a96c9d34707f1d3a8f8517f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/YQNGHDWcJiieudAVorHznz6-dWI4XHDtgnDRdEOjBZI/6a96c9d34707f1d3a8f8517f.md",
+  "created_at": "2026-09-01 12:49:23 UTC",
+  "processed_at": "2026-09-01 12:49:23 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1547137474&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/YQNGHDWcJiieudAVorHznz6-dWI4XHDtgnDRdEOjBZI/6a96c9d34707f1d3a8f8517f.html",
+  "prettify_html_file": "https://serpapi.com/searches/YQNGHDWcJiieudAVorHznz6-dWI4XHDtgnDRdEOjBZI/6a96c9d34707f1d3a8f8517f.prettify",
+  "total_time_taken": 0.5
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1547137474",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "total_page_count": 8,
+  "reviews_for_currrent_version": 6,
+  "reviews_for_current_version": 6,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14406483115",
+   "title": "Great",
+   "text": "Great app but I wish the streak counter would reset. I use the habit tracker to track how many days I\u2019ve gone without a drink and if I choose to have one and the next day doesn\u2019t restart my counter or streak",
+   "rating": 4,
+   "review_date": "Aug 09, 2026",
+   "reviewed_version": "Version 1.1.8",
+   "author": {
+    "name": "D-Scotts",
+    "author_id": "310171741"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14402900490",
+   "title": "It has promise",
+   "text": "I\u2019d really like a one block widget where I can see all my tasks and track them there, without it opening the app on me. Right now, I can only see one task at a time per widget and it takes up so much room.",
+   "rating": 3,
+   "review_date": "Aug 08, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Admittedly, newb.",
+    "author_id": "285406592"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14385616593",
+   "title": "THANK YOU!!",
+   "text": "This is the best app for ADHD I literally have tried so many things and apps, and this has helped me maintain consistency and keep organized with my habits the best. Genuinely couldn\u2019t be happier with this app and I love that it\u2019s free, thank you so much.",
+   "rating": 5,
+   "review_date": "Aug 04, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "kswan1234",
+    "author_id": "953985424"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14359179692",
+   "title": "Great app for the price",
+   "text": "This is a great app. Interface is straight forward, love the pomodoro and monthly stats feature. Very easy to use for habit tracking. -1 star though because even though it claims otherwise, it doesn\u2019t work for habits that are more or less than daily. Also would be willing to pay up to 4.99 a month for more features, e.g. folders for sorting habits, daily journal prompts.",
+   "rating": 4,
+   "review_date": "Jul 28, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "leah bow",
+    "author_id": "505283081"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14326501421",
+   "title": "10/10",
+   "text": "great app, easy to use, the only good free one. has a great habit tracker with unlimited habits and very customizable even down to the color, order, frequency, and setting reminders throughout the day. also has a journal and pomodoro timer in the same app",
+   "rating": 5,
+   "review_date": "Jul 20, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "liebestraum1729",
+    "author_id": "1194059708"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14321806521",
+   "title": "Good app, but the layout could be improved",
+   "text": "I wish that I could see the time for each habit without having to click into it. I also wish you could choose the color of your habits.",
+   "rating": 4,
+   "review_date": "Jul 19, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "cturner17",
+    "author_id": "1187251341"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14281675824",
+   "title": "Very amazing",
+   "text": "The app is completely free which I love and it doesn\u2019t buy me everyday to \u201c upgrade to premium\u201d it does exactly what I need it to and looks extremely clean and aesthetic! Would recommend and day to anyone",
+   "rating": 5,
+   "review_date": "Jul 09, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Lillian Gubany",
+    "author_id": "1843178406"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14254399815",
+   "title": "Only Smart Habit Tracker",
+   "text": "Love the update that brought us the monthly and yearly summaries. Very cool and enjoy the data! This is the only habit tracker I have found that is able to handle my \u201c3 day a week (but ANY day of the week)\u201d habits. It tracks them just like my daily habits. It is easy to use. It gets the job done. I don\u2019t use the journal or focus parts, just the tracker.",
+   "rating": 5,
+   "review_date": "Jul 02, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "jansje81",
+    "author_id": "520599136"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14247974739",
+   "title": "yay",
+   "text": "the perfect basic habit tracker!! 0 ads or cash grabs",
+   "rating": 5,
+   "review_date": "Jul 01, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "90282",
+    "author_id": "647088078"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14187117377",
+   "title": "Please add ability to change color after habit is set!",
+   "text": "This app is great for building habits, and I love how adding more than one isn\u2019t gated by a paywall\u2014but please add the ability to change the habit color after you set it! Otherwise, very satisfied with the app.",
+   "rating": 4,
+   "review_date": "Jun 15, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "winged.critter",
+    "author_id": "1687327807"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14132757703",
+   "title": "Wow",
+   "text": "Amazing app",
+   "rating": 5,
+   "review_date": "Jun 01, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "David erroa",
+    "author_id": "1314411687"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14123639474",
+   "title": "Perfect. ACTUALLY FREE. Simple.",
+   "text": "If you just want to keep track of progress on habits, this does that clearly and simply and you don\u2019t have to pay when all the other apps make you do so. Bless the person who made this 1000x.",
+   "rating": 5,
+   "review_date": "May 30, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "KurtwiththeShirt",
+    "author_id": "1133669911"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14060433155",
+   "title": "Best App of All Time",
+   "text": "Only habit app that I could find that lets you make infinite habits for free. The greatest app ever and I will use it until I\u2019m dead.",
+   "rating": 5,
+   "review_date": "May 13, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Jack_Orlandi13",
+    "author_id": "1921354555"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14045501473",
+   "title": "Love the colorful, simple interface. Missing a few key functionalities.",
+   "text": "I\u2019ve used a few habit tracking apps and this is my favorite interface that I\u2019ve seen. I love that it\u2019s clean, colorful and easy to read. Great work! Would love to keep using it but definitely missing a few functions that I\u2019ve seen in other apps that would be useful: - Being able to check off a habit multiple times in one day (for instance, for medicine that needs to be taken morning and night) - Being able to duplicate already created habits so as not to have to set all parameters from scratch - Being able to click through the calendar to see habit/task lists on different days - Being able to sort habits by time of day (morning vs evening for example) - Being able to set the time increment to \u201cweeks\u201d or \u201cmonths\u201d for habits. Currently, everything is by days so a weekly habit must be set to every \u201c7 days\u201d, which isn\u2019t totally intuitive.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "May 09, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Rosieate",
+    "author_id": "225781212"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14021302236",
+   "title": "Deleted my Habits TWICE",
+   "text": "There\u2019s no promise your app won\u2019t just open one day to an empty \u201cstart your task\u201d even after months of tracking several tasks DAILY. So annoying, and I won\u2019t be using this app anymore.",
+   "rating": 1,
+   "review_date": "May 02, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Naomi Amaris",
+    "author_id": "345626143"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14018076544",
+   "title": "Good overall",
+   "text": "Good for tracking habits. The only frustrating thing is the monthly wrap never includes the last day of the month. So even if you do the habit all 30 days in the month, it always says you only did 29/30 or 97% completion when it was truly 100%.",
+   "rating": 4,
+   "review_date": "May 01, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "looksbylex",
+    "author_id": "41042997"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14005856327",
+   "title": "Perfect",
+   "text": "Finally, a simple, straightforward habit tracking app without all the hassles of subscriptions and ads. Been looking for this for a while. Would highly recommend.",
+   "rating": 5,
+   "review_date": "Apr 28, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "bigcountryeaton",
+    "author_id": "1225460788"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14004377053",
+   "title": "I love this app",
+   "text": "This app is amazing and I want to thank the developers for making such a great app for people to use honestly using it for free just makes me a lot better about myself and helps me really focus on the things I wanna get done rather than paying for a subscription. One suggestion, I would really want the developers to make and do is to make it widget, live activity and synchronize with shortcuts so I could use it in multiple ways",
+   "rating": 5,
+   "review_date": "Apr 28, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Txha1",
+    "author_id": "1422858822"
+   }
+  },
+  {
+   "position": 19,
+   "id": "13922090666",
+   "title": "Missed Check - Backfill",
+   "text": "Please add ability to backfill missed check in the calendar beyond one week",
+   "rating": 4,
+   "review_date": "Apr 04, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Umka.Kotov",
+    "author_id": "472536805"
+   }
+  },
+  {
+   "position": 20,
+   "id": "13881541380",
+   "title": "Nice",
+   "text": "NICEEEEEE",
+   "rating": 5,
+   "review_date": "Mar 24, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Ef2030*",
+    "author_id": "1667757491"
+   }
+  },
+  {
+   "position": 21,
+   "id": "13843954363",
+   "title": "Best FREE Routine App Of All Time",
+   "text": "Best App Ever",
+   "rating": 5,
+   "review_date": "Mar 13, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Jaxrocknmom",
+    "author_id": "34794987"
+   }
+  },
+  {
+   "position": 22,
+   "id": "13803466455",
+   "title": "Great, though I have a feature request",
+   "text": "I don\u2019t know much about atomic habits but I do like the suggestions to make a smallest unit. It would be nice though to be able to log how much of something you\u2019ve done in a day, to see how far you\u2019ve gone past the smallest unit. For example having 5 minutes of something as the minimum, but logging 15 minutes for the day bc you felt like doing extra that day.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Mar 01, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "HaulEthanol",
+    "author_id": "284813661"
+   }
+  },
+  {
+   "position": 23,
+   "id": "13796698255",
+   "title": "Pretty cool app so far",
+   "text": "First day of having the app and I\u2019m liking it so far but I wish the timer function was more noticeable because I found myself taking too much time on certain things. I will say I like how there\u2019s no adds and the overall design is cool. Last thing I kinda wish there was other things you could do with the app other than the three or four things it gives you",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Feb 28, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Fartinabox",
+    "author_id": "1212308802"
+   }
+  },
+  {
+   "position": 24,
+   "id": "13773165476",
+   "title": "GREAT!!!",
+   "text": "Ever since I downloaded this super awesome app, I can finish one hour work in just about 15 minutes and have lots of more time for hobbies. Even my parents marvel at the high efficiency. I think this app is the key to spending time sufficiently and gayly!",
+   "rating": 5,
+   "review_date": "Feb 21, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Dolby_zx",
+    "author_id": "172288516"
+   }
+  },
+  {
+   "position": 25,
+   "id": "13754612578",
+   "title": "Refreshingly free",
+   "text": "Would like integration across platforms but perfect other than that",
+   "rating": 5,
+   "review_date": "Feb 16, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "getqjnsj",
+    "author_id": "898723462"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1547137474&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1547137474&sort=mostrecent"
+ }
+}

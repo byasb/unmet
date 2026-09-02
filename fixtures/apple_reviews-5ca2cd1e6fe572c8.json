@@ -1,0 +1,359 @@
+{
+ "search_metadata": {
+  "id": "6a96ca67b6a867964a98b248",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/YzzQqKBBcrAeG7w4fmKYlhk0OHkewXI_9zWPVpac_pQ/6a96ca67b6a867964a98b248.json",
+  "markdown_endpoint": "https://serpapi.com/searches/YzzQqKBBcrAeG7w4fmKYlhk0OHkewXI_9zWPVpac_pQ/6a96ca67b6a867964a98b248.md",
+  "created_at": "2026-09-01 12:51:51 UTC",
+  "processed_at": "2026-09-01 12:51:51 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1538521095&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/YzzQqKBBcrAeG7w4fmKYlhk0OHkewXI_9zWPVpac_pQ/6a96ca67b6a867964a98b248.html",
+  "prettify_html_file": "https://serpapi.com/searches/YzzQqKBBcrAeG7w4fmKYlhk0OHkewXI_9zWPVpac_pQ/6a96ca67b6a867964a98b248.prettify",
+  "total_time_taken": 1.88
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1538521095",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 9,
+  "reviews_for_current_version": 9,
+  "total_page_count": 26,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14474233629",
+   "title": "Trial Period",
+   "text": "So far I\u2019m very impressed.",
+   "rating": 4,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "PGH94",
+    "author_id": "433507014"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14464999624",
+   "title": "Fabuloso",
+   "text": "F\u00e1cil de usarlo",
+   "rating": 5,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "55dieselrepairllc",
+    "author_id": "988642820"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14451779949",
+   "title": "UGC Creator\u2014 perfect app for taxes",
+   "text": "This app is super easy to use and user-friendly. Makes me feel less stressed out for tax season! I love that it uses AI to automate a full report for me. It takes a lot to guess-work out of providing deduction information to my tax agent. And it gives me peace of mind incase I get audited.",
+   "rating": 5,
+   "review_date": "Aug 20, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "cleemon",
+    "author_id": "248675078"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14415627729",
+   "title": "Easier than any other program I have tried",
+   "text": "I have tried so many different programs and this is by far the best I have ever tried. I didn\u2019t make me put in a cc # for the free trial. That was a big plus for me. It\u2019s all laid out so user friendly that even an old lady like myself can use it. \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+   "rating": 5,
+   "review_date": "Aug 11, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "lanajpt",
+    "author_id": "29719353"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14402376123",
+   "title": "Flytieguy New User",
+   "text": "Just installed, very impressed! I\u2019ll keep you informed. I\u2019m very excited to use this app daily!",
+   "rating": 4,
+   "review_date": "Aug 08, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "Flytieguy1",
+    "author_id": "1810793516"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14391333880",
+   "title": "Just Get It",
+   "text": "I\u2019ve tried all of the other apps and I came back to this one. It\u2019s simple, the price is fair and it does what it needs to.",
+   "rating": 5,
+   "review_date": "Aug 05, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "Cheybug93",
+    "author_id": "205345892"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14367324174",
+   "title": "Good product",
+   "text": "So far it seems to be a good tool for keeping receipts recorded.",
+   "rating": 5,
+   "review_date": "Jul 30, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "Eodcoffman",
+    "author_id": "159459193"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14365977223",
+   "title": "24hrs in and great",
+   "text": "So far so good, I\u2019ll update after a few weeks.",
+   "rating": 5,
+   "review_date": "Jul 30, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "dwiesner54",
+    "author_id": "113956259"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14362061476",
+   "title": "Great apps!",
+   "text": "Extremely pleased with the SimpleWise suite of apps. Easy and clear to use. Currently using the receipt and estimate apps and find new useful features every time I use them. I highly recommend.",
+   "rating": 5,
+   "review_date": "Jul 29, 2026",
+   "reviewed_version": "Version 0.85.0",
+   "author": {
+    "name": "Bfliller",
+    "author_id": "503184723"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14332171844",
+   "title": "Great Service",
+   "text": "Simple and easy\u2026like a feather weight\u2026simple and easy\u270c\ud83c\udffd\u2714\ufe0f",
+   "rating": 5,
+   "review_date": "Jul 21, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "Abdullah Peace-Child",
+    "author_id": "1943201360"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14315622727",
+   "title": "Owner",
+   "text": "Great app for organizing invoices",
+   "rating": 5,
+   "review_date": "Jul 17, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "MoNMeg843",
+    "author_id": "1899375577"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14291763360",
+   "title": "Satisfied customer",
+   "text": "Very Convenient",
+   "rating": 5,
+   "review_date": "Jul 11, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "mallymal59",
+    "author_id": "607161480"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14280923633",
+   "title": "Giving it a try",
+   "text": "First day",
+   "rating": 2,
+   "review_date": "Jul 09, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "NMORMAN6",
+    "author_id": "996733211"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14279312276",
+   "title": "I definitely like it",
+   "text": "I haven\u2019t used simplywise long but so far it\u2019s just what I hoped for. Great for keeping track of work receipts etc.",
+   "rating": 5,
+   "review_date": "Jul 08, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "jamierjd",
+    "author_id": "622270545"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14276311709",
+   "title": "Handy",
+   "text": "Easy to keep up on receipts",
+   "rating": 5,
+   "review_date": "Jul 08, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "Markroy1",
+    "author_id": "116554754"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14268512143",
+   "title": "Photos no longer very good",
+   "text": "I really do love this app. I probably used it for at least five years. For a while the photos were great and now they've gone back to being not so great. Don't know what happened but don't like that aspect of this.",
+   "rating": 4,
+   "review_date": "Jul 06, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "OpieLover68",
+    "author_id": "308083591"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14214487467",
+   "title": "Awesome Tracking App",
+   "text": "I needed a expense tracking app and this is very fast and easy to use.",
+   "rating": 5,
+   "review_date": "Jun 22, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "Blackseone",
+    "author_id": "1042757549"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14212593418",
+   "title": "Bookkeeper here - this one\u2019s the next",
+   "text": "I went on a receipt rampaged journey to find the best ones out there. This one is it. QuickScan is also great if you don\u2019t need days extraction, just ocr.",
+   "rating": 5,
+   "review_date": "Jun 22, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "ShatchiFlower",
+    "author_id": "375996322"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14159261072",
+   "title": "Can\u2019t live without it",
+   "text": "My husband and I LOVE this app!! We use it to track all of our property expensive between houses! You don\u2019t have to manually type anything, one picture of the receipt and it does the work for you! I love that you can assign them to different folders and even export to excel! Love love love!",
+   "rating": 5,
+   "review_date": "Jun 08, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "LovinLife201",
+    "author_id": "374863827"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14145395107",
+   "title": "?Rewards Much?",
+   "text": "?Where are the rewards?",
+   "rating": 3,
+   "review_date": "Jun 05, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "AnnaLyMarieS",
+    "author_id": "1529332540"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14138968073",
+   "title": "Great receipt scanner",
+   "text": "Scanning and categorizing receipts is a breeze with this app!",
+   "rating": 5,
+   "review_date": "Jun 03, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "PFCU Fan",
+    "author_id": "20291005"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14101108542",
+   "title": "Makes life easier",
+   "text": "This a time saving app and makes storing receipts much easier. No more trying to save a bunch of paper receipts in my office.",
+   "rating": 5,
+   "review_date": "May 24, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "scribanote",
+    "author_id": "122572821"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14087357164",
+   "title": "Tax preparation",
+   "text": "This app keeps me on track while I\u2019m on the road.",
+   "rating": 5,
+   "review_date": "May 20, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "EricFnndz",
+    "author_id": "633975451"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14057604838",
+   "title": "A lifesaver",
+   "text": "Thank you so much for helping me. Keep on track.",
+   "rating": 5,
+   "review_date": "May 12, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "B Desserts",
+    "author_id": "1480054623"
+   }
+  },
+  {
+   "position": 25,
+   "id": "14054079327",
+   "title": "Easy peasy\u2764\ufe0f",
+   "text": "I really love this app. Anytime I get a receipt. I just scan it and add it to the proper category so I can track that on a regular basis. Well worth the cost.",
+   "rating": 5,
+   "review_date": "May 11, 2026",
+   "reviewed_version": "Version 0.84.0",
+   "author": {
+    "name": "hardlesson1212",
+    "author_id": "948535482"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1538521095&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1538521095&sort=mostrecent"
+ }
+}

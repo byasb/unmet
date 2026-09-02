@@ -1,0 +1,1273 @@
+{
+ "search_metadata": {
+  "id": "6a96ca6214537bcde3ee903d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/IO_iiABnt13C4qliOvR08KSWM3t_m8D0_SOMn7X7kDs/6a96ca6214537bcde3ee903d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/IO_iiABnt13C4qliOvR08KSWM3t_m8D0_SOMn7X7kDs/6a96ca6214537bcde3ee903d.md",
+  "created_at": "2026-09-01 12:51:46 UTC",
+  "processed_at": "2026-09-01 12:51:46 UTC",
+  "apple_app_store_url": "https://itunes.apple.com/search?media=software&term=receipt+scanner&country=us&lang=en-us&explicit=yes&limit=6",
+  "raw_html_file": "https://serpapi.com/searches/IO_iiABnt13C4qliOvR08KSWM3t_m8D0_SOMn7X7kDs/6a96ca6214537bcde3ee903d.html",
+  "prettify_html_file": "https://serpapi.com/searches/IO_iiABnt13C4qliOvR08KSWM3t_m8D0_SOMn7X7kDs/6a96ca6214537bcde3ee903d.prettify",
+  "total_time_taken": 0.59
+ },
+ "search_parameters": {
+  "engine": "apple_app_store",
+  "term": "receipt scanner",
+  "country": "us",
+  "lang": "en-us",
+  "device": "mobile",
+  "num": "6"
+ },
+ "search_information": {
+  "organic_results_state": "Results for exact spelling",
+  "results_count": 5
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "id": 1182474649,
+   "title": "Fetch: Receipts for Gift Cards",
+   "bundle_id": "com.FetchRewards.HopBeta",
+   "version": "4.59.0",
+   "vpp_license": true,
+   "age_rating": "12+",
+   "release_note": "We\u2019ve been busy fixing bugs, speeding things up, and smoothing out the overall app experience. All to help you earn points more easily, track rewards more reliably, and get to your next gift card a little faster.",
+   "seller_link": "https://fetch.com/",
+   "minimum_os_version": "16.0",
+   "description": "YOU DESERVE A REWARD Fetch rewards you for pretty much everything you do. Join millions of people living their most rewarded life on America\u2019s Rewards App! HOW FETCH WORKS 1. Submit receipts or shop online for points 2. Earn extra on hundreds of brands in the app 3. Redeem points for your favorite gift cards RECEIPTS TO REWARDS IN A SNAP Turn every receipt into rewards. You\u2019ll earn Fetch Points for snapping receipts from any store, supermarket, gas station and restaurant in America. Turn those points into your favorite rewards in the app. YOUR FAVORITES AT YOUR FINGERTIPS No more clipping coupons or searching the internet for deals. Just hop into Fetch and find hundreds of point-earning offers and brands in the app. New offers are added every day. ENJOY THE REWARDS Fetch Points unlock a world of rewards. Redeem them for your favorite gift cards from Amazon, Apple, Walmart, Target and more. Prefer cash rewards? Use your points for Visa Cash Cards. AN ONLINE SHOPPING SUPERPOWER With Fetch Shop, you can shop your favorite brands online directly in the app and earn points on every dollar spent. It\u2019s the most rewarding way to shop online. ADD FETCH TO YOUR BROWSER Prefer shopping from your phone or laptop\u2019s browser? Install the Fetch Extension for Safari and Chrome and discover the most rewarding deals online. YOUR NEW SHOPPING SIDEKICK Build points-packed shopping lists, get notified of big offers in your neighborhood and find the internet\u2019s most rewarding deals. Your world is more rewarding with Fetch in your pocket. SCORE AT LOCAL BUSINESSES You\u2019ll earn points at every store or restaurant, even your favorite spot down the block. Support your local favorites and enjoy the rewards. FUEL UP ON POINTS Check out your gas station offers in the app and earn gas rewards every time you fill up your tank. REWARDS WITHOUT THE CATCH Fetch is totally free and easy to use. We\u2019ll never ask for credit card or banking information. Just sign up and start earning today. YOUR FIRST BONUS IS ON US Join Fetch and submit any receipt for a first-snap bonus! Ready to put America\u2019s favorite rewards app in your pocket? Download Fetch and start earning free gift cards today! ------- * America\u2019s Favorite Rewards App - data.ai ** #1 Best Cash Back App for 2022 - Motley Fool *** Must-Have Shopping App - Apple App Store Editorial **** Top 5 Cash Back App for Earning Money When You Shop - Experian",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/fetch-receipts-for-gift-cards/id1182474649?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=1182474649&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1182474649&sort=mostrecent",
+   "release_date": "2016-12-07 22:45:08 UTC",
+   "latest_version_release_date": "2026-08-31 14:36:16 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.85,
+     "count": 7600753
+    }
+   ],
+   "genres": [
+    {
+     "name": "Shopping",
+     "id": 6024,
+     "primary": true
+    },
+    {
+     "name": "Lifestyle",
+     "id": 6012,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "Fetch Rewards, LLC",
+    "id": 674564102,
+    "link": "https://apps.apple.com/us/developer/id674564102"
+   },
+   "size_in_bytes": 239063040,
+   "supported_languages": [
+    "EN",
+    "ES"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/ce/b7/5cceb729-c5ad-bee2-dacd-3793c94abae9/Appstore-Refresh_iOS_1290x2796_1.png/320x480bb.jpg",
+      "size": "1290x2796"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/a0/a0/51a0a036-4604-68c1-e4b8-7963faf3778b/Appstore-Refresh_iOS_1290x2796_2.png/320x480bb.jpg",
+      "size": "1290x2796"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/7f/73/e67f73ff-99b2-4d5c-45d8-a6d4af3e79be/Appstore-Refresh_iOS_1290x2796_3.png/320x480bb.jpg",
+      "size": "1290x2796"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/c5/96/9bc596e9-4b85-301e-609c-3678dcf65732/Appstore-Refresh_iOS_1290x2796_5.png/320x480bb.jpg",
+      "size": "1290x2796"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/5f/9b/ba5f9b5f-8b20-0e37-64af-19ea31f5fd92/Appstore-Refresh_iOS_1290x2796-06.png/320x480bb.jpg",
+      "size": "1290x2796"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/e2/72/a0e27250-93fd-5638-0201-becc4390b8ab/Appstore-Refresh_iOS_1290x2796_4.png/320x480bb.jpg",
+      "size": "1290x2796"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/11/33/f211332c-4d16-88d2-471e-6d0fa3e039df/Appstore-Refresh_iOS_1290x2796-07.png/320x480bb.jpg",
+      "size": "1290x2796"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/a9/39/82a939bf-7e39-17fe-7e7c-a8ad0e921b14/Appstore-Refresh_iOS_2064x2752_1.png/360x480bb.jpg",
+      "size": "2064x2752"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/e0/4b/39e04b1c-ab25-f8e1-d847-aacb1c79c36d/Appstore-Refresh_iOS_2064x2752_2.png/360x480bb.jpg",
+      "size": "2064x2752"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/88/91/95889148-28b1-9ecd-7f81-9b982a1129dc/Appstore-Refresh_iOS_2064x2752_3.png/360x480bb.jpg",
+      "size": "2064x2752"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/e2/32/6fe232a0-bd3b-dab8-6ce9-4d2bc0e4c6b3/Appstore-Refresh_iOS_2064x2752_4.png/360x480bb.jpg",
+      "size": "2064x2752"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/89/75/4289755d-dd10-0c0c-7509-b6d677ae3707/Appstore-Refresh_iOS_2064x2752_5.png/360x480bb.jpg",
+      "size": "2064x2752"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/f1/87/7df18724-301d-3df7-7406-170b243f0723/Appstore-Refresh_iOS_2064x2752_6.png/360x480bb.jpg",
+      "size": "2064x2752"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/b1/ab/47b1abf7-7354-107e-6c3c-b8e14cf46650/Appstore-Refresh_iOS_2064x2752_7.png/360x480bb.jpg",
+      "size": "2064x2752"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/3a/25/a63a2595-8ddd-fce7-313a-002d6b127298/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/3a/25/a63a2595-8ddd-fce7-313a-002d6b127298/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/3a/25/a63a2595-8ddd-fce7-313a-002d6b127298/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "advisories": [
+    "Infrequent/Mild Contests",
+    "Infrequent/Mild Alcohol, Tobacco, or Drug Use or References",
+    "Infrequent/Mild Simulated Gambling"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 2,
+   "id": 1538521095,
+   "title": "SimplyWise: Receipts, Expenses",
+   "bundle_id": "com.simplywise.mobile",
+   "version": "0.85.0",
+   "vpp_license": true,
+   "age_rating": "17+",
+   "release_note": "We've been hard at work on several exciting new features, as well as minor improvements/bug-fixes.",
+   "seller_link": "https://www.simplywise.com/",
+   "minimum_os_version": "15.5",
+   "description": "All-in-one solution for effortless expense management, receipts scanning, tax refund optimization. Simplify your financial life with the most accurate receipt scanner, one-tap filing & expense categorization, smart reminders for tax deductions, instant expense reports, and more. AI-DRIVEN RECEIPT SCANNER \u2022 Scan and store receipts, bills, invoices, and important paperwork effortlessly with our AI-driven receipt scanner. \u2022 Capture key information, including store name, date, tip, sales tax, and total with our AI-driven receipt scanner. \u2022 Get notified of upcoming return deadlines based on store policies with smart reminders. YOUR DIGITAL EXPENSE MANAGER \u2022 Search and find what you need instantly, whether by expense category, store, or custom note. \u2022 Track spending with monthly and yearly expense reports by category. \u2022 Send PDFs, JPEGs, or Excel spreadsheets with ease via text or email. IMPORT RECEIPTS AUTOMATICALLY \u2022 Automatically import business receipts from your email and online accounts (Gmail, Outlook, Amazon, Walmart, PayPal) by connecting them to SimplyWise. MAXIMIZE TAX REFUND \u2022 Turn your receipts into PDFs and organized spreadsheets categorized by expenses with just one tap. \u2022 Easily identify potential tax write-offs, so you make the most of every tax deduction. SEAMLESS INTEGRATION \u2022 Connect with bank or credit card accounts to match receipts with transactions, and automatically flag discrepancies. UNLIMITED STORAGE & BANK-LEVEL SECURITY \u2022 All documents are stored in a secure and unlimited cloud with 256-bit encryption. Most used words for our all-in-one expense manager app gathered from 10.000+ reviews: Exceptional Customer Service! Best Receipt Scanner! Ultra Easy to Use! Save Me Tons of Money! Here are a few more examples: This app's receipt scanner feature flawlessly scans business receipts no matter how torn, wrinkled, or messed up they are and I love their awesome expense reports. - Manfred, 2023 My first praises for the customer service! They contacted me probably within 30 min or less after my form request. The app is so helpful as an expense manager. - Rose, 2023 I love the simplicity and speed of this expense manager app. The app's powerful OCR technology accurately scans receipts, making it incredibly easy to keep track of your expenses. Best receipt scanner out there!! - Mikail, 2023 Download SimplyWise now and experience a new level of organization, accuracy, and convenience in expense management. To learn more, visit our Terms of Service at https://www.simplywise.com/terms.",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/simplywise-receipts-expenses/id1538521095?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=1538521095&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1538521095&sort=mostrecent",
+   "release_date": "2020-12-05 08:00:00 UTC",
+   "latest_version_release_date": "2026-07-23 13:34:01 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.85,
+     "count": 37141
+    }
+   ],
+   "genres": [
+    {
+     "name": "Finance",
+     "id": 6015,
+     "primary": true
+    },
+    {
+     "name": "Business",
+     "id": 6000,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "SimplyWise, Inc.",
+    "id": 1538521097,
+    "link": "https://apps.apple.com/us/developer/id1538521097"
+   },
+   "size_in_bytes": 128730112,
+   "supported_languages": [
+    "EN"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/e5/6c/f0e56cb8-510b-917e-a091-d0a94b77b469/1a381648-db73-4009-bbdf-2eaf0953ae50_Screen_1.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/f9/01/94f90126-6f5f-8399-0c77-a959da6b0cb3/5e999f2f-26c5-45f8-8b85-343aa26638b1_Screen_2.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/aa/dd/d0aadd34-674c-db54-0e0f-a67c9f0afae5/0136ae71-7bc3-4a24-9ddc-14f3b4014747_Screen_3.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/c8/b2/3ec8b2e6-17d7-184f-9c8b-41f5d150dc12/fb2ebee2-4d47-4d4e-9e17-73a455c556d6_Screen_4.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/04/12/51041298-6d2b-27d3-c304-4bb599086764/b5b8f3ec-34c1-48ba-8118-91eb4aed6652_Screen_5.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/80/59/418059ce-f99d-de8b-9bef-331cd351bcf7/76bc7b8e-2f7a-4fa5-b69b-3d6ae2720315_Screen_6.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/57/fb/6357fbf3-e096-c620-c662-56a4ea66eee6/2c6894cd-a99c-41fd-a936-f7284d370e8f_Screen_7.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/e6/60/aae660fd-664c-6663-7f32-8fd2e22cf8f1/5767d57b-d683-4236-abda-67b2510715ee_Screen_8.jpg/392x696bb.jpg",
+      "size": "392x696"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/7b/ad/6a7bad42-ac01-65eb-5545-63ba5745cc59/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/7b/ad/6a7bad42-ac01-65eb-5545-63ba5745cc59/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/7b/ad/6a7bad42-ac01-65eb-5545-63ba5745cc59/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 3,
+   "id": 377672876,
+   "title": "Scanner App: Genius Scan",
+   "bundle_id": "com.geniussoftware.GeniusScan",
+   "version": "8.13.1",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "We're always making changes and improvements to Genius Scan. Install this new update to get the latest new features and bug fixes.",
+   "seller_link": "https://www.thegrizzlylabs.com",
+   "minimum_os_version": "17.0",
+   "description": "Genius Scan is a document scanner app in your pocket. Quickly scan your paper documents on the go and export them as multi-page PDF files. *** Apple App of the Week *** 20+ million users *** 1000s of small businesses *** Place any document in front of your device\u2019s camera: our scanner app automatically recognizes the paper against the background, crops it, and cleans up the result. You obtain a crisp, legible scan. Batch scanning lets you scan dozens of pages in a matter of seconds. Powerful tools help you organize, share, or archive your documents. \u201cNext time you plan to hit the road, don\u2019t forget to download Genius Scan to make life easier for yourself and your accounting department.\u201d - AppPicker.com \u201cCamera apps aren\u2019t designed for close-up text scanning, but Genius Scan is.\u201d - The Guardian == KEY FEATURES == Smart Scanning: - Document detection & background removal - Distortion correction - Shadow removal and defect cleanup - Filters (black & white, whiteboard, photo) - Batch scanning PDF Creation & Editing: - Document merging & splitting - Multiple page PDF creation - Photos and PDF import Security & Privacy: - On-device document processing + Face ID locking + PDF password encryption Document Organization: - Document tagging - Metadata and content search + Smart document renaming (custom templates, \u2026) + Backup and multi-device sync with Genius Cloud (separate subscription) Export: - Email + Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV. + Any WebDAV compatible service such as Citrix ShareFile, NextCloud, ownCloud, Synology, Yandex. + Automatic background auto-export OCR (Text Recognition): + Text extraction + Searchable PDF creation + Business card scanning & contact creation The features denoted with [+] are available as part of a premium plan. == ABOUT US == It\u2019s in the heart of Paris, France that The Grizzly Labs develops Genius Scan. We take pride in crafting apps that help millions of users throughout the world and hold ourselves to the highest standards in terms of quality and privacy. Get in touch with us @thegrizzlylabs if you have any questions. == PRICING & LEGAL == Genius Scan is free to use for as long as you want. Should you choose to, you can subscribe to the Genius Scan Plus plan for more features. You can subscribe to Genius Cloud for backup & synchronization. In that case, Genius Scan\u2019s store displays the duration and price of each subscription, updated at the time of purchase. Payment will be charged to iTunes account when the order is confirmed. Subscriptions automatically renew unless auto-renew is turned off no later than 24 hours before the end of the current period. Manage subscriptions, disable auto-renewal in the iTunes account settings. Download the best free mobile scanner and scan your documents in a snap. https://www.thegrizzlylabs.com/genius-scan/cloud/terms",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/scanner-app-genius-scan/id377672876?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=377672876&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=377672876&sort=mostrecent",
+   "release_date": "2010-06-22 07:04:27 UTC",
+   "latest_version_release_date": "2026-07-22 12:57:47 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.9,
+     "count": 1357213
+    }
+   ],
+   "genres": [
+    {
+     "name": "Business",
+     "id": 6000,
+     "primary": true
+    },
+    {
+     "name": "Productivity",
+     "id": 6007,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "The Grizzly Labs",
+    "id": 377672879,
+    "link": "https://apps.apple.com/us/developer/id377672879"
+   },
+   "size_in_bytes": 101552128,
+   "supported_languages": [
+    "AR",
+    "DA",
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "ZH",
+    "TR",
+    "UK",
+    "VI"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/c9/5d/ccc95daa-bd33-3d90-48d5-71f4d6a9e24d/iOS_Phones__6.9-01.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/ca/25/1cca25cc-fdcf-6632-a4d1-8d64e07362e7/iOS_Phones__6.9-02.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/fb/4b/1cfb4b86-ba5f-d4a0-f6b1-b9b3c24a2bc7/iOS_Phones__6.9-03.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/ff/02/f4ff02f5-5b51-14f7-9319-f1ed1d55a9ea/iOS_Phones__6.9-04.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/7e/53/417e5371-1a87-eed0-9cb2-030d6b0573e1/iOS_Phones__6.9-05.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4d/9c/65/4d9c65da-093a-c6e2-63f6-2e3b21ac7c3a/iOS_Phones__6.9-06.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/06/5a/77065ad0-8c77-503f-8650-341d808d22d4/iOS_Phones__6.9-07.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/8e/33/4f8e3377-bbf5-a9c6-9ca8-a0a7cc76daf7/iOS_Phones__6.9-08.png/320x480bb.jpg",
+      "size": "320x480"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/82/a7/2582a74e-c661-4b7d-292d-9c67d9d368a1/iOS_iPad__13-ipadPro129-01.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/ee/dd/84eedd34-8953-6943-7399-dac00f6b9411/iOS_iPad__13-ipadPro129-02.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/a5/3c/d4a53c54-5f93-a9b2-7d18-4db413ff1238/iOS_iPad__13-ipadPro129-03.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/f8/cd/37f8cddf-3f24-7b66-404f-c94972e0d129/iOS_iPad__13-ipadPro129-04.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/3e/7f/263e7fca-cc0e-48cf-c21d-3457d07b03b9/iOS_iPad__13-ipadPro129-05.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/ed/03/16ed03d6-d84a-1ee1-2a22-475122c850d1/iOS_iPad__13-ipadPro129-06.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/43/19/2b4319aa-acb7-429a-873d-8f7c8df65859/iOS_iPad__13-ipadPro129-07.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/05/86/fd05868a-589f-828a-791e-b39435928a64/iOS_iPad__13-ipadPro129-08.png/360x480bb.jpg",
+      "size": "360x480"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/d7/00/45d700ee-2222-0626-57c2-01bd7249b8d2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/d7/00/45d700ee-2222-0626-57c2-01bd7249b8d2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/d7/00/45d700ee-2222-0626-57c2-01bd7249b8d2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 4,
+   "id": 1450157256,
+   "title": "ReceiptJar",
+   "bundle_id": "com.unocart.unomoney",
+   "version": "16.1.0",
+   "vpp_license": true,
+   "age_rating": "17+",
+   "release_note": "Bug Fixes",
+   "seller_link": "http://www.receiptjar.com",
+   "minimum_os_version": "15.5",
+   "description": "Receipt Jar is a fun way to make money off receipts! HOW IT WORKS: 1) Take pictures of your receipts! 2) Uploaded them in the Receipt Jar app 3) Earn ReceiptJar Points, Shakes and Monthly Draw's for over 100,000 points! 4) Cash-out your ReceiptJar points for gift cards. Welcome to America's most rewarding & fun Shopper Panel program!",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/receiptjar/id1450157256?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=1450157256&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1450157256&sort=mostrecent",
+   "release_date": "2021-06-09 07:00:00 UTC",
+   "latest_version_release_date": "2026-08-18 04:10:15 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.74,
+     "count": 63998
+    }
+   ],
+   "genres": [
+    {
+     "name": "Shopping",
+     "id": 6024,
+     "primary": true
+    },
+    {
+     "name": "Finance",
+     "id": 6015,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "THE U GROUP & CO LIMITED",
+    "id": 1120549991,
+    "link": "https://apps.apple.com/us/developer/id1120549991"
+   },
+   "size_in_bytes": 82171904,
+   "supported_languages": [
+    "EN"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/22/7e/51227e0e-2719-517b-30d3-e912fe67846b/ee48da2b-4c81-42a3-95c5-928f73066ad4_iPhone_8_Plus_-_1_US.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d7/c5/e6/d7c5e61d-0496-8408-887c-9cc25b0735ae/fb6669dd-dfbd-4fad-80b8-f479f120983b_iPhone_8_Plus_-_2_US.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/fc/5e/3dfc5ec5-793d-db1b-7b0e-7b39a77c77f0/7e54c927-0ea2-449c-926e-5547c06edc30_iPhone_8_Plus_-_3_US.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/46/1f/dd/461fdd18-88cc-996c-aab9-5c329991dab5/fb4c908e-2541-436e-9e93-49653bccf5c4_iPhone_8_Plus_-_4_US.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6f/5b/22/6f5b22fd-32af-60a4-8db9-deba796932f7/a7fb8960-7f94-4e99-9996-cf46245b0192_iPhone_8_Plus_-_5_US.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/55/6a/b1556ae2-93d0-4f13-6564-3bef8f96e2c7/ea73d17f-2334-4f4a-891a-912b7afc548e_iPhone_8_Plus_-_6_US.png/392x696bb.png",
+      "size": "392x696"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/07/f0/0607f0b0-7100-3b38-2aab-50ffd009f3be/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/07/f0/0607f0b0-7100-3b38-2aab-50ffd009f3be/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/07/f0/0607f0b0-7100-3b38-2aab-50ffd009f3be/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "advisories": [
+    "Unrestricted Web Access",
+    "Infrequent/Mild Contests"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 5,
+   "id": 1550270774,
+   "title": "Receipt Scanner\u30fbTrack Expenses",
+   "bundle_id": "com.saldoapps.ReceiptScanner",
+   "version": "6.0.1",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "Hi there! In this update meet - Bug fixes and small improvements to make the app even better Thanks for using Receipt Scanner by Saldo Apps. We will be glad to hear what you think!",
+   "seller_link": "https://saldoapps.com",
+   "minimum_os_version": "15.0",
+   "description": "Scan receipts and create expense reports to track your business and personal accounting. Our receipt scanner app uses OCR technology for smart receipts scanning to increase the speed and accuracy of your financial recordings. Key features: \u2022 Automatic receipt scanning \u2022 Snap a photo of any receipt or load it from your mobile phone and receipt tracker generates expense item. \u2022 All details are captured automatically, including merchant's name, date and total amount. Manual detail adding: \u2022 Pick a category for expense or create a new category. \u2022 Add and edit notes. \u2022 Take a quick photo or add a picture of business tax receipt to certify expense. Report generation: \u2022 Make business related or personal budget report based on the logged expenses. \u2022 Email, share online or print PDF reports. \u2022 Automatic currency conversion for travel expense management. Other features: \u2022 Add expenses manually. \u2022 Work with any currency. \u2022 Enjoy light and dark themes. More features are coming soon for your small business accounting and personal bookkeeping purposes. Whether you are self employed or business owner, expense manager helps you ride the wave. Reciept organizer is your free business expense tracker and report keeper. Get started with a free plan, then upgrade to Pro account for unlimited expense tracking and report creating. For support, email us support@saldoapps.com Terms of use: https://saldoapps.com/saldo-apps-terms-of-use Privacy policy: https://saldoapps.com/saldo-apps-privacy-policy by S/A Saldo Apps",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/receipt-scanner-track-expenses/id1550270774?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=1550270774&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1550270774&sort=mostrecent",
+   "release_date": "2021-02-13 08:00:00 UTC",
+   "latest_version_release_date": "2025-08-06 11:37:34 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.63,
+     "count": 3853
+    }
+   ],
+   "genres": [
+    {
+     "name": "Finance",
+     "id": 6015,
+     "primary": true
+    },
+    {
+     "name": "Business",
+     "id": 6000,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "Saldo Apps Inc.",
+    "id": 1277532073,
+    "link": "https://apps.apple.com/us/developer/id1277532073"
+   },
+   "size_in_bytes": 202166272,
+   "supported_languages": [
+    "EN"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/23/26/6b23267d-3f22-4b4d-17df-9d5d474b7069/0b3d8257-848a-4780-8b4f-4d41e47fe823_1_8.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/d4/c9/e6d4c915-067c-c12d-6018-5fdbe986dc25/785f1df7-97aa-4db4-bdb6-1b8dddb81910_2_8.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/08/80/ba088067-1de0-0eee-cc92-ba9bb6041892/35a0a036-f9ee-438d-a086-1cae93241b0f_3_8.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/60/40/156040ce-2cab-0af1-a3f9-0b6629a3b799/9365f29e-ba2d-4693-bde2-e35c24aa2d93_4_8.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/9e/02/c39e0203-cbc8-db7f-0f2d-39858e73cc56/3c371052-6744-4a21-8a7a-ec0ddfc69230_5_8.jpg/392x696bb.jpg",
+      "size": "392x696"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/bb/d9/08bbd9fe-42ac-0d5a-b206-7270e2e6f2cb/d39f6395-90bf-4dd5-85ca-7e60111dc7da_1_ipad.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/7e/35/367e35d8-8d24-573b-35c8-7a4160685ab3/3e6e60de-ed6e-47e1-8e63-79480e79f451_2_ipad.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/4f/2a/a34f2ad9-d1cc-17e4-d9ae-25370f3ed6dc/6e00c00c-861c-4715-b4e0-7c0f376516cf_3_ipad.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/28/56/9f285672-42b7-0b06-3a48-99aa56afe677/8b69627a-dfef-49cc-962c-d9992699bdb7_4_ipad.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/ca/42/00ca42a9-f82b-3b65-9c9e-8a4f6c7ae3f2/22fdf5c2-7971-4bc5-9910-e55ce3e4821b_5_ipad.jpg/576x768bb.jpg",
+      "size": "576x768"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/75/7c/97757c61-1152-67b9-0fc3-47b8bf5e952f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/75/7c/97757c61-1152-67b9-0fc3-47b8bf5e952f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/75/7c/97757c61-1152-67b9-0fc3-47b8bf5e952f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  }
+ ]
+}

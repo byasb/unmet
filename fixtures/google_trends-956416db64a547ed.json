@@ -1,0 +1,217 @@
+{
+ "search_metadata": {
+  "id": "6a96ca757dcfbe0f6c5df0e1",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/aMYgXsMWpka77Wc4FvKmp3eitRyTW5W6oHxkybXV4E0/6a96ca757dcfbe0f6c5df0e1.json",
+  "markdown_endpoint": "https://serpapi.com/searches/aMYgXsMWpka77Wc4FvKmp3eitRyTW5W6oHxkybXV4E0/6a96ca757dcfbe0f6c5df0e1.md",
+  "created_at": "2026-09-01 12:52:05 UTC",
+  "processed_at": "2026-09-01 12:52:05 UTC",
+  "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22receipt+scanner%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+  "raw_html_file": "https://serpapi.com/searches/aMYgXsMWpka77Wc4FvKmp3eitRyTW5W6oHxkybXV4E0/6a96ca757dcfbe0f6c5df0e1.html",
+  "prettify_html_file": "https://serpapi.com/searches/aMYgXsMWpka77Wc4FvKmp3eitRyTW5W6oHxkybXV4E0/6a96ca757dcfbe0f6c5df0e1.prettify",
+  "total_time_taken": 3.02
+ },
+ "search_parameters": {
+  "engine": "google_trends",
+  "q": "receipt scanner",
+  "hl": "en",
+  "date": "today 12-m",
+  "tz": "420",
+  "data_type": "RELATED_QUERIES"
+ },
+ "related_queries": {
+  "rising": [
+   {
+    "query": "sky scanner",
+    "value": "Breakout",
+    "extracted_value": 48050,
+    "link": "https://trends.google.com/trends/explore?q=sky+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=sky+scanner&tz=420"
+   },
+   {
+    "query": "epson rapidreceipt",
+    "value": "+650%",
+    "extracted_value": 650,
+    "link": "https://trends.google.com/trends/explore?q=epson+rapidreceipt&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=epson+rapidreceipt&tz=420"
+   },
+   {
+    "query": "receipt scanner reviews",
+    "value": "+120%",
+    "extracted_value": 120,
+    "link": "https://trends.google.com/trends/explore?q=receipt+scanner+reviews&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+scanner+reviews&tz=420"
+   },
+   {
+    "query": "document scanner",
+    "value": "+120%",
+    "extracted_value": 120,
+    "link": "https://trends.google.com/trends/explore?q=document+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=document+scanner&tz=420"
+   },
+   {
+    "query": "epson receipt scanner",
+    "value": "+90%",
+    "extracted_value": 90,
+    "link": "https://trends.google.com/trends/explore?q=epson+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=epson+receipt+scanner&tz=420"
+   },
+   {
+    "query": "iphone receipt scanner",
+    "value": "+80%",
+    "extracted_value": 80,
+    "link": "https://trends.google.com/trends/explore?q=iphone+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=iphone+receipt+scanner&tz=420"
+   },
+   {
+    "query": "receipt printer",
+    "value": "+80%",
+    "extracted_value": 80,
+    "link": "https://trends.google.com/trends/explore?q=receipt+printer&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+printer&tz=420"
+   },
+   {
+    "query": "barcode scanner",
+    "value": "+80%",
+    "extracted_value": 80,
+    "link": "https://trends.google.com/trends/explore?q=barcode+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=barcode+scanner&tz=420"
+   },
+   {
+    "query": "business receipt scanner",
+    "value": "+60%",
+    "extracted_value": 60,
+    "link": "https://trends.google.com/trends/explore?q=business+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=business+receipt+scanner&tz=420"
+   },
+   {
+    "query": "ocr receipt scanner",
+    "value": "+50%",
+    "extracted_value": 50,
+    "link": "https://trends.google.com/trends/explore?q=ocr+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=ocr+receipt+scanner&tz=420"
+   }
+  ],
+  "top": [
+   {
+    "query": "receipt app",
+    "value": "100",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=receipt+app&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+app&tz=420"
+   },
+   {
+    "query": "best receipt scanner",
+    "value": "58",
+    "extracted_value": 58,
+    "link": "https://trends.google.com/trends/explore?q=best+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+receipt+scanner&tz=420"
+   },
+   {
+    "query": "epson receipt scanner",
+    "value": "35",
+    "extracted_value": 35,
+    "link": "https://trends.google.com/trends/explore?q=epson+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=epson+receipt+scanner&tz=420"
+   },
+   {
+    "query": "document scanner",
+    "value": "33",
+    "extracted_value": 33,
+    "link": "https://trends.google.com/trends/explore?q=document+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=document+scanner&tz=420"
+   },
+   {
+    "query": "best receipt scanner app",
+    "value": "29",
+    "extracted_value": 29,
+    "link": "https://trends.google.com/trends/explore?q=best+receipt+scanner+app&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+receipt+scanner+app&tz=420"
+   },
+   {
+    "query": "epson rapidreceipt",
+    "value": "28",
+    "extracted_value": 28,
+    "link": "https://trends.google.com/trends/explore?q=epson+rapidreceipt&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=epson+rapidreceipt&tz=420"
+   },
+   {
+    "query": "business receipt scanner",
+    "value": "26",
+    "extracted_value": 26,
+    "link": "https://trends.google.com/trends/explore?q=business+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=business+receipt+scanner&tz=420"
+   },
+   {
+    "query": "receipt printer",
+    "value": "26",
+    "extracted_value": 26,
+    "link": "https://trends.google.com/trends/explore?q=receipt+printer&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+printer&tz=420"
+   },
+   {
+    "query": "barcode scanner",
+    "value": "23",
+    "extracted_value": 23,
+    "link": "https://trends.google.com/trends/explore?q=barcode+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=barcode+scanner&tz=420"
+   },
+   {
+    "query": "receipt scanner reviews",
+    "value": "19",
+    "extracted_value": 19,
+    "link": "https://trends.google.com/trends/explore?q=receipt+scanner+reviews&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+scanner+reviews&tz=420"
+   },
+   {
+    "query": "ocr receipt scanner",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=ocr+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=ocr+receipt+scanner&tz=420"
+   },
+   {
+    "query": "receipt scanner software",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=receipt+scanner+software&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+scanner+software&tz=420"
+   },
+   {
+    "query": "iphone receipt scanner",
+    "value": "14",
+    "extracted_value": 14,
+    "link": "https://trends.google.com/trends/explore?q=iphone+receipt+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=iphone+receipt+scanner&tz=420"
+   },
+   {
+    "query": "receipt scanner organizer",
+    "value": "11",
+    "extracted_value": 11,
+    "link": "https://trends.google.com/trends/explore?q=receipt+scanner+organizer&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+scanner+organizer&tz=420"
+   },
+   {
+    "query": "receipt scanner quickbooks",
+    "value": "10",
+    "extracted_value": 10,
+    "link": "https://trends.google.com/trends/explore?q=receipt+scanner+quickbooks&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=receipt+scanner+quickbooks&tz=420"
+   },
+   {
+    "query": "quickbooks",
+    "value": "10",
+    "extracted_value": 10,
+    "link": "https://trends.google.com/trends/explore?q=quickbooks&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=quickbooks&tz=420"
+   },
+   {
+    "query": "sky scanner",
+    "value": "2",
+    "extracted_value": 2,
+    "link": "https://trends.google.com/trends/explore?q=sky+scanner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=sky+scanner&tz=420"
+   }
+  ]
+ }
+}

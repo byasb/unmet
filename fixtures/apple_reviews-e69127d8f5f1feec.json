@@ -1,0 +1,360 @@
+{
+ "search_metadata": {
+  "id": "6a96c9d871a41da8a7a92533",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jGQseFmqG66x258P6zoz7Z85isNLCtCWxV_gGq6LH-E/6a96c9d871a41da8a7a92533.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jGQseFmqG66x258P6zoz7Z85isNLCtCWxV_gGq6LH-E/6a96c9d871a41da8a7a92533.md",
+  "created_at": "2026-09-01 12:49:28 UTC",
+  "processed_at": "2026-09-01 12:49:28 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=6480042457&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/jGQseFmqG66x258P6zoz7Z85isNLCtCWxV_gGq6LH-E/6a96c9d871a41da8a7a92533.html",
+  "prettify_html_file": "https://serpapi.com/searches/jGQseFmqG66x258P6zoz7Z85isNLCtCWxV_gGq6LH-E/6a96c9d871a41da8a7a92533.prettify",
+  "total_time_taken": 0.93
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "6480042457",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 24,
+  "reviews_for_current_version": 24,
+  "total_page_count": 8,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14466743179",
+   "title": "Finally a free",
+   "text": "Finally a free habit tracker to help me keep up with my healthy habits!",
+   "rating": 5,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "paisleysmommy1020",
+    "author_id": "1184672668"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14459698931",
+   "title": "One day in",
+   "text": "I like the simplicity-hope to say the same 30 days down the road",
+   "rating": 5,
+   "review_date": "Aug 22, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "TeacherReader",
+    "author_id": "70020050"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14432719449",
+   "title": "Amazing",
+   "text": "One of the easiest apps I have used, and has no adds or payments. Clean UI as well.",
+   "rating": 5,
+   "review_date": "Aug 16, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Invincible4920",
+    "author_id": "1529931378"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14412953614",
+   "title": "It's simple but great",
+   "text": "You don't pay for anything and it's very straight forward not confused at all",
+   "rating": 5,
+   "review_date": "Aug 11, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Zozo\ud83d\ude1d\ud83d\ude1d\ud83d\ude1d",
+    "author_id": "1871648206"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14403840586",
+   "title": "Pretty good app!",
+   "text": "I think this app is pretty good! It is totally free and no ads and it is kinda fun too and it is rated 4+ and I think this app is pretty good for little kids too and I am 11",
+   "rating": 5,
+   "review_date": "Aug 08, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Manavi Sangwan",
+    "author_id": "1717941621"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14391211979",
+   "title": "You PAID for this free app.",
+   "text": "The open screen prompted you to enable \u201cweb indexing\u201d for the ad-free version. Your phone would act as an intermediary between the app and its partners, using your IP address to download and access \u201cfree data\u201d from the web. What a free app.",
+   "rating": 1,
+   "review_date": "Aug 05, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Ei~~ne",
+    "author_id": "1130338676"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14388984409",
+   "title": "Amazing",
+   "text": "Very nice and easy to use plus it was actually free which I love soooo much",
+   "rating": 5,
+   "review_date": "Aug 05, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "schoettlin\ud83d\ude42 392",
+    "author_id": "1533139620"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14368828196",
+   "title": "Great app",
+   "text": "This app has helped me grown my normal life in my everyday routine. I love this app everyone you download it.",
+   "rating": 5,
+   "review_date": "Jul 31, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "jdundubduhdud",
+    "author_id": "1707413217"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14341833236",
+   "title": "I like it",
+   "text": "I\u2019ve been needing a habit tracker for years. I finally got this app and so far I like it. I wish there was a way to back date some of the habits but starting somewhere is better than not starting at all!",
+   "rating": 4,
+   "review_date": "Jul 24, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "08HevyChevy",
+    "author_id": "134302531"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14332675510",
+   "title": "Dark Mode + tiny bug",
+   "text": "please Please PLEASE make a dark version!!! A night mode !! I have used this app for about a month and love the simplicity. I sit down every night and go through my habits. It\u2019s truly wonderful \u2014 and the only thing I would want is a dark mode so my eyes don\u2019t hurt. Also, there\u2019s a small bug on the last day of each month where I\u2019m unable to track my habits directly on the day. I don\u2019t remember specifics, but I believe it opens the wrong day. I usually just go to the calendar and manually input my habits there. Thanks for your time!",
+   "rating": 5,
+   "review_date": "Jul 22, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "goooooooses",
+    "author_id": "563806515"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14312607560",
+   "title": "Easy and no ads",
+   "text": "I love that there are no overbearing ads. It\u2019s simple and easy to use. It does exactly what it needs to without extra bells and whistles.",
+   "rating": 5,
+   "review_date": "Jul 17, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Thatonejoy",
+    "author_id": "1378333433"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14297251498",
+   "title": "Great App. Ideas for Improvement",
+   "text": "I like this app a lot because it is ad and subscription free. I do wish I could customize the habits a bit further by either leaving notes or setting custom intervals for each habit (x times daily, weekly, monthly, etc). I\u2019d also like to be able to customize the view to track overall habit progress. A grid view option for monthly and yearly would be nice in addition to the current progress graph in statistics.",
+   "rating": 4,
+   "review_date": "Jul 13, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Itssofluffy_",
+    "author_id": "993772586"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14257995934",
+   "title": "Great",
+   "text": "Wonderful free option for helping create habits. Only thing that I think would make it better would be to have a wigget on my phones Home Screen to help me remember throughout the day what my goals are.",
+   "rating": 4,
+   "review_date": "Jul 03, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Creating new habits",
+    "author_id": "896282874"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14253731512",
+   "title": "No Purchases, No BS",
+   "text": "Genuinely surprised to find an app nowadays without something behind a paywall. Might be simple, but thats whats great about it. Also takes up a fraction of the space the other trackers do. All around amazing app!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jul 02, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Greentornado_",
+    "author_id": "1558195056"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14181244719",
+   "title": "Simple & Reliable",
+   "text": "The best habit tracker I\u2019ve used by far",
+   "rating": 5,
+   "review_date": "Jun 14, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "sagab123",
+    "author_id": "1436503554"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14170326023",
+   "title": "Love this app",
+   "text": "So nice that there\u2019s no ads and it is free to use! Helpful for staying on track \u263a\ufe0f\ud83d\ude4c",
+   "rating": 5,
+   "review_date": "Jun 11, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Vivienbissell",
+    "author_id": "1926391610"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14163084101",
+   "title": "Good-ish App",
+   "text": "I liked the app because it was free, however it would only let me add one habit. It works really well and I\u2019d definitely recommend it if you want to focus on one habit. I\u2019m not sure if it was my phone glitching or not, but I don\u2019t think this app is for me.",
+   "rating": 3,
+   "review_date": "Jun 09, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Drinken22",
+    "author_id": "1551135152"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14162234071",
+   "title": "Well detailed and functional",
+   "text": "I love how clear and concise this app is. It helps me feel organized and fresh, and I love how it gives me reminders. It\u2019s a great app",
+   "rating": 5,
+   "review_date": "Jun 09, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "4&0&4",
+    "author_id": "1789323084"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14141227686",
+   "title": "Great",
+   "text": "I\u2019ve just downloaded it and already love it, simple and easy to use",
+   "rating": 5,
+   "review_date": "Jun 04, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "RuqayyahC",
+    "author_id": "1878274782"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14103247613",
+   "title": "Trading info for usage",
+   "text": "Didn\u2019t get past the opening screen of being asked to enable \u201cweb indexing\u201d to get the ad-less version. Basically your phone acts as the middleman for the apps partners to use your IP address to silently download and access \u201cfree data\u201c found on the web. No thanks.",
+   "rating": 1,
+   "review_date": "May 25, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "ShesADancer5",
+    "author_id": "302727681"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14095453231",
+   "title": "Charles oliveira",
+   "text": "This is good because it sends notifications and reminds you to do whatever you need to do for FREE.",
+   "rating": 5,
+   "review_date": "May 23, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Ayryon",
+    "author_id": "1422425760"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14072264089",
+   "title": "Great and simple",
+   "text": "This app does everything I want for basic daily accountability. Very clean display and easy to manage habits. Only recommendation I have is for notifications: if I have already marked something as done it shouldn\u2019t notify me later to complete it",
+   "rating": 5,
+   "review_date": "May 16, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Alimoyni",
+    "author_id": "100718270"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14058540814",
+   "title": "\ud83d\udc4d",
+   "text": "It good trust",
+   "rating": 5,
+   "review_date": "May 13, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "I like Spotify \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+    "author_id": "1894864920"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14056663567",
+   "title": "Best Habit Tracker App",
+   "text": "Genuinely the greatest habit tracker app I\u2019ve installed, without unnecessary ads or subscriptions. It\u2019s truly amazing how easy it is to use and the customization and reminders are great too. Definitely worth it.",
+   "rating": 5,
+   "review_date": "May 12, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "viissoff",
+    "author_id": "1780349398"
+   }
+  },
+  {
+   "position": 25,
+   "id": "14052990828",
+   "title": "If Only \u2026.",
+   "text": "This could be my perfect habit tracker if I could only reorder the list of tasks. How could something so simple be overlooked? Without it the app is virtually useless.",
+   "rating": 2,
+   "review_date": "May 11, 2026",
+   "reviewed_version": "Version 1.0.9",
+   "author": {
+    "name": "MacGal-AZ",
+    "author_id": "420096567"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6480042457&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=6480042457&sort=mostrecent"
+ }
+}

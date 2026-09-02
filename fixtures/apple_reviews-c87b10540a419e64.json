@@ -1,0 +1,162 @@
+{
+ "search_metadata": {
+  "id": "6a96c9c0ff3b7ae44f2f4ceb",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/zIfm3BU6DXBq_y29LKmDU2B7Re8Q24wrZwkLNWEVjvU/6a96c9c0ff3b7ae44f2f4ceb.json",
+  "markdown_endpoint": "https://serpapi.com/searches/zIfm3BU6DXBq_y29LKmDU2B7Re8Q24wrZwkLNWEVjvU/6a96c9c0ff3b7ae44f2f4ceb.md",
+  "created_at": "2026-09-01 12:49:04 UTC",
+  "processed_at": "2026-09-01 12:49:04 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=6749204658&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/zIfm3BU6DXBq_y29LKmDU2B7Re8Q24wrZwkLNWEVjvU/6a96c9c0ff3b7ae44f2f4ceb.html",
+  "prettify_html_file": "https://serpapi.com/searches/zIfm3BU6DXBq_y29LKmDU2B7Re8Q24wrZwkLNWEVjvU/6a96c9c0ff3b7ae44f2f4ceb.prettify",
+  "total_time_taken": 0.63
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "6749204658",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 42,
+  "reviews_for_current_version": 42,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 10
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14210919803",
+   "title": "Clean",
+   "text": "The design is simple and pleasant. It makes habit tracking feel light and not like another task.",
+   "rating": 5,
+   "review_date": "Jun 21, 2026",
+   "reviewed_version": "Version 3.9.3",
+   "author": {
+    "name": "tiesha thomason",
+    "author_id": "1788237955"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14193557652",
+   "title": "Useful",
+   "text": "I enjoy using this app every day. It keeps my habits organized and makes progress feel more visible.",
+   "rating": 5,
+   "review_date": "Jun 17, 2026",
+   "reviewed_version": "Version 3.9.3",
+   "author": {
+    "name": "Wells Elvin",
+    "author_id": "1793901720"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14185736136",
+   "title": "Simple",
+   "text": "Exactly what I needed for building better habits. The app is clear, fast, and motivating.",
+   "rating": 5,
+   "review_date": "Jun 15, 2026",
+   "reviewed_version": "Version 3.9.3",
+   "author": {
+    "name": "Maxie_Bustoss",
+    "author_id": "1834399864"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14173957388",
+   "title": "Nice",
+   "text": "Clean design and easy to understand. I like how quickly I can check my habits and see my progress.",
+   "rating": 5,
+   "review_date": "Jun 12, 2026",
+   "reviewed_version": "Version 3.9.3",
+   "author": {
+    "name": "Baillie_Vickl",
+    "author_id": "1728813449"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14163564447",
+   "title": "Exactly What I Needed",
+   "text": "A very helpful app for building better habits and staying consistent. It\u2019s easy to use, well organized, and doesn\u2019t feel complicated. I like how it keeps me focused on small daily progress. Really useful for anyone trying to improve their routine.",
+   "rating": 5,
+   "review_date": "Jun 09, 2026",
+   "reviewed_version": "Version 3.9.3",
+   "author": {
+    "name": "phoebe_meadw",
+    "author_id": "1788942783"
+   }
+  },
+  {
+   "position": 6,
+   "id": "13398534658",
+   "title": "\u041b\u0443\u0447\u0448\u0435\u0435, \u0447\u0442\u043e \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u043b\u0430 \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u044b\u0447\u0435\u043a!!!",
+   "text": "\u041c\u043d\u0435 \u043e\u0447\u0435\u043d\u044c \u043f\u043e\u043d\u0440\u0430\u0432\u0438\u043b\u043e\u0441\u044c \u044d\u0442\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \ud83d\ude0d \u041e\u043d\u043e \u043f\u0440\u043e\u0441\u0442\u043e\u0435 \u0438 \u043f\u043e\u043d\u044f\u0442\u043d\u043e\u0435, \u0445\u043e\u0442\u044f \u0432 \u043d\u0430\u0447\u0430\u043b\u0435 \u043a\u0430\u0436\u0435\u0442\u0441\u044f, \u0447\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043d\u043e\u0440\u043e\u0432\u0438\u0442\u044c\u0441\u044f. \u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u043f\u043e\u043d\u044f\u0442\u043d\u044b\u0439, \u0431\u0435\u0437 \u043b\u0438\u0448\u043d\u0435\u0433\u043e, \u0438 \u0434\u043b\u044f \u043c\u0435\u043d\u044f \u044d\u0442\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043f\u043b\u044e\u0441. \u042f \u043f\u0435\u0440\u0435\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u043b\u0430 \u043c\u043d\u043e\u0433\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0434\u043b\u044f \u043f\u0440\u0438\u0432\u044b\u0447\u0435\u043a, \u043d\u043e \u0432\u0435\u0437\u0434\u0435 \u0447\u0442\u043e-\u0442\u043e \u043c\u0435\u0448\u0430\u043b\u043e, \u0431\u044b\u043b\u043e \u0441\u043b\u0438\u0448\u043a\u043e\u043c \u043f\u0435\u0440\u0435\u0433\u0440\u0443\u0436\u0435\u043d\u043e. \u0417\u0434\u0435\u0441\u044c \u0436\u0435 \u0432\u0441\u0451 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0442\u0430\u043a, \u043a\u0430\u043a \u043d\u0443\u0436\u043d\u043e. \u041e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u0441\u0447\u0451\u0442\u0447\u0438\u043a \u2014 \u0435\u0441\u043b\u0438 \u043f\u0440\u043e\u043f\u0443\u0441\u043a\u0430\u0435\u0448\u044c, \u0446\u0435\u043f\u043e\u0447\u043a\u0430 \u0441\u0431\u0440\u0430\u0441\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u0420\u0430\u043d\u044c\u0448\u0435 \u044f \u0432\u0435\u043b\u0430 \u0442\u0430\u043a\u0438\u0435 \u0432\u0435\u0449\u0438 \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e, \u043d\u043e \u044d\u0442\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043e\u043a\u0430\u0437\u0430\u043b\u043e\u0441\u044c \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u0443\u0434\u043e\u0431\u043d\u0435\u0435. \u0414\u0430, \u0432 \u043f\u0435\u0440\u0432\u044b\u0435 \u043c\u0438\u043d\u0443\u0442\u044b \u044f \u0434\u0443\u043c\u0430\u043b\u0430 \u043e \u0431\u043e\u0436\u0435, \u043a\u0443\u0434\u0430 \u0442\u044b\u043a\u0430\u0442\u044c\u2026\ud83d\ude39 \u041d\u043e \u043d\u0435\u043c\u043d\u043e\u0433\u043e \u0438\u0437\u0443\u0447\u0438\u043b\u0430 \u0438 \u0443\u0436\u0435 \u0432\u0441\u0451 \u043f\u043e\u043d\u044f\u0442\u043d\u043e. \u0420\u0435\u0430\u043b\u044c\u043d\u043e \u043a\u043b\u0430\u0441\u0441\u043d\u0430\u044f \u0448\u0442\u0443\u043a\u0430. \u041e\u0447\u0435\u043d\u044c \u0441\u043e\u0432\u0435\u0442\u0443\u044e!!!",
+   "rating": 5,
+   "review_date": "Nov 14, 2025",
+   "reviewed_version": "Version 1.9",
+   "author": {
+    "name": "Patty\ud83d\udc96",
+    "author_id": "1281388259"
+   }
+  },
+  {
+   "position": 7,
+   "id": "13109249497",
+   "title": "\ud83d\ude0c",
+   "text": "The good app",
+   "rating": 5,
+   "review_date": "Sep 07, 2025",
+   "reviewed_version": "Version 1.2",
+   "author": {
+    "name": "soooooooooooofi",
+    "author_id": "755336820"
+   }
+  },
+  {
+   "position": 8,
+   "id": "13099087997",
+   "title": "Good app",
+   "text": "I downloaded the app on my wife's recommendation. This app makes it easy and enjoyable to build good habits. I highly recommend it to everyone!",
+   "rating": 5,
+   "review_date": "Sep 04, 2025",
+   "reviewed_version": "Version 1.2",
+   "author": {
+    "name": "Nik2177",
+    "author_id": "1216392497"
+   }
+  },
+  {
+   "position": 9,
+   "id": "13097327841",
+   "title": "\ud83d\udcaa",
+   "text": "Great app! I use it to track both good and bad habits. Reading every day, drinking more water, and also cutting down on junk food",
+   "rating": 5,
+   "review_date": "Sep 04, 2025",
+   "reviewed_version": "Version 1.2",
+   "author": {
+    "name": "cooper_32",
+    "author_id": "1828272782"
+   }
+  },
+  {
+   "position": 10,
+   "id": "13093305183",
+   "title": "\ud83d\udc4d\ud83c\udffc",
+   "text": "Love this tracker! It keeps me motivated and makes building habits fun",
+   "rating": 5,
+   "review_date": "Sep 03, 2025",
+   "reviewed_version": "Version 1.2",
+   "author": {
+    "name": "M.Cik",
+    "author_id": "462730376"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6749204658&sort=mostrecent"
+ }
+}

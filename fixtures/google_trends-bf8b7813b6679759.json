@@ -1,0 +1,378 @@
+{
+ "search_metadata": {
+  "id": "6a96c9da57c44bc12464beed",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/A7iyk71BRu1VDfBi7jduy5ouu9-cZpumvDe0pYpMNYE/6a96c9da57c44bc12464beed.json",
+  "markdown_endpoint": "https://serpapi.com/searches/A7iyk71BRu1VDfBi7jduy5ouu9-cZpumvDe0pYpMNYE/6a96c9da57c44bc12464beed.md",
+  "created_at": "2026-09-01 12:49:30 UTC",
+  "processed_at": "2026-09-01 12:49:30 UTC",
+  "google_trends_url": "https://trends.google.com/trends/embed/explore/RELATED_QUERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22habit+tracker%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%22today+12-m%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+  "raw_html_file": "https://serpapi.com/searches/A7iyk71BRu1VDfBi7jduy5ouu9-cZpumvDe0pYpMNYE/6a96c9da57c44bc12464beed.html",
+  "prettify_html_file": "https://serpapi.com/searches/A7iyk71BRu1VDfBi7jduy5ouu9-cZpumvDe0pYpMNYE/6a96c9da57c44bc12464beed.prettify",
+  "total_time_taken": 5.07
+ },
+ "search_parameters": {
+  "engine": "google_trends",
+  "q": "habit tracker",
+  "hl": "en",
+  "date": "today 12-m",
+  "tz": "420",
+  "data_type": "RELATED_QUERIES"
+ },
+ "related_queries": {
+  "rising": [
+   {
+    "query": "anthropic news",
+    "value": "Breakout",
+    "extracted_value": 15700,
+    "link": "https://trends.google.com/trends/explore?q=anthropic+news&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=anthropic+news&tz=420"
+   },
+   {
+    "query": "dominic hart habit tracker",
+    "value": "Breakout",
+    "extracted_value": 9550,
+    "link": "https://trends.google.com/trends/explore?q=dominic+hart+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=dominic+hart+habit+tracker&tz=420"
+   },
+   {
+    "query": "ultimate monthly habit tracker for google sheets",
+    "value": "Breakout",
+    "extracted_value": 7150,
+    "link": "https://trends.google.com/trends/explore?q=ultimate+monthly+habit+tracker+for+google+sheets&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=ultimate+monthly+habit+tracker+for+google+sheets&tz=420"
+   },
+   {
+    "query": "openhabittracker",
+    "value": "Breakout",
+    "extracted_value": 5150,
+    "link": "https://trends.google.com/trends/explore?q=openhabittracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=openhabittracker&tz=420"
+   },
+   {
+    "query": "2026 habit tracker",
+    "value": "+3,350%",
+    "extracted_value": 3350,
+    "link": "https://trends.google.com/trends/explore?q=2026+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=2026+habit+tracker&tz=420"
+   },
+   {
+    "query": "nvidia news today",
+    "value": "+700%",
+    "extracted_value": 700,
+    "link": "https://trends.google.com/trends/explore?q=nvidia+news+today&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=nvidia+news+today&tz=420"
+   },
+   {
+    "query": "openai news",
+    "value": "+600%",
+    "extracted_value": 600,
+    "link": "https://trends.google.com/trends/explore?q=openai+news&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=openai+news&tz=420"
+   },
+   {
+    "query": "habit tracker pro",
+    "value": "+250%",
+    "extracted_value": 250,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+pro&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+pro&tz=420"
+   },
+   {
+    "query": "best habit tracker apps",
+    "value": "+200%",
+    "extracted_value": 200,
+    "link": "https://trends.google.com/trends/explore?q=best+habit+tracker+apps&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+habit+tracker+apps&tz=420"
+   },
+   {
+    "query": "the habit tracker",
+    "value": "+200%",
+    "extracted_value": 200,
+    "link": "https://trends.google.com/trends/explore?q=the+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=the+habit+tracker&tz=420"
+   },
+   {
+    "query": "habit tracker apps",
+    "value": "+180%",
+    "extracted_value": 180,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+apps&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+apps&tz=420"
+   },
+   {
+    "query": "habit tracker android",
+    "value": "+180%",
+    "extracted_value": 180,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+android&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+android&tz=420"
+   },
+   {
+    "query": "habit tracker ios",
+    "value": "+150%",
+    "extracted_value": 150,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+ios&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+ios&tz=420"
+   },
+   {
+    "query": "online habit tracker",
+    "value": "+140%",
+    "extracted_value": 140,
+    "link": "https://trends.google.com/trends/explore?q=online+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=online+habit+tracker&tz=420"
+   },
+   {
+    "query": "habit tracker pdf",
+    "value": "+110%",
+    "extracted_value": 110,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+pdf&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+pdf&tz=420"
+   },
+   {
+    "query": "loop",
+    "value": "+90%",
+    "extracted_value": 90,
+    "link": "https://trends.google.com/trends/explore?q=loop&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=loop&tz=420"
+   },
+   {
+    "query": "loop habit tracker",
+    "value": "+90%",
+    "extracted_value": 90,
+    "link": "https://trends.google.com/trends/explore?q=loop+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=loop+habit+tracker&tz=420"
+   },
+   {
+    "query": "google habit tracker",
+    "value": "+90%",
+    "extracted_value": 90,
+    "link": "https://trends.google.com/trends/explore?q=google+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=google+habit+tracker&tz=420"
+   },
+   {
+    "query": "habit tracker download",
+    "value": "+80%",
+    "extracted_value": 80,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+download&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+download&tz=420"
+   },
+   {
+    "query": "best free habit tracker",
+    "value": "+80%",
+    "extracted_value": 80,
+    "link": "https://trends.google.com/trends/explore?q=best+free+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+free+habit+tracker&tz=420"
+   },
+   {
+    "query": "best habit tracker",
+    "value": "+60%",
+    "extracted_value": 60,
+    "link": "https://trends.google.com/trends/explore?q=best+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+habit+tracker&tz=420"
+   },
+   {
+    "query": "best habit tracker app",
+    "value": "+50%",
+    "extracted_value": 50,
+    "link": "https://trends.google.com/trends/explore?q=best+habit+tracker+app&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+habit+tracker+app&tz=420"
+   },
+   {
+    "query": "habit tracker excel",
+    "value": "+50%",
+    "extracted_value": 50,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+excel&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+excel&tz=420"
+   },
+   {
+    "query": "app habit tracker",
+    "value": "+50%",
+    "extracted_value": 50,
+    "link": "https://trends.google.com/trends/explore?q=app+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=app+habit+tracker&tz=420"
+   },
+   {
+    "query": "daily habit tracker",
+    "value": "+50%",
+    "extracted_value": 50,
+    "link": "https://trends.google.com/trends/explore?q=daily+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=daily+habit+tracker&tz=420"
+   }
+  ],
+  "top": [
+   {
+    "query": "app habit tracker",
+    "value": "100",
+    "extracted_value": 100,
+    "link": "https://trends.google.com/trends/explore?q=app+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=app+habit+tracker&tz=420"
+   },
+   {
+    "query": "habit app",
+    "value": "98",
+    "extracted_value": 98,
+    "link": "https://trends.google.com/trends/explore?q=habit+app&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+app&tz=420"
+   },
+   {
+    "query": "2026 habit tracker",
+    "value": "73",
+    "extracted_value": 73,
+    "link": "https://trends.google.com/trends/explore?q=2026+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=2026+habit+tracker&tz=420"
+   },
+   {
+    "query": "best habit tracker",
+    "value": "57",
+    "extracted_value": 57,
+    "link": "https://trends.google.com/trends/explore?q=best+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+habit+tracker&tz=420"
+   },
+   {
+    "query": "free habit tracker",
+    "value": "55",
+    "extracted_value": 55,
+    "link": "https://trends.google.com/trends/explore?q=free+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=free+habit+tracker&tz=420"
+   },
+   {
+    "query": "the habit tracker",
+    "value": "49",
+    "extracted_value": 49,
+    "link": "https://trends.google.com/trends/explore?q=the+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=the+habit+tracker&tz=420"
+   },
+   {
+    "query": "habit tracker apps",
+    "value": "32",
+    "extracted_value": 32,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+apps&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+apps&tz=420"
+   },
+   {
+    "query": "habit tracker template",
+    "value": "32",
+    "extracted_value": 32,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+template&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+template&tz=420"
+   },
+   {
+    "query": "habit tracker pdf",
+    "value": "30",
+    "extracted_value": 30,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+pdf&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+pdf&tz=420"
+   },
+   {
+    "query": "google habit tracker",
+    "value": "30",
+    "extracted_value": 30,
+    "link": "https://trends.google.com/trends/explore?q=google+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=google+habit+tracker&tz=420"
+   },
+   {
+    "query": "best habit tracker app",
+    "value": "27",
+    "extracted_value": 27,
+    "link": "https://trends.google.com/trends/explore?q=best+habit+tracker+app&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+habit+tracker+app&tz=420"
+   },
+   {
+    "query": "habit tracker ios",
+    "value": "26",
+    "extracted_value": 26,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+ios&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+ios&tz=420"
+   },
+   {
+    "query": "daily habit tracker",
+    "value": "23",
+    "extracted_value": 23,
+    "link": "https://trends.google.com/trends/explore?q=daily+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=daily+habit+tracker&tz=420"
+   },
+   {
+    "query": "habit tracker android",
+    "value": "23",
+    "extracted_value": 23,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+android&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+android&tz=420"
+   },
+   {
+    "query": "habit tracker free app",
+    "value": "22",
+    "extracted_value": 22,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+free+app&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+free+app&tz=420"
+   },
+   {
+    "query": "best free habit tracker",
+    "value": "18",
+    "extracted_value": 18,
+    "link": "https://trends.google.com/trends/explore?q=best+free+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+free+habit+tracker&tz=420"
+   },
+   {
+    "query": "notion habit tracker",
+    "value": "18",
+    "extracted_value": 18,
+    "link": "https://trends.google.com/trends/explore?q=notion+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=notion+habit+tracker&tz=420"
+   },
+   {
+    "query": "loop",
+    "value": "18",
+    "extracted_value": 18,
+    "link": "https://trends.google.com/trends/explore?q=loop&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=loop&tz=420"
+   },
+   {
+    "query": "loop habit tracker",
+    "value": "18",
+    "extracted_value": 18,
+    "link": "https://trends.google.com/trends/explore?q=loop+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=loop+habit+tracker&tz=420"
+   },
+   {
+    "query": "notion",
+    "value": "17",
+    "extracted_value": 17,
+    "link": "https://trends.google.com/trends/explore?q=notion&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=notion&tz=420"
+   },
+   {
+    "query": "best habit tracker apps",
+    "value": "16",
+    "extracted_value": 16,
+    "link": "https://trends.google.com/trends/explore?q=best+habit+tracker+apps&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=best+habit+tracker+apps&tz=420"
+   },
+   {
+    "query": "journal habit tracker",
+    "value": "15",
+    "extracted_value": 15,
+    "link": "https://trends.google.com/trends/explore?q=journal+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=journal+habit+tracker&tz=420"
+   },
+   {
+    "query": "journal",
+    "value": "15",
+    "extracted_value": 15,
+    "link": "https://trends.google.com/trends/explore?q=journal&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=journal&tz=420"
+   },
+   {
+    "query": "online habit tracker",
+    "value": "14",
+    "extracted_value": 14,
+    "link": "https://trends.google.com/trends/explore?q=online+habit+tracker&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=online+habit+tracker&tz=420"
+   },
+   {
+    "query": "habit tracker planner",
+    "value": "13",
+    "extracted_value": 13,
+    "link": "https://trends.google.com/trends/explore?q=habit+tracker+planner&date=today+12-m",
+    "serpapi_link": "https://serpapi.com/search.json?data_type=RELATED_QUERIES&date=today+12-m&engine=google_trends&hl=en&q=habit+tracker+planner&tz=420"
+   }
+  ]
+ }
+}

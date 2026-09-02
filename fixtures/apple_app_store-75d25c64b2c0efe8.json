@@ -1,0 +1,1857 @@
+{
+ "search_metadata": {
+  "id": "6a96c978e22fed20314ffc6f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/7sXrnB6ipJB-0K3QzD_ZUgzBB3cShvZbJECE0_0V0I0/6a96c978e22fed20314ffc6f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/7sXrnB6ipJB-0K3QzD_ZUgzBB3cShvZbJECE0_0V0I0/6a96c978e22fed20314ffc6f.md",
+  "created_at": "2026-09-01 12:47:52 UTC",
+  "processed_at": "2026-09-01 12:47:52 UTC",
+  "apple_app_store_url": "https://itunes.apple.com/search?media=software&term=habit+tracker&country=us&lang=en-us&explicit=yes&limit=8",
+  "raw_html_file": "https://serpapi.com/searches/7sXrnB6ipJB-0K3QzD_ZUgzBB3cShvZbJECE0_0V0I0/6a96c978e22fed20314ffc6f.html",
+  "prettify_html_file": "https://serpapi.com/searches/7sXrnB6ipJB-0K3QzD_ZUgzBB3cShvZbJECE0_0V0I0/6a96c978e22fed20314ffc6f.prettify",
+  "total_time_taken": 0.93
+ },
+ "search_parameters": {
+  "engine": "apple_app_store",
+  "term": "habit tracker",
+  "country": "us",
+  "lang": "en-us",
+  "device": "mobile",
+  "num": "8"
+ },
+ "search_information": {
+  "organic_results_state": "Results for exact spelling",
+  "results_count": 7
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "id": 1438388363,
+   "title": "Habit Tracker",
+   "bundle_id": "com.davetech.habit",
+   "version": "2.14.23",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "- add shortcut supports - add custom repeat interval - fix bugs ----- Beta Tester needed ----- If you want to help us to test new version, contact us: innergrow.app@gmail.com If your widget is not working, restart your iPhone. Our IG: Tiny Useful Apps",
+   "minimum_os_version": "15.0",
+   "description": "Habit Tracker: A simple daily planner to schedule and track your routine, making it easy to build lasting habits. Join 15M+ happy users, achieve your goals, and make every day count! More than a self-care companion, it lets you share with others to grow and improve together. ----Useful Features---- Sync with Apple Health: Track water intake, steps, sleep, exercise, and calories to seamlessly monitor your wellness journey. Build & Quit Habits: Create positive routines or break free from bad habits with tailored tracking. Flexible Goal Tracking: Measure progress with specific units (e.g., minutes, glasses of water), not just checkmarks. Group Habits: Stay motivated by building, reminding, and tracking habits with friends or loved ones. Insightful Stats: Get detailed analytics to evaluate and celebrate your progress. Habit Reports: Weekly, monthly, and yearly reports to visualize your growth. Mood Tracking: Monitor your mental wellness to stay balanced and mindful. Smart Reminders: Set time- or location-based reminders to stay on track effortlessly. Multiple Reminders: Add as many reminders as needed for any habit. Custom Sounds: Record or import unique reminder sounds for a personal touch. Widgets for Easy Access: Use Home Screen & Lock Screen to log habits instantly without opening the app. HRV Stress Monitor: Track your heart rate variability (HRV) to measure stress levels and gain insights into your well-being Habit Diary: Jot down notes to reflect on your journey in a personal habit memo. Focus Timer: Stay focused with natural sounds & create a calming, distraction-free environment Cloud Sync: Back up and sync your data across devices for seamless access. Daily Inspiration: Enjoy motivational wallpapers and quotes to keep you inspired. Privacy Protection: Secure your data with FaceID or TouchID. Friendly Competition: Compete with friends to see who\u2019s crushing their habits. ADHD Planner: ADHD friendly plans built-in to help. Dark Mode: Sleek design for a comfortable experience, day or night. Habit Tracker helps you simplify your daily routine, clear your mind, stay on track with your goals, and build a better life. Download now! Perfect for ADHD users, this app simplifies planning and tracking to help you stay focused, build routines, and thrive with ease. NOTE: Habit reads data for some habits from Apple Health app (Steps, energy, walking, running ..etc). No data is being sent outside of your device. Health app access required. EULA: https://www.eulatemplate.com/live.php?token=MRcYNs6U8BXMLSDWG0BzEqLPPtL2Vc46",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/habit-tracker/id1438388363?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=1438388363&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1438388363&sort=mostrecent",
+   "release_date": "2019-01-31 09:10:14 UTC",
+   "latest_version_release_date": "2026-08-15 15:18:18 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.79,
+     "count": 146150
+    }
+   ],
+   "genres": [
+    {
+     "name": "Productivity",
+     "id": 6007,
+     "primary": true
+    },
+    {
+     "name": "Health & Fitness",
+     "id": 6013,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "InnerGrow",
+    "id": 1828382777,
+    "link": "https://apps.apple.com/us/developer/id1828382777"
+   },
+   "size_in_bytes": 339836928,
+   "supported_languages": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "ZH"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/b8/05/5cb8051e-e125-e84e-f0b5-2551b6e9d69d/_U767d1.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/5d/32/135d32df-678d-5c7e-d940-4f16d5c4e396/_U767d2.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/a8/66/2ea866a0-2271-4d8a-e380-8386b935283f/_U767d3.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/9c/11/589c1153-5d91-f99a-0b24-2467a6b6c239/_U767d4.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/a8/fe/aca8fee4-573a-f966-0ee2-11b3f701a68f/_U767d5.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/3b/0d/df3b0d0b-5e85-747b-c85f-ab94079f94a0/_U767d7.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/14/b2/f714b249-4ba1-653b-b9a5-2897b51fc7f3/_U767d6.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/2d/68/142d6844-74ce-660b-ab2e-92144650dc72/_U767d10.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/a6/82/b2a682bb-d6d2-5a3b-bcd1-eef221158830/_U767d8.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/00/5e/8f005e91-1077-38ce-c7e4-09bb062ed4ae/_U767d9.jpg/320x480bb.jpg",
+      "size": "320x480"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/92/d2/b592d245-95ab-cf32-ebef-3b91d13db779/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/03/31/4f/03314fcd-1461-d8e4-67e6-bdf52d799912/682e8d54-8e5f-4113-9820-54a3dcbe35fd__U82f1.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/69/27/4d69271d-f735-089f-dc46-35f6128fb466/9a63d49f-6316-4518-835b-1b3b157ae594_widget.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/c0/69/cdc069d1-5b34-05a4-7f23-178a45e3355c/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/1f/a5/2f1fa5bb-7869-5f12-6296-c6bc0a6e493f/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/ae/37/f1ae373c-ab99-1791-90a8-05b28054639c/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/93/fc/0693fcac-39ac-78bf-36b1-61ad382b5563/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/6f/e9/0f6fe9ef-5e6d-1a49-aba3-67ac3db640fe/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/12/f9/df12f944-b479-3b0c-06cf-01a9b01a5774/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ee/e6/75eee69f-b9ff-1d26-ebea-b53ad81a5107/pr_source.png/576x768bb.png",
+      "size": "576x768"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ef/00/d3ef00c2-9b1c-b5ef-0464-2e08231b80de/AppIcon-pink-gr-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ef/00/d3ef00c2-9b1c-b5ef-0464-2e08231b80de/AppIcon-pink-gr-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/ef/00/d3ef00c2-9b1c-b5ef-0464-2e08231b80de/AppIcon-pink-gr-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "Watch4",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 2,
+   "id": 6749204658,
+   "title": "Habit Tracker: Habit OK",
+   "bundle_id": "com.habit-ok.app",
+   "version": "3.9.4",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "Fixed bugs and improved app stability",
+   "minimum_os_version": "15.0",
+   "description": "Habit OK is a simple habit tracker and task manager for daily routines, goals, reminders and progress stats. Build good habits, break bad patterns, plan tasks, and keep your day on track without clutter. Create habits for repeating actions and tasks for one-off work. Organize tasks into sections, add subtasks, comments and flags, review change history, and check things off from a clear daily workspace. Use Habit OK for reading, workouts, water, study sessions, deep work, household tasks, screen-time limits, nicotine, caffeine, sugar, journaling, or any routine you want to repeat. Why Habit OK works: \u2022 Fast habit tracking: see today, tap once, move on. \u2022 Good and bad habits: build positive routines and limit unwanted patterns. \u2022 Full task manager: sections, subtasks, comments, flags and change history. \u2022 Streaks and progress: review completion, consistency and long-term changes. \u2022 Smart reminders: get nudges on the right days and times. \u2022 Home Screen widgets: mark habits faster without opening the app. \u2022 Meanings: keep your reasons and motivation close. \u2022 Flexible appearance: make the app feel calm and personal. Habit OK brings habits and tasks into one focused workspace. Repeating actions live in the habit tracker; one-off work lives in tasks. That makes it easier to see what matters today, stay consistent, and keep progress visible. Start small. Track today. Add a task. Build a system you can actually keep. Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/habit-tracker-habit-ok/id6749204658?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=6749204658&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6749204658&sort=mostrecent",
+   "release_date": "2025-08-29 07:00:00 UTC",
+   "latest_version_release_date": "2026-08-31 19:00:45 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.81,
+     "count": 42
+    }
+   ],
+   "genres": [
+    {
+     "name": "Productivity",
+     "id": 6007,
+     "primary": true
+    },
+    {
+     "name": "Health & Fitness",
+     "id": 6013,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "Develife apps Limited",
+    "id": 1829272413,
+    "link": "https://apps.apple.com/us/developer/id1829272413"
+   },
+   "size_in_bytes": 89306112,
+   "supported_languages": [
+    "EN",
+    "RU"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/80/65/91806592-6e78-0b68-8e6b-497e8322fb9e/1__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/8d/8c/998d8c0e-7e24-c19c-f375-4a5e3ef779c8/2__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/5b/9c/365b9cb6-8438-5aa0-b058-45cd1e7921ca/3__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/1e/62/801e62e4-4776-cf83-be31-bf105eb0aba5/4__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/29/25/9e29252f-9c2f-fb65-1bc6-d8a56ebb99be/5__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/a2/05/bfa205e9-ad7c-a3c8-eab6-8441271cdb66/7__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/45/e8/c345e89a-6c5d-6376-7ff2-89498da8e00d/8__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/22/32/572232cc-12fa-ae09-460a-6ed3a1a81226/9__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/86/11/67861125-d843-79b5-304a-3d6dfce5e0ee/10__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/07/7f/86077f71-abfa-176f-707b-ebdecdca2e14/11__U044d_U043a_U0440_U0430_U043d__U0430_U043d_U0433__U043c_U0435_U043d_U044c_U0448_U0435.jpg/320x480bb.jpg",
+      "size": "320x480"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/39/1a/3a391ac6-ab98-1505-f40c-9decb3ade125/1_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/ff/53/bfff532d-c9d9-7427-5110-53dd90566f80/2_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/02/9c/c9029cdf-236d-71a8-2e2c-904ba6b39f14/3_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d9/51/3b/d9513b24-7046-f419-a0bc-f2805fb9203a/4_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/1c/74/fd1c742d-5caa-bae9-b387-c24495b0788f/5_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/8e/19/2c8e1929-b086-93b6-c927-deb3593ca89f/7_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/15/f0/5f15f0b0-ff71-9914-4449-384913c9a7a8/8_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/3f/99/7a3f994b-07f0-a3aa-5533-79e6057c5a24/9_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/66/ce/4b66ce5c-eb1d-b392-1f6b-6bb76e2858d0/10_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/97/bd/5f97bd43-224f-8020-e640-c3c950725fbd/11_IPAD__U0430_U043d_U0433.jpg/360x480bb.jpg",
+      "size": "360x480"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c4/52/cfc45240-ae0a-85b6-2391-2f8878a710a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c4/52/cfc45240-ae0a-85b6-2391-2f8878a710a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c4/52/cfc45240-ae0a-85b6-2391-2f8878a710a9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 3,
+   "id": 6443918070,
+   "title": "Habit Tracker - HabitKit",
+   "bundle_id": "com.roehl.habitkit",
+   "version": "1.17.1",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "- Press and hold a habit, then drag to reorder it - Habits with a daily target show it as marks around the ring - Faster launch, and a new look for the view switcher - Quit habits now show your clean days on the calendar - Fixed: reminders after a phone restart, streaks and past days after a goal change, emoji picker crashes, and right-to-left layouts",
+   "seller_link": "https://www.habitkit.app",
+   "minimum_os_version": "15.0",
+   "description": "HabitKit is the perfect app for anyone looking to form new habits or break old ones. With HabitKit, you can track your progress with beautiful tile-based grid charts. Whether you're trying to quit smoking, eat healthier, or exercise more, HabitKit can help you achieve your goals. You can customize your dashboard by adjusting colors, icons and descriptions. Draw motivation from growing the amount of colored tiles on your habit dashboard. --- CREATE HABITS Add your habits you want to track in a fast and easy way. Provide a name, description, icon and color and you're good to go. DASHBOARD All your habits are displayed on your dashboard represented by a cool looking grid chart. Every filled out square show a day where you kept up with your habit. CALENDAR The calendar provides a fast and easy way to manage past completions. Simply tap a day to remove or add a completion. ARCHIVE Do you need a break from a habit and don't want to clutter your dashboard with it? Just archive it and restore it at a later point from the menu. IMPORT AND EXPORT Switching phones and don't want to lose your data? Export your data to a file, save it wherever you want and restore it at a later point of time. PRIVACY FOCUSED All your data belongs to you and stays on your phone. No sign-in. No servers. No cloud. --- Terms of Use: https://www.habitkit.app/tos/ Privacy Policy: https://www.habitkit.app/privacy/",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/habit-tracker-habitkit/id6443918070?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=6443918070&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6443918070&sort=mostrecent",
+   "release_date": "2022-11-26 08:00:00 UTC",
+   "latest_version_release_date": "2026-08-31 07:56:26 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.85,
+     "count": 2385
+    }
+   ],
+   "genres": [
+    {
+     "name": "Productivity",
+     "id": 6007,
+     "primary": true
+    }
+   ],
+   "developer": {
+    "name": "Sebastian Roehl",
+    "id": 1602956482,
+    "link": "https://apps.apple.com/us/developer/id1602956482"
+   },
+   "size_in_bytes": 217887744,
+   "supported_languages": [
+    "EN"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/27/c1/cb27c143-49f7-12ba-a1f1-68fd4caf0634/Apple_iPhone_11_Pro_Max_Screenshot_0.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/ba/4e/18ba4eac-d29a-94ae-88a5-92204e14eb24/Apple_iPhone_11_Pro_Max_Screenshot_1.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/59/4e/23594e53-c451-7772-0dbb-7cd58b8470bb/Apple_iPhone_11_Pro_Max_Screenshot_2.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/9d/de/1f9ddebd-281b-b654-e7a4-0a686f293778/Apple_iPhone_11_Pro_Max_Screenshot_3.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/32/9a/86329a08-fb1f-6cf3-f5a6-76fc5c45fb36/Apple_iPhone_11_Pro_Max_Screenshot_4.png/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/20/48/5d204867-d7a1-3cec-fd13-57b9718b7025/Apple_iPhone_11_Pro_Max_Screenshot_5.png/320x480bb.jpg",
+      "size": "320x480"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/30/f4/5530f49f-6015-0341-1117-7c0245340eb8/NewAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/30/f4/5530f49f-6015-0341-1117-7c0245340eb8/NewAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/30/f4/5530f49f-6015-0341-1117-7c0245340eb8/NewAppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 4,
+   "id": 1528595748,
+   "title": "Finch: Self-Care Pet",
+   "bundle_id": "com.finch.finch",
+   "version": "3.73.201",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "Hey Finch Fam! This update includes: \u2022 Fixing those darned bugs - thanks for reporting them! \u2022 Tweaks here and there to make things prettier and more fun.",
+   "minimum_os_version": "15.6",
+   "description": "Meet your new self-care best friend! Finch is a self-care pet app that helps you feel prepared and positive, one day at a time. Take care of your pet by taking care of yourself! Choose from a wide variety of self-care exercises personalized for you. THE BEST DAILY SELF-CARE APP Struggling with stress, mental health, or need motivation? Is self-care a chore? Finch makes self-care finally feel rewarding, lightweight, and fun. Complete quick self-care exercises to grow your pet, earn rewards, and improve mental health! People who struggle with mental health, goals, meditation, and journaling found it easier to be mindful with their self-care pet in the Finch app! REVIEWS - \"I\u2019ve tried other apps for being thankful and thinking positive but never used them long. I enjoy this one because the virtual pet is really cute and it takes just a moment to be honest about I really feel.\" - \"As someone who struggles with anxiety and depression, I have tried many journaling apps and mood trackers. All of them felt like a chore, but not Finch! Even if I am not feeling like journaling or even facing my emotions, I can do so in order to help Finch.\" QUICK CHECK INS - Start mornings with quick mood checks and energize your pet to go exploring! Choose from a variety of quick mindful habits from goal tracking and bullet journaling to mindful breathing exercises and quizzes! - End days in moments of gratitude with your self-care pet where they'll be back from adventures to share stories with you! Destress, reflect, and recognize your positive moments. MINDFUL EXERCISES Strengthen your mental health by increasing resilience, productivity, and gratitude with self-care exercises! Finch helps you hit goals and sustain healthy habits with your self-care pet! - Goal Tracker: set goals and celebrate wins you've accumulated from healthy habits. - Bullet Journaling: guided bullet journaling prompts to clear the mind, track important moments, and practice gratitude. - Breathing: guided breathing to calm nerves, increase focus, energize your mind, and sleep better. - Quizzes: quick quizzes to understand your mental health by tracking your anxiety, depression, body image appreciation, and more. - Mood Tracker: check on yourself and access mood trends to understand what has been lifting you up or bringing you down. - Quotes: read motivational quotes to lift your mood and gain new perspective. - Sleep: Unwind yourself for good sleep with guided breathing and next day goal planning. - Insights: get insights on your mental health from combined analytics on your mood tracker, bullet journal tags, goal tracker, and quizzes. SAY HI! - TikTok: https://www.tiktok.com/@finchcare - Discord: https://discord.gg/finchfam - Instagram: https://www.instagram.com/finchcare/ - Facebook: https://facebook.com/groups/finchfam - Email: support@befinch.com - Terms of service: https://befinch.notion.site/Finch-Care-PBC-Terms-of-Service-710ffd2b56ce4bc8ac8063461a3bb96e - Privacy policy: https://befinch.notion.site/Finch-Care-PBC-Privacy-Policy-c2e466cb17f34edd87d0c353b5742ac5",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/finch-self-care-pet/id1528595748?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=1528595748&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1528595748&sort=mostrecent",
+   "release_date": "2021-05-12 07:00:00 UTC",
+   "latest_version_release_date": "2026-08-29 21:04:09 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.95,
+     "count": 746410
+    }
+   ],
+   "genres": [
+    {
+     "name": "Health & Fitness",
+     "id": 6013,
+     "primary": true
+    },
+    {
+     "name": "Lifestyle",
+     "id": 6012,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "Finch Care Public Benefit Corporation",
+    "id": 1528595750,
+    "link": "https://apps.apple.com/us/developer/id1528595750"
+   },
+   "size_in_bytes": 467418112,
+   "supported_languages": [
+    "EN"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6f/a9/fe/6fa9feb6-41c9-7c26-0f5c-296558c9f0f1/iPhone_social_large_01.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/ca/ee/e8caee25-4118-702c-c751-02a9ce6b8c66/iPhone_social_large_02.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/a7/84/bea784ad-4c13-e5fd-2108-1dc9827e05d9/iPhone_social_large_03.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/f7/19/01f7194f-379f-5b81-bb5d-e05a30711938/iPhone_social_large_04.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/1d/c2/791dc207-24ec-5d17-ae7f-2faafaf7bdbc/iPhone_social_large_05.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/c4/59/bfc45963-b7a0-97e2-39c1-da95a3059a3c/iPhone_social_large_06.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/4e/5b/414e5b53-e6b8-588d-3894-a311fe1c89e3/iPhone_social_large_07.jpg/320x480bb.jpg",
+      "size": "320x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/3c/4c/ab3c4cbf-089a-f52e-759c-b7fb618465fd/iPhone_social_large_08.jpg/320x480bb.jpg",
+      "size": "320x480"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3e/60/f2/3e60f2c3-a26c-cde0-a7c1-421d5e2f7f1a/ipad_social_01.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/16/72/981672ff-0578-722d-0947-e3d5a87c393b/ipad_social_02.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/e8/89/d1e889a8-c832-81c7-617c-e2aee71ae0a3/ipad_social_03.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/5a/9b/125a9b4d-5e8d-6f63-17e5-0b3e2194c791/ipad_social_04.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/a7/05/65a70576-7007-7332-f09c-647b0023a542/ipad_social_05.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/29/aa/6829aa8e-d6d2-f1a7-7b97-e4e2d4f4a593/ipad_social_06.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/b5/5f/21b55f70-42d5-968d-8859-faae937224ef/ipad_social_07.jpg/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/fa/ed/9afaed85-2f7a-21f3-19d9-4b9fa4abb7a5/ipad_social_08.jpg/360x480bb.jpg",
+      "size": "360x480"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/18/83/901883db-778b-b8dd-9857-04bfbf8bf4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/18/83/901883db-778b-b8dd-9857-04bfbf8bf4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/18/83/901883db-778b-b8dd-9857-04bfbf8bf4e3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 5,
+   "id": 1547137474,
+   "title": "Onrise: Habit Tracker & Focus",
+   "bundle_id": "me.onrise",
+   "version": "1.1.9",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "Refreshed for iOS 26 with Liquid Glass navigation, redesigned Wrapped stories, smoother transitions, and improved layouts across devices.",
+   "seller_link": "https://onrise.me",
+   "minimum_os_version": "13.0",
+   "description": "Onrise helps you to build beneficial habits, provides a Pomodoro timer to work more effectively and increase productivity, and a journal to keep track of everything. Standing on the latest research about behavior design and productivity, Onrise is your guide to achieving your goals. Give it a try and become the person you aspire to be!",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/onrise-habit-tracker-focus/id1547137474?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=1547137474&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1547137474&sort=mostrecent",
+   "release_date": "2021-01-03 08:00:00 UTC",
+   "latest_version_release_date": "2026-08-25 14:24:43 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.84,
+     "count": 2534
+    }
+   ],
+   "genres": [
+    {
+     "name": "Productivity",
+     "id": 6007,
+     "primary": true
+    },
+    {
+     "name": "Health & Fitness",
+     "id": 6013,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "Maximilian Munker",
+    "id": 983733173,
+    "link": "https://apps.apple.com/us/developer/id983733173"
+   },
+   "size_in_bytes": 20473856,
+   "supported_languages": [
+    "NL",
+    "EN",
+    "FR",
+    "DE",
+    "HI",
+    "IT",
+    "ES",
+    "SV"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/b8/b2/99b8b251-bef8-cbd8-f3fe-26ab14454e5f/Screen_1.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/2d/d6/c22dd6fd-07e8-5c34-ceb9-e07e9e7bf3bc/Screen_2.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/7b/38/527b382f-a900-ca43-58f6-cef5f891b3f9/Screen_3.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/03/9f/5e039fa7-461b-0eef-246f-d7068cc8a9e4/Screen_4.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/5d/0e/275d0ee9-9997-9747-7cff-1945b99adaf5/Screen_5.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/c3/cf/ffc3cfb7-0818-5605-bcad-d85b011ad87d/Screen_49.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b4/f2/a4/b4f2a484-5647-ab13-b458-9c6dad464e64/Screen_6.png/392x696bb.png",
+      "size": "392x696"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/23/b0/2223b0fb-e77d-48d1-b8d2-ba6327093d08/ipad-1.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/dd/15/dcdd159d-da42-6922-bc75-107adc7839ee/ipad-2.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/17/15/041715d4-0179-9262-e39d-f4a81e527f74/ipad-3.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bb/85/d4/bb85d429-40d0-0bce-b5ee-7ab09686022f/ipad-7.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/c5/80/c0c580fd-b213-9ed9-e586-5afdf11728df/ipad-4.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/43/6d/ad436d6f-5623-206c-baf5-1d04edda62e9/ipad-6.png/360x480bb.jpg",
+      "size": "360x480"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/cd/f3/99cdf3ce-e742-cb1a-2d5f-5cc50a032b59/ipad-5.png/360x480bb.jpg",
+      "size": "360x480"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/08/7f/23087fb9-5ddc-bc14-4574-18a2b13fb909/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/08/7f/23087fb9-5ddc-bc14-4574-18a2b13fb909/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/08/7f/23087fb9-5ddc-bc14-4574-18a2b13fb909/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 6,
+   "id": 983826477,
+   "title": "Productive - Habit Tracker",
+   "bundle_id": "com.beHappy.Productive",
+   "version": "3.26.39",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "Hello readers! In this update we've fixed few bugs and polished the app.",
+   "seller_link": "https://www.apalon.com/productive.html",
+   "minimum_os_version": "14.0",
+   "description": "Meet Productive - the app that helps you build positive life-changing habits. With Productive, you can set personal goals, track your progress, and focus on what makes you healthier, happier and more productive! FEATURES HABIT MANAGEMENT Create, complete, stop, or pause habits whenever it is convenient for you. Add notes to your habits to highlight the main points during the day. PROGRAMS \u0421hoose your goal, receive daily habit tips, reflection check-ins, and motivation prompts to get the boost you need. CHALLENGES Improve your daily routine by completing guided tasks and competing with other users from all over the world. ARTICLES Grow awareness of your own productivity and motivation with personalized expert insights. CUSTOMIZATION Customize the app the way you want! You can name your habit, choose a unique icon, and even pick its color. STATISTICS Track your habits and analyze progress by building motivating chains of completed habits and perfect days. The longer your chain of completed habits, the more likely you will keep the streak going. NOTIFICATIONS Set up smart reminders, and personalize the app to get notifications of what's scheduled for each part of the day. ADHD ASSISTANCE Manage distractions and deal with ADHD by concentrating on a focused daily routine. PREMIUM FEATURES - Unlimited number of habits - Endless motivation with various challenges - Full-text articles to draw inspiration - Improved reminders for individual habits - Location-based reminders - Motivating stats for each habit - Habit trends with week-by-week data SUBSCRIPTION INFORMATION Subscription payments will be charged to your App Store account at confirmation of your purchase. Subscriptions will automatically renew and you will be charged unless auto-renew is turned off or unless you cancel at least 24 hours prior to the end of the current subscription or trial period. Any unused portion of a free trial period will be forfeited when you purchase a premium subscription during the free trial period. The cost of renewal depends on the Subscription Plan you choose. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase or by contacting Customer Support. If you have any questions or suggestions on how we can improve the application, please do not hesitate to contact us at productive@bendingspoons.com Privacy Policy: http://www.apalon.com/privacy_policy.html EULA: http://www.apalon.com/terms_of_use.html AdChoices: http://www.apalon.com/privacy_policy.html#4 California Privacy Notice: https://apalon.com/privacy_policy.html#h",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/productive-habit-tracker/id983826477?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=983826477&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=983826477&sort=mostrecent",
+   "release_date": "2015-06-02 06:38:06 UTC",
+   "latest_version_release_date": "2026-03-19 09:48:03 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.6,
+     "count": 91085
+    }
+   ],
+   "genres": [
+    {
+     "name": "Productivity",
+     "id": 6007,
+     "primary": true
+    },
+    {
+     "name": "Health & Fitness",
+     "id": 6013,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "Mosaic S.r.l.",
+    "id": 570748343,
+    "link": "https://apps.apple.com/us/developer/id570748343"
+   },
+   "size_in_bytes": 345735168,
+   "supported_languages": [
+    "DA",
+    "EN",
+    "FR",
+    "DE",
+    "ID",
+    "IT",
+    "JA",
+    "KO",
+    "NB",
+    "PL",
+    "PT",
+    "RU",
+    "ZH",
+    "ES",
+    "SV",
+    "TH",
+    "ZH",
+    "TR",
+    "VI"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/29/bb/0829bbad-886c-fd04-69e8-1b9a91614916/08174d87-8f8d-46f1-8cbd-52d4bf952735_iphone5.5_s1_en-US.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0b/87/30/0b8730a2-f383-ac2c-0cfb-e435dbcfa383/a25beccb-e278-4ccc-aa5b-964908ec598e_iphone5.5_s2_en-US.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ae/b8/a8/aeb8a823-c3e9-5436-3075-eda9fd014c78/320360fb-5a7b-40f0-8213-ef1609bc1420_iphone5.5_s4_en-US.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0d/0d/2f/0d0d2fd0-0f24-196a-e3d4-05bdf5f67eb9/dfe620f8-463b-46ed-86f8-78832196ab23_iphone5.5_s3_en-US.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/93/48/1c/93481c40-3f5b-8b20-bd4e-3a1e6efee109/7bceabc7-a679-4759-8b54-14e921d36217_iphone5.5_s5_en-US.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/06/27/600627e6-ec8f-cd05-42f8-262a8a8d5249/3a9e3665-3925-4f94-8e51-e348cf449347_iphone5.5_s6_en-US.jpg/392x696bb.jpg",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/01/89/86/01898689-07e5-4eaf-feb6-716c630cb0f0/39784144-d3c5-449b-ab6a-b89faebca849_iphone5.5_s7_en-US.jpg/392x696bb.jpg",
+      "size": "392x696"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/28/ab/ae/28abae9f-dbf9-d0a1-a61b-af9c453e39c2/95ee5fac-5dba-4029-ab52-6dc5ed0eab7f_ipad12.9_U00282_U0029_s1_en-US.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0b/c6/e1/0bc6e187-ec92-9712-543d-e62b519662e1/cef27ecc-7526-468a-9d23-6a050623f908_ipad12.9_U00282_U0029_s2_en-US.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/d0/b3/94d0b372-8825-2ad8-e559-01bb6d737a4a/3c319200-39de-45e0-9981-3f0f7b61f04e_ipad12.9_U00282_U0029_s3_en-US.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/2c/2f/b12c2fe9-082c-83a2-1203-47c842558cec/1bae1878-7d5c-4b83-8736-8a8e3d76748f_ipad12.9_U00282_U0029_s4_en-US.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/ed/78/8bed7873-6688-d799-02df-d12c19a4f5a0/7f2e4f52-b4d9-41a2-8805-f03f647e6bd2_ipad12.9_U00282_U0029_s5_en-US.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a2/5f/d2/a25fd242-de6d-a3e7-220a-3f3318174905/f1123174-d924-4ed6-a76a-c13a79d9f995_ipad12.9_U00282_U0029_s6_en-US.jpg/576x768bb.jpg",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/03/fd/78/03fd781d-2f3c-aa8c-504f-53e306cc4ef2/4a4a8393-9648-4718-85b2-2551e0cbc862_ipad12.9_U00282_U0029_s7_en-US.jpg/576x768bb.jpg",
+      "size": "576x768"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/8c/d1/7f8cd183-7ce1-b8b3-b690-51a7565ee76b/AppIcon_iOS-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/8c/d1/7f8cd183-7ce1-b8b3-b690-51a7565ee76b/AppIcon_iOS-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/8c/d1/7f8cd183-7ce1-b8b3-b690-51a7565ee76b/AppIcon_iOS-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "Watch4",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  },
+  {
+   "position": 7,
+   "id": 6480042457,
+   "title": "Habit Tracker - Daily Goals",
+   "bundle_id": "uniqo.habit",
+   "version": "1.1.0",
+   "vpp_license": true,
+   "age_rating": "4+",
+   "release_note": "Performance improvements",
+   "seller_link": "https://99apps.me",
+   "minimum_os_version": "17.0",
+   "description": "No ads & no subscription. Habit Tracker is an app designed to help you build positive habits and achieve your goals. Reminders, tracking statistics, habit analysis with charts, and motivation on your path to success - all in one app. Useful Features: Two Types of Habits: Build good habits and eliminate bad ones. Goal Units: Track habits not only by \"done/not done,\" but also by volume and units. Powerful Statistics: Detailed information to evaluate your results. Habit Reports: Weekly, monthly, and yearly reports. Reminders: Timely reminders. Repeated Reminders: Set multiple reminders for each habit. Habit Ideas: Discover new habits worth trying (regularly updated). With Habit Tracker, your daily routine will become simpler, your mind clearer, your goals more achievable, and your life better. Download now and start changing your life!",
+   "game_center_enabled": false,
+   "link": "https://apps.apple.com/us/app/habit-tracker-daily-goals/id6480042457?uo=4",
+   "serpapi_product_link": "https://serpapi.com/search.json?country=us&engine=apple_product&product_id=6480042457&type=app",
+   "serpapi_reviews_link": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6480042457&sort=mostrecent",
+   "release_date": "2024-06-18 07:00:00 UTC",
+   "latest_version_release_date": "2026-05-11 21:37:29 UTC",
+   "price": {
+    "type": "Free"
+   },
+   "rating": [
+    {
+     "type": "All Times",
+     "rating": 4.85,
+     "count": 3297
+    }
+   ],
+   "genres": [
+    {
+     "name": "Productivity",
+     "id": 6007,
+     "primary": true
+    },
+    {
+     "name": "Lifestyle",
+     "id": 6012,
+     "primary": false
+    }
+   ],
+   "developer": {
+    "name": "Uniqo Lab.",
+    "id": 1625160709,
+    "link": "https://apps.apple.com/us/developer/id1625160709"
+   },
+   "size_in_bytes": 36811776,
+   "supported_languages": [
+    "EN",
+    "FR",
+    "DE",
+    "IT",
+    "JA",
+    "PT",
+    "ZH",
+    "ZH"
+   ],
+   "screenshots": {
+    "general": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d2/4b/a1/d24ba148-93f6-39eb-3323-cf33aae5fd08/13138180-af5e-4faf-b2e2-79149cfbdf03_01_opaque.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/9b/b0/009bb032-4bcb-e179-5e7a-25d8c8cf5773/3eeccd13-3bbb-4dcf-bf2f-1eec29173a3b_02_opaque.png/392x696bb.png",
+      "size": "392x696"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/60/c8/3060c86d-af7c-7459-d494-775ce04a3bf6/1f25e173-6632-4918-844c-01d81f08371c_03_opaque.png/392x696bb.png",
+      "size": "392x696"
+     }
+    ],
+    "ipad": [
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/2c/47/d32c478a-1c6c-29ed-60f8-dca3e37b6c62/48af67ac-ee9f-4f8e-9650-62969e1c496d_01_opaque.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/1e/ef/fa1eef50-e225-5692-bfdc-7026bc451da6/621f7068-44c0-4783-b372-c054ff21e111_02_opaque.png/576x768bb.png",
+      "size": "576x768"
+     },
+     {
+      "link": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/f7/a5/b8f7a5f6-84f5-60b4-e795-b892afd8dc45/9920875f-6914-42e8-8145-26c17c6f25ec_03_opaque.png/576x768bb.png",
+      "size": "576x768"
+     }
+    ]
+   },
+   "logos": [
+    {
+     "size": "512x512",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7f/42/c57f4244-9589-e1d4-be0d-b3b481549629/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    },
+    {
+     "size": "60x60",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7f/42/c57f4244-9589-e1d4-be0d-b3b481549629/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg"
+    },
+    {
+     "size": "100x100",
+     "link": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/7f/42/c57f4244-9589-e1d4-be0d-b3b481549629/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+    }
+   ],
+   "features": [
+    "iosUniversal"
+   ],
+   "supported_devices": [
+    "iPhone5s",
+    "iPadAir",
+    "iPadAirCellular",
+    "iPadMiniRetina",
+    "iPadMiniRetinaCellular",
+    "iPhone6",
+    "iPhone6Plus",
+    "iPadAir2",
+    "iPadAir2Cellular",
+    "iPadMini3",
+    "iPadMini3Cellular",
+    "iPodTouchSixthGen",
+    "iPhone6s",
+    "iPhone6sPlus",
+    "iPadMini4",
+    "iPadMini4Cellular",
+    "iPadPro",
+    "iPadProCellular",
+    "iPadPro97",
+    "iPadPro97Cellular",
+    "iPhoneSE",
+    "iPhone7",
+    "iPhone7Plus",
+    "iPad611",
+    "iPad612",
+    "iPad71",
+    "iPad72",
+    "iPad73",
+    "iPad74",
+    "iPhone8",
+    "iPhone8Plus",
+    "iPhoneX",
+    "iPad75",
+    "iPad76",
+    "iPhoneXS",
+    "iPhoneXSMax",
+    "iPhoneXR",
+    "iPad812",
+    "iPad834",
+    "iPad856",
+    "iPad878",
+    "iPadMini5",
+    "iPadMini5Cellular",
+    "iPadAir3",
+    "iPadAir3Cellular",
+    "iPodTouchSeventhGen",
+    "iPhone11",
+    "iPhone11Pro",
+    "iPadSeventhGen",
+    "iPadSeventhGenCellular",
+    "iPhone11ProMax",
+    "iPhoneSESecondGen",
+    "iPadProSecondGen",
+    "iPadProSecondGenCellular",
+    "iPadProFourthGen",
+    "iPadProFourthGenCellular",
+    "iPhone12Mini",
+    "iPhone12",
+    "iPhone12Pro",
+    "iPhone12ProMax",
+    "iPadAir4",
+    "iPadAir4Cellular",
+    "iPadEighthGen",
+    "iPadEighthGenCellular",
+    "iPadProThirdGen",
+    "iPadProThirdGenCellular",
+    "iPadProFifthGen",
+    "iPadProFifthGenCellular",
+    "iPhone13Pro",
+    "iPhone13ProMax",
+    "iPhone13Mini",
+    "iPhone13",
+    "iPadMiniSixthGen",
+    "iPadMiniSixthGenCellular",
+    "iPadNinthGen",
+    "iPadNinthGenCellular",
+    "iPhoneSEThirdGen",
+    "iPadAirFifthGen",
+    "iPadAirFifthGenCellular",
+    "iPhone14",
+    "iPhone14Plus",
+    "iPhone14Pro",
+    "iPhone14ProMax",
+    "iPadTenthGen",
+    "iPadTenthGenCellular",
+    "iPadPro11FourthGen",
+    "iPadPro11FourthGenCellular",
+    "iPadProSixthGen",
+    "iPadProSixthGenCellular",
+    "iPhone15",
+    "iPhone15Plus",
+    "iPhone15Pro",
+    "iPhone15ProMax",
+    "iPadAir11M2",
+    "iPadAir11M2Cellular",
+    "iPadAir13M2",
+    "iPadAir13M2Cellular",
+    "iPadPro11M4",
+    "iPadPro11M4Cellular",
+    "iPadPro13M4",
+    "iPadPro13M4Cellular",
+    "iPhone16",
+    "iPhone16Plus",
+    "iPhone16Pro",
+    "iPhone16ProMax",
+    "iPadMiniA17Pro",
+    "iPadMiniA17ProCellular",
+    "iPhone16e",
+    "iPadA16",
+    "iPadA16Cellular",
+    "iPadAir11M3",
+    "iPadAir11M3Cellular",
+    "iPadAir13M3",
+    "iPadAir13M3Cellular",
+    "iPhone17Pro",
+    "iPhone17ProMax",
+    "iPhone17",
+    "iPhoneAir",
+    "iPadPro11M5",
+    "iPadPro11M5Cellular",
+    "iPadPro13M5",
+    "iPadPro13M5Cellular",
+    "iPhone17e",
+    "iPadAir11M4",
+    "iPadAir11M4Cellular",
+    "iPadAir13M4",
+    "iPadAir13M4Cellular"
+   ]
+  }
+ ]
+}

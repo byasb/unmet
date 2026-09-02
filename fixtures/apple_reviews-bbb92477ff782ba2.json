@@ -1,0 +1,369 @@
+{
+ "search_metadata": {
+  "id": "6a96c9d6be918af445a5d0ff",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jSHQf_G8XADoUioMGkaU5hl5HyUZGzTrH9QJtKq-Y0E/6a96c9d6be918af445a5d0ff.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jSHQf_G8XADoUioMGkaU5hl5HyUZGzTrH9QJtKq-Y0E/6a96c9d6be918af445a5d0ff.md",
+  "created_at": "2026-09-01 12:49:26 UTC",
+  "processed_at": "2026-09-01 12:49:26 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=983826477&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/jSHQf_G8XADoUioMGkaU5hl5HyUZGzTrH9QJtKq-Y0E/6a96c9d6be918af445a5d0ff.html",
+  "prettify_html_file": "https://serpapi.com/searches/jSHQf_G8XADoUioMGkaU5hl5HyUZGzTrH9QJtKq-Y0E/6a96c9d6be918af445a5d0ff.prettify",
+  "total_time_taken": 0.66
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "983826477",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 10,
+  "reviews_for_current_version": 10,
+  "total_page_count": 331,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14290338027",
+   "title": "get this app. like now?!?",
+   "text": "this app has really changed me. i have had it for only about a month and its so great! i have caught myself being less moody, and more motivated to do other things! i have more opportunities because im way less stressed about the things IVE ALREADY DONE CAUSE OF THIS APP! THANK YOUUU!",
+   "rating": 5,
+   "review_date": "Jul 11, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "kennykern\ud83d\udc9d",
+    "author_id": "1710338810"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14274914323",
+   "title": "Limited without subscription",
+   "text": "$5.99 a week or $99.99 a year. Without paying one of those, you are limited to only 5 free habits. No more than that. Doesn\u2019t work for what I need.",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jul 07, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "Plant_L0v3r_17",
+    "author_id": "953081528"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14269393653",
+   "title": "Mediocre at best",
+   "text": "It\u2019s fine, pretty basic overall. Never really got into it much as the features were mediocre and the yearly sub for pro features is a ridiculous $100/year",
+   "rating": 1,
+   "review_date": "Jul 06, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "Addictive game! Fun!",
+    "author_id": "144030088"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14251039319",
+   "title": "No way on that pricing",
+   "text": "$5.99/week or $99/year? Get lost",
+   "rating": 1,
+   "review_date": "Jul 01, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "nonamenone1",
+    "author_id": "20725641"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14234974331",
+   "title": "100$-260$ a year for a fancy version of reminders is insane, one person is paying your license",
+   "text": "Get that bag I guess making me wanna make apps",
+   "rating": 1,
+   "review_date": "Jun 28, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "Wtfdoyoumeanitstakrn",
+    "author_id": "1881312287"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14204939427",
+   "title": "Question",
+   "text": "Do you have to have a subscription to use this?",
+   "rating": 5,
+   "review_date": "Jun 20, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "odt ch",
+    "author_id": "663298944"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14163360243",
+   "title": "\u0432\u044b\u0441\u043e\u043a\u0430\u044f \u0446\u0435\u043d\u0430",
+   "text": "\u043c\u043e\u0436\u043d\u043e \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u043d\u043e\u0435 \u0447\u0438\u0441\u043b\u043e \u0437\u0430\u0434\u0430\u0447 \u0438 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0430 \u043f\u043e \u043d\u0438\u043c \u043f\u043b\u0430\u0442\u043d\u0430\u044f \u0438 \u043f\u043e \u0437\u0430\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0439 \u0434\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u0446\u0435\u043d\u0435",
+   "rating": 2,
+   "review_date": "Jun 09, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "\u043e\u043f\u0430\u0440\u043b",
+    "author_id": "665990134"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14134989457",
+   "title": "It's the best \ud83d\udc4d\ud83d\udcaf",
+   "text": "I love this app it helps me clean, organize, and I have braces so it helps me brush and floss!, it helps me do stuff I don't want to do and it even has reminders!!(helpful)but the subscription pops up even when my phone just turn of for 2seconds and it's sooooooooooooooooooooooo annoying but other than that it's amazing",
+   "rating": 5,
+   "review_date": "Jun 02, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "Funnnnnnnnnnnnnnnnnnnnnnnn#fun",
+    "author_id": "1782402723"
+   }
+  },
+  {
+   "position": 9,
+   "id": "13926583851",
+   "title": "Greedy app",
+   "text": "This app is just there to take your money. Not going to pay $6 a week to have custom habits\u2026",
+   "rating": 1,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Apr 05, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "The Architectss",
+    "author_id": "361383819"
+   }
+  },
+  {
+   "position": 10,
+   "id": "13877246576",
+   "title": "Scam",
+   "text": "Scam! Avoid! Keeps charging after account deletion",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Mar 23, 2026",
+   "reviewed_version": "Version 3.26.39",
+   "author": {
+    "name": "Mia_choo",
+    "author_id": "408970888"
+   }
+  },
+  {
+   "position": 11,
+   "id": "13840581618",
+   "title": "Ridiculous subscription",
+   "text": "$99.99 a year",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Mar 12, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "ashtray3000",
+    "author_id": "663272009"
+   }
+  },
+  {
+   "position": 12,
+   "id": "13827840432",
+   "title": "Paywall before you even try",
+   "text": "I wanted to give this have a chance except you can\u2019t skip the tutorial it asked you a bunch of obnoxious questions and then prompt you to either pay $100 or subscribe for eight dollars a month before you even get a chance to see the interface.",
+   "rating": 1,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Mar 08, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "The chairman!",
+    "author_id": "48991097"
+   }
+  },
+  {
+   "position": 13,
+   "id": "13817763912",
+   "title": "\u041e\u0431\u043c\u0430\u043d",
+   "text": "\u041d\u0430\u043f\u0438\u0441\u0430\u043d\u043e \u0447\u0442\u043e \u043d\u0435\u0442 \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u0445 \u043f\u043e\u043a\u0443\u043f\u043e\u043a!",
+   "rating": 1,
+   "review_date": "Mar 05, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "\ud83e\udd4aDamir",
+    "author_id": "1478178474"
+   }
+  },
+  {
+   "position": 14,
+   "id": "13792517171",
+   "title": "Used to trust",
+   "text": "Back in an iPhone, reinstalled this app bc I used it all the time, read the privacy agreement and immediately deleted as they mention they will give your info to cops or other law enforcement when requested. That tied to the fact they track location when you let them means an unsafe app in these dark times of ICE and DHS becoming perverted and demented.",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Feb 26, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "Jbdiggable",
+    "author_id": "31850436"
+   }
+  },
+  {
+   "position": 15,
+   "id": "13786250872",
+   "title": "Love the sound and action of wiping the task away",
+   "text": "I just wish you didn\u2019t have to have the ringer up to hear the sound when you swipe. I also wish you could adjust recurring tasks for more than \u201conce every 2 weeks\u201d. I\u2019d love to add tasks that are once every 3 months, 6months etc.",
+   "rating": 4,
+   "review_date": "Feb 25, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "TigerPrincess\ud83d\udc2f\ud83d\udc5117",
+    "author_id": "1051043693"
+   }
+  },
+  {
+   "position": 16,
+   "id": "13777298142",
+   "title": "\u0411\u0435\u0441\u043f\u043e\u043b\u0435\u0437\u043d\u043e\u0435",
+   "text": "\u0415\u0441\u0442\u044c \u043a\u0443\u0447\u0430 \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u044b\u0445 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u0433\u043e\u0440\u0430\u0437\u0434\u043e \u043b\u0443\u0447\u0448\u0435, \u0447\u0435\u043c \u044d\u0442\u043e \u0437\u0430 \u0434\u0435\u043d\u044c\u0433\u0438",
+   "rating": 1,
+   "review_date": "Feb 22, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "NeFTyanoy Magnat",
+    "author_id": "522605122"
+   }
+  },
+  {
+   "position": 17,
+   "id": "13674710800",
+   "title": "Not the best for quick habits",
+   "text": "I have a list of daily tasks that I want to make sure I track. Able to create custom hanits but it cumbersome to tick it as done. It seems you have to put in a percentage. I just want to be able to chwck it off the list. Other than that there seems to be a good platform for when you don\u2019t have your own habits and need assistance with creating them.",
+   "rating": 3,
+   "review_date": "Jan 25, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "enneyehs",
+    "author_id": "49702691"
+   }
+  },
+  {
+   "position": 18,
+   "id": "13655398706",
+   "title": "Nice but could be better",
+   "text": "So I bought this years ago but never used it and was checking out another app and figured I\u2019d use this and compare it. What I would like to see here is device syncing. Calendar and Apple health integration for reading and exercise habits and with the calendar it can set you reminders and adjust if schedules change. A disappointment is that there\u2019s no pre set habit for showers. Ok but not even an icon? There\u2019s a duster icon but not one for a shower? There\u2019s even a tooth icon for brushing teeth but no shower when many many depressed Americans don\u2019t shower. I\u2019m tracking cold showers btw not regular ones but anyways. I can\u2019t remember what I paid but I couldn\u2019t justify the current subscription cost for how basic it is and the features it lacks that other apps have. I know these guys have been around awhile so I\u2019m hoping they continue to improve it and get ahead on the AI train. Oh one final thing. Because it doesn\u2019t play well with Apple my size settings don\u2019t transfer to the app and there is no way to make things larger. I can see and read most stuff with a little difficulty but some text is too small to read and. I ability to enlarge text to make it more readable but that\u2019s not going to be a common issue for most but blind people use apps too lol Edit: dark mode all the time is getting old quick. There is no bright light mode when I wake up and the dark mode widget looks really dumb during the day next to everything else not in dark mode.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 20, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "The 77th Doctor",
+    "author_id": "173156401"
+   }
+  },
+  {
+   "position": 19,
+   "id": "13646565504",
+   "title": "$6/week????",
+   "text": "Good app. So not worth the price.",
+   "rating": 2,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 18, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "SirPat88",
+    "author_id": "140183778"
+   }
+  },
+  {
+   "position": 20,
+   "id": "13619818251",
+   "title": "subscription required",
+   "text": "costs too much not free",
+   "rating": 1,
+   "review_date": "Jan 11, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "Ireviewthingss",
+    "author_id": "245664912"
+   }
+  },
+  {
+   "position": 21,
+   "id": "13581455805",
+   "title": "It Should be the BEST Habit Tracker",
+   "text": "I love this app. The simplicity and layout are perfection. There are two reasons I\u2019ve given it: 3 stars: 1. The app limits a week to 6 days! Is there a place on this earth where a week is only 6 days? 2. I can not find a way to edit a habit. I\u2019d there\u2019s a spelling error, or a change to the habit requires creating a new habit! There goes the progress tracking. Is it possible to at LEAST correct the week and make it 7 days?!?",
+   "rating": 3,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Jan 01, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "ItsJustMe",
+    "author_id": "40382361"
+   }
+  },
+  {
+   "position": 22,
+   "id": "13580937892",
+   "title": "Great motivator!",
+   "text": "LOVE the Productive app for organization, personalization, motivation, and application!",
+   "rating": 5,
+   "review_date": "Jan 01, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "LeaNicole24",
+    "author_id": "484779291"
+   }
+  },
+  {
+   "position": 23,
+   "id": "13549992780",
+   "title": "Terrible customer service, useless app",
+   "text": "Subscribed on their website, but couldn\u2019t convince the iOS app that I had paid. Customer service was slow and useless.",
+   "rating": 1,
+   "review_date": "Dec 24, 2025",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "CharlesC1977",
+    "author_id": "547207111"
+   }
+  },
+  {
+   "position": 24,
+   "id": "13530136211",
+   "title": "Cost",
+   "text": "Cost is crazy, add lifetime and a lower fee",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Dec 19, 2025",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "dnaksb",
+    "author_id": "1059088531"
+   }
+  },
+  {
+   "position": 25,
+   "id": "13529878874",
+   "title": "Used for 7 years+",
+   "text": "When you\u2019re not getting texts from your boyfriend anymore it\u2019s nice to get a text from your goal. Everyone keep up the good work and thank you for trying",
+   "rating": 4,
+   "review_date": "Dec 19, 2025",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "Behr1765",
+    "author_id": "209690521"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=983826477&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=983826477&sort=mostrecent"
+ }
+}

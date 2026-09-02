@@ -1,0 +1,360 @@
+{
+ "search_metadata": {
+  "id": "6a96c99a703f17083f9646bc",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/YNKXOZzp6BCHnhpJKvSEG3IJMCZS5p9XbQ-_je0ak3g/6a96c99a703f17083f9646bc.json",
+  "markdown_endpoint": "https://serpapi.com/searches/YNKXOZzp6BCHnhpJKvSEG3IJMCZS5p9XbQ-_je0ak3g/6a96c99a703f17083f9646bc.md",
+  "created_at": "2026-09-01 12:48:26 UTC",
+  "processed_at": "2026-09-01 12:48:26 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1438388363&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/YNKXOZzp6BCHnhpJKvSEG3IJMCZS5p9XbQ-_je0ak3g/6a96c99a703f17083f9646bc.html",
+  "prettify_html_file": "https://serpapi.com/searches/YNKXOZzp6BCHnhpJKvSEG3IJMCZS5p9XbQ-_je0ak3g/6a96c99a703f17083f9646bc.prettify",
+  "total_time_taken": 0.66
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1438388363",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 24,
+  "reviews_for_current_version": 24,
+  "total_page_count": 218,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14491185432",
+   "title": "bro",
+   "text": "good can\u2019t get it to save my habits",
+   "rating": 3,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "christian music lover!\ud83d\udc95",
+    "author_id": "1957531085"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14488569006",
+   "title": "Recommend it",
+   "text": "Be careful! You\u2019ll fall in love with it.",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "N\u2019noy",
+    "author_id": "1527234947"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14486860340",
+   "title": "Great App!",
+   "text": "I love this app. I believe there is a bug. I am unable to share habits with others and consistently get \u201cFailed to modify some records\u201d every time. The person I am trying to share habits with also gets the same notification. Please fix! \ud83e\udef6\ud83c\udffc",
+   "rating": 1,
+   "review_date": "Aug 29, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Anissa Garcia",
+    "author_id": "972669917"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14479016742",
+   "title": "Great app",
+   "text": "Helps to stick with daily habits",
+   "rating": 5,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Rah6798",
+    "author_id": "1666459541"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14477249099",
+   "title": "\u5f88\u4e0d\u9519\u7684app",
+   "text": "\u5f88\u7b80\u6d01\uff0c\u529f\u80fd\u5f3a\u5927\u3002\u7528\u8d77\u6765\u5f88\u65b9\u4fbf\uff0c\u684c\u9762\u5c0f\u7ec4\u4ef6\u529f\u80fd\u7279\u522b\u4e30\u5bcc\u3002\u7528\u6765\u5065\u8eab\u8dd1\u6b65\u6253\u5361\u662f\u4e00\u6b3e\u503c\u5f97\u63a8\u8350\u7684app",
+   "rating": 5,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "\u592a\u767d\u98de\u96ea",
+    "author_id": "1115088476"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14476684416",
+   "title": "Hi",
+   "text": "I haven\u2019t tried yet",
+   "rating": 4,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "tufflowkirk",
+    "author_id": "1961797875"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14476662456",
+   "title": "No Hidden Fee\u2019s",
+   "text": "I really enjoy that you can use the app without having to pay money. There is an option to pay and unlock things but I wasn\u2019t looking for those things. There are many options for goal tracking with the free version. Simple and easy to use!",
+   "rating": 5,
+   "review_date": "Aug 27, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "MeganIsNotOnFire2.0",
+    "author_id": "478992310"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14472745839",
+   "title": "So cute & organized",
+   "text": "This app is just what I was looking for",
+   "rating": 5,
+   "review_date": "Aug 26, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "AshleyMitttch",
+    "author_id": "224334787"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14471682651",
+   "title": "Amazing great for adhd",
+   "text": "Really incredible app. I love not only how useful and easy it is to use and all the reminders and all the different types of tracking, including mood (the ability to leave notes on everything, and export the data!) but also how visually appealing it is as well. It\u2019s an amazing app and really helps with my ADHD because I get to cross off the main things I want done every day and the Reminders really do help. I also really appreciate the Habit tracking and how the meter also fills up as you go. Please don\u2019t ever discontinue.",
+   "rating": 5,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "lola maria rodriguez",
+    "author_id": "893619734"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14471485440",
+   "title": "One of the most exceptional app ever",
+   "text": "This app was perfect! As a middle school student trying to change my lifestyle to become healthier, this app was truly helpful. It was encouraging and never made me doubt my abilities.",
+   "rating": 5,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "I\u2019llfindabestieboo",
+    "author_id": "1480747036"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14471428295",
+   "title": "Make unlimited habits free \ud83d\ude2d",
+   "text": "This app is perfect, minus the fact that you have to pay to put in unlimited habits \ud83d\udc94",
+   "rating": 4,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Dino bri",
+    "author_id": "207928116"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14470737621",
+   "title": "Confusing",
+   "text": "I started using this app recently but find it confusing and overwhelming with too much on each steps.",
+   "rating": 1,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Hat_c45",
+    "author_id": "725797352"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14457171713",
+   "title": "Bait and Switch",
+   "text": "I bought the premium version year ago and when they updated I lost everything. I even backed up to the cloud but they would not restore my purchase so I lost years of data. Put these guys in jail.",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Aug 22, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "tb42285",
+    "author_id": "1137389703"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14455009631",
+   "title": "Amazing! But\u2026",
+   "text": "I\u2019ve had this app for about 2years and I use the daily moods as a journal and today I haven\u2019t been able to access it at all. I can only access past days on the calendar layout. If I go to my past memos by scrolling down nothing is responsive except going back and then I\u2019m just at square one. I\u2019ve used this app and it\u2019s great and have no complaints about anything except these recent problems. Please fix this.",
+   "rating": 5,
+   "review_date": "Aug 21, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "H_Bunn",
+    "author_id": "752572416"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14454768765",
+   "title": "Regret buying this app",
+   "text": "Every time I set this up and start using it something goes wrong. I cannot trust it to work properly and I can\u2019t trust the statistics. I\u2019m finally frustrated enough to walk away. Don\u2019t waste money on this nonsense.",
+   "rating": 1,
+   "review_date": "Aug 21, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "qqqqqqqqqrrrrrrrrrrrrrr",
+    "author_id": "491876823"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14454326011",
+   "title": "Awesome",
+   "text": "It\u2019s great",
+   "rating": 5,
+   "review_date": "Aug 21, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "crpulley",
+    "author_id": "29878223"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14450880574",
+   "title": "Features not working",
+   "text": "Share a habit with others is not working! Receiving error - unable to modify records.",
+   "rating": 1,
+   "review_date": "Aug 20, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Su_d77",
+    "author_id": "1959347884"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14450285889",
+   "title": "Yes, finally! Shortcuts!",
+   "text": "Huge game-changer with the addition of the Shortcut actions. Most habits require only a simple press on the widget or on my watch, but a few of them, like adding time spent listening to audiobooks, require me to look at my BookPlayer widget and then move back and forth between the Habit app and the audiobook widget to enter the times. My audiobook app only shows stats for the last 7 days and only provides them through its widget. If I don\u2019t manually copy down the times every week, I completely lose the stats for those days. Now, with the added actions for the Habit app, I can simply press an icon that runs a Shortcut I\u2019ve built. It moves to the screen with the audiobook widget, takes a screenshot, extracts the data, parses it, and sends it directly into the habit tracker for me. This removes a TON of the tedious work! This developer creates wonderful apps, but they\u2019re often in desperate need of Shortcut actions. When they do have some, they\u2019re usually pretty limited. So I was super excited to see this update! Would love an action that could start the stopwatch/timer built into Habit! Pressing the Habit widget is ALMOST there, but it doesn\u2019t actually start or stop the time itself. Same goes for the Live Activity; it takes you to the page but requires you to manually start the timer. This really isn\u2019t a huge deal and doesn\u2019t take any of the 5 stars away. Thought I\u2019d just suggest it ;) (The watch app could use the ability to start the timer as well!) Thank you again for the actions! :D",
+   "rating": 5,
+   "review_date": "Aug 20, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "a_d_",
+    "author_id": "105452865"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14448388627",
+   "title": "This app is totally amazing!!!",
+   "text": "Amazing and so helpful! Would recommend!!",
+   "rating": 5,
+   "review_date": "Aug 19, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "God's preppy lil princess",
+    "author_id": "1958638073"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14448044737",
+   "title": "Awesome",
+   "text": "Idea and concept executed amazingly! Love all the intricate features included and well worth the time for anyone looking to build habits effectively",
+   "rating": 5,
+   "review_date": "Aug 19, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "V dawg19",
+    "author_id": "1400547920"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14446994960",
+   "title": "So helpful and easy to use!",
+   "text": "I love using this app! It helps me organize my thoughts, reflect on my mood, and build good habits!",
+   "rating": 5,
+   "review_date": "Aug 19, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Cowgirl10rodeo",
+    "author_id": "1310655456"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14446068311",
+   "title": "Habit Tracker",
+   "text": "Helps for building yourself and if working on self care and growth this is very helpful. Big recommendation!",
+   "rating": 5,
+   "review_date": "Aug 19, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Deliciavr",
+    "author_id": "1386097754"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14439606176",
+   "title": "Bad",
+   "text": "Just bad",
+   "rating": 1,
+   "review_date": "Aug 17, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Brooooo \ud83d\ude29",
+    "author_id": "1910743353"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14438994647",
+   "title": "Convenient.",
+   "text": "Could be better but good enough.",
+   "rating": 4,
+   "review_date": "Aug 17, 2026",
+   "reviewed_version": "Version 2.14.23",
+   "author": {
+    "name": "Child of Jehovah Jireh",
+    "author_id": "1374537958"
+   }
+  },
+  {
+   "position": 25,
+   "id": "14432944438",
+   "title": "Genuinely life changing",
+   "text": "This thing motivates me and doesn\u2019t make me feel like the app is overcomplicated. I check off my habits and sometimes I do better things just so I can check it off. This app makes me very happy, I do recommend to anyone who likes simplistic UI, efficient navigation, and something that can slip into your life.",
+   "rating": 5,
+   "review_date": "Aug 16, 2026",
+   "reviewed_version": "Version 2.14.21",
+   "author": {
+    "name": "Kitten gamer 7176",
+    "author_id": "1153883224"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1438388363&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1438388363&sort=mostrecent"
+ }
+}

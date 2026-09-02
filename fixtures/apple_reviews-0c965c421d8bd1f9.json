@@ -1,0 +1,377 @@
+{
+ "search_metadata": {
+  "id": "6a96ca6cc986afbb9f90a2bc",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/AyFOe2WaPj87kfsvva99VAI-mfVJqGHDkGJQd_UOU0U/6a96ca6cc986afbb9f90a2bc.json",
+  "markdown_endpoint": "https://serpapi.com/searches/AyFOe2WaPj87kfsvva99VAI-mfVJqGHDkGJQd_UOU0U/6a96ca6cc986afbb9f90a2bc.md",
+  "created_at": "2026-09-01 12:51:56 UTC",
+  "processed_at": "2026-09-01 12:51:56 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1450157256&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/AyFOe2WaPj87kfsvva99VAI-mfVJqGHDkGJQd_UOU0U/6a96ca6cc986afbb9f90a2bc.html",
+  "prettify_html_file": "https://serpapi.com/searches/AyFOe2WaPj87kfsvva99VAI-mfVJqGHDkGJQd_UOU0U/6a96ca6cc986afbb9f90a2bc.prettify",
+  "total_time_taken": 3.13
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1450157256",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 14,
+  "reviews_for_current_version": 14,
+  "total_page_count": 63,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "12068328544",
+   "title": "Awesomeness app ever",
+   "text": "ReceiptJar is the best app I have ever used. I\u2019ve been a member for a couple of years now and they have never disappointed me. I\u2019ve recommended this app to many of my close friends & family members and they all agree that this is the best app ever. I also recommend that everyone who reads this review go ahead & download the app for yourselves. I promise you will also be positively impressed just as much as I am. The app is very easy to use & the points accumulate fast. When I\u2019m ready to withdraw my points the gift rewards are sent to my email quickly leaving me feeling very excited to have received my gift rewards. When I needed some assistance Jasmine, & Janella, from ReceiptJar Support we\u2019re both a great help to me & these support agents responded quickly answering all of my questions. They both helped resolve the issue and I was left very satisfied with both of their professional support. 5stars review isn\u2019t enough if I could give a much more higher star\ud83c\udf1frating I would be honored to give it to ReceiptJar, because this app really deserves it.\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f\ud83c\udf1f Thanks ReceiptJar, From app member Mirta N.",
+   "rating": 5,
+   "helpfulness_vote_information": "2 out of 3 customers found this review helpful",
+   "review_date": "Dec 16, 2024",
+   "reviewed_version": "Version 9.6.8",
+   "author": {
+    "name": "Survey Fun",
+    "author_id": "1468581868"
+   }
+  },
+  {
+   "position": 2,
+   "id": "13795896309",
+   "title": "Unresponsive and Ignores Emails",
+   "text": "My account was turned off and will not be turned back on because they said my email was not attached. My email has always been attached and once my account was shut off and I tried to reach out to them. They responded one time and after I requested that my account be reinstated because I had a $50 credit on it they stopped responding to me. I sent 22 emails asking for help and not a single email was responded to other than that very first one. I did email again from a different email address and I got a very quick response and they asked how I can help but they didn\u2019t have that email on file. I gave them the email of the account and again all responses stopped. I acquired at least $50 in scanning my receipts and now they are keeping that and will not respond to any of my emails to reinstate my account. So my advice is once you get enough receipts to cash out money, be sure to cash out your money as soon as possible or they will just keep it. UPDATE: They have since emailed me asking me to email them in regards to this to get my account reinstated. And just as before, no one is emailing me back again about this. My emails are being read (I use an email tracker,) and I can see that they are being read and ignored. So they still have my $ from inaccurately deactivating my account (I uploaded weekly so it\u2019s not an issue of not uploading) and I doubt I will ever see it. Use Recipt Hog or Fetch instead. They don\u2019t steal your money.",
+   "rating": 1,
+   "review_date": "Feb 27, 2026",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "Jaeleep",
+    "author_id": "212992804"
+   }
+  },
+  {
+   "position": 3,
+   "id": "12548478656",
+   "title": "It\u2019s ok",
+   "text": "I\u2019ve been using this app for years never had a problem with them till now said I\u2019m up loading receipts that are not my family\u2019s and I\u2019m separating purchases to get more receipts but I work at Walmart and I take breaks so that why some the receipts are like that I might only buy one thing and who keeps there receipts perfectly flat and not folded or crumpled my wife put them in her purse so that\u2019s what happens I try to straighten them out best I could but you know it isn\u2019t like I\u2019m making millions far from it but I\u2019ll do my best to please them if that\u2019s not enough see you and I will move on to the next there\u2019s plenty of apps in the App Store that do this and better sorry I am a bad member there people who check there receipts must of had a bad day or something I hope there day gets better but this isn\u2019t the first time I\u2019ve had trouble with them but it\u2019s not all me sorry",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Apr 16, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "Rickey1969",
+    "author_id": "102263102"
+   }
+  },
+  {
+   "position": 4,
+   "id": "11531290099",
+   "title": "Good app, but slow uploads and constantly says no internet",
+   "text": "I\u2019ve used this app for years. It\u2019s one of many receipt apps I\u2019ve used/using. I currently use 5 different apps for scanning receipts and receiving rewards. I always wait to use this all last because I never know if it\u2019ll work or keep saying Uploading Receipt. Luckily, if I wait a day and try again, it usually works. This is the only receipt app I have this issue with. Every other app takes the picture and uploads it in a few seconds. Sometimes I\u2019ll set the phone down and the screen will turn off with it still trying to upload receipt. Customer service says it\u2019s because of my network connection, but I\u2019ve used it with 2 bars and it\u2019s worked and I\u2019ve used it with 3 bars and it times out. Clearly an issue on their end, they just don\u2019t want to admit it or fix it. I\u2019ve had this problem with the app over the last 2-3 years and with 3 different carriers in various locations. It\u2019s never consistent with when it\u2019ll upload and when it\u2019ll just keep saying uploading. I\u2019ve give higher stars if this issue would get fixed. I still use it and just deal with the frustrations because when it works, it\u2019s great. App developers, please look at Fetch, ReceiptPal, CoinOut, and Frisbee and fix your issues.",
+   "rating": 2,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Jul 25, 2024",
+   "reviewed_version": "Version 8.9.27",
+   "author": {
+    "name": "Mejluc",
+    "author_id": "48757789"
+   }
+  },
+  {
+   "position": 5,
+   "id": "12454816327",
+   "title": "All of my saved points gone",
+   "text": "I\u2019ve had this app for almost a couple years now I think and been using it pretty religiously had a ton of points saved up because I was trying to redeem $100 voucher which was a better value points to $ pay out I can\u2019t remember the exact ratio. Looking back on it now I can see they do that on purpose for you to keep storing your points in hopes that you stop using the app for 30 days. Receipt apps and none of them have a general policy where due in activity they deactivate your account and give you no possible way of reactivate your account and basically tell you all those points you\u2019ve saved are gone. Extremely deceptive policy if you ask me one that none of the other apps are. It leads me to believe they hope people try to store their points to get $100 payout and then inevitably go in active for 30 days and get their points completely wiped out. Before the developer tries to respond, I did reach out and they basically told me they could do nothing for me. Long time user and I just deleted the app. But still amusing three others which are probably their direct competitors. They stole all that data from me basically because they\u2019re not paying for it. Update: I guess I\u2019m not important enough for the developer to reach out to about my issue.",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Mar 23, 2025",
+   "reviewed_version": "Version 9.7.29",
+   "author": {
+    "name": "Levi879",
+    "author_id": "333317357"
+   }
+  },
+  {
+   "position": 6,
+   "id": "12956070026",
+   "title": "slow/buggy; bad timelines for jars/rewards",
+   "text": "I do like the rewards & amount of points you can get for certain receipts, especially like grocery or pharmacy, receipts, but it keeps getting slower & slower, & the bugs are getting harder to fix. You can\u2019t forward emails anymore, but email connect never works, so I have to just submit tickets anyway to get them to ever count my email receipts. I will get the message on the homepage that I can come back after a certain date to earn more shakes/coins on the homepage, but then that date passes & it suddenly says I need to come back after the following week to earn rewards? So it\u2019s like it skips a reward date, which is rude. when I submit a ticket, they\u2019re like \u201cno you must\u2019ve read the dates wrong, that\u2019s how the schedule works\u2026\u201d So the app tells me one thing of when I\u2019ll get rewards, & the support tickets tell me another thing? now I have found that it will not let me submit any receipts over Wi-Fi\u2026 I have to literally turn my Wi-Fi off to upload any receipts. this is the only app where I have to turn off my Wi-Fi to get it to work; everything else works with my very strong Wi-Fi. So I don\u2019t know why it\u2019s gotten so buggy.",
+   "rating": 3,
+   "review_date": "Jul 30, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "Ilikethetwins",
+    "author_id": "101086228"
+   }
+  },
+  {
+   "position": 7,
+   "id": "12302530818",
+   "title": "Doesn\u2019t work 90% of time- READ THIS FYI\u2019s",
+   "text": "I have tried repeatedly to get this to stay working. It just keeps saying I have receipts to claim and when I click on them, it just spins and spins! WILL NOT FINISH! It will even tell me the retailer name, sometimes, but will not get passed the circle of death. I have uninstalled the app, signed out and back in, disconnected emails. I\u2019ve done everything. I\u2019ve spent several hours trying to get this to work. I give up. So I decided just to remove the app and delete my account. I don\u2019t want any info to stay with this company because of the problems\u2026 Let me tell you, it took me almost 45 minutes to delete my account to delete my information. It was a nightmare! To purchase my home paperwork was easier than this! I had to sign several documents, I had to confirm several areas it was just nuts! If you decide that you don\u2019t even want to mess with the app and try to delete it, you can delete the app, but all of your information, emails, anything associated with any of the areas that you shop, stays with that company to be sold, etc.\u2026 So make sure you you also delete all of the account information and the big one, is to delete your account and remove all the information by signing these papers and trust me, it\u2019s not an easy task",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Feb 12, 2025",
+   "reviewed_version": "Version 9.7.10",
+   "author": {
+    "name": "Lilweezyone",
+    "author_id": "213030023"
+   }
+  },
+  {
+   "position": 8,
+   "id": "13645577380",
+   "title": "Terrible Costumer Service and suspended account if you start earning too much.",
+   "text": "I am extremely disappointed with this app. I used ReceiptJar for over a year, during which they collected my receipt and shopping data with no issues. At first, progress was slow but consistent. As my level increased, I began earning points faster, my golden jar was worth about 375 points, which made it possible to redeem rewards more easily.I had previously redeem around 50 dollars in the year. I tried to redeem a $10 reward, my account was suspended two days later for allegedly having \u201cmultiple accounts,\u201d which is completely false. I do not have multiple accounts. What is most frustrating is that after collecting my data for so long, as soon as earning became faster and rewards were easier to reach, my account was suddenly blocked so I could no longer redeem anything. I contacted customer support multiple times to explain that this must be an error, but instead of reviewing my case or providing any explanation, they sent the same copy-and-paste response repeating the accusation. This feels extremely unfair and suspicious. The lack of transparency and unwillingness to properly investigate makes this app impossible to trust. I would not longer recommend ReceiptJar to anyone.",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 17, 2026",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "Honestreview 003",
+    "author_id": "683142180"
+   }
+  },
+  {
+   "position": 9,
+   "id": "12275694368",
+   "title": "No loss (+response to dev.'s)",
+   "text": "The app is nice when it works properly. The best factor is the lack of loss. Your earnings are extra so it doesn't hurt to lose. But it's still not fun to lose. I found that this app had to be monitored closely to make sure it's scanning my email transactions. I connected Walmart and my email and it wouldn't pick up on large purchases from either source. I tried to report this problem and was told my points would be voided irregardless. I stopped using the app because of this constantly happening. I went back to the app to take the $10-15 I left and they suspended the account and removed the funds lol. Take your gamble with this one. I already wasn't receiving all of the points I earned, and then they took what I actually did manage to build. Most I can do from frustration is leave a review to warn others but realistically, I'm glad this wasn't a true direct loss and I can always stick with the receipt apps whom haven't caused me issues. Don't let the developer response to my review move you. I did reach out to customer support (before the review) and they told me it is what it is. My account is simply gone and it's their policy. I take the loss, don't pretend you have desire to change my outcome though. My 2 stars have now become 1.",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Feb 06, 2025",
+   "reviewed_version": "Version 9.7.7",
+   "author": {
+    "name": "Doesn't matter ....!.!",
+    "author_id": "509285526"
+   }
+  },
+  {
+   "position": 10,
+   "id": "13421363324",
+   "title": "No customer service",
+   "text": "Was with them for years. All of a sudden I get an email saying my email was disconnected from the account and to reconnect. I went in app reconnected it. It Showed connected on my end and I Even got new email receipt points so thought everything was good. Then 3 weeks later my account was deactivated \u201cdue to email not connected\u201d. I tried reaching out to them. They proceed to tell me exactly what I told them which is they sent an email to reconnect (even though I explained to them I did). They also said that I forfeited the points which was thousands with them since they are showing the email still disconnected (same one they corresponded to me through). I loved the app til this happened and I can\u2019t get any help on it. I sent several emails they only answered the first one with that reply saying it was my fault for supposedly not reconnecting and refuse to answer any others even on how to reconnect or reactivate the account. I\u2019m very sad that they are like this when I had it for so long. I\u2019m not happy I lost in $100 in points I was saving up too even if I do eventually get reactivated. Just be weary if you join use points sooner rather then later and realize you won\u2019t get any help if you need any.",
+   "rating": 1,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Nov 20, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "Gse boy",
+    "author_id": "172076869"
+   }
+  },
+  {
+   "position": 11,
+   "id": "13815181670",
+   "title": "Beware of this app!! They suspend after you redeem your points",
+   "text": "I've been using this app for about ~3 years, they suddenly and without warning suspended my account, after redeeming $50 in points last week. Of course they kept the money too.. what a surprise. They wait till you cash out to ban you. The amount of time it takes to sit there and take pictures of receipts is time consuming and they just suspend you like it's nothing. I've been using Receipt Pal, Receipt Hog and Fetch Rewards without issue for 8-10 years. Apparently Receipt Jar has been doing this to a lot of its users. Don't waste your time with them. They're unethical. Update: They responded to my app store review telling me to \u201cemail\u201d them, meanwhile I emailed them twice this week and they never respond. They just send you a generic automated email that they send to everyone in the initial email, after that they stop responding. So many recent negative reviews both on here, Trust Pilot & Reddit of people saying they were deactivated after trying to withdraw their EARNED funds. They\u2019re greedy thieves. They take our data, sell it and won\u2019t even give us our pennies we spent time earning. Very ethical of them. \ud83d\udc4d\ud83c\udffc",
+   "rating": 1,
+   "review_date": "Mar 05, 2026",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "MariiaY",
+    "author_id": "331473894"
+   }
+  },
+  {
+   "position": 12,
+   "id": "8991189060",
+   "title": "Some recent issues but mostly a good experience",
+   "text": "I have been using this app for almost a year now. I\u2019ve been able to successfully cash out a couple times already and got my reward before the 10 day period is even up. But recently I had to report that it was not loading my Walmart purchases from online. And that I tried to disconnect and reconnect with no success. It has not let me reconnect my Walmart for two weeks straight. It with start to load and freeze or it simply kicks back to the connection screen. That will not let me back out to view my receipts or my other connected sites. I still have not been replied to about if this issue is being investigated and fixed for users because I\u2019m sure it isn\u2019t just me. As there has been no recent updates for the app I think it\u2019s safe to say it hasn\u2019t been fixed. Once that\u2019s taken care of I have no other issue with the app except points seeming a little lower than they had for my receipt values.",
+   "rating": 4,
+   "helpfulness_vote_information": "33 out of 45 customers found this review helpful",
+   "review_date": "Aug 18, 2022",
+   "reviewed_version": "Version 7.1.9",
+   "author": {
+    "name": "savvy potato",
+    "author_id": "1240578840"
+   }
+  },
+  {
+   "position": 13,
+   "id": "10122552474",
+   "title": "Worst receipt app",
+   "text": "So I just uploaded some receipts and receive a pop up that says, starting in August you have to connect your email in order to redeem your points. First of all, this is ridiculous and no reason whatsoever you need access to my personal email account. But like an idiot, I still attempted to connect my email but got an unable response and it say\u2019s probably because Yahoo doesn\u2019t allow some password thing. So because Yahoo won\u2019t allow me to connect my email, I won\u2019t be able to redeem my points. I don\u2019t blame Yahoo because they are keeping their customers email accounts safe. As of August, I will be deleting this app because I am unable to connect my email. Also, out of all the receipt apps I have, this one would give me anxiety when ever I had to upload receipts because the receipt upload process takes so long. Like you need to have a lot of time on your hands to sit and wait for each receipt to upload. Every other receipt app, the receipt uploads instantly. So after I use up my points, I\u2019m deleting this useless app. Why they need access to your email account, is absolutely mind boggling.",
+   "rating": 1,
+   "helpfulness_vote_information": "5 out of 5 customers found this review helpful",
+   "review_date": "Jul 09, 2023",
+   "reviewed_version": "Version 7.1.9",
+   "author": {
+    "name": "Aloha*808",
+    "author_id": "415963474"
+   }
+  },
+  {
+   "position": 14,
+   "id": "13350558236",
+   "title": "Irritating to wonderful",
+   "text": "The review i wrote a while ago was my accurate depiction of my experience with the app. Well they made major changes and for the last year I\u2019ve been able to consistently use the app with no issues. It\u2019s now my fastest, least aggravating app!!!! Thank you for the service, the update and caring about your users/customers!!! ******************************** The app opens, you scan and the receipts won\u2019t load. It will spin forever. The longest I\u2019ve waited and wasted my time was 8 minutes and it still never loaded. Can\u2019t figure out the benefit of the app cause it\u2019s always taken forever for the receipt to load so i wouldn\u2019t use it often. Gave it a few months for updates and it\u2019s worst than it was before.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 2 customers found this review helpful",
+   "review_date": "Nov 03, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "legacy protector",
+    "author_id": "601215676"
+   }
+  },
+  {
+   "position": 15,
+   "id": "8793534361",
+   "title": "Good at first",
+   "text": "My only issues are as follows. If you have multiple receipts from the same retailer, it\u2019s counted as one and you get a points average unless you wait a long time between each submission. Along with that, if you delete one receipt, you delete the whole stack. Which is pretty annoying and you\u2019d think \u201cWell I\u2019ll just reupload it\u201d, well you\u2019d be wrong because it gets flagged from the system thinking that you have submitted it already or you\u2019re trying to cheat. My final problem is that there\u2019s no easy way to submit a request anymore. Sure they have a spot to submit a request, but once you type in your email and hit submit, nothing happens and you can\u2019t hit that submit button again unless you refresh the screen. It does the same thing on Safari as it does through the app. I\u2019m really thinking about just redeeming my points and deleting the app forever. With those problems, they make it harder to earn points to get any form of reward, so I\u2019m definitely thinking about quitting this app.",
+   "rating": 2,
+   "helpfulness_vote_information": "9 out of 11 customers found this review helpful",
+   "review_date": "Jun 20, 2022",
+   "reviewed_version": "Version 7.1.9",
+   "author": {
+    "name": "DicanNoman",
+    "author_id": "116787849"
+   }
+  },
+  {
+   "position": 16,
+   "id": "12624285639",
+   "title": "They suspended my account will never use again",
+   "text": "I wouldn\u2019t recommend this app to NO ONE when I went to cash out I get a message saying it\u2019s one of these options illegal accounts which I only have one account saying split a purchase or lied on a survey or uploaded receipts that weren\u2019t mine. I messaged support and then they say that receipts are supposed to be within household. Well I told them I save my receipts and they are within my household and that it doesn\u2019t make sense to scan receipts everyday even though I\u2019m busy so I save them and scan them when I can basically when I\u2019m not busy. Well after that they received my messages but never responded back. This app is the worst app ever I found a better one it\u2019s called Frisbee and they let you share your receipts with anyone that u refer and there\u2019s no consequences and it lets you cash out or save for a gift card NO MINIMUM, Unlike this app you can only get up to a certain amount. And if you claim be aware they will suspend you like they did to me. I will never use this app ever again",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "May 06, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "hellfire0477",
+    "author_id": "87526164"
+   }
+  },
+  {
+   "position": 17,
+   "id": "12595500340",
+   "title": "Good but getting worse then\u2026seriously?",
+   "text": "Update: And now? Photos too blurry? Oh I\u2019m sorry my phone and its camera aren\u2019t perfect. I can\u2019t afford every year\u2019s new iPhone release. I had to save up for a year to afford an old used one. Too many receipts at one shop? Oh, my apologies how dare I do so much shopping at my workplace. I should have just broken the rules, walked out during my breaks, walked elsewhere and paid more money for that stuff at another store. Too many edges of other receipts in pictures? Oh yes, how dare I lay out all my receipts on my desk and scan them one by one in the same location? I should be changing locations and directing perfect lighting for each individual receipt. If there\u2019s one thing that infuriates me it\u2019s being ragged on for the crime of being low income. I\u2019m done with this app and this company. The photo upload and online account connections are progressively getting worse. The longer I\u2019ve used the app the more online account connections get stuck and require multiple attempts to reconnect. Photos of receipt uploads don\u2019t even finish most of the time. In the past week I\u2019ve only managed to upload photos of two receipts. 90% of the time the upload either gets infinitely stuck or the app just crashes. I\u2019m frankly considering dropping this one. This is the same thing that made me drop Pogo as the whole point of the apps is to scan receipts but if you can\u2019t do that then there\u2019s not really a point in keep it on your device only to take up space and battery power.",
+   "rating": 1,
+   "review_date": "Apr 28, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "RooftopRoser880",
+    "author_id": "1306874686"
+   }
+  },
+  {
+   "position": 18,
+   "id": "9383821178",
+   "title": "Account Suspended for no reason!!!!",
+   "text": "I have a big family and I have a lot of receipts which I did login I go in tonight to go and except the gift card so I could use it towards Christmas which is only like five or 10 bucks because it you you don\u2019t really get a lot of money on here it takes forever to get anything and now they suspended my account for no reason it didn\u2019t give me no warning nothing just suspended me so now all of the receipts that I used, I won\u2019t ever be able to collect any money for him and I think that\u2019s a bunch of crap. They are very rude and all their there and I don\u2019t even ask you anything they just and now obviously this is how they treat people he not recommend this at app if you want to collect use other user friendly ones which I won\u2019t name but at least they don\u2019t judge you assume stuff that\u2019s not true or even ask you before they after all the receipts that you gave them I\u2019m starting to one of those scammer apps careful out there people if you load this I\u2019ll never trust it again",
+   "rating": 1,
+   "helpfulness_vote_information": "5 out of 7 customers found this review helpful",
+   "review_date": "Dec 11, 2022",
+   "reviewed_version": "Version 7.1.9",
+   "author": {
+    "name": "Panda71",
+    "author_id": "41223589"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14061770416",
+   "title": "Deactivated my account",
+   "text": "They sent me an email stating that they deactivated my account because there is no email attached to the account. I guess I\u2019m dumb but I don\u2019t understand how you can send me an email and the email stating that there is no email attached to my account. I had over $50 on there and now I can\u2019t access it because it\u2019s deactivated. Help me understand what the heck is going on. I\u2019m extremely disappointed because I don\u2019t recall ever getting an email stating that I needed to add my email and every time I open the app I didn\u2019t see an alert stating they needed me to put an email in there so I\u2019m a little baffled.. I would like for my account to be reactivated. I\u2019ve never had a problem been doing this for well over 2 to 3years and I did send a comment to support and I reply to the email that I received, but this doesn\u2019t make any sense. The email states there\u2019s a specific area on the account that I have to put an email in but they have my email. I\u2019m not understanding I would like assistance with this thank you.",
+   "rating": 1,
+   "review_date": "May 14, 2026",
+   "reviewed_version": "Version 9.43.0",
+   "author": {
+    "name": "Hash girl",
+    "author_id": "368267953"
+   }
+  },
+  {
+   "position": 20,
+   "id": "12751386758",
+   "title": "Stay Away! They\u2019ll close your account without warning!",
+   "text": "To the Receipt Jar team, Just wanted to extend a sincere thank you for the masterclass in how to lose customer trust in one simple move. Deactivating my account due to so-called \u201cinactivity,\u201d with zero warning, zero grace period, and no option for appeal or recovery, is bold. Not the good kind of bold \u2014 the \u201cwe don\u2019t actually value our users\u201d kind. But hey, I\u2019m sure pocketing the leftover balances from people who had the nerve to take a break from uploading receipts is a fantastic business model. Real sustainable stuff. I used your app. I supported your platform. I played by the rules. And now, because I wasn\u2019t consistently feeding you data for a stretch of time, you\u2019ve wiped my account and kept the money I rightfully earned. That\u2019s not just disappointing \u2014 it\u2019s predatory. You call it \u201cpolicy.\u201d I call it a convenient way to clean out balances and pretend it\u2019s about engagement. If your idea of customer service is locking people out of what they earned without a single email notice or attempt at reactivation, you might want to reassess the kind of reputation you\u2019re building. But no worries. You\u2019ve saved me from ever wasting another minute (or receipt) on your platform again. I\u2019ll be sure to spread the word about how Receipt Jar treats its users \u2014 especially the ones who step away briefly and come back to find their earnings conveniently erased. Enjoy the couple bucks you took from my account. Clearly, you needed them more than I did.",
+   "rating": 1,
+   "review_date": "Jun 08, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "Him, His, I, & Me oh and them!",
+    "author_id": "140734100"
+   }
+  },
+  {
+   "position": 21,
+   "id": "12472093588",
+   "title": "Receipt jar is a Scam, don\u2019t get it!!!",
+   "text": "Don\u2019t download this scam app. It wasn\u2019t smart of me to downloaded it. I snapped photos of receipts for months and months and finally reached enough to get a $50 gift card. I went in and submitted it to only get a message several days later saying they denied my gift card. They suspended my account stating that I uploaded receipts that don\u2019t represent my household purchases and spending. All the receipts that I submitted were only mine and my households. Why didn't they contact me while I was submitting the receipts that there is an issue? They let me continue to enter receipts knowing full well I was wasting my time and energy. If you submit the receipts and they issue you the points because receipts are reviewed before you get your points how is this became an issue when I submit for redemption of my points? I got a message here to contact them but this is another scam to make people believe that they care when in fact no one cares and doesn\u2019t do anything to solve this problem.",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Mar 27, 2025",
+   "reviewed_version": "Version 9.7.29",
+   "author": {
+    "name": "Annareav",
+    "author_id": "457989464"
+   }
+  },
+  {
+   "position": 22,
+   "id": "12979484406",
+   "title": "Waste of time!!!",
+   "text": "There\u2019s three separate times that I tried to redeem my points and get my money and every time I was denied, the first time I didn\u2019t realize until it was too late so that it was my fault. The second time I reached out to them and they tried telling me I didn\u2019t respond within the 14 days, even though I showed proof and answered them before that and even told them that I never got an email to have to respond to I\u2019m the one that reached out to them to ask for an update and every time they give you a runaround and just tell you, it\u2019s your fault you denied even though the excuse they give is not true. So now the third time after that, I decided to keep close eye on it and the very next day or two after redeeming I want to check on it and it says I was logged\u2026 I\u2019ll try to login and basically my account has been shut down. I understand these apps are free, but you guys are literally taking our information and data\u2026 I think it\u2019s wrong to waste everybody\u2019s time just to deny them and give them a poor excuse that\u2019s not even legitimate.. don\u2019t waste your time with this app.. And please don\u2019t respond telling me to reach out because every time I\u2019m given the runaround or basically ignored and just told that I\u2019m denied and to move on\u2026 even when I sent pictures to show the dates to help prove what they said to be wrong. Very unprofessional , I\u2019m really disappointed.. I use about seven or eight of these types of apps and this is the only one that\u2019s ever been like this. What do you guys even get out of it\u2026.. I don\u2019t understand .",
+   "rating": 1,
+   "review_date": "Aug 05, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "Whispers_Keke",
+    "author_id": "988942736"
+   }
+  },
+  {
+   "position": 23,
+   "id": "12485215554",
+   "title": "Scam",
+   "text": "Collected enough points for the $100 cash out. They refused to pay and then permanently suspended my account based on 3 restaurant receipts that included tips. Their reasoning being that receipts were intentionally modified. There is no verbiage in the Terms and conditions in regard to tips. I\u2019ve used every receipt app out there. Receiptjar is the ONLY one that has ever refused to follow through with the reward(s) earned. It looks as if any user that saves up enough for a sizable reward get accused of whatever reason the developer wants to accuse them of in order to not pay, and then they just hide behind their email address. There is no option to try and prove yourself one way or the other. It\u2019s literally their opinion, and only their opinion. This app is not worth the time or effort. Try Fetch, ReceiptHog, Receipt Pal, or literally any other receipt app. Don\u2019t waste your time with this one, it just leads to disappointment. I\u2019m sure I\u2019ll get the same \u201cform response\u201d as everyone else here that was screwed over.",
+   "rating": 1,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Mar 31, 2025",
+   "reviewed_version": "Version 9.8.0",
+   "author": {
+    "name": "DJM11268",
+    "author_id": "18716321"
+   }
+  },
+  {
+   "position": 24,
+   "id": "12304729258",
+   "title": "Connecting Email",
+   "text": "It shouldn\u2019t be necessary to have to enable the 2nd Verification on our email account to be able to link it to the app as it\u2019s so unnecessary for about half the population. I just disabled it after a week of having it enabled on my email. It was irritating the first time, and after that became infuriating to have to - (first: find), and have to open my phone, then open an app, then go back to my first phone to accept what was sent to my second phone - all to be able to jump on my MBP for a quick sec (a quick half-hour) to check my email. So after a few days of that I turned it off, and will not turn it back on to make anyone\u2019s life easier, especially when it\u2019s possible to do what you get with that without 2nd verification. It would be nice if I could still get those points without having to link my email acct. thanks!",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Feb 13, 2025",
+   "reviewed_version": "Version 9.7.10",
+   "author": {
+    "name": "MissCourtney219",
+    "author_id": "197070607"
+   }
+  },
+  {
+   "position": 25,
+   "id": "8723565044",
+   "title": "Annoyed",
+   "text": "The app was fine at first. There\u2019s a couple of issues I recently started having. At first, you\u2019re not allowed to receipt split. Which means if you go to target and make a purchase and then decide to get a pretzel from their cafe, it will only count as one transaction. Even though you don\u2019t have the option to buy your items and snack at the same time. Also, if you used your credit card for your purchase and then cash for the pretzel, it will still see it as one purchase instead of two. The next issue is I\u2019ve been trying to upload my receipts for a couple of days now and each time I click submit to upload it, it takes me to the screen that says \u201cuploading\u201d and then never uploads them. It just stays in that screen. I\u2019ve tried it for almost 5 days now and keep getting the same thing. Now my receipts are about to expire because the update changed the expiration from 14 days to 7.",
+   "rating": 2,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "May 30, 2022",
+   "reviewed_version": "Version 7.1.9",
+   "author": {
+    "name": "minimizzuz",
+    "author_id": "1110685400"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1450157256&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1450157256&sort=mosthelpful"
+ }
+}

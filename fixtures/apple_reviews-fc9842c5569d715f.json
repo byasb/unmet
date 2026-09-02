@@ -1,0 +1,363 @@
+{
+ "search_metadata": {
+  "id": "6a96c9d700a197fe17753d92",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/2sniO9CNj11gCkPeGZA8LgX_KcrUtgdxMovlQMbXBBY/6a96c9d700a197fe17753d92.json",
+  "markdown_endpoint": "https://serpapi.com/searches/2sniO9CNj11gCkPeGZA8LgX_KcrUtgdxMovlQMbXBBY/6a96c9d700a197fe17753d92.md",
+  "created_at": "2026-09-01 12:49:27 UTC",
+  "processed_at": "2026-09-01 12:49:27 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=6480042457&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/2sniO9CNj11gCkPeGZA8LgX_KcrUtgdxMovlQMbXBBY/6a96c9d700a197fe17753d92.html",
+  "prettify_html_file": "https://serpapi.com/searches/2sniO9CNj11gCkPeGZA8LgX_KcrUtgdxMovlQMbXBBY/6a96c9d700a197fe17753d92.prettify",
+  "total_time_taken": 0.68
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "6480042457",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 24,
+  "reviews_for_current_version": 24,
+  "total_page_count": 8,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "13550914315",
+   "title": "Wonderful, refreshing",
+   "text": "In a world where apps often don\u2019t do exactly what you want and cost money to do exactly what you need, Habit Tracker makes everything else look like garbage by putting forward a simple, clean UI that invites the user into a mindful, intentional habit-making system. I have seen some reviews that mention a calendar glitch. I haven\u2019t experienced that yet, but I believe that even with such a glitch, I would continue using the app because it is so good in every other way! That being said, I encourage the DEVs to keep improving it because this has the potential to be HUGE if all the little bugs can be worked out. But for someone actually looking for what the app claims to do, I have no complaints. Great job!",
+   "rating": 5,
+   "review_date": "Dec 24, 2025",
+   "reviewed_version": "Version 1.0.7",
+   "author": {
+    "name": "notebookOfAnAutodidact",
+    "author_id": "1124240044"
+   }
+  },
+  {
+   "position": 2,
+   "id": "12269619388",
+   "title": "The ONLY habit tracker I like!",
+   "text": "I went through a few habit tracking apps over the course of January, and the interface and options just didn\u2019t strike me. But this one has me coming back to it every day to update my habits! The checking off is satisfying, the UI actually makes sense and shows me my checklist for the day, and I love that I can select which days of the week I want to do certain goals!! To top it off, it\u2019s absolutely free! No subscriptions, no pestering me about upgrading to a \u201cpro\u201d version, no ads. It is *chefs kiss*! Thanks to the creators because this has actually made me stick to my goals!",
+   "rating": 5,
+   "review_date": "Feb 04, 2025",
+   "reviewed_version": "Version 1.0.4",
+   "author": {
+    "name": "Marissa Lete",
+    "author_id": "139942063"
+   }
+  },
+  {
+   "position": 3,
+   "id": "12299968183",
+   "title": "Such a good app (with slight issues)",
+   "text": "Let me just start by saying I absolutely love this app. I wanted a simple habit tracker to keep track of my daily routine to stay on track and motivate myself. Very simple to use, and the interface is very clean and nice. My only MAJOR issue I have with this app is that the calendar is off. I used it for months with no problem, but once it hit January 31st, it didn\u2019t show the date on the calendar. It cut off January at 30th. I\u2019ve noticed at the end of every month the days are off by one day. An example is that February 28th shows as a Saturday on the app, but it\u2019s actually a Friday. I hope they fix this soon because I really love this app!!",
+   "rating": 4,
+   "review_date": "Feb 11, 2025",
+   "reviewed_version": "Version 1.0.4",
+   "author": {
+    "name": "CassieKay (:",
+    "author_id": "190867991"
+   }
+  },
+  {
+   "position": 4,
+   "id": "12257572119",
+   "title": "Stuck on date",
+   "text": "I really loved using this app because it simply and easy to use. I love how many habits you can have and the ability to pick days however my calendar got stuck on a day and would progress to current day. I tried deleting it and adding habits again but still stuck on 1/30 even though it\u2019s 1/31 now. Sad I won\u2019t be able to use it now idk why glitch occurred. Also wish you could pick frequency such as 2x a week instead of specific days. Update- waited til the next day and app was back to normal just sad I lost my data from uninstalling it",
+   "rating": 5,
+   "review_date": "Feb 01, 2025",
+   "reviewed_version": "Version 1.0.4",
+   "author": {
+    "name": "tkelly96",
+    "author_id": "153188355"
+   }
+  },
+  {
+   "position": 5,
+   "id": "12377832265",
+   "title": "Best free one out there",
+   "text": "To be fully honest I looked and looked for free habit and task apps to help track my self and my day. I specifically looks for an app like this to help build my self a routine and discipline within that routing to help my self get out of a rut. This is great for people who already have a routine in mind or are trying to build one (all of the non free apps build you a \u201croutine\u201d from AI, so just put those questions and your answers into an AI generator and ask it to build you a routine, then enter your results into an app like this). This app has helped me get on better track, brick by brick, day by day.",
+   "rating": 5,
+   "review_date": "Mar 03, 2025",
+   "reviewed_version": "Version 1.0.4",
+   "author": {
+    "name": "DesireAlej",
+    "author_id": "536141848"
+   }
+  },
+  {
+   "position": 6,
+   "id": "12603431541",
+   "title": "Great Habit Tracker",
+   "text": "I\u2019ve been using this app for 3 months to support new habits in my sobriety journey and it has been fantastic! Thank you! It\u2019s very simple and intuitive without a lot of \u201cbonus features\u201d that other apps have that only serve to clutter the interface and make things more confusing than they need to be. I gave the app 4 stars because it has a weird bug. On the last day of every month, the app has no idea what day it is. For example, I opened the app this morning (April 30) and the app defaulted to Feb 28. \ud83e\udd37\u200d\u2642\ufe0f Probably a relatively simple fix but I wanted to alert the developer to the problem. Otherwise, great app, great job. \ud83d\udc4f",
+   "rating": 4,
+   "review_date": "Apr 30, 2025",
+   "reviewed_version": "Version 1.0.5",
+   "author": {
+    "name": "chiefupstart",
+    "author_id": "39825947"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14332675510",
+   "title": "Dark Mode + tiny bug",
+   "text": "please Please PLEASE make a dark version!!! A night mode !! I have used this app for about a month and love the simplicity. I sit down every night and go through my habits. It\u2019s truly wonderful \u2014 and the only thing I would want is a dark mode so my eyes don\u2019t hurt. Also, there\u2019s a small bug on the last day of each month where I\u2019m unable to track my habits directly on the day. I don\u2019t remember specifics, but I believe it opens the wrong day. I usually just go to the calendar and manually input my habits there. Thanks for your time!",
+   "rating": 5,
+   "review_date": "Jul 22, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "goooooooses",
+    "author_id": "563806515"
+   }
+  },
+  {
+   "position": 8,
+   "id": "12128407177",
+   "title": "Good app. Some suggestions.",
+   "text": "Love the app. Please keep up the good work! Here are some of the suggestions I have after using it for a few weeks: 1. It would be great to be able to add habits that are not tied to certain days of a week. For example, I might want to practice golf 3 times a week but it doesn\u2019t matter on which days I do. Currently you must select certain days during a week. 2. For some reason I am not able to see the next year (2025) since the page flipping arrow is greyed out. And the last day of 2024 is also greyed out.",
+   "rating": 5,
+   "review_date": "Dec 31, 2024",
+   "reviewed_version": "Version 1.0.4",
+   "author": {
+    "name": "\u6df1\u6d77\u9cd5\u9c7c\u6cb9",
+    "author_id": "131383519"
+   }
+  },
+  {
+   "position": 9,
+   "id": "13460543209",
+   "title": "Incorrect dates",
+   "text": "It\u2019s really annoying how this app gets confused at the transition to a new month. It doesn\u2019t seem to know how to account for whether a month has 30 or 31 days and everything will be shifted for a period of time. I currently have the 31st listed twice for a month, and it has also pivoted back to September even though it\u2019s about to be December. I also wish there were other options besides weekly stats. I\u2019d like to be able to track my all-time completion records as well. I think it works as a very basic tracker (other than the previously mentioned calendar issues), but I have yet to find the tracker that meets all my needs.",
+   "rating": 3,
+   "review_date": "Nov 30, 2025",
+   "reviewed_version": "Version 1.0.7",
+   "author": {
+    "name": "jaimelaplage",
+    "author_id": "26524885"
+   }
+  },
+  {
+   "position": 10,
+   "id": "11725303303",
+   "title": "Great - some recommendations",
+   "text": "This really is a great app, especially considering it\u2019s free. I like the colors and simplicity. The only things I could think to add are some widgets, maybe small/medium/large, to display your habits on your homescreen, and maybe a dark mode would be nice. Otherwise great app, looking forward to improvements in the future! Edit: I\u2019d also like the option to not receive notifications for a habit once I\u2019ve marked it complete.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Sep 15, 2024",
+   "reviewed_version": "Version 1.0.2",
+   "author": {
+    "name": "AidenL117",
+    "author_id": "1135787886"
+   }
+  },
+  {
+   "position": 11,
+   "id": "12920818324",
+   "title": "The app is great",
+   "text": "Honestly I\u2019ve tried different apps but this one is the best by fair. It\u2019s simple, easy and straight to the point. I also like the little noises. I did wish we had more colors to choose from for our habits but other than that this app is solid. Thank you for the team for making it so easy. I feel better that my life is on track and being disciplined is easier",
+   "rating": 5,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Jul 22, 2025",
+   "reviewed_version": "Version 1.0.5",
+   "author": {
+    "name": "DreamGirl222",
+    "author_id": "1532700965"
+   }
+  },
+  {
+   "position": 12,
+   "id": "12253630488",
+   "title": "Calendar days and dates are not correct",
+   "text": "The day of the week and the date are misaligned so it makes that actual habit tracking and streaks are not correct and always off by a day or two. For example today the date is Friday Jan 31. But in the app it shows it\u2019s Saturday Jan 31. So in the app the streak shows 55 days in a row when it reality it should be 56 days. Other than that it\u2019s a simple, free app to use with a simple layout and design. I came over from Strides which was great, but felt the cost of the yearly fee was too high for the purpose of tracking multiple habit\u2019s.",
+   "rating": 3,
+   "review_date": "Jan 31, 2025",
+   "reviewed_version": "Version 1.0.4",
+   "author": {
+    "name": "resUppAelppA",
+    "author_id": "1750390141"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14297251498",
+   "title": "Great App. Ideas for Improvement",
+   "text": "I like this app a lot because it is ad and subscription free. I do wish I could customize the habits a bit further by either leaving notes or setting custom intervals for each habit (x times daily, weekly, monthly, etc). I\u2019d also like to be able to customize the view to track overall habit progress. A grid view option for monthly and yearly would be nice in addition to the current progress graph in statistics.",
+   "rating": 4,
+   "review_date": "Jul 13, 2026",
+   "reviewed_version": "Version 1.1.0",
+   "author": {
+    "name": "Itssofluffy_",
+    "author_id": "993772586"
+   }
+  },
+  {
+   "position": 14,
+   "id": "12097192081",
+   "title": "Easy to use",
+   "text": "This app is easy to use. The only thing I would add is the option to choose every other day when setting up a new habit to track. During the first few days I needed the notification to remind me to do the task. Now I know the notification is coming and sometimes do the task before the notification is sent. It\u2019s been less than a week and I see a change forming.",
+   "rating": 5,
+   "review_date": "Dec 23, 2024",
+   "reviewed_version": "Version 1.0.4",
+   "author": {
+    "name": "City Momma",
+    "author_id": "1444774536"
+   }
+  },
+  {
+   "position": 15,
+   "id": "13625278409",
+   "title": "No account, No subscription",
+   "text": "Finally, an app you can download, and start using. There\u2019s a premium, but you probably don\u2019t need it. I don\u2019t know how many tasks you can track on Free, but the fact I didn\u2019t even have to list my email sold me. Create tasks to track, and see which days you\u2019ve done them, which you haven\u2019t. And your overall performance. Works great.",
+   "rating": 5,
+   "helpfulness_vote_information": "0 out of 1 customers found this review helpful",
+   "review_date": "Jan 12, 2026",
+   "reviewed_version": "Version 1.0.7",
+   "author": {
+    "name": "A_Rip",
+    "author_id": "1643264164"
+   }
+  },
+  {
+   "position": 16,
+   "id": "11521506590",
+   "title": "Clean and Crisp Look",
+   "text": "The app is super easy and has a clean look. One suggestion would be to add health status buttons. For instance, I did all my habits today and felt 5 out of 5 stars. Then I can look back and see how many days I felt 5, or 4, or even 1. That helps me see if the habits are getting results for my experience of life. For me, I am tracking how my habits affect my chronic condition.",
+   "rating": 5,
+   "review_date": "Jul 22, 2024",
+   "reviewed_version": "Version 1.0.1",
+   "author": {
+    "name": "Actual Field tech",
+    "author_id": "468843365"
+   }
+  },
+  {
+   "position": 17,
+   "id": "13661448098",
+   "title": "Free, easy to use!",
+   "text": "I was looking for a simple yet user-friendly app, but I was surprised to find that most options require subscriptions! However, this one is completely FREE with NO ADs, which is amazing! Plus, it features an attractive UI that's both simple and functional, exactly what I was looking for. I highly recommend it!!!",
+   "rating": 5,
+   "review_date": "Jan 22, 2026",
+   "reviewed_version": "Version 1.0.7",
+   "author": {
+    "name": "RRR jr CCC",
+    "author_id": "374155866"
+   }
+  },
+  {
+   "position": 18,
+   "id": "13261739634",
+   "title": "Calendar not syncing correctly",
+   "text": "I really love this app. The calendar has a glitch it\u2019s not synced to the correct days with the date. For example when you open the calendar Friday Oct 9th is supposed to say Friday October 10th. The 9th was on Thursday. It\u2019s throwing off my log ins when I log my habits. I also logged in two habits. One October 2nd and another on the 5th. It\u2019s logged but not listed on the calendar. I really like this app it keeps me motivated. I just hope they fix these bug fixes soon.",
+   "rating": 3,
+   "review_date": "Oct 13, 2025",
+   "reviewed_version": "Version 1.0.7",
+   "author": {
+    "name": "Jaggy_Babee",
+    "author_id": "109987503"
+   }
+  },
+  {
+   "position": 19,
+   "id": "13506372310",
+   "title": "Simply Done",
+   "text": "User friendly, easy to use. Super simple in concept. Categorization is a nice touch and color coding makes my little hyper-organized heart happy. As long as you\u2019re not planning to track 50 habits, I think it does a nice job. I also appreciate that there\u2019s no subscription fees or ads. Am I trading off data privacy for this? I\u2019d love to know.",
+   "rating": 5,
+   "review_date": "Dec 12, 2025",
+   "reviewed_version": "Version 1.0.7",
+   "author": {
+    "name": "xtina_lynn3",
+    "author_id": "207653663"
+   }
+  },
+  {
+   "position": 20,
+   "id": "11673002290",
+   "title": "Full of glitches",
+   "text": "It deleted my habits twice. I uninstalled and downloaded again to fix it and it still deleted my habits after a month or two. You can't even edit the name of a habit after you create it. You can't mute the sound it makes when you complete a habit. I have the sounds off and it still plays a sound through my headphones and I go to change the sound to something less annoying and even with a new sound selected it still plays the same old annoying sound. You get what you pay for. I'm done with this app.",
+   "rating": 1,
+   "review_date": "Aug 31, 2024",
+   "reviewed_version": "Version 1.0.1",
+   "author": {
+    "name": "KeyFitness.net",
+    "author_id": "117565620"
+   }
+  },
+  {
+   "position": 21,
+   "id": "11922911236",
+   "title": "Overall",
+   "text": "I just started using this app. I love that it\u2019s free and it\u2019s basic enough for what I need. It\u2019s VERY basic, so if you\u2019re looking for more options in an app, it\u2019s not for you. I just wish I could edit the habits I already entered and/or had more scheduling options (end date, weekly changes, etc) sometimes my schedule requires me to modify a habit so those options would be helpful.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Nov 07, 2024",
+   "reviewed_version": "Version 1.0.2",
+   "author": {
+    "name": "Italianflip413",
+    "author_id": "1486452398"
+   }
+  },
+  {
+   "position": 22,
+   "id": "13577309961",
+   "title": "Seems great! But one major bug makes it pretty unusable",
+   "text": "I open the app, add some habits, and try to set the start date to today\u2019s date - and it sets it to a year from now. (I can use the selection tool to select last year to circumvent this, but it should be an easy fix.) And, on the Home Screen, I can\u2019t mark off today\u2019s tasks. It defaults to October 31 and only allows me to see through yesterday to check anything off. I\u2019m looking forward to using this app when I find out how!",
+   "rating": 2,
+   "review_date": "Dec 31, 2025",
+   "reviewed_version": "Version 1.0.7",
+   "author": {
+    "name": "Caro.st777",
+    "author_id": "167259030"
+   }
+  },
+  {
+   "position": 23,
+   "id": "12481241464",
+   "title": "AMAZING",
+   "text": "I was looking for an app which would help me create new and better habits and I came across this app and I LOVE it! Ever since I got this app I have been able to succeed at creating a habit. Even better there are no annoying ads and you don\u2019t have to pay a dime! Overall I highly recommend this app and I hope this helped you!",
+   "rating": 5,
+   "review_date": "Mar 30, 2025",
+   "reviewed_version": "Version 1.0.5",
+   "author": {
+    "name": "Very helpful and recommend",
+    "author_id": "1742179819"
+   }
+  },
+  {
+   "position": 24,
+   "id": "11813083900",
+   "title": "10/10",
+   "text": "As someone who has had to pay a weekly subscription fee for a goal tracking app similar to this, it\u2019s very refreshing to see that this app has not gone the way of capitalism and sold out. I will continue to use this app as long as it doesn\u2019t try to mark up the price from free.",
+   "rating": 5,
+   "review_date": "Oct 09, 2024",
+   "reviewed_version": "Version 1.0.2",
+   "author": {
+    "name": "Crisp Lettuce",
+    "author_id": "1428947479"
+   }
+  },
+  {
+   "position": 25,
+   "id": "11490852349",
+   "title": "Nice app idea but lacking major features",
+   "text": "I like the idea behind the app being available for free which is nice. But the app needs more features that other trackers have such as the ability to get rewards in the app as you progress through your goals. Next is the lack of habit editing after you set a habit you can\u2019t edit it. I would recommend the developer of this app look at other major habit tracker apps and copy some of their features. That will make this app more productive!",
+   "rating": 2,
+   "review_date": "Jul 14, 2024",
+   "reviewed_version": "Version 1.0",
+   "author": {
+    "name": "Delta_777",
+    "author_id": "1392466122"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6480042457&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=6480042457&sort=mosthelpful"
+ }
+}

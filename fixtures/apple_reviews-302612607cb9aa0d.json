@@ -1,0 +1,361 @@
+{
+ "search_metadata": {
+  "id": "6a96c9c38681806e88ac1cb3",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/p90ZO2wc36MAW01JmhOhnC9TmSqEMA9e-7D1Mg4YdQU/6a96c9c38681806e88ac1cb3.json",
+  "markdown_endpoint": "https://serpapi.com/searches/p90ZO2wc36MAW01JmhOhnC9TmSqEMA9e-7D1Mg4YdQU/6a96c9c38681806e88ac1cb3.md",
+  "created_at": "2026-09-01 12:49:07 UTC",
+  "processed_at": "2026-09-01 12:49:07 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=6443918070&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/p90ZO2wc36MAW01JmhOhnC9TmSqEMA9e-7D1Mg4YdQU/6a96c9c38681806e88ac1cb3.html",
+  "prettify_html_file": "https://serpapi.com/searches/p90ZO2wc36MAW01JmhOhnC9TmSqEMA9e-7D1Mg4YdQU/6a96c9c38681806e88ac1cb3.prettify",
+  "total_time_taken": 3.57
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "6443918070",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "total_page_count": 9,
+  "reviews_for_currrent_version": 2390,
+  "reviews_for_current_version": 2390,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14492827399",
+   "title": "I love this.",
+   "text": "This is a beautiful app and exactly what I need.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 1.17.0",
+   "author": {
+    "name": "MelissaRiy",
+    "author_id": "102759300"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14470755939",
+   "title": "Recently started using the app but don\u2019t like it",
+   "text": "I created a few habits but they are not triggering at right time and app looks too overwhelming. There is very less to create a habit and I don\u2019t like it much.",
+   "rating": 1,
+   "review_date": "Aug 25, 2026",
+   "reviewed_version": "Version 1.17.0",
+   "author": {
+    "name": "Hat_c45",
+    "author_id": "725797352"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14467718205",
+   "title": "Love the new look",
+   "text": "Hello",
+   "rating": 5,
+   "review_date": "Aug 24, 2026",
+   "reviewed_version": "Version 1.17.0",
+   "author": {
+    "name": "XiaoZsozso",
+    "author_id": "477417516"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14463193980",
+   "title": "Great App",
+   "text": "I love this app, it definitely has the coolest aesthetic out of all its similar competitors. It is unfortunate that you can only have 4 habits on the free version but the creator needs to make money somehow so I think $30 for lifetime access is very fair.",
+   "rating": 5,
+   "review_date": "Aug 23, 2026",
+   "reviewed_version": "Version 1.16.1",
+   "author": {
+    "name": "Haydendumm",
+    "author_id": "1824096502"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14462152671",
+   "title": "Helpful but hi needs help",
+   "text": "The recent yo changes make it hard to see what you are checking off - have to remember the symbol. Liked it better with words",
+   "rating": 3,
+   "review_date": "Aug 23, 2026",
+   "reviewed_version": "Version 1.16.1",
+   "author": {
+    "name": "Sig148",
+    "author_id": "33911016"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14440599892",
+   "title": "The best!!",
+   "text": "This is the best habit tracker, and I have tried a lot of them!! I love that it does not necessarily have to have a goal and you can use it to just track whatever you like.",
+   "rating": 5,
+   "review_date": "Aug 17, 2026",
+   "reviewed_version": "Version 1.16.1",
+   "author": {
+    "name": "PurpleOtter586",
+    "author_id": "1365026947"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14412136526",
+   "title": "I love it!",
+   "text": "Helps me stay on track every day!",
+   "rating": 5,
+   "review_date": "Aug 10, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "Steve, Louisville",
+    "author_id": "34765406"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14402619133",
+   "title": "Simply works",
+   "text": "I\u2019ve used several habit tracker apps over the years. I\u2019ve pivoted to this one for its undistracting simplicity. It has all the features I need, and it just works. It\u2019s not overcomplicated or annoying to use; it just lets me focus on the habits I want to build without getting distracted. I use the widget and Shortcuts automations a lot with no issues. Well worth the one-time payment.",
+   "rating": 5,
+   "review_date": "Aug 08, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "Steph_-_-_-_-_",
+    "author_id": "451544338"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14397172089",
+   "title": "amazing app with one suggestion",
+   "text": "its almost perfect app the only one critique or change i would give is if you could add a small note section for each habit to remember more specific details if necessary",
+   "rating": 5,
+   "review_date": "Aug 07, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "nathanevans_13",
+    "author_id": "1525050197"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14354969052",
+   "title": "This is my favourite habit tracking app",
+   "text": "Been using this for over 6 years now. Every time I\u2019ve been on it I have managed to change my lifestyle. Simple UI. Elegant and efficient.",
+   "rating": 5,
+   "review_date": "Jul 27, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "ruthvikkamarasu",
+    "author_id": "1552423142"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14307501250",
+   "title": "It\u2019s really Good",
+   "text": "I hope everyone gets a chance to use it :) really really helps",
+   "rating": 5,
+   "review_date": "Jul 15, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "Grmfashion",
+    "author_id": "461964200"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14288167581",
+   "title": "Can\u2019t find the lifetime version",
+   "text": "This app is the best app I own but I don\u2019t want to pay the year version every year I wanna buy the lifetime subscription but I can\u2019t find it anywhere it only shows month or yearly it shows on the App Store and in \u201cin app purchases\u201d that there\u2019s is a lifetime purchase but I can\u2019t seem to find it after I got the one month subscription rather then that great app",
+   "rating": 5,
+   "review_date": "Jul 11, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "Legxnd_14",
+    "author_id": "1393587054"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14251675003",
+   "title": "Simple and amazing",
+   "text": "I was looking for something like this for so long and could never found anything I liked. But this is just so simples and so cute. I love it!!",
+   "rating": 5,
+   "review_date": "Jul 02, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "isaichima",
+    "author_id": "1128817134"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14201233650",
+   "title": "Best habit tracker app",
+   "text": "This is the best habit tracking app I\u2019ve ever used. It perfectly manages the balance of robust features without needless over complication. I love how visual and aesthetic the whole app is and how flexible it is. Highly recommend!!",
+   "rating": 5,
+   "review_date": "Jun 19, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "ButterWithoutACause",
+    "author_id": "27062934"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14195166358",
+   "title": "Simplicity",
+   "text": "I've tried several habit tracking apps but this was the one I decided to purchase and use for almost 6 months atp. It's by far the most simplistic of the apps in its category, but that's what's drawn me to it and kept me in it. If I do the thing, it's easy to open the app and quickly mark it. If I need to do it multiple times a day, I set it up in the advanced options. I don't care much about the analytics of my habits but I really appreciate the different week, month, ytd viewing options. I think some improvements could be made with managing categories/labels, but anything else would generally take away from the minimalism of habitkit that i so deeply appreciate. It's been such a help for my mental health. Thank you!",
+   "rating": 5,
+   "review_date": "Jun 17, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "bgakes",
+    "author_id": "39319355"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14159082388",
+   "title": "Need Apple watch widgets",
+   "text": "Please add option to check things off from apple watch.",
+   "rating": 4,
+   "review_date": "Jun 08, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "TheReviewersreview",
+    "author_id": "105816622"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14136680363",
+   "title": "Dissatisfied",
+   "text": "This app sucks",
+   "rating": 1,
+   "helpfulness_vote_information": "0 out of 1 customers found this review helpful",
+   "review_date": "Jun 02, 2026",
+   "reviewed_version": "Version 1.15.2",
+   "author": {
+    "name": "Savvy fisher",
+    "author_id": "1763990149"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14124630510",
+   "title": "Nice app",
+   "text": "Nice app. Really needs iCloud syncing across devices \ud83d\ude4f",
+   "rating": 5,
+   "review_date": "May 30, 2026",
+   "reviewed_version": "Version 1.15.1",
+   "author": {
+    "name": "Nick007Nick",
+    "author_id": "445693495"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14110351016",
+   "title": "Amazing app",
+   "text": "I\u2019ve tried tons of habit trackers. This was the one for me, been using it for a year and going strong. Fantastic long term tracking visually",
+   "rating": 5,
+   "review_date": "May 27, 2026",
+   "reviewed_version": "Version 1.15.1",
+   "author": {
+    "name": "t9173932",
+    "author_id": "1275993119"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14109307400",
+   "title": "Good",
+   "text": "Very helpful application",
+   "rating": 5,
+   "review_date": "May 26, 2026",
+   "reviewed_version": "Version 1.15.1",
+   "author": {
+    "name": "nikos-tskhvedadze",
+    "author_id": "1346629416"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14089093879",
+   "title": "Absolutely Love!",
+   "text": "I love this app for tracking my habits! I\u2019ve tried other apps and none of them were as good as this one. I like that I can choose a dark background and because of all the bright colors, it looks beautiful. I have the PRO version and o definitely think it\u2019s worth the money; and it\u2019s not expensive at all. I can track as many habits as I want to, and I can archive them when I want to stop tracking them (but it doesn\u2019t delete them so I can \u201cunarchive\u201dthem if I want to start tracking that habit again. I would like to suggest a couple of things that I think could make it better\u2026first, I\u2019d love to be able to set an alarm for my habits to remind me to do some of them. I\u2019d also like to have a bigger color selection to choose from. The colors it has are beautiful and vibrant but I\u2019d just like to add some more shades (because I track a lot of habits). I love the icons too, and the fact that I can reorder my habits at any time. All in all, it\u2019s a fantastic app and I use it everyday! I\u2019d definitely recommend for EVERYONE to get the pro version, and start tracking your habits! I\u2019ve gotten a lot more consistent since I started using this app!",
+   "rating": 4,
+   "review_date": "May 21, 2026",
+   "reviewed_version": "Version 1.15.1",
+   "author": {
+    "name": "a2thaMb",
+    "author_id": "366946501"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14029187445",
+   "title": "Simply Perfect",
+   "text": "It\u2019s the type of simple I want. It\u2019s something I did do on paper but I wanted digitally.",
+   "rating": 5,
+   "review_date": "May 05, 2026",
+   "reviewed_version": "Version 1.15.0",
+   "author": {
+    "name": "Pannydink",
+    "author_id": "421988426"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14016661342",
+   "title": "Review",
+   "text": "Great app. Like one of those life changing apps. But I accidentally deleted it once, and lost all my data. Wish it was stored in the cloud.",
+   "rating": 5,
+   "review_date": "May 01, 2026",
+   "reviewed_version": "Version 1.15.0",
+   "author": {
+    "name": "Phil the rill dill",
+    "author_id": "335745325"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14014997511",
+   "title": "There\u2019s beauty in simplicity.",
+   "text": "Super well thought out app. Incredibly easy to setup and manage. And it\u2019s beautifully rendered too. I just love the colorfully graphical way it represents my habitual consistency. \u2764\ufe0fthis app.",
+   "rating": 5,
+   "review_date": "May 01, 2026",
+   "reviewed_version": "Version 1.15.0",
+   "author": {
+    "name": "ITCOG",
+    "author_id": "136249239"
+   }
+  },
+  {
+   "position": 25,
+   "id": "13999490371",
+   "title": "Needs sync",
+   "text": "Seems good, but with no cloud sync, it\u2019s not very useful to me.",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Apr 26, 2026",
+   "reviewed_version": "Version 1.15.0",
+   "author": {
+    "name": "Jabadafa",
+    "author_id": "143694689"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=6443918070&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=6443918070&sort=mostrecent"
+ }
+}

@@ -1,0 +1,372 @@
+{
+ "search_metadata": {
+  "id": "6a96ca6af6d5eefe7418bea0",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/zNonrCcrbBFzESxujVnjslCV7MUclPqHIVHDkkLAweE/6a96ca6af6d5eefe7418bea0.json",
+  "markdown_endpoint": "https://serpapi.com/searches/zNonrCcrbBFzESxujVnjslCV7MUclPqHIVHDkkLAweE/6a96ca6af6d5eefe7418bea0.md",
+  "created_at": "2026-09-01 12:51:54 UTC",
+  "processed_at": "2026-09-01 12:51:54 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=377672876&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/zNonrCcrbBFzESxujVnjslCV7MUclPqHIVHDkkLAweE/6a96ca6af6d5eefe7418bea0.html",
+  "prettify_html_file": "https://serpapi.com/searches/zNonrCcrbBFzESxujVnjslCV7MUclPqHIVHDkkLAweE/6a96ca6af6d5eefe7418bea0.prettify",
+  "total_time_taken": 0.75
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "377672876",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 98,
+  "reviews_for_current_version": 98,
+  "total_page_count": 672,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "11452776707",
+   "title": "Absolutely essential to my life - unparalleled in quality.",
+   "text": "I don\u2019t believe I\u2019ve ever written a review on an app. I\u2019m taking the time to write this because this app is THAT outstanding. It\u2019s become essential to my daily life. I regularly need to scan documents in and then access them via my computer. I considered buying a more expensive scanner, but with this app, there is simply no need. If I hold my camera at the wrong angle, Genius Scan fixes it for me. It compensates for angles and bumps and misalignments and churns out an absolutely professional looking scan in seconds. It\u2019s so accurate, it genuinely looks like it was a saved document, never having been printed and scanned. If, for some reason, my document is wonky and scans a weird edge, Genius scan lets me fix it. Over and above its perfect scans, it allows me to export\u2026down to the very subfolder\u2026 of my Google Drive, my Microsoft OneDrive and even my Apple Files. I can email it to myself or someone else. It\u2019s just seamless. I\u2019m continually more and more impressed with this app and it\u2019s saved me so much time and money, I cannot be more thankful for this app. Well done, devs, well done. \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+   "rating": 5,
+   "helpfulness_vote_information": "10 out of 14 customers found this review helpful",
+   "review_date": "Jul 03, 2024",
+   "reviewed_version": "Version 7.19.1",
+   "author": {
+    "name": "aprilalison",
+    "author_id": "87127199"
+   }
+  },
+  {
+   "position": 2,
+   "id": "9280220072",
+   "title": "EXCELLENT!",
+   "text": "I have used a lot of different scanner apps. Most of them work but that\u2019s about as much if you can say for them. They are not excellent, and in most cases are not even great. They are just simply functional. I went to the office of a notary to have a paper notarized and I just made an offhand comment that I was headed for a copy shop to have the documents scanned and turned into a PDF file. He answered back that he was able to do that for me. I was shocked to see him whip out his phone and snap a picture of it. I expect the results to be as bad as all of the other ones that I have used in the past and I couldn\u2019t believe my eyes. It corrects for Keystone distortion, and it removes trace background edges around the page. Actually work better when placed on a darker background so there\u2019s more distinction between the edge of the page and the background itself. I would like to extend a high-five to the developer of this app. You have really done and astonishingly good job. Congratulations.",
+   "rating": 5,
+   "helpfulness_vote_information": "21 out of 34 customers found this review helpful",
+   "review_date": "Nov 12, 2022",
+   "reviewed_version": "Version 7.0.14",
+   "author": {
+    "name": "Robin Hood 51",
+    "author_id": "451764638"
+   }
+  },
+  {
+   "position": 3,
+   "id": "6653993685",
+   "title": "The Online Student\u2019s Savior",
+   "text": "i\u2019ve been in online school since the beginning of the pandemic, and this app is a lifesaver. it doesn\u2019t limit how many documents you scan like other apps, and its automatic scanning trick is pretty okay. just don\u2019t but the paper on a light colored surface, or have too many other objects in the frame. my favorite part is the ability to directly upload from my phone to the desktop of my computer (since they\u2019re linked by icloud). if that\u2019s not your speed, you can airdrop it to your downloads folder. the back and white filter is just as good as a printer scan, and there\u2019s an option to edit the document after you take the photo. I never needed any other part of the app, so i didn\u2019t need premium, which is amazing. it also uploads as a pdf, which saves me all the trouble of converting it myself. compared to other scan apps, i found this one to be the most efficient, since it works well and doesn\u2019t have any frustrating limits for free users.",
+   "rating": 5,
+   "helpfulness_vote_information": "37 out of 58 customers found this review helpful",
+   "review_date": "Nov 17, 2020",
+   "reviewed_version": "Version 5.5.12",
+   "author": {
+    "name": "blargyish",
+    "author_id": "600244800"
+   }
+  },
+  {
+   "position": 4,
+   "id": "9554258403",
+   "title": "Works great!\u2026most of the time.",
+   "text": "I use this app to scan documents for my university classes. Once scanned, the features within the app provide augmentations, such as leaving natural light or white light (i.e, displaying the visual differences between a photo or a \u201cscan\u201d of the document). I also love that if I\u2019m scanning dozens of pages all at once, if I make a mistake on one scan, I have the option to re-do that scan rather than starting over just to ensure the documents are in order. Once satisfied, I can email the document (however large or small) and it will appear instantly in my inbox. The one issue I\u2019ve found, is that sometimes it does not appear in my inbox until hours or even a day after I scanned my work. This can be EXTREMELY frustrating when my deadline is that evening. There\u2019s no way to assess when these hiccups occur, since it appears to have no correlation to document size or scanning frequency. Overall, I\u2019m thankful to have this app. It\u2019s so much faster to use than my physical printer/scanner.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 27, 2023",
+   "reviewed_version": "Version 7.2.4",
+   "author": {
+    "name": "The last warning.",
+    "author_id": "410585123"
+   }
+  },
+  {
+   "position": 5,
+   "id": "11438201333",
+   "title": "Mixed feelings",
+   "text": "Update: After the developers responded, I took a closer look at the user manual and tried it again. The hotspot is no longer a problem (that one is a puzzle, since I didn\u2019t do anything), file naming help was there after all, and works VERY well (using a field to insert part of the name each time). And I got authorized to give Google permissions to view and download all my files, which makes me very uncomfortable, but it makes this project work like a dream. I was thrilled with how well Genius Scan autocrops documents\u2014would save me a lot of time! However, subscribing was a big disappointment. I expected file naming help, and got none, am finding hot spots (lighter scan) on documents no matter how I arrange lighting, and worst of all, exporting to Google Drive (which I REALLY wanted) is impossible because I refuse to give Genius Scan access and permission to download all of my files. So all in all, guess I\u2019ll be going back to Google Scan.",
+   "rating": 5,
+   "review_date": "Jun 29, 2024",
+   "reviewed_version": "Version 7.19.1",
+   "author": {
+    "name": "Grammy51",
+    "author_id": "210202655"
+   }
+  },
+  {
+   "position": 6,
+   "id": "2147414683",
+   "title": "This is the scanner app you MUST HAVE",
+   "text": "I\u2019ve been using Genius Scan for almost 2 years now, I rarely leave a review for any app, but I feel like this one deserves to be recognized. It is very easy to use, the clarity on the scanned document is great, there\u2019s lots of customizable scanning settings you can choose from, you can also have it automatically upload to dropbox or Google Drive, I even was able to contact the developer about a simple change to the sorting of folders within Google drive by alphabetical order and day were able to accommodate the request in their next update which was extremely helpful. If you are on the go a lot like I am and not always at your desk this app is an absolute lifesaver. Even when I am in my office I don\u2019t even use my copy scanner anymore because it takes too long and the quality on The genius scan app is just as good if not better, and it\u2019s much quicker. Save yourself a ton of time and start using this app today.",
+   "rating": 5,
+   "helpfulness_vote_information": "66 out of 110 customers found this review helpful",
+   "review_date": "Jan 31, 2018",
+   "reviewed_version": "Version 4.3.4",
+   "author": {
+    "name": "Jtpo1982",
+    "author_id": "212135852"
+   }
+  },
+  {
+   "position": 7,
+   "id": "13144862328",
+   "title": "ROCK SOLID SINCE DAY 1",
+   "text": "This is a hidden gem to those who do not know about it. They have never let the application fall behind in functionality. It has always worked flawlessly in the capacity for which it was designed. This is one of the few applications that not only does what it claims, but does so consistently and with incredible ease. This is that application that everybody needs, but not everybody knows that they need it. There are so many different options for how the documents are formatted, as well as how they can be transferred. The quality is that of a really good stock application that never lags behind os updates. Keep up the PHENOMENAL work you guys and gals! You're real heroes. Any application/software creators would do incredibly well taking a page out of your book. It's easy to forget to give credit when things just work, as opposed to negative feedback when they don't. You certainly deserve it. This was long overdue.",
+   "rating": 5,
+   "review_date": "Sep 16, 2025",
+   "reviewed_version": "Version 8.2.4",
+   "author": {
+    "name": "Lady_Ward",
+    "author_id": "40868541"
+   }
+  },
+  {
+   "position": 8,
+   "id": "9782788784",
+   "title": "To Good To Be True! But it\u2019s actually true!",
+   "text": "This app seems too good to be true, but, rest assured, it\u2019s the real deal!!! It has every feature I\u2019ve ever wanted in a scanner app and much more! I\u2019ve literally tried 10 or 15 scanner apps, and I had given up on finding one that did what I needed it to! Then I found Genius Scan, and WOW! It\u2019s a million times better than Adobe Scan, which is crazy because you\u2019d think Adobe would be the gold standard, but it\u2019s not! By a long shot! Genius is the gold standard. What I love about this app: Clean scans every time! Strait pages every time! It picks up the color signature on a black and white document, which most scanning apps don\u2019t. Ease of navigation / use! Incredibly fair price!! Really! Automatic naming templates! Highly accurate OCR. Document tagging. Rules that email or upload files based on name/tags. THE KICKER: Auto upload to my cloud provider. Example: After I scan a document, it assigns a name template automatically! After I edit the template to add the respective custom data for that particular scan, Genius then AUTOMATICALLY uploads that document to a predefined folder in Google Drive so I can grab it and email it to my client. I can NOT tell you how much time that saves me each day! What I dislike about this app: Literally NOTHING! I highly recommend this app to you. For $30/year, you simply cannot go wrong! I love it and cannot speak highly enough about the quality of the app and the richness of the features the developers have built into this app. I\u2019ll definitely be looking at the other apps they have to offer!",
+   "rating": 5,
+   "review_date": "Apr 03, 2023",
+   "reviewed_version": "Version 7.4",
+   "author": {
+    "name": "Myke H",
+    "author_id": "174057246"
+   }
+  },
+  {
+   "position": 9,
+   "id": "4068134202",
+   "title": "Excellent document scanning and editing app",
+   "text": "What a perfectly fitting name for an app - Genius! I\u2019ve installed three apps by these genius app developers namely: Genius Scan; Genius Fax and Genius Sign, and I\u2019ve found them all indeed quite genius and the best set of any other competing apps. All the apps are intelligently developed and are very easy and intuitive to use. Excellent set of apps and I\u2019ve no negative feedback on any of them. Excellent set of apps and congratulations to the developers!! The Genius Scan is amazingly precise in automatically capturing images of documents and receipts and then perfectly orienting them vertically and automatically making the image quality the best even if you are working in even very poor lighting condition. Excellent set of tools are provided to edit, apply filters and formats. The app provides other too many features to work with the scanned images. In short, it\u2019s an app everyone needs to have for their iPhone.",
+   "rating": 5,
+   "helpfulness_vote_information": "5 out of 7 customers found this review helpful",
+   "review_date": "Apr 27, 2019",
+   "reviewed_version": "Version 5.2",
+   "author": {
+    "name": "Giramot",
+    "author_id": "860468673"
+   }
+  },
+  {
+   "position": 10,
+   "id": "10050344805",
+   "title": "Almost perfect 4.5 stars",
+   "text": "I\u2019d give Genius Scan 4.5 stars, if I could. I\u2019ve been using Genius Scan for a few years and I really like it. I mostly use it to scan my kids\u2019 artwork so that I can clear the paper clutter. More recently I\u2019ve begun using it to scan my own childhood art which my parents have recently given me. As an app it works quite well, and I really like having it on my phone for a quick scan before something gets recycled. Some things I\u2019d like to see improved are: better color detection in the Color filter without having to save it as a photo on the app (different filter options are None, B&W, Color, and Photo); option of pre-set crops (e.g., square, rectangle, fixed corners) along with the standard manually-determined crop; ability to add notes to a scanned document. The ability to add notes is particularly important to me, as I would like to add personal notes about the document, rather than put it all in the document title.",
+   "rating": 4,
+   "review_date": "Jun 19, 2023",
+   "reviewed_version": "Version 7.7",
+   "author": {
+    "name": "SoggyInSeattle",
+    "author_id": "14435991"
+   }
+  },
+  {
+   "position": 11,
+   "id": "3283003606",
+   "title": "5+ years... Only Scanning App I've Ever Used",
+   "text": "I've had this app since the iPhone 5s was released around 2013; since then every phone I've owned has had it installed. The fact that I've never had a need for or desire to explore another scanning app is the greatest aspect about it. I primarily use the *free version for PDF scans [from 1page thru 17 pages before]. The MAGIC feature which automatically scans for... detects, crops, then enahances is great. Provided you heed the tips the app provides to achieve best results. For the average college student, employee, grad student, etc... That only needs to scan something occasionally, wants it to be easy/quick/shareable and reliable... I'd definitely recommend this scanning app. *Since I've never needed to utilize the functions of the paid version, I can't attest to those aspects of the app. But if your at the point of paying for a scanning app. You probably aren't reading this! \ud83e\udd19\ud83c\udffc\ud83d\ude02*",
+   "rating": 5,
+   "helpfulness_vote_information": "8 out of 8 customers found this review helpful",
+   "review_date": "Oct 09, 2018",
+   "reviewed_version": "Version 5.0.6",
+   "author": {
+    "name": "B_adcock",
+    "author_id": "29026090"
+   }
+  },
+  {
+   "position": 12,
+   "id": "6566514044",
+   "title": "Hard to Read",
+   "text": "Writing on the PDFs appear as a bunch of illegible dots unless the text you are scanning is very bold and you have the proper lighting. Although other than this the app works well enough, it has caused me much frustration from often having to go over all of my writing pressing harder down on the paper, only to find that it still doesn\u2019t work. I also find myself having to scan again because it renders my work sideways, or fails to cut out the background. Also, while you are in the process of scanning, you can\u2019t undo a single page. You either have to keep it or delete all of the scanned pages. I suppose you could always just keep redoing each page until you get it right, and go through them at the end, deleting all but those that you\u2019re satisfied with, but with the amount of attempts that would take and the amount of pages you\u2019ll have to go through and delete in the end, this would be a time consuming process, and you\u2019re probably better off just getting a different app.",
+   "rating": 3,
+   "review_date": "Oct 23, 2020",
+   "reviewed_version": "Version 5.5.11",
+   "author": {
+    "name": "Kittycat843",
+    "author_id": "342851817"
+   }
+  },
+  {
+   "position": 13,
+   "id": "13909279636",
+   "title": "BEST SCAN APP EVER!!",
+   "text": "This is the best scanning app I\u2019ve ever used on iPhone ever. You don\u2019t even need to pay to get the main feature of scanning photos!! It auto crops and auto scans everything. All you have to do is take a pic! This app was really a lifesaver for me, I had important documents that were partially destroyed in a flood, and unable to be scanned with a printer scanner. But I was able to scan with them with this app, and it did a good job saving the most important parts of the document (even with water damage). Overall, this app is so excellent and I\u2019m so glad they didn\u2019t make the main feature of the scan payable. It\u2019s basically a free service that does everything you need to do and you don\u2019t have to pay. This app is so awesome. I hope it always stays like this and I\u2019m really grateful for how useful and how many times this has come in clutch for school too!",
+   "rating": 5,
+   "review_date": "Apr 01, 2026",
+   "reviewed_version": "Version 8.9",
+   "author": {
+    "name": "Eliam kdndbxj",
+    "author_id": "384887047"
+   }
+  },
+  {
+   "position": 14,
+   "id": "9903009037",
+   "title": "Worth the subscription",
+   "text": "I have used Genius scan for years and LOVE it. It has been free and I have recommended it to countless people. It auto exports to Dropbox, syncs across my devices and is generally amazing. I scan everything because I tend to lose paper easily. This morning I went to look for something and the new subscription model/fee popped up. All that wonderful functionality I took for granted is now $30 per year. Of course, I would rather it remained free, but I think it is the first app I have not bitterly resented for changing to subscription. I use it literally every day to scan mail (and then throw it out), scan forms or documents I have to sign and send back, scan recipes, etc. It works beautifully and is worth the cost. It\u2019s one of the very few apps I would still recommend and say it\u2019s absolutely worth the cost for the functionality.",
+   "rating": 5,
+   "review_date": "May 07, 2023",
+   "reviewed_version": "Version 7.5",
+   "author": {
+    "name": "KpSeattle",
+    "author_id": "109668233"
+   }
+  },
+  {
+   "position": 15,
+   "id": "13526292759",
+   "title": "Thank you Genius Scan for saving my grades (as a student)",
+   "text": "I love Genius Scan. This is a MUST-HAVE app for any students out there. Not only is it easy to use and reliable, but it is FREE! The other PDF scanner apps all need you to pay money or there is a limit on exporting, which is student. Genius Scan is so generous, you can take unlimited scans with no export limit. I love you Genius Scan. Please continue making your app free-to-use for broke high school students like me. Also, bonus: As I am writing this, my math finals are tomorrow, but I lost the notes I took over the ENTIRE SEMESTER. But Genius Scan, my GOAT, always has my back of course. I had all my notes scanned and ready to use. Not only did you carry my whole academic career but you are carrying my math grades right now, too. I LOVE GENIUS SCAN!!!!! MY MATH TEACHER WILL BE ASTONISHED BECAUSE I AM GETTING A 200% ON THIS FINAL BECAUSE OF GENIUS SCAN! NOT EXAGGERATED!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Dec 18, 2025",
+   "reviewed_version": "Version 8.6.1",
+   "author": {
+    "name": "LE70N",
+    "author_id": "1377341660"
+   }
+  },
+  {
+   "position": 16,
+   "id": "2640689929",
+   "title": "Love it. Would upgrade for $3. Not for $8",
+   "text": "I love the app. Used it and recommended it since 2013 I\u2019m the free version. Since a week or two ago the \u201chidden\u201d Save-to-Dropbox functionality was gone from the free version. Fair enough BUT, a) It happened In the background, not through an upgrade, sonI del cheated. B) I would happily upgrade just for that function; I do not need anything else but not for $7.99. I would happily pay a couple of bucks, not so much c) i considered the cloud option but again, totally out of price. I already pay Dropbox and Apple cloud, plus iDrice cloud for backups. $3 a month for just a small subset of documents? Guys, that should be the annual cost, not monthly. It seems you are trying to skin off a few paying clients instead of broadening your base and making us loyal. Sadly, After 5 years of happy customer and promoter, I will start to look around for other options. That costs you way more than the extra dollars you are trying to charge.",
+   "rating": 4,
+   "helpfulness_vote_information": "22 out of 29 customers found this review helpful",
+   "review_date": "Jun 04, 2018",
+   "reviewed_version": "Version 4.4.8",
+   "author": {
+    "name": "FreddyLazzaris",
+    "author_id": "123527033"
+   }
+  },
+  {
+   "position": 17,
+   "id": "12514655682",
+   "title": "This is how all iOS apps should work",
+   "text": "I\u2019ve been using the free version of Genius Scan for years, and couldn\u2019t be happier. It\u2019s easy to use, intuitive, the quality of the scans is great, and the editing software is nothing short of amazing. The only issue I\u2019ve ever had occurred yesterday when I opened it and got an \u201cexpired key\u201d prompt that froze the app. Being an old cynic, I assumed this was an attempt to get me to upgrade to the paid version. I couldn\u2019t have been more wrong! I sent a message to customer support and they responded in less than 24 hours with an acknowledgement of the issue, an apology, and instructions for an easy fix. While I waited for a response, I downloaded Adobe Scan and scanned what I needed to last night \u2014 what a complicated process. I\u2019m SO glad I can delete that mess and settle back in to using Genius Scan.",
+   "rating": 5,
+   "review_date": "Apr 07, 2025",
+   "reviewed_version": "Version 7.27.1",
+   "author": {
+    "name": "BobField44",
+    "author_id": "32022232"
+   }
+  },
+  {
+   "position": 18,
+   "id": "12481338841",
+   "title": "Forget Everything Else, THIS is the Trucker's Holy Grail!",
+   "text": "I'm a long-haul trucker, and if there's one thing I know, it's the value of efficiency. Out here on the road, time is money, and paperwork can be a nightmare. But Genius Scan? This app isn't just good, it's a freaking miracle. I just snap a photo with my phone, and BOOM \u2013 crystal-clear, professional-looking scans. I'm talking delivery receipts, bills of lading, driver's logs, you name it. This app handles it all like a champ. The clarity is insane. Seriously, it's like having a high-end office scanner in your pocket. The automatic edge detection and perspective correction? Pure genius! Plus, the ability to create multi-page PDFs and organize them into folders? Game-changer. And the faxing? Don't even get me started. Sending documents straight from my phone, no more hunting for a fax machine in the middle of nowhere. This app has saved me countless hours and a ton of stress.",
+   "rating": 5,
+   "review_date": "Mar 30, 2025",
+   "reviewed_version": "Version 7.27",
+   "author": {
+    "name": "Harry kaler",
+    "author_id": "141665564"
+   }
+  },
+  {
+   "position": 19,
+   "id": "9009651776",
+   "title": "Deleting this now",
+   "text": "I have had, been using and even recommended this app for years now. It was great for all my paperwork to simply scan and send, keep, etc. I could use it with the genius fax app after paying for a few pages so easily. I went on today to print out a few pages I had scanned in last week to be informed now, after all this time, pay up. There is absolutely no version of this you can use without having to pay for it. Also, if I\u2019m reading this correctly, if I don\u2019t pay for this app, all of my documents will be deleted from their servers. I get wanting to earn a little of a great app. Maybe add more features that can be used for an up-charge, but to suddenly inform longtime users that they need to pay for it all, well I doubt I won\u2019t be the only one to leave. I\u2019m just moving on.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Aug 23, 2022",
+   "reviewed_version": "Version 7.0.5",
+   "author": {
+    "name": "DZcutiepie",
+    "author_id": "19035227"
+   }
+  },
+  {
+   "position": 20,
+   "id": "7161081447",
+   "title": "One of my most used apps",
+   "text": "I literally have written maybe 2 reviews in my life but this app truly deserves one! I have had this app since nursing school for about 9 years now. I girl that sat in front of me in class suggested it to me and here we are! I use this app almost everyday for all types of miscellaneous paperwork that i need put into a digital file. It\u2019s super easy to use, images come out very clear, and they stay saved in the app until you delete them. for me it\u2019s perfect if i need to resend paperwork or need to reference something that i had scanned in the past. It was extremely useful when purchasing my first home (during covid) and everything was done via email and uploading docs to bank and mortgage sites. I\u2019ve used it to save copies of receipts or drivers license photos, and it\u2019s all there ready to be sent when i need it. I\u2019ve told everyone i know to download this.",
+   "rating": 5,
+   "helpfulness_vote_information": "0 out of 2 customers found this review helpful",
+   "review_date": "Mar 30, 2021",
+   "reviewed_version": "Version 6.0.2",
+   "author": {
+    "name": "jaymoLOVESps",
+    "author_id": "49232703"
+   }
+  },
+  {
+   "position": 21,
+   "id": "5823379169",
+   "title": "Easy to use, and so useful!",
+   "text": "I\u2019ve been using Genius Scan for several years to quickly scan documents and file them away on Dropbox or OneDrive. I know those services have their own apps that do document scanning, but they\u2019re clunkier and don\u2019t have the breadth of features that Genius Scan does. It\u2019s one app that makes quick work of scanning, cropping and adjusting, and filing away as a PDF or JPEG. But don\u2019t take my word for it - take the word of my dad, who is 81 years old and regularly complains about technology being hard to use. He wanted to scan in a paper form and get it to his computer, so I texted him a link to Genius Scan along with an offer to call and walk him through it. He didn\u2019t call me but a little while later emailed to say: \u201cI made the PDFs with my phone and emailed it to my computer and printed out copies. The app worked great.\u201d Now that\u2019s high praise!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 3 customers found this review helpful",
+   "review_date": "Apr 17, 2020",
+   "reviewed_version": "Version 5.4.6",
+   "author": {
+    "name": "KennySteven",
+    "author_id": "32747245"
+   }
+  },
+  {
+   "position": 22,
+   "id": "8986526134",
+   "title": "Perfect Scanner!",
+   "text": "The best there is! This app has allowed me to conquer my administrative demons that had me invariably fumbling, misplacing, and losing critical and irreplaceable documents. I\u2019ve tried and bought at least a dozen other premium scanner apps and this app (Genius Scan) blows them all away. Every size and shape document along with it\u2019s detailed data is precisely copied into a PDF and/or text formatted file along with various filters, editing and manipulation options to generate a perfectly replicated document. With it\u2019s quick and easy \u201csave\u201d and \u201cfile\u201d features (including available auto-export rules to my phone and/or to a cloud and additional tags), this app has made being organized, efficient, and prepared second nature, as EVERY essential document I come across quickly and easily becomes part of my permanent electronic records.",
+   "rating": 5,
+   "review_date": "Aug 17, 2022",
+   "reviewed_version": "Version 7.0.3",
+   "author": {
+    "name": "mchirco",
+    "author_id": "490581084"
+   }
+  },
+  {
+   "position": 23,
+   "id": "6134327113",
+   "title": "Great app!",
+   "text": "This is a great little app. I had it on my phone for little incidentals for which I'd used it here and there over the years. Usually for when I needed to sign and scan a document to send. Then I started a project of scanning 20 years worth of hand written journals. I researched scanners, I went to the local library to use their high powered book scanner, I evaluated renting one, finally I tried genius scan to scan the journals with my phone and the more I used it the more features I found and the more I liked it. It has an awesome crop feature that actually helps even out the bump from the binding, it does colored scans or black and white, and I can export the scans directly to a specific folder on my Google drive, with the file name of my choosing. It's a great little app that is way more powerful than it at first seems.",
+   "rating": 5,
+   "helpfulness_vote_information": "0 out of 1 customers found this review helpful",
+   "review_date": "Jun 29, 2020",
+   "reviewed_version": "Version 5.5.3",
+   "author": {
+    "name": "HDH-J mama",
+    "author_id": "323603337"
+   }
+  },
+  {
+   "position": 24,
+   "id": "11453135914",
+   "title": "Very Pleased!",
+   "text": "July 3, 2024: I was a former Evernote Scannable app user who was looking for an alternative after Scannable started forcing its user to create an account and/or pay for their scanning service. Disappointed with the change, I kept an eye out for alternatives for a while. I wanted a scanning app that can scan quickly, cleanly, and save it as a JPG or PDF. Someone on Reddit recommended Genius Scan. I tried out the app and did a test scan, and it was perfect for what I needed! The scanning feature is free, and their additional premium features/services seems like a reasonable price model. I hope Genius Scan will continue to keep their business model where scanning will always be a free feature. Thank you for your app! It\u2019s a life saver when trying to send digital copies of documents or trying to archive important things.",
+   "rating": 5,
+   "review_date": "Jul 03, 2024",
+   "reviewed_version": "Version 7.19.1",
+   "author": {
+    "name": "Soulivium",
+    "author_id": "172398075"
+   }
+  },
+  {
+   "position": 25,
+   "id": "8667400639",
+   "title": "Saves time, looks professional",
+   "text": "I fall back on genius scan to help me with my job, my personal obligations, and too help with record keeping for my elderly parents. It was crucial during Covid and Zoom, but it also makes my everyday work more manageable. I turn in timesheets and attendance records with genius scan on a weekly basis. My Home Hospital students in grades K-12 easily submit finished work and test answers when needed. When enrolling a new student I have their parents download the app so I can be sure I will be able to read what they submit to me. I\u2019ve used Genius Fax to fax time-sensitive documents that I have scanned and I have emailed multiple files from Genius Scan. Being able to sharpen the images and rearrange the documents makes my faxes look professional in all situations and it couldn\u2019t be easier!",
+   "rating": 5,
+   "review_date": "May 13, 2022",
+   "reviewed_version": "Version 6.1.11",
+   "author": {
+    "name": "4freedlm",
+    "author_id": "165006373"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=377672876&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=377672876&sort=mosthelpful"
+ }
+}

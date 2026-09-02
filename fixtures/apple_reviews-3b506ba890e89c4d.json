@@ -1,0 +1,382 @@
+{
+ "search_metadata": {
+  "id": "6a96c9d4bca7e58ff05a212e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/k1ZNmcDoc6YHpZCjRGYp1CrZICZwJTe5rPYOWlUugGo/6a96c9d4bca7e58ff05a212e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/k1ZNmcDoc6YHpZCjRGYp1CrZICZwJTe5rPYOWlUugGo/6a96c9d4bca7e58ff05a212e.md",
+  "created_at": "2026-09-01 12:49:24 UTC",
+  "processed_at": "2026-09-01 12:49:24 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=983826477&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/k1ZNmcDoc6YHpZCjRGYp1CrZICZwJTe5rPYOWlUugGo/6a96c9d4bca7e58ff05a212e.html",
+  "prettify_html_file": "https://serpapi.com/searches/k1ZNmcDoc6YHpZCjRGYp1CrZICZwJTe5rPYOWlUugGo/6a96c9d4bca7e58ff05a212e.prettify",
+  "total_time_taken": 0.94
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "983826477",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "reviews_for_currrent_version": 10,
+  "reviews_for_current_version": 10,
+  "total_page_count": 331,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "4949195093",
+   "title": "Great Tool",
+   "text": "This app has helped me, far more than any other on the App Store, to take control of my life. It has been especially useful in creating a healthy lifestyle, and to conquer depressive habits I had never been able to. The accountability the app brings is one that is lacking in pressure. If you end up not being able to complete a habit, you don\u2019t get negative feedback. Most habit forming apps on the App Store have negative feedback when you are unable to meet your goals, which can become quickly frustrating and cause more self-criticism. Other apps on the market will send an obnoxious amount of reminders, that eventually become easy to ignore. Rather the app uses as many, or as little, reminders as you want. You can choose which days of the week and what time of day the habits need completed by. With the Premium feature, you are able to create as many habits as you want and gain access to more fun settings. For me, the amount I paid for the yearly subscription was worth it for the changes I have seen in my life. The only problems I have found is in the weekly section. You don\u2019t get the option of choosing the day of the week for habits in the weekly tab. I have a plant I water every two weeks, always on Saturday\u2019s, but there is currently no way to specify this option. Because I can find no other problems, and because of the personal help this app has provided, I am giving it 5 stars.",
+   "rating": 5,
+   "helpfulness_vote_information": "144 out of 239 customers found this review helpful",
+   "review_date": "Oct 15, 2019",
+   "reviewed_version": "Version 1.43.0",
+   "author": {
+    "name": "taylinr",
+    "author_id": "384608120"
+   }
+  },
+  {
+   "position": 2,
+   "id": "13655398706",
+   "title": "Nice but could be better",
+   "text": "So I bought this years ago but never used it and was checking out another app and figured I\u2019d use this and compare it. What I would like to see here is device syncing. Calendar and Apple health integration for reading and exercise habits and with the calendar it can set you reminders and adjust if schedules change. A disappointment is that there\u2019s no pre set habit for showers. Ok but not even an icon? There\u2019s a duster icon but not one for a shower? There\u2019s even a tooth icon for brushing teeth but no shower when many many depressed Americans don\u2019t shower. I\u2019m tracking cold showers btw not regular ones but anyways. I can\u2019t remember what I paid but I couldn\u2019t justify the current subscription cost for how basic it is and the features it lacks that other apps have. I know these guys have been around awhile so I\u2019m hoping they continue to improve it and get ahead on the AI train. Oh one final thing. Because it doesn\u2019t play well with Apple my size settings don\u2019t transfer to the app and there is no way to make things larger. I can see and read most stuff with a little difficulty but some text is too small to read and. I ability to enlarge text to make it more readable but that\u2019s not going to be a common issue for most but blind people use apps too lol Edit: dark mode all the time is getting old quick. There is no bright light mode when I wake up and the dark mode widget looks really dumb during the day next to everything else not in dark mode.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jan 20, 2026",
+   "reviewed_version": "Version 3.26.38",
+   "author": {
+    "name": "The 77th Doctor",
+    "author_id": "173156401"
+   }
+  },
+  {
+   "position": 3,
+   "id": "8975396084",
+   "title": "developers please read!",
+   "text": "after testing extensively over several hours other habit tracking apps I found this one to be the most fully featured in terms of statistics and things like an in app timer. The widgets are clean and good enough, there is a more section, and the ability to pause habits. However there are some major shortcomings of this app that has been available for so long that I think would make it much better. 1. overflow timer - would be very appreciated. It\u2019s very difficult to edit entries to show the time that was spent versus the time that was scheduled in the habit. also, it doesn\u2019t show the edited time in the statistics after the fact. I would love to be able to set the timer to start for example minutes read and if my time exceeds what was scheduled it would automatically update and show in statistics. 2. bad habits -there is no proprietary bad habit set up in the app as of now. It\u2019s easy enough to mark don\u2019t smoke as completed if you don\u2019t smoke for that day. But what if it is some thing like cut back smoking and you want to mark every time you have a cigarette so that that data is available in statistics and so that if you are trying to cut down from 10 cigarettes a day you can see when you only had nine and passed your habit but also when you only had three and did even better-even so when you failed the habit and had 11 but when you also failed the habit and had 20. thanks guys!",
+   "rating": 4,
+   "helpfulness_vote_information": "15 out of 19 customers found this review helpful",
+   "review_date": "Aug 13, 2022",
+   "reviewed_version": "Version 3.6.1",
+   "author": {
+    "name": "oddkodama",
+    "author_id": "926939415"
+   }
+  },
+  {
+   "position": 4,
+   "id": "2284758864",
+   "title": "Great app!",
+   "text": "I'm 16 and I got this app to keep track of chores and other daily habits I often forget. It's exactly what I needed. I'm not trying to schedule my day down to the minute or even the hour. And I needed an app flexible enough that as long as I complete my habit that day, it doesn't break my streak, but still keeping certain habits to certain times of day. I like that you can schedule an individual habit for multiple times a day instead of having to create the same habit 3 times, each time scheduling a different time. I also enjoy how customizable it is, how you can choose the icon, color and order of the habits. My favorite thing about the app is the general scheduling. There are 3 times to schedule a habit to; morning, afternoon and evening. And you can choose between which times each of these apply. Even if I miss a habit during its schedules time, it isn't counted as missed until the day is over, which keeps my motivation for the streaks up. It's the perfect level of simplicity for me. My only complaint is that I have to pay a subscription for more habits! I don't really care about whatever else comes with premium. I love this app and it's exactly what I need but I can't pay a subscription. If it was a one-time fee for premium forever then I could do that. Even if it was $20 as long as it was just once. Otherwise, this app is just about perfect for me.",
+   "rating": 5,
+   "helpfulness_vote_information": "112 out of 160 customers found this review helpful",
+   "review_date": "Mar 08, 2018",
+   "reviewed_version": "Version 1.8",
+   "author": {
+    "name": "CheekySweetie",
+    "author_id": "43394353"
+   }
+  },
+  {
+   "position": 5,
+   "id": "2622642664",
+   "title": "My Main App",
+   "text": "I have paranoid schizophrenia, and having a stable routine along with medication and therapy is essential to my recovery. This is hands down the best app for creating and maintaining a daily self care routine. Being schizophrenic it is hard to stick with a routine. I am always forgetting what I need to be doing. Not anymore with this app. I use this app to remind me of the things I need to do each day. For projects I use Things 3, for one time reminders I use the standard reminders app, and for appointments I use the basic calendar. I keep these four apps in a folder called Daily. If I see a number over the folder, I know that something needs to be done. What I like most about this app is nothing has a time that is set in stone. There are three periods: morning, afternoon, and evening. This gives me needed flexibility, in case I am having a bad day. Also these periods keep me from becoming overwhelmed by looking at a whole days worth of tasks. (Although you can look at the full day if you need to). There is also a satisfying sound when you swipe a task complete. This app has worked wonders in my day to day life living with schizophrenia. If you don\u2019t have a serious mental illness this app will still be extremely handy. If you do have a serious mental illness it is a necessity.",
+   "rating": 5,
+   "helpfulness_vote_information": "53 out of 66 customers found this review helpful",
+   "review_date": "May 31, 2018",
+   "reviewed_version": "Version 1.8",
+   "author": {
+    "name": "riddled1103",
+    "author_id": "666843641"
+   }
+  },
+  {
+   "position": 6,
+   "id": "7140130911",
+   "title": "It\u2019s fine. But annoying.",
+   "text": "The entire app is set up to be some silly competition with yourself. I just need something to keep track of the things I want to try and hit in a day \u2014 I\u2019m not trying to guilt trip myself because my \u201cstreak is broken.\u201d There doesn\u2019t seem to be a way to turn this off, which is absurd. So it\u2019s a great interface and user-friendly that way, but if you\u2019re not interested in feeling bad about yourself every day when it brow-beats you for not completing your \u201chabits,\u201d I\u2019d look elsewhere. ETA: I was feeling pretty cranky when I tapped this review out, but as my year subscription comes to an end, I still won\u2019t be renewing. I appreciate the response that some things can be turned off, but respectfully \u2014 most of them can\u2019t be. And the edits that are offered often don\u2019t work. Trying to update days that you\u2019d like existing habits to appear on your list is hit or miss (usually miss \u2014 it doesn\u2019t stick. I end up having to delete habits entirely and enter them anew to make any changes at all). The orientation of the app is toward creating new daily habits and competing with yourself. If that\u2019s your thing, do it up. But if the developers want this to be for a wider audience, then group all of those notifications into a \u201cchallenge\u201d interface, and give the rest of us an option to turn it off. I\u2019d love this to be a task-tracker without the game aspect, but it isn\u2019t.",
+   "rating": 3,
+   "helpfulness_vote_information": "9 out of 13 customers found this review helpful",
+   "review_date": "Mar 24, 2021",
+   "reviewed_version": "Version 2.23.0",
+   "author": {
+    "name": "MystikQT",
+    "author_id": "87479628"
+   }
+  },
+  {
+   "position": 7,
+   "id": "3606041938",
+   "title": "Very Helpful and Encouraging",
+   "text": "I don't often take time to write reviews, but I am sincerely enjoying this help! It has been so helpful and easy to use. I love how easy to customize this, and if you miss or skip a goal for whatever reason its not degrading. Rather it encourages you to keep going, and do what you can to succeed with whatever size goal/task/daily chore/project/new habit you recorded. I have tried other apps similar before and have been very disappointed, and then ended up losing interest and feeling more defeated by not getting something done. If you are a personality where you need to record your tasks or enjoy the satisfaction of crossing something else off from your day this is for you! I will admit that in the free version I only had the ability to record 2 goals/habits, which was not close to what I was hoping for. The company offered a timed promotion that Im not sure if it was only over the holiday or just as a new user I got a chance to upgrade too. However, I decided to give it a shot as it was only $12 for the full year which was easily affordable and I am really loving the fact I did. I highly recommend!",
+   "rating": 5,
+   "helpfulness_vote_information": "4 out of 9 customers found this review helpful",
+   "review_date": "Jan 03, 2019",
+   "reviewed_version": "Version 1.15",
+   "author": {
+    "name": "Katierae5",
+    "author_id": "443933670"
+   }
+  },
+  {
+   "position": 8,
+   "id": "3639851800",
+   "title": "Awesome!",
+   "text": "I love this app for tracking habits. The premium version is well worth the price, especially if you consider the cost per month of the annual option. I\u2019ve been trying to start a bullet journal, but have struggled with motivating myself to go through and physically set up the format myself to track each habit, with this app it does all the work for me and has a nice design. I wish there was a little bit more flexibility with scheduling monthly habits, like if you could pick an exact day of the month when something needs to be done, or the number of times per month you\u2019d want to do something, similar to the layout when setting weekly goals. Another feature I\u2019d like to see is the ability to \u201coverachieve\u201d on a goal. Like if I set my gym goal as a minimum of 3 times a week, it would be nice to be able to mark it done if I go a fourth time in order to track progress and help reevaluate goals later on. I\u2019d especially like it if this was a feature able to be turned on or off depending on each habit. Overall this is a great and easy to use app that helps me stay motivated and productive.",
+   "rating": 5,
+   "helpfulness_vote_information": "4 out of 7 customers found this review helpful",
+   "review_date": "Jan 12, 2019",
+   "reviewed_version": "Version 1.15",
+   "author": {
+    "name": "Sarah B29",
+    "author_id": "216408563"
+   }
+  },
+  {
+   "position": 9,
+   "id": "6216187857",
+   "title": "The First Steps are Simple With the App",
+   "text": "Hey all, After thinking for a little bit of time of when I would start my habits and good motivation to do it, it was not until this app that I really started doing much. I see this app as a rehabilitations skill builder in habits in a way that moves my inspiration to want to do habits a lot simpler. I find myself adding goals every day and it\u2019s consistently interesting to see how much I want to accomplish vs how much I would accomplish. It\u2019s peaceful to know I use this as a guide and I realized it also clears my mind to write it all down. Didn\u2019t realized how much in a day there is to do, but how much you can do within a given time (I.e thirty minutes blocks can get so much done. Anyway I won\u2019t over express myself here. But I think all should give this a try, I found an objective benefit to using it and I do have a subjective view on it since I used it. But if you want to move forward with organization with your habits and decrease Brian focus on your habits and build more accountability for yourself, I recommend this app! Thanks all, All the best!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jul 19, 2020",
+   "reviewed_version": "Version 2.11.0",
+   "author": {
+    "name": "K-Bernard",
+    "author_id": "1190656279"
+   }
+  },
+  {
+   "position": 10,
+   "id": "6057327452",
+   "title": "Great UI but buggy (updated: might be iOS issue)",
+   "text": "It\u2019s pretty intuitive at first, but when you get deeper into customization, you run into oddities and bugs. For example, it seems to be pretty aggressive about resetting streaks when you make edits to habits (understandable, but the rules around this could be more clear). You edit a habit name, and it reorders it. Sometimes things don\u2019t get saved. Sometimes they get reordered at seemingly unpredictable times. And worse, I\u2019ve only just fully set up a bunch of habits, and all of a sudden my Today shows up blank, rendering the app useless because I can\u2019t actually see or complete the habits I spent so much time setting up. It worked well when it was working, but I am less than a month into using Productive and now it\u2019s broken. Update: Rebooting my iOS device seemed to fix the issue so I just raised my original rating to 4. I also had noticed another app having issues (Alarmy wasn\u2019t showing an alarm going off), so I\u2019m tentatively chalking at least the major issue above to an iOS problem and not a Productive one. Will report back if other issues persist or not.",
+   "rating": 4,
+   "helpfulness_vote_information": "2 out of 3 customers found this review helpful",
+   "review_date": "Jun 10, 2020",
+   "reviewed_version": "Version 2.9.1",
+   "author": {
+    "name": "cephvar",
+    "author_id": "546783129"
+   }
+  },
+  {
+   "position": 11,
+   "id": "6118634967",
+   "title": "Latest update has terrible UX",
+   "text": "Edit: Updating back to 5 stars because the UX has been improved, I\u2019m sure many people enjoy the fancy UI but there is now an option to have a no frills. I have had some issues with habit data not saving properly for the current day, though, when checking habits off sometimes Old review: I agree with some other reviews I\u2019ve seen: this was an update for the sake of updating. It has \u201cfixed\u201d things that were not broken to begin with. The UI used to be minimal and easy to use day to day, but now forces its paradigm of time-of-day habits. Sure, I have some habits for the evening, but a lot of anyone\u2019s habits aren\u2019t strictly for one time of day. It is more difficult now to just get this app to show me what I want\u2014a simple list of my habits for the day. All day habits are now all the way to the left, the app has unneeded animations for what it is (essentially just a simple to do list style app), and the bottom bar UI now centers on adding a new habit, which is one of the actions I\u2019ve used the least. This is making me regret subscribing to this. Maybe I can find a different app that is just simple and elegant, and doesn\u2019t get in my way.",
+   "rating": 4,
+   "helpfulness_vote_information": "3 out of 5 customers found this review helpful",
+   "review_date": "Jun 25, 2020",
+   "reviewed_version": "Version 2.10.0",
+   "author": {
+    "name": "Gggghfjtfugvbnk",
+    "author_id": "133245180"
+   }
+  },
+  {
+   "position": 12,
+   "id": "6966076205",
+   "title": "Glitches, crashes, poor sync across devices",
+   "text": "I\u2019ve been using this app for about a year and half now and I\u2019ve had many problems. Nothing just works how its supposed to. My completed tasks aren\u2019t being synced across my devices, so if I click completed on my Apple Watch or iPhone, my iPad won\u2019t reflect it, and vice versa. Sometimes it will sync one completion here or there but its very unreliable. I can mark every task completed on my iPad and hours later my iPhone has only realized I\u2019ve completed one or two tasks. My devices haven\u2019t even synced some completions from a month ago. This defeats the purpose of having it on separate devices if they won\u2019t sync properly... as well as the whole idea of tracking habits. On to the next problem: the sometimes working Apple Watch app. Probably 50% of the time the Apple Watch app is non-responsive or just crashes when you open it. I\u2019ve had days where I can\u2019t open the app on the Apple Watch. Yes... everything is updated and my settings are set to sync across devices... things just don\u2019t work. I can\u2019t believe I\u2019ve paid for two years of service that works this poorly. EDIT: Now even a year later it still is not syncing anything between my devices. In fact, I don\u2019t even see an iCloud option in the settings anymore. I think they gave up on the syncing.",
+   "rating": 1,
+   "helpfulness_vote_information": "4 out of 4 customers found this review helpful",
+   "review_date": "Feb 07, 2021",
+   "reviewed_version": "Version 2.20.0",
+   "author": {
+    "name": "Jartin2086",
+    "author_id": "12242872"
+   }
+  },
+  {
+   "position": 13,
+   "id": "2721384806",
+   "title": "Quite a good app",
+   "text": "I especially appreciate this app, since the calendar it has tracks when you do things and when you don\u2019t do things. This gives you a satisfying cross-off of the days of the week you do the things you planned, making you feel compelled to keep up the task instead of putting it off another day. That being said, all of the features (in the free version at least) besides reminders can be done using a regular calendar, which would give you an even more satisfying cross-off since it is being done physically. However, I would still recommend this app, for people who are still struggling with procrastination, since it isn\u2019t the laziness but rather the will, and personally the will has kept me going with this app. The only downside is that I think the not free version is quite a bit expensive, especially for a mere habit tracking app, and especially considering that all of the features it has and offers in the paid version could be done with other apps that are free (like apps that come with an iPhone). Nevertheless, this is still an amazing app and it has helped me with habit tracking.",
+   "rating": 4,
+   "helpfulness_vote_information": "3 out of 4 customers found this review helpful",
+   "review_date": "Jun 19, 2018",
+   "reviewed_version": "Version 1.9",
+   "author": {
+    "name": "17374850483761919384649",
+    "author_id": "662805543"
+   }
+  },
+  {
+   "position": 14,
+   "id": "4085392190",
+   "title": "Confession of an Appaholic",
+   "text": "When I see a new and interesting app I can\u2019t help myself- I download and try it. Every few weeks I find myself trying a new \u201cproductivity\u201d app, whether it be a to-do or habit tracking or what have you. But this is the app I always find myself coming back to ever since I first downloaded it about six years ago. No other app has been as easy to set up, enjoyable to use, or useful. And every time I come back to it there are more features! Useful features, too, not ones that make things more difficult or overwhelming: they integrate smoothly into what is already there. The only reason I ever stop using this app is because I am so bad at sticking to a routine. But when I put forward the effort, this is the only app I have found that actively encourages me. Just the idea of using it is enough to help me recommit :) And I have never regretted buying the full version, which is not the case with so many other apps. Give it a try and you\u2019ll understand why the ratings are so consistently good.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 2 customers found this review helpful",
+   "review_date": "May 01, 2019",
+   "reviewed_version": "Version 1.25",
+   "author": {
+    "name": "Anyabells",
+    "author_id": "305434468"
+   }
+  },
+  {
+   "position": 15,
+   "id": "4361835052",
+   "title": "Works well, but...",
+   "text": "I like how this app is set up and what you can do with it. It is really good for keeping track of the things that I need to do. However, it is clear to me that this app really isn\u2019t free. In the free version, you can set 5 habits, which doesn\u2019t even begin to scratch the surface of what I need to keep track of on a daily basis. maybe of all i wanted to do was remind myself to go to the gym every day, it would be usable, but then you could just use one of the free apps that comes on the iphone. I understand that the developers want to make money, but the subscription pricing model is a big turn-off for be and i assume based on other reviews many other people. The price is really not that expensive, but personally i would rather have ads than have to pay $30 a year for an app that really does not do anything particularly interesting or unique. It\u2019s nice to have, but for me, it\u2019s not worth having to pay a per year price indefinitely when i could do exactly the same things, mind you less conveniently, with a free service like google calendar. So maybe if this app had a one time payment or ads i would use it, but currently, i am not prepared to spend 30 dollars a year so that i can be reminded to go to the gym.",
+   "rating": 2,
+   "helpfulness_vote_information": "10 out of 10 customers found this review helpful",
+   "review_date": "Jun 24, 2019",
+   "reviewed_version": "Version 1.34",
+   "author": {
+    "name": "Imperialmeasures",
+    "author_id": "1038733172"
+   }
+  },
+  {
+   "position": 16,
+   "id": "10947430365",
+   "title": "\u201cMark a habit as incomplete\u201d",
+   "text": "I think there should be a feature where you can mark that a habit was not completed. There is a feature where you can skip a habit in special occasions, and there is a feature where you can mark that a habit was completed. I understand that if you don\u2019t do either of these then the app recognizes it as an incomplete habit but sometimes when I go back to previous days and see that a habit is not completed, I can\u2019t remember if I just forgot to mark it as complete or if I actually didn\u2019t do it. That\u2019s why I really think there should be a feature to mark that a habit was not completed instead of just having that be recognized by the app if you don\u2019t mark it at all. I don\u2019t want to just skip a habit and have it say that my streak continues. I benefit from the punishment of losing a streak. That\u2019s why I want there to be an additional feature to mark that a habit was not completed. Maybe it could be a long press on the habit or some other type of gesture. Thank you for your time and for considering this feature. Other than this feature, I would actually give five stars\u2014but this is a huge issue for me that is make or break for me.",
+   "rating": 2,
+   "review_date": "Feb 17, 2024",
+   "reviewed_version": "Version 3.24.1",
+   "author": {
+    "name": "Da\u00f1iel A\u00fcgust",
+    "author_id": "1351156284"
+   }
+  },
+  {
+   "position": 17,
+   "id": "5216785933",
+   "title": "Well designed with spotty execution",
+   "text": "I\u2019ve been using this app (with premium features) for years because I haven\u2019t found another app that is as good as this one for tracking habits. That being said I\u2019ve looked long and hard for an alternative. My issues with the app are 1) in that it has below average integration across devices. I have an iPad and it doesn\u2019t load all of the habits from the phone into the tablet. It will load some but not all. It also takes forever (if it will do it at all) to sync with me marking a habit on one device. Example. I marked a habit complete around midday on the phone and the iPad app never registered it so it still showed up as incomplete in the iPad. And 2) if you\u2019re relying on it for an accurate \u201cperfect streak\u201d count look elsewhere or track with a red X on a calendar. You can have a million perfect days in a row and the app arbitrarily decides to not track some days in the streak. Which is weird because the counter for \u201cdays complete\u201d is accurate but the streak counter is completely random. Again. Best I\u2019ve found and does a lot of things right. But I\u2019ve also been looking for an alternative for a while.",
+   "rating": 3,
+   "helpfulness_vote_information": "3 out of 3 customers found this review helpful",
+   "review_date": "Nov 30, 2019",
+   "reviewed_version": "Version 1.46.1",
+   "author": {
+    "name": "thadangazone",
+    "author_id": "139795007"
+   }
+  },
+  {
+   "position": 18,
+   "id": "4407651581",
+   "title": "Working so far",
+   "text": "I\u2019ve only had this a day, but it\u2019s doing exactly what I want it to \u2014 which is to help me stay on task with a fairly regimented routine. I\u2019m a mother of two children not yet in school, and my older son is enjoying having a schedule to follow. So far, so good. UPDATE: After one week, I\u2019m still really liking this app. The interface is appealing and easy to use once you figure out where all the features are. The notification flags are great for keeping me on task. My days have gone much more smoothly and my kids are getting really great at knowing what to expect during the day for the past week. We have far fewer struggles and see much better behavior from them. I\u2019m Type B when it comes to schedules \u2014 even though I thrive with one, I have a hard time staying on task by myself. I\u2019ve done yoga every morning for a week! I\u2019ve even had enough time to go to the gym. By myself. With two kids at home with their dad. Seriously! So glad I found this app.",
+   "rating": 5,
+   "helpfulness_vote_information": "0 out of 1 customers found this review helpful",
+   "review_date": "Jul 04, 2019",
+   "reviewed_version": "Version 1.35",
+   "author": {
+    "name": "L Corder",
+    "author_id": "302071308"
+   }
+  },
+  {
+   "position": 19,
+   "id": "6271630317",
+   "title": "It\u2019s okay, some flaws",
+   "text": "This app IS helpful, as I have started many challenges, and keeping up with them! However, what is really annoying about this app is that if you don\u2019t mark at the end of the day that you have completed the challenge for that day\u2014it automatically starts you over again and says that you failed the challenge. It feels terrible\u2014especially when you are actually doing the challenge and have been for a full week! Please change this. It\u2019s incredible frustrating to keep having to pledge over and over again, especially when I know I haven\u2019t broken the pledge! Perhaps make a notification when you open the app that says \u201cI noticed that you didn\u2019t check in last night, how is the challenge going?\u201d And then gives you the option to say \u201cstill going strong\u201d or \u201cI slipped, let\u2019s start over\u201d. I\u2019ve been on the intermittent fasting challenge for almost a week now and in my app it says 0 because I forgot to swipe the challenge last night. It\u2019s just very frustrating. Please fix this. Not everyone is going to have this app chained to their hip, we have lives.",
+   "rating": 3,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Aug 02, 2020",
+   "reviewed_version": "Version 2.12.0",
+   "author": {
+    "name": "Satanscrush",
+    "author_id": "424121917"
+   }
+  },
+  {
+   "position": 20,
+   "id": "12111956358",
+   "title": "Exactly what I was looking for",
+   "text": "I wanted an app that would let me set daily goals, but also goals that could be 3x per week at my discretion which day or on set days. I didn't think there would be an app that would perfectly meet my needs, but this one does. Perfect and worth the 3.99 for the paid app that lets you have more than five reminders. Update after lots of use: The only reason I dropped my rating to five stars is that really often when I check off a task it stays frozen, that is shifted right with the check mark displayed. I have eight habits and it never makes it through all eight without freezing. To get it to register that the habit was done I need to hard close the app and relaunch it. That is a small daily annoyance that I end up doing a couple times each day. Besides that, in terms of function and design, this is by far the best app I\u2019ve found, which is why I stick with it despite the minor annoyance of having to hard close it to register which habits are checked off.",
+   "rating": 4,
+   "helpfulness_vote_information": "5 out of 8 customers found this review helpful",
+   "review_date": "Dec 27, 2024",
+   "reviewed_version": "Version 3.26.19",
+   "author": {
+    "name": "tomagain748",
+    "author_id": "13669799"
+   }
+  },
+  {
+   "position": 21,
+   "id": "4774012838",
+   "title": "Limitations and constant subscription badgering make this too annoying",
+   "text": "I liked the idea and aesthetic of this app. Unfortunately the paywall and its limitations makes it not worth downloading. The help section states that you can add notes onto completed tasks from previous days but you actually can\u2019t. It would make sense that if you clicked on a task then clicked the notes section, you could edit notes but instead it says \u201cswipe left on a task to add notes.\u201d You can\u2019t swipe anything on completed tasks from previous days. I accidentally deleted a completed task from yesterday and had no way of reinstating it. You can only have a limited number of tasks without paying. The to do list function is pretty similar to Wunderlist but with stats on how often you stick to your habits, which I don\u2019t really care about enough to pay for. Every other click on the app leads to a pop up to in app purchases which is really annoying. I\u2019d rather sit through a 30 second ad twice a day than pay for this or continue to use it and deal with the constant pop ups. Maybe I\u2019d pay a onetime nominal fee to use this but not a monthly charge.",
+   "rating": 2,
+   "helpfulness_vote_information": "4 out of 4 customers found this review helpful",
+   "review_date": "Sep 14, 2019",
+   "reviewed_version": "Version 1.41",
+   "author": {
+    "name": "hja91",
+    "author_id": "280990180"
+   }
+  },
+  {
+   "position": 22,
+   "id": "9120827269",
+   "title": "It\u2019s fine. Too easy to ignore it. Should be more annoying.",
+   "text": "I am a full time college student with ADHD and narcolepsy, so needless to say it is very difficult for me to remember to do literally anything even with the truckload of medications I have to take. I was curious about this app because it seems to have good reviews. Don\u2019t get me wrong, I do like this app quite a bit: especially the built in pomodoro timer which is very useful for homework. However it is too easy for me to forget about this app because it doesn\u2019t remind me to use it often enough. I have found myself ignoring the app for several days before remembering to use it again. I wish there were an option to make it send you lots of notifications over and over until a certain task is completed. I need more than just one reminder notification which I can easily swipe away and then continue procrastinating. For example, I always forget to brush my teeth so I wish there was a more forceful and annoying reminder/productivity app that could make my phone send me hundreds of notifications over and over every morning until I do it. I think for a person with a normal level of executive functioning this app is fine as it is, after all most people wouldn\u2019t need their phone to vibrate and make noises incessantly until they remember to brush their teeth every morning. But I really wish it had the option to send nonstop reminders until a task is completed, for those of us who are very sleepy and forgetful and need an extra push to be able to build a consistent daily routine.",
+   "rating": 4,
+   "review_date": "Sep 25, 2022",
+   "reviewed_version": "Version 3.7.1",
+   "author": {
+    "name": "snartbaby",
+    "author_id": "1258497504"
+   }
+  },
+  {
+   "position": 23,
+   "id": "1820626118",
+   "title": "Nice app but lacking some important features.",
+   "text": "I\u2019m a premium user of this app, and overall it\u2019s nice looking and moderately functional. My biggest complaint is that it\u2019s almost useless for data tracking. I meditate pretty much every day, but I consider doing it at least five days a week a success. So I went ahead and set the goal for five days a week. I meditated five days in a row, and suddenly I\u2019ve lost the option to track it anymore for that week. Say I meditate every day for a week, I can\u2019t track that under the five days setting. Meaning if I want to go back in time to see what days I usually miss, notice any patterns in the data\u2014I\u2019m out of luck. If I set it to the every day setting, and I miss a day, I lose my streak in the habit. Either I set it to five days, and I can\u2019t keep accurate data records, or I set it to a week and I lose the motivation of maintaining a streak. It\u2019s a really big flaw in the app and it would be nice to have it fixed. At least an option to allow a user to go over the set number of days would be nice, even if it wasn\u2019t the default setting.",
+   "rating": 3,
+   "helpfulness_vote_information": "15 out of 19 customers found this review helpful",
+   "review_date": "Oct 01, 2017",
+   "reviewed_version": "Version 1.6",
+   "author": {
+    "name": "-Gatherer",
+    "author_id": "629138910"
+   }
+  },
+  {
+   "position": 24,
+   "id": "3225674229",
+   "title": "Scheduling Habit",
+   "text": "Organizational aids and visual tools are imperative to progress for my day. **I have already bought the Premium option. But, if there was anything that make the all-amazing app the ALL-IN-ONE for me it would be to be able to drag and drop tasks onto a daily schedule (dare I say like Time Finder app). It allows you to set up a full schedule, see at a glance where you are on a time line with your tasks- copy and repeat days to minimize fuss.... AND linking that to one\u2019s calendar, including that content with all of your appointments?? That would be the biggest stress reliever for me EVER! Moving times that the task was completed, even just for that day, and being able to look back at the pattern of when certain tasks were better able to be executed than other times of the day. It would serve as a visual aid in my time management, instead of sort of feeling like I\u2019m living aimlessly from one random chime to the next. Please consider. :)",
+   "rating": 5,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Sep 24, 2018",
+   "reviewed_version": "Version 1.11",
+   "author": {
+    "name": "BerryFair",
+    "author_id": "19951420"
+   }
+  },
+  {
+   "position": 25,
+   "id": "6914338864",
+   "title": "Great app w/room for improvement",
+   "text": "I\u2019ve had this app for years and have used it on and off, it helps me get on track and I recommend it. I really like the app for keeping track of all the daily things I want to get done, and especially things I\u2019d like to do only once a week or month, like calling my grandmother and taking the time to plan my month out at the beginning of each month. I can check them off and then won\u2019t be reminded again until the next week or month. It\u2019s easy enough to use. I just have one rather large problem with it. It can be really discouraging the way it only gives you credit for \u201cperfect days.\u201d I just started the habit of drinking 8 glasses of water each day, I\u2019ve achieved 5 glasses, 7 glasses etc, but in my stats, it\u2019s like I drank no water at all. It\u2019s really dissatisfying. A big motivation for me is feeling accomplished when I can see what I\u2019ve done. This app would be perfect if it notified me \u201cyou\u2019ve completed 50% of your morning habits today! Keep it up!\u201d Or if I could see I\u2019ve almost reached my 8 full glasses of water almost every day this week. With how I use the app, it\u2019s almost impossible to achieve a perfect day, but it\u2019d be nice to see that I keep up with over 70% of my daily habits each week. Or I do 100% of my nighttime habits. That\u2019s something I would change, along with how sensitive the buttons are, I\u2019m always accidentally swiping habits left or right when I\u2019m just scrolling through them. It\u2019s annoying.",
+   "rating": 4,
+   "helpfulness_vote_information": "0 out of 1 customers found this review helpful",
+   "review_date": "Jan 26, 2021",
+   "reviewed_version": "Version 2.19.0",
+   "author": {
+    "name": "ImNotHereToArgueBut",
+    "author_id": "496276637"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=983826477&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=983826477&sort=mosthelpful"
+ }
+}

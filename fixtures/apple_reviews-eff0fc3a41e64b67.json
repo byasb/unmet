@@ -1,0 +1,372 @@
+{
+ "search_metadata": {
+  "id": "6a96c9d257c44bdc5f906b3e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Xnek4a1kZa3OFvd0EbSG7hepTCFiRuuI0PpSJLl75uk/6a96c9d257c44bdc5f906b3e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Xnek4a1kZa3OFvd0EbSG7hepTCFiRuuI0PpSJLl75uk/6a96c9d257c44bdc5f906b3e.md",
+  "created_at": "2026-09-01 12:49:22 UTC",
+  "processed_at": "2026-09-01 12:49:22 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1547137474&sortOrdering=1&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/Xnek4a1kZa3OFvd0EbSG7hepTCFiRuuI0PpSJLl75uk/6a96c9d257c44bdc5f906b3e.html",
+  "prettify_html_file": "https://serpapi.com/searches/Xnek4a1kZa3OFvd0EbSG7hepTCFiRuuI0PpSJLl75uk/6a96c9d257c44bdc5f906b3e.prettify",
+  "total_time_taken": 0.36
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1547137474",
+  "country": "us",
+  "sort": "mosthelpful",
+  "page": "1"
+ },
+ "search_information": {
+  "total_page_count": 8,
+  "reviews_for_currrent_version": 6,
+  "reviews_for_current_version": 6,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "9427359864",
+   "title": "Love it!",
+   "text": "I just downloaded this app, and love it so far! I enjoy the simplicity of it and that it\u2019s not trying to be 1000 things at once. The UI is intuitive and pleasant to look at and I only have a few suggestions on how it could be better. The habits tracker: I love how easy it is to add new habits and give them a minimum unit. However, I wish there was an option to see your count for habits that you plan to do twice or multiple times a day. For example, if I want to meditate twice a day as my goal, I can only mark the goal as done when I\u2019ve done both rather than when I\u2019ve done the first one. I\u2019m asking for this feature because if I check it off as I go along my day, I\u2019m more likely to stick with the routine. Whereas if I do something in the morning but have to wait until that night to mark it, I\u2019m more likely to forget about it. The focus timer: I wish we could do custom times. I love the design of it and that it counts the total time and has cycles, but everyone pomodoros differently. Using the meditation example again, if I only want to do 10 minutes I either have to do 5 or 15. While it\u2019s workable, it\u2019s not ideal and I end up getting off the app and using something else This is all I can think of for now but I am loving it so far!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 4 customers found this review helpful",
+   "review_date": "Dec 23, 2022",
+   "reviewed_version": "Version 1.1.3",
+   "author": {
+    "name": "amourcharlie",
+    "author_id": "131093357"
+   }
+  },
+  {
+   "position": 2,
+   "id": "10400204219",
+   "title": "Free and Simple",
+   "text": "In short: it does what I want and helps me feel good about achieving those small or big habits in a simple way so I don\u2019t get full of myself. In long: I feel like it\u2019s up to date with functionality. It has a little feature of its own which has helped me stay on track with my goals even on the hard days and I can organize them how I want. I can also select if I want to track my \u201cstreak\u201d or simply \u201cnumber count\u201d of how many times I\u2019ve done it, for example there are some habits where I only need/want to do them 3 times a week, so the number count helps. Adding the quick overview of the week, I can see how I\u2019m doing on those goals/habits. Overall a simple and easy and functional app that doesn\u2019t give you too much-it gives the right amount on the right focus",
+   "rating": 5,
+   "review_date": "Sep 23, 2023",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "mandbakebla",
+    "author_id": "1323033093"
+   }
+  },
+  {
+   "position": 3,
+   "id": "10640982313",
+   "title": "Pretty useful app and it\u2019s free!",
+   "text": "I loved how simple this app is and it\u2019s pretty useful at the same time Actually I\u2019ve been struggling a lot recently cause I have adhd and things sometimes get super hard for me in case of managing my time and try to be productive In my country I can\u2019t use credit cards and almost every habit tracker on the App Store requires a premium account after a while but this app is completely free and I\u2019m so thankful for the services this app give me I wanted to help them translate their app to my mother tongue but it didn\u2019t work well through the settings so my only advice for designers is that they solve this problem so that their customer can help them with translating. One of my friends invited me using this app and it was a bless for me",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Nov 30, 2023",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "amirhosein_omran",
+    "author_id": "721124637"
+   }
+  },
+  {
+   "position": 4,
+   "id": "11507981724",
+   "title": "Not bad",
+   "text": "This app lets you to track as many habits as you want with no subscription and no ads, which is great. It\u2019s easy to use, aesthetically pleasing, and does what it\u2019s meant to do. I wish I could make certain goals only visible on certain days, or if they have not been met. Looking at the entire list every time is a bit overwhelming. I also wish the goal you set for yourself was visible from the main list, without having to click on the task to compare your target number of days to your actual progress. Or, better yet, if the colored rectangle served as a progress bar so you could see at a glance which goals you were closer/further from meeting. I found some decent workarounds though, using color-coding and the \u201cdefine a smallest unit\u201d field to make it better meet my needs. Would give 4.5 stars if I could.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jul 18, 2024",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "dragonkitty69",
+    "author_id": "168844989"
+   }
+  },
+  {
+   "position": 5,
+   "id": "11128180507",
+   "title": "Simple, easy, effective",
+   "text": "I love this app, it has helped me to keep up with my vitamins and activity in a very simple way. I don\u2019t like more complicated methods\u2014you end up focusing on recording what you\u2019re doing, instead of just doing it!! This is perfect for my needs. In an absolute dream world, you\u2019d be able to change the units of time, so that instead of all habits being checked off once per day, you could check instead make a habit five times times per day. You can set it this way, but the graphics and streak calculator don\u2019t really reflect it in a straightforward manner. Even without this feature, this is still the best app out there for what it does. Much thanks to the developer!",
+   "rating": 5,
+   "review_date": "Apr 06, 2024",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "bongobinga",
+    "author_id": "176735531"
+   }
+  },
+  {
+   "position": 6,
+   "id": "13724827992",
+   "title": "Soooo great!",
+   "text": "This app is so great! I love how simple, easy to use, and nice looking it is! The one thing I would suggest is to look at the UI of the app \"Atoms.\" and read Atomic Habits by james clear and try to implement some of the tips from that book in the app, like habit stacking. Also regarding \"Atoms.\" I think your UI could really really benefit from a satisfying animation when you click off a habit like in Atoms so its satisfying when you complete a habit. Also, I think it would be more helpful to see each habit in a list per-DAY instead of per-WEEK, and rhen have a weekly view of habits and if youve completed/failed throughout the week, instead of having that on the main habit checklist menu. That way #1 its easier to make it satisfying to complete the habit cause it can take up the whole card/screen, and #2 it makes it nicer for users cause you can see just that day instead of worrying about the whole week! Okay thanks love it guys!!! keep it up!!! ALSO I LOVE THAT THIS APP IS FREE!! WOO!! ================= ALSO: you should open source this!!! I'd love to be a contributor to such a great project!! =================",
+   "rating": 5,
+   "review_date": "Feb 07, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "henryhell0",
+    "author_id": "989840714"
+   }
+  },
+  {
+   "position": 7,
+   "id": "12755488193",
+   "title": "Improve?",
+   "text": "This is such a good app! I have loved it so much! It is amazing! I love it so much! I think something that would make it slightly easier is if you could group them. So for example I have a few things on there that I want to make sure I do every week but I love marking it and making a note of it through the notes. And it helps me to personally see it. So sometimes I have some things that I mark that I take care of myself, and other ones that I want to do weekly on different days, and just like general things. So it would help if i could group it and have them all there and kinda decompress it if that makes sense.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jun 09, 2025",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Skibnade panda",
+    "author_id": "1581469379"
+   }
+  },
+  {
+   "position": 8,
+   "id": "9294072290",
+   "title": "Better than the habit app",
+   "text": "This app is way better than the habit app and it\u2019s actually free! I don\u2019t mind freemium apps but it can be annoying when they are pushing you to sign up all the time! But this app completely avoids that! The only flaw is that you have to set a reminder for a habit. Though that can be fixed by turning off notifications for the app or muting the habit. It also comes with a pomodoro timer, which I don\u2019t use, but is nice. Honestly the nicest version of the timer I have seen. This is a wonderful app and would recommend if you want something simple to track how well you are doing what you should!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Nov 16, 2022",
+   "reviewed_version": "Version 1.1.2",
+   "author": {
+    "name": "B-u-n-n-i-e",
+    "author_id": "300680606"
+   }
+  },
+  {
+   "position": 9,
+   "id": "10288751850",
+   "title": "Best app",
+   "text": "Onrise is super good at helping you stay on track. I love that its so well crafted AND for free. Im literally an unemployed highschool student and this app is really helping me to stay on track with the trillion different things i have to juggle between sports, highschool, and college. It even has like a journal for people that want to journal but sometimes i just want to type it out instead of spending a whole thirty minutes writing it by hand. Also theres like a million different ways you can modify the habits you create so it works best for you. There is also a pomodoro timer to help you stay on task so thats also super cool. Well done guys",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Aug 23, 2023",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Katsuk1",
+    "author_id": "1036380955"
+   }
+  },
+  {
+   "position": 10,
+   "id": "12105341526",
+   "title": "The Best Free Tracker.",
+   "text": "I\u2019ve been trying to find a habit tracker to record my habits, and every single app that will pop up will charge you to have more than 1 habit. They\u2019re all the same. As I was just about to give up, I gave onrise a try, and im loving it. It has literally nothing you could spend your money on, and it records as many habits as you want, for free. It\u2019s super simple to use yet effective at what it does. Although I can name one flaw that, it has a specific set of habits that you must choose from, it\u2019s pretty flexible, so you shouldn\u2019t have trouble. Other than that it\u2019s fabulous.",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Dec 25, 2024",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Kayden Miller",
+    "author_id": "1320249683"
+   }
+  },
+  {
+   "position": 11,
+   "id": "12766580589",
+   "title": "Perfectly simple. Exactly what I want.",
+   "text": "It\u2019s the exact level of simplicity and user friendly that makes the logging easy and simple so you don\u2019t have to struggle to also add the habit of using a habit tracking app itself. My ONLY wish is that you could have an option to build in putting small words or numbers with your daily check off of certain habits. [Example: habit is to get up by or before 8am - check it off AND note 7:45 or 7:15, etc\u2026 OR habit to remember to eat mid day - note what the food is in a word]",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Jun 12, 2025",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Esadinsky",
+    "author_id": "534561569"
+   }
+  },
+  {
+   "position": 12,
+   "id": "10184624169",
+   "title": "The perfect habit tracker",
+   "text": "I have been struggling to find a habit tracking app for a year now. As someone who struggles with making subscription payments, and honestly just commitments of any sort, this app is super minimal and free; there are no ads there are no hidden subscriptions or no in app, purchases that are needed to be made to access all of the features. You get unlimited habit tracking as well as an awesome focus and break timer. I\u2019m really sad that this app hasn\u2019t been talked about more on social media considering all of its great features.",
+   "rating": 5,
+   "review_date": "Jul 26, 2023",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Bsidjidwikwlfksiw",
+    "author_id": "478162702"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14045501473",
+   "title": "Love the colorful, simple interface. Missing a few key functionalities.",
+   "text": "I\u2019ve used a few habit tracking apps and this is my favorite interface that I\u2019ve seen. I love that it\u2019s clean, colorful and easy to read. Great work! Would love to keep using it but definitely missing a few functions that I\u2019ve seen in other apps that would be useful: - Being able to check off a habit multiple times in one day (for instance, for medicine that needs to be taken morning and night) - Being able to duplicate already created habits so as not to have to set all parameters from scratch - Being able to click through the calendar to see habit/task lists on different days - Being able to sort habits by time of day (morning vs evening for example) - Being able to set the time increment to \u201cweeks\u201d or \u201cmonths\u201d for habits. Currently, everything is by days so a weekly habit must be set to every \u201c7 days\u201d, which isn\u2019t totally intuitive.",
+   "rating": 4,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "May 09, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Rosieate",
+    "author_id": "225781212"
+   }
+  },
+  {
+   "position": 14,
+   "id": "9979231109",
+   "title": "I would happily PAY for this app!",
+   "text": "I have downloaded so many habit tracking apps. Most of them have a subscription which unlock all the features you\u2019d want to use. I HATE that. This app is FREE, has all the features straightaway and works great. It looks great, it works perfectly and I have seen progress by using it. That being said, this app is worth a fee. A one time fee to get the app. The developers crafted an efficient, useful, beautiful, no nonsense app and should be paid for their work. This app is a hidden gem.",
+   "rating": 5,
+   "review_date": "May 30, 2023",
+   "reviewed_version": "Version 1.1.5",
+   "author": {
+    "name": "rar66",
+    "author_id": "30379248"
+   }
+  },
+  {
+   "position": 15,
+   "id": "10832112045",
+   "title": "Great App",
+   "text": "So far i have found no problems! The reason i put 4 stars is because i think they could add some features. 1. I think there should be a feature where you can share your habits and journal with people. in my case i am working with a group of friends to have a better life style but there is no way to share everyone's habits among all of us. 2. I don't know if this is in their control but making a lock screen widget would be amazing so i can just open my phone and see my habit. Other than both of those additions this app is 5/5 stars",
+   "rating": 4,
+   "review_date": "Jan 17, 2024",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Carter L 09",
+    "author_id": "1446245629"
+   }
+  },
+  {
+   "position": 16,
+   "id": "12499700289",
+   "title": "Simple, Elegant, Does Not Distract",
+   "text": "This app is perfect for anyone who needs a habit tracker and uses the pomodoro focus technique. The interface is simple and intuitive; it presents no distractions and will let you focus on your work entirely. There are also no distracting adds for which I am thankful. The one thing I would suggest as an improvement is to have a live activity that shows the remaining time on the pomodoro timer on the iPhone lockscreen, but I am not sure if that goes against the principles behind the pomodoro technique.",
+   "rating": 5,
+   "review_date": "Apr 03, 2025",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "__Siru__",
+    "author_id": "1416719458"
+   }
+  },
+  {
+   "position": 17,
+   "id": "12109374876",
+   "title": "Good App!",
+   "text": "After looking at multiple apps, I finally found what I was looking for. Onrise is the perfect habit tracker. It has a minimalistic design with multiple helpful features such as the journal and reminders. It\u2019s helped me stayed on track on multiple occasions but there is one suggestion I could make about this app. It\u2019s slightly confusing to keep track and make a time for a new activity when you have multiple habits. It would be nice if this app had a calendar.",
+   "rating": 5,
+   "helpfulness_vote_information": "2 out of 3 customers found this review helpful",
+   "review_date": "Dec 26, 2024",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Isabelle061",
+    "author_id": "1132607153"
+   }
+  },
+  {
+   "position": 18,
+   "id": "11746712561",
+   "title": "Clean, Beautiful App",
+   "text": "This app does exactly what it says it does but with an elegance. The UI is truly clean and the UX and very pleasing. It\u2019s purely free, no paywall, no ads and makes tracking habits very easy. While I love it, I am searching for an habit tracking app with a more intuitive widget experience. While the widget this app offers is clean you can only track one habit from it. If the dev can provide a more up front view of all of your habits on the widget, this would be my daily used app!",
+   "rating": 5,
+   "helpfulness_vote_information": "1 out of 1 customers found this review helpful",
+   "review_date": "Sep 21, 2024",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "FrolickingSloth",
+    "author_id": "160091157"
+   }
+  },
+  {
+   "position": 19,
+   "id": "12138019597",
+   "title": "This is a first",
+   "text": "I have never written a review before this one and I just wanted to say how awesome this app is. I have probably downloaded more than 10 habit tracking apps and every single one of them would be pushing some subscription down my throat. However, this one is completely free, satisfying, and so incredibly helpful. I would recommend this to anyone looking for a habit tracker or just wanting to improve their life all together!",
+   "rating": 5,
+   "helpfulness_vote_information": "4 out of 4 customers found this review helpful",
+   "review_date": "Jan 03, 2025",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "Kollin Ashcraft",
+    "author_id": "583173369"
+   }
+  },
+  {
+   "position": 20,
+   "id": "10730989325",
+   "title": "I love this app, I wish it worked on Apple Watch and standby mode!",
+   "text": "This app is so simple and sleek, 100% my vibe, but I can only use it efficiently while it\u2019s open. I would love to see my timers for focus and breaks on the Lock Screen or my watch and a few more customization options. Overall, this app has been a game changer for me because it makes tracking habits very simple, but the way the app looks takes all distractions away while using it.",
+   "rating": 5,
+   "review_date": "Dec 22, 2023",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "RaxxAllHype",
+    "author_id": "287513971"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14004377053",
+   "title": "I love this app",
+   "text": "This app is amazing and I want to thank the developers for making such a great app for people to use honestly using it for free just makes me a lot better about myself and helps me really focus on the things I wanna get done rather than paying for a subscription. One suggestion, I would really want the developers to make and do is to make it widget, live activity and synchronize with shortcuts so I could use it in multiple ways",
+   "rating": 5,
+   "review_date": "Apr 28, 2026",
+   "reviewed_version": "Version 1.1.7",
+   "author": {
+    "name": "Txha1",
+    "author_id": "1422858822"
+   }
+  },
+  {
+   "position": 22,
+   "id": "10014693184",
+   "title": "get it",
+   "text": "I love this app, the design, the added features etc. if you\u2019re looking for a habit tracker, get this one. I\u2019ve tried many and all the others lack simplicity (in the best way) that this one has, something which is essential for building habits. My only request is to be able to go back to past days to check off the habit bc I sometimes finish my days past midnight and can\u2019t track for those days thus ruining my streak/consistency",
+   "rating": 5,
+   "review_date": "Jun 09, 2023",
+   "reviewed_version": "Version 1.1.5",
+   "author": {
+    "name": "softestflame",
+    "author_id": "358661619"
+   }
+  },
+  {
+   "position": 23,
+   "id": "11552052382",
+   "title": "Doesn\u2019t \u201ctrack\u201d habits, just checks them off.",
+   "text": "I\u2019ve tested multiple habit tracking apps at this point and after a few weeks with this one, it\u2019s no better than the rest. There\u2019s always something lacking. This has a very simple and clean interface and a lot of potential but you can\u2019t see anything besides the current day, so if you finished your habits late the day prior you can\u2019t mark them off the next day and there\u2019s no ability to actually see any of your past activities and reflect on progress.",
+   "rating": 3,
+   "helpfulness_vote_information": "2 out of 2 customers found this review helpful",
+   "review_date": "Jul 30, 2024",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "S.H. htc18",
+    "author_id": "30190616"
+   }
+  },
+  {
+   "position": 24,
+   "id": "13651287093",
+   "title": "Make your Resolutions as daily habits with this App",
+   "text": "As a part of my New Year Resolution, I was looking for a nice and easy way to record and monitor my progress of consistency . And I came across this App. Its simple, easy to use and fantastic. Its daily use gives me lots of motivation to continue and reach my goals of creating habits. I want to suggest one thing to Developers if it can be added in the App. For example, I want to do 10 minutes exercise everyday, the App allows me to check mark when I do that. But I want to alsi record if I have crossed the minimum goal- so as ler that if I did 30 minutes exercise that day, I want App to record 3 sessions. That will help me navigate my real progress and consistency over and above minimum goal. Please look into this and do needful. Chetan Stay blessed",
+   "rating": 5,
+   "review_date": "Jan 19, 2026",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "c-the-traveler",
+    "author_id": "632732672"
+   }
+  },
+  {
+   "position": 25,
+   "id": "10320051165",
+   "title": "Love it :)",
+   "text": "I genuinely love this app so much. All of the features are free, i dont have to pay a single dime for this app. It is easy to use and the interface is great. I do have a suggestion however. My suggestion is to make it so you can customize the pomodoro timer better, instead of only having 5,15,25, and 60 minute timers, you can customize them completely by typing in how many minutes you want to work for. That's all :3 Sincerely, Maddy <3",
+   "rating": 5,
+   "review_date": "Aug 31, 2023",
+   "reviewed_version": "Version 1.1.6",
+   "author": {
+    "name": "xXGuineaPigGamerXx",
+    "author_id": "955177182"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1547137474&sort=mosthelpful",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1547137474&sort=mosthelpful"
+ }
+}

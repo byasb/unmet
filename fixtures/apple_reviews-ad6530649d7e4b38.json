@@ -1,0 +1,359 @@
+{
+ "search_metadata": {
+  "id": "6a96ca6480c963ad8825ea50",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/GWjyQen9FIgLLiGwxuSXU3L1iouIrCP9dGLVKMKuZ-g/6a96ca6480c963ad8825ea50.json",
+  "markdown_endpoint": "https://serpapi.com/searches/GWjyQen9FIgLLiGwxuSXU3L1iouIrCP9dGLVKMKuZ-g/6a96ca6480c963ad8825ea50.md",
+  "created_at": "2026-09-01 12:51:48 UTC",
+  "processed_at": "2026-09-01 12:51:48 UTC",
+  "apple_reviews_url": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?pageNumber=0&id=1182474649&sortOrdering=0&type=Purple+Software",
+  "raw_html_file": "https://serpapi.com/searches/GWjyQen9FIgLLiGwxuSXU3L1iouIrCP9dGLVKMKuZ-g/6a96ca6480c963ad8825ea50.html",
+  "prettify_html_file": "https://serpapi.com/searches/GWjyQen9FIgLLiGwxuSXU3L1iouIrCP9dGLVKMKuZ-g/6a96ca6480c963ad8825ea50.prettify",
+  "total_time_taken": 0.58
+ },
+ "search_parameters": {
+  "engine": "apple_reviews",
+  "product_id": "1182474649",
+  "country": "us",
+  "sort": "mostrecent",
+  "page": "1"
+ },
+ "search_information": {
+  "total_page_count": 6,
+  "reviews_for_currrent_version": 7601000,
+  "reviews_for_current_version": 7601000,
+  "reviews_results_state": "Results for exact ID number.",
+  "results_count": 25
+ },
+ "reviews": [
+  {
+   "position": 1,
+   "id": "14493048544",
+   "title": "The most important aspect is rewarding Enjoying going to the restaurant based on my point",
+   "text": "Never been so happy with a app this app is amazing and entertaining",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Paninrvn1",
+    "author_id": "566318812"
+   }
+  },
+  {
+   "position": 2,
+   "id": "14492679044",
+   "title": "Fetch",
+   "text": "I think that needs to take away some that should be at least 500 points or more because some of those people depend on this people are poor that can\u2019t afford things. Look forward to making gift cards so they could give to their families.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Pickles 1969",
+    "author_id": "1632661654"
+   }
+  },
+  {
+   "position": 3,
+   "id": "14492579351",
+   "title": "Hitc",
+   "text": "Yes",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Gavinhat",
+    "author_id": "1687392378"
+   }
+  },
+  {
+   "position": 4,
+   "id": "14492448811",
+   "title": "Fun with savings",
+   "text": "Great app.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Jcrivera6971",
+    "author_id": "397176368"
+   }
+  },
+  {
+   "position": 5,
+   "id": "14492394136",
+   "title": "You have to fight for points all the time!",
+   "text": "Fetch is so frustrating!! They make offers & then you have to fight to get the points you submit.",
+   "rating": 3,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "TiffTiff808",
+    "author_id": "33656908"
+   }
+  },
+  {
+   "position": 6,
+   "id": "14492299693",
+   "title": "Fetch is the best!",
+   "text": "Amazing products, discounts and savings! I love my fetch app.",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Jlb2204c",
+    "author_id": "355434236"
+   }
+  },
+  {
+   "position": 7,
+   "id": "14492290502",
+   "title": "Me encanta",
+   "text": "Verfadero",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Me fasona",
+    "author_id": "1786892560"
+   }
+  },
+  {
+   "position": 8,
+   "id": "14492187789",
+   "title": "Get and Fetch",
+   "text": "Get your receipt, enter into fetch, and get a reward card after racking up those points. Too easy!",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "xxlorilynnxx",
+    "author_id": "41618466"
+   }
+  },
+  {
+   "position": 9,
+   "id": "14492180138",
+   "title": "IT THE BEST GAME",
+   "text": "Love this",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "TOUARETHEBBEATSO",
+    "author_id": "1950195788"
+   }
+  },
+  {
+   "position": 10,
+   "id": "14492119804",
+   "title": "Love fetching",
+   "text": "Gives me good gift cards lol",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Maurice cain",
+    "author_id": "160456103"
+   }
+  },
+  {
+   "position": 11,
+   "id": "14492054789",
+   "title": "So fetch",
+   "text": "Making fetch a thing",
+   "rating": 5,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "CaseyJo",
+    "author_id": "1475207480"
+   }
+  },
+  {
+   "position": 12,
+   "id": "14491903238",
+   "title": "I like it",
+   "text": "Could be better because I had enough points for a $50 gift card and then Fetch said that some of my points didn\u2019t count so not only did I net get the gift card, they also took my points. Points should be confirmed with every receipt submission instead of telling the customer that there\u2019s not enough points at the end. Also it takes almost 1 year to earn a $50 Amazon gift card",
+   "rating": 3,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "FUN7173",
+    "author_id": "1553292910"
+   }
+  },
+  {
+   "position": 13,
+   "id": "14491885384",
+   "title": "Needs improvement",
+   "text": "It takes a long time to get a &50 gift card. More stores need to be added. I order hundreds from Nordstrom online & fetch can\u2019t recognize it in my email. Should offer discount when shopping @ a store through the app too.",
+   "rating": 3,
+   "review_date": "Aug 31, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Ckteachlessons24",
+    "author_id": "38634633"
+   }
+  },
+  {
+   "position": 14,
+   "id": "14491837797",
+   "title": "Good",
+   "text": "\ud83d\udc4d",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "3046?",
+    "author_id": "747555122"
+   }
+  },
+  {
+   "position": 15,
+   "id": "14491795709",
+   "title": "Awesome!!!!!",
+   "text": "Love!! Amazing app!!",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Zebles",
+    "author_id": "1059222904"
+   }
+  },
+  {
+   "position": 16,
+   "id": "14491785119",
+   "title": "Poor service",
+   "text": "Have been cheated out points time and time again. I even take screenshots of the conversation with the bot and it just lies again blaming the retailer. I\u2019ve listed points even when the pending dates have past. Really need a human being instead of a machine that lies. Gives the company a bad reputation",
+   "rating": 1,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Past Research",
+    "author_id": "1747541237"
+   }
+  },
+  {
+   "position": 17,
+   "id": "14491779715",
+   "title": "Best game",
+   "text": "This is the best the fact that we get gift cards off bye playing games",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Goober1#2",
+    "author_id": "1482409721"
+   }
+  },
+  {
+   "position": 18,
+   "id": "14491754303",
+   "title": "Best receipt app ever",
+   "text": "Fetch is the best app for money back on your receipts don\u2019t pass this opportunity to get your money back on what you buy anyway 100% recommended",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "stpaper2259",
+    "author_id": "583490689"
+   }
+  },
+  {
+   "position": 19,
+   "id": "14491741168",
+   "title": "Convenient and good",
+   "text": "As the title says, this is very easy way to make a couple extra bucks to help out with purchases. Fantastic.",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Neal PRENCE",
+    "author_id": "172354888"
+   }
+  },
+  {
+   "position": 20,
+   "id": "14491696252",
+   "title": "Rewards",
+   "text": "it is good, I really like it",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Kakakasjsj",
+    "author_id": "1963214535"
+   }
+  },
+  {
+   "position": 21,
+   "id": "14491675437",
+   "title": "Fetch is great",
+   "text": "I love using Fetch it helps with gift cards",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "Paula m c 14",
+    "author_id": "1508605964"
+   }
+  },
+  {
+   "position": 22,
+   "id": "14491672412",
+   "title": "Newbie",
+   "text": "So far, so good. Easy to use and racks up points",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "akf#1",
+    "author_id": "1155056456"
+   }
+  },
+  {
+   "position": 23,
+   "id": "14491666520",
+   "title": "love",
+   "text": "i love this app",
+   "rating": 5,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "ryaao",
+    "author_id": "1736335483"
+   }
+  },
+  {
+   "position": 24,
+   "id": "14491639780",
+   "title": "Missing points",
+   "text": "So I\u2019ve been playing this app for like a month now and I haven\u2019t had struggles at all, it\u2019s been great but during their last 2x promotion on the games I was playing board adventures and I got rewarded but on the complete village 45 I did completed that and it didn\u2019t award me I was supposed to get 1988 points and I never did and now the promotion over and still haven\u2019t gotten my points and I don\u2019t know what to do about it",
+   "rating": 4,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "cobra6564",
+    "author_id": "1236418267"
+   }
+  },
+  {
+   "position": 25,
+   "id": "14491636347",
+   "title": "Awesome",
+   "text": "Does pay out",
+   "rating": 1,
+   "review_date": "Aug 30, 2026",
+   "reviewed_version": "Version 4.58.0",
+   "author": {
+    "name": "381 much love",
+    "author_id": "1628427866"
+   }
+  }
+ ],
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=1&product_id=1182474649&sort=mostrecent",
+  "next": "https://serpapi.com/search.json?country=us&engine=apple_reviews&page=2&product_id=1182474649&sort=mostrecent"
+ }
+}
