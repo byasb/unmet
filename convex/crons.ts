@@ -53,4 +53,6 @@ crons.weekly(
 
 crons.daily("serp cache purge", { hourUTC: 4, minuteUTC: 0 }, internal.crons.purgeExpiredCache);
 
+crons.interval("serp account counters", { hours: 1 }, internal.serp.refreshAccount, {});
+
 export default crons;

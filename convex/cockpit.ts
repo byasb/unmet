@@ -250,7 +250,12 @@ export const quota = query({
     // ponytail: full scan over `calls` -- fine at hackathon scale (a few
     // hundred rows across all runs). Add a by_live_at index if that changes.
     const allCalls = await ctx.db.query("calls").collect();
-    const used = allCalls.filter((c) => c.live && c.at >= startOfMonth).length;
+    const usedHere = allCalls.filter((c) => c.live && c.at >= startOfMonth).length;
+    // SerpApi's own counters when we have them (polled hourly), else this
+    // app's live-call count as a floor.
+    const account = await ctx.db.query("serp_account").first();
+    const used = account ? Math.max(account.thisMonthUsage, usedHere) : usedHere;
+    const limit = account?.searchesPerMonth || 250;
 
     const usageRow = await ctx.db
       .query("usage")
@@ -259,7 +264,9 @@ export const quota = query({
 
     return {
       used,
-      limit: 250,
+      limit,
+      usedHere,
+      accountFetchedAt: account?.fetchedAt ?? null,
       role,
       liveToday: usageRow?.liveSearches ?? 0,
       capToday: LIVE_CAPS[role],

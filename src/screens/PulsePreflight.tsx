@@ -3,6 +3,7 @@ import { useState } from "react";
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
 import { useBusinesses, useRunPulse } from "../data/api";
+import { Processing } from "../components/Processing";
 import type { Id } from "../../convex/_generated/dataModel";
 
 // design-unmet/StartLocal.dc.html
@@ -44,6 +45,7 @@ export function PulsePreflight() {
 
   return (
     <div className="root">
+      {busy && <Processing kind="pulse" title="Reading this week's reviews for the places like yours" />}
       <Topbar activeSeg="pulse" back={{ label: "paths", to: "/" }} />
 
       <div className="stage" style={{ alignItems: "center", padding: "48px 120px 18px", gap: 24 }}>
@@ -77,6 +79,7 @@ export function PulsePreflight() {
           <span className="lab">Or start a new business</span>
           <div className="cmdbig">
             <input
+              disabled={busy}
               value={name}
               onChange={(e) => setName(e.target.value)}
               placeholder="business name"
@@ -85,6 +88,7 @@ export function PulsePreflight() {
           </div>
           <div className="cmdbig">
             <input
+              disabled={busy}
               value={category}
               onChange={(e) => setCategory(e.target.value)}
               placeholder="category, e.g. barbecue"
@@ -93,6 +97,7 @@ export function PulsePreflight() {
           </div>
           <div className="cmdbig">
             <input
+              disabled={busy}
               value={location}
               onChange={(e) => setLocation(e.target.value)}
               placeholder="location, e.g. Austin, TX"

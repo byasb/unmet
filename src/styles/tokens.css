@@ -1979,3 +1979,67 @@ a:hover {
     display: none;
   }
 }
+
+/* ---- processing overlay ---- */
+.proc {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  display: grid;
+  place-items: center;
+  background: rgba(8, 10, 13, 0.82);
+  backdrop-filter: blur(4px);
+  animation: proc-in 200ms ease-out;
+}
+.proc-card {
+  width: min(560px, calc(100vw - 48px));
+  background: var(--panel);
+  border: 1px solid var(--line);
+  padding: 22px 26px 20px;
+  display: grid;
+  gap: 14px;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6);
+}
+.proc-eyebrow {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.12em;
+  color: var(--dim);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.proc-secs { margin-left: auto; color: var(--ink); font-variant-numeric: tabular-nums; }
+.proc-dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: var(--orange);
+  box-shadow: 0 0 0 0 var(--orange-soft);
+  animation: proc-pulse 1.4s ease-out infinite;
+}
+.proc-title { font-size: 20px; font-weight: 600; letter-spacing: -0.01em; color: var(--ink); text-wrap: balance; }
+.proc-scan { position: relative; height: 3px; background: var(--line); overflow: hidden; }
+.proc-scan span {
+  position: absolute; top: 0; bottom: 0; width: 34%;
+  background: linear-gradient(90deg, transparent, var(--green), transparent);
+  animation: proc-scan 1.6s ease-in-out infinite;
+}
+.proc-line {
+  font-family: var(--mono);
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--ink);
+  min-height: 2.9em;
+  animation: proc-line 400ms ease-out;
+}
+.proc-pips { display: flex; gap: 4px; }
+.proc-pips i { flex: 1; height: 3px; background: var(--line); transition: background 300ms; }
+.proc-pips i.done { background: var(--green-soft); }
+.proc-pips i.on { background: var(--orange); }
+@keyframes proc-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes proc-scan { 0% { left: -34%; } 100% { left: 100%; } }
+@keyframes proc-line { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@keyframes proc-pulse { 0% { box-shadow: 0 0 0 0 var(--orange-soft); } 100% { box-shadow: 0 0 0 10px transparent; } }
+@media (prefers-reduced-motion: reduce) {
+  .proc, .proc-scan span, .proc-line, .proc-dot { animation: none; }
+  .proc-scan span { left: 33%; }
+}

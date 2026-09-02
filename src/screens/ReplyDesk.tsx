@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Topbar } from "../components/Topbar";
+import { Processing } from "../components/Processing";
 import { StatusBar } from "../components/StatusBar";
 import { Pips } from "../components/Pips";
 import { SourceSquare } from "../components/SourceSquare";
@@ -55,6 +56,7 @@ export function ReplyDesk() {
 
   return (
     <div className="root">
+      {drafting && <Processing kind="replies" title="Drafting replies to your lowest-rated reviews" />}
       <Topbar
         back={{ label: "morning card", to: "/pulse/home" }}
         crumb={

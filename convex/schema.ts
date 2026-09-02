@@ -194,6 +194,16 @@ export default defineSchema({
     createdAt: v.number(),
   }).index("by_business_day", ["businessId", "day"]),
 
+  // SerpApi's own account counters (account.json), polled hourly so the quota
+  // badge is the real number, not this app's guess.
+  serp_account: defineTable({
+    searchesPerMonth: v.number(),
+    thisMonthUsage: v.number(),
+    planSearchesLeft: v.number(),
+    fetchedAt: v.number(),
+    createdAt: v.number(),
+  }),
+
   llm_cache: defineTable({
     key: v.string(),
     model: v.string(),

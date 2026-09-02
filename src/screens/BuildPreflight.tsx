@@ -3,6 +3,7 @@ import { useState } from "react";
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
 import { useRunBuild } from "../data/api";
+import { Processing } from "../components/Processing";
 
 // design-unmet/StartApp.dc.html
 export function BuildPreflight() {
@@ -27,6 +28,7 @@ export function BuildPreflight() {
 
   return (
     <div className="root">
+      {busy && <Processing kind="build" title={`Reading the apps ranking for "${term.trim()}"`} />}
       <Topbar activeSeg="build" back={{ label: "paths", to: "/" }} />
 
       <div className="stage" style={{ alignItems: "center", padding: "48px 120px 18px", gap: 24 }}>
@@ -43,6 +45,7 @@ export function BuildPreflight() {
             <input
               value={term}
               onChange={(e) => setTerm(e.target.value)}
+              disabled={busy}
               onKeyDown={(e) => e.key === "Enter" && run()}
               style={{ flexGrow: 1, background: "none", border: "none", color: "var(--ink)", font: "inherit", outline: "none" }}
             />

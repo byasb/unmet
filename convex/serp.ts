@@ -2,7 +2,7 @@
 // engine wrapper in engines.ts goes through here so a re-run of a category
 // that's already been pulled costs zero live searches.
 import { v } from "convex/values";
-import { internalMutation, internalQuery } from "./_generated/server";
+import { internalAction, internalMutation, internalQuery } from "./_generated/server";
 import type { ActionCtx } from "./_generated/server";
 import { internal } from "./_generated/api";
 import type { Id } from "./_generated/dataModel";
@@ -167,5 +167,37 @@ export const counters = internalQuery({
       .collect();
     const liveSearches = rows.filter((r) => r.live).length;
     return { liveSearches, servedFromCache: rows.length - liveSearches };
+  },
+});
+
+// -- account counters ------------------------------------------------------
+
+/** Pull the real usage numbers from SerpApi so the quota badge is honest.
+ * One call an hour (crons.ts); account.json does not count as a search. */
+export const refreshAccount = internalAction({
+  args: {},
+  handler: async (ctx) => {
+    const apiKey = process.env.SERPAPI_KEY;
+    if (!apiKey) return null;
+    const resp = await fetch(`https://serpapi.com/account.json?api_key=${apiKey}`);
+    if (!resp.ok) throw new SerpError(`account.json ${resp.status}`);
+    const a = await resp.json();
+    const row = {
+      searchesPerMonth: Number(a.searches_per_month ?? 0),
+      thisMonthUsage: Number(a.this_month_usage ?? 0),
+      planSearchesLeft: Number(a.plan_searches_left ?? 0),
+    };
+    await ctx.runMutation(internal.serp.putAccount, row);
+    return row;
+  },
+});
+
+export const putAccount = internalMutation({
+  args: { searchesPerMonth: v.number(), thisMonthUsage: v.number(), planSearchesLeft: v.number() },
+  handler: async (ctx, args) => {
+    const now = Date.now();
+    const existing = await ctx.db.query("serp_account").first();
+    if (existing) await ctx.db.patch(existing._id, { ...args, fetchedAt: now });
+    else await ctx.db.insert("serp_account", { ...args, fetchedAt: now, createdAt: now });
   },
 });

@@ -41,6 +41,7 @@ export function PulseBoard() {
     );
   }
 
+  const you = places.find((p) => p.isYou);
   const top = gaps[0]?.score ?? 1;
   const hitting = gaps.filter((g) => g.inYourReviews);
   const topAnswer = aiAnswers?.[0];
@@ -52,7 +53,7 @@ export function PulseBoard() {
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
             <path d="M9 6l6 6-6 6" />
           </svg>
-          <span style={{ flexGrow: 1 }}>{run.term} · {run.location ?? ""}</span>
+          <span style={{ flexGrow: 1 }}>{you?.name ?? "Pulse"} · {run.location ?? ""}</span>
           <span className="chip">{places.length} places</span>
           <span className="chip">this week</span>
         </div>
@@ -70,7 +71,7 @@ export function PulseBoard() {
           <div className="head">
             <div>
               <div className="lab">Gap board · Pulse</div>
-              <div className="title">{run.location ?? run.term}</div>
+              <div className="title">{you?.name ?? run.location ?? "Pulse"}</div>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 8 }}>
               <span className="chip" style={{ color: "var(--orange)", borderColor: "var(--orange-soft)" }}>
