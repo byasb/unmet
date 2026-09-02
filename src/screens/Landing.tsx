@@ -79,7 +79,7 @@ export function Landing() {
               term: "barbecue · Austin, TX",
               detail: (
                 <>
-                  7 places · 2 sorts · <b style={{ color: "var(--ink)", fontWeight: 500 }}>17 calls</b> · ~12s
+                  7 places · 3 platforms · <b style={{ color: "var(--ink)", fontWeight: 500 }}>51 calls · 0 live</b> · ~40s
                 </>
               ),
             }}

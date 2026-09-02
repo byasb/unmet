@@ -19,7 +19,7 @@ const STEPS: Step[] = [
   { test: (p) => /^\/build\/[^/]+$/.test(p), title: "Click a gap to read the users' own words.",
     body: "Score = mentions × pain × (1 + log₂ breadth). Then open Pulse.", cta: { label: "Open Pulse", to: "/pulse" } },
   { test: (p) => p === "/pulse", title: "Run the Austin barbecue set.",
-    body: "Name Stiles Switch BBQ, category barbecue, location Austin, TX. Seven places, three platforms, 556 reviews — cached, zero live calls." },
+    body: "Name Stiles Switch BBQ, category barbecue, location Austin, TX. Seven places, three platforms, 491 reviews — cached, zero live calls." },
   { test: (p) => /^\/pulse\/[^/]+$/.test(p) && !["home", "ai", "replies", "experiments"].includes(p.split("/")[2]),
     title: "The strip on top says which gaps already hit you.",
     body: "Then check the Google AI answer screen — it's the part nobody else built.", cta: { label: "AI answer", to: "/pulse/ai" } },
