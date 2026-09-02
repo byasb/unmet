@@ -14,6 +14,7 @@ import { ReplyDesk } from "./screens/ReplyDesk";
 import { Experiments } from "./screens/Experiments";
 import { Brief } from "./screens/Brief";
 import { Guide } from "./components/Guide";
+import { DemoPilot } from "./components/DemoPilot";
 
 // Route table from BUILD-PLAN.md §Screens. Unauthenticated visitors land on
 // /signin for everything except the landing page itself; AuthLoading shows a
@@ -32,6 +33,7 @@ export default function App() {
         </Routes>
       </Unauthenticated>
       <Authenticated>
+        <DemoPilot />
         <Routes>
           <Route path="/" element={<Landing />} />
           <Route path="/signin" element={<SignIn />} />

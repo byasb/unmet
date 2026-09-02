@@ -58,8 +58,13 @@ export function Guide() {
   // The Topbar's "?" button.
   useEffect(() => {
     const toggle = () => setVisible((v) => { save(!v ? "open" : "closed"); return !v; });
+    const show = () => { save("open"); setVisible(true); };
     window.addEventListener("unmet:toggle-guide", toggle);
-    return () => window.removeEventListener("unmet:toggle-guide", toggle);
+    window.addEventListener("unmet:show-guide", show);
+    return () => {
+      window.removeEventListener("unmet:toggle-guide", toggle);
+      window.removeEventListener("unmet:show-guide", show);
+    };
   }, []);
 
   if (stepIndex === -1 || !visible) return null;

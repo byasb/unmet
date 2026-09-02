@@ -73,6 +73,15 @@ export function Topbar({ activeSeg, back, crumb, liveDot, showQuota = true, chil
 
       <button
         type="button"
+        className="demo-btn"
+        aria-label="Play the demo"
+        title="Autopilot: walks every screen, runs both cached demos"
+        onClick={() => window.dispatchEvent(new Event("unmet:demo-start"))}
+      >
+        ▶ DEMO
+      </button>
+      <button
+        type="button"
         className="back"
         aria-label="Toggle guide"
         style={{ background: "none", border: "1px solid var(--hairline3)", borderRadius: "50%", width: 22, height: 22, padding: 0, cursor: "pointer", justifyContent: "center" }}
