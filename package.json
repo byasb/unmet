@@ -9,7 +9,8 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "test": "vitest run",
-    "seed": "tsx scripts/seedFixtures.ts"
+    "seed": "tsx scripts/seedFixtures.ts",
+    "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
     "@auth/core": "^0.41.3",
