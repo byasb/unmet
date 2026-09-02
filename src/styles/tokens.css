@@ -761,6 +761,13 @@ a:hover {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+  min-width: 0;
+}
+/* Between the phone layout and the design width the fixed meta columns would starve
+   the title of space; drop them and keep title + action. */
+@media (max-width: 1180px) and (min-width: 431px) {
+  .task { grid-template-columns: 22px minmax(0, 1fr) 110px; }
+  .task .m { display: none; }
 }
 .task .t span {
   font-weight: 500;
