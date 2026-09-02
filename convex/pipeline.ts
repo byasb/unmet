@@ -3,6 +3,7 @@
 // goes through the internal mutations/query below.
 import { v } from "convex/values";
 import { action, internalMutation, internalQuery } from "./_generated/server";
+import type { ActionCtx } from "./_generated/server";
 import { internal } from "./_generated/api";
 import type { Id } from "./_generated/dataModel";
 import { getAuthUserId } from "@convex-dev/auth/server";
@@ -21,10 +22,21 @@ export const runBuild = action({
   handler: async (ctx, args): Promise<Id<"runs">> => {
     const userId = await getAuthUserId(ctx);
     if (!userId) throw new Error("Not authenticated");
-    // TODO(Subagent B): enforce role/usage caps here via usage.ts before any
-    // live fetch happens -- viewer can't trigger live fetches, judge is
-    // capped at 30 live searches/day (see BUILD-PLAN Rule 3).
+    return executeBuild(ctx, userId, args);
+  },
+});
 
+type BuildArgs = { term: string; country?: string; apps?: number; pages?: number };
+
+/** Shared by the public `runBuild` action and admin.ts's CLI seeding. The
+ * per-role live-search cap is enforced inside serp.call, so nothing here
+ * needs to know the caller's role. */
+export async function executeBuild(
+  ctx: ActionCtx,
+  userId: Id<"users">,
+  args: BuildArgs,
+): Promise<Id<"runs">> {
+  {
     const country = args.country ?? "us";
     const numApps = args.apps ?? 8;
     const pages = Math.max(0, Math.min(2, args.pages ?? 2));
@@ -97,8 +109,8 @@ export const runBuild = action({
       });
       throw err;
     }
-  },
-});
+  }
+}
 
 export const createRun = internalMutation({
   args: {

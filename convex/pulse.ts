@@ -117,7 +117,13 @@ async function discoverPlaces(
   const idx = top.findIndex((p) => p.title.toLowerCase().includes(name.toLowerCase()));
   const youIdx = idx >= 0 ? idx : 0;
   const you = top[youIdx];
-  const peers = top.filter((_, i) => i !== youIdx).slice(0, peerCount);
+  // Peers = the busiest places on Google's first page: the ones whose
+  // reviews say what the category is judged on. Position alone lets a
+  // 160-review truck outrank Franklin.
+  const peers = top
+    .filter((_, i) => i !== youIdx)
+    .sort((a, b) => (b.reviews ?? 0) - (a.reviews ?? 0))
+    .slice(0, peerCount);
   return { you, peers };
 }
 
@@ -128,7 +134,7 @@ async function pullPlaceReviews(
   cityToken: string,
 ) {
   const out: Awaited<ReturnType<typeof googleMapsReviews>> = [];
-  for (const sortBy of ["newestFirst", "ratingLow"] as const) {
+  for (const sortBy of ["newestFirst", "ratingLow", "qualityScore"] as const) {
     const rows = await tryOrSkip(`google_maps_reviews ${place.title} ${sortBy}`, () =>
       googleMapsReviews(callFn, { dataId: place.dataId, place: place.title, sortBy }),
     );
@@ -156,7 +162,10 @@ async function pullPlaceReviews(
 }
 
 async function pullAiAnswers(callFn: CallFn, name: string, topPeer: string, category: string, city: string) {
-  const queries = [`is ${name} worth it`, `${name} vs ${topPeer}`, `best ${category} in ${city}`];
+  // Lower-cased: Google treats them the same and the cache key doesn't.
+  const queries = [`is ${name} worth it`, `${name} vs ${topPeer}`, `best ${category} in ${city}`].map((q) =>
+    q.toLowerCase(),
+  );
   const out: { query: string; result: AiOverviewResult }[] = [];
   for (const query of queries) {
     const result = await tryOrSkip(`ai overview "${query}"`, () => aiOverview(callFn, { q: query }));
@@ -443,7 +452,7 @@ export const runPulse = action({
 
 /** Shared by the public `runPulse` action and `runPulseScheduled` (the cron
  * entry point, which has no signed-in user to authenticate). */
-async function executePulse(
+export async function executePulse(
   ctx: ActionCtx,
   business: Doc<"businesses">,
   userId: Id<"users">,
@@ -477,19 +486,23 @@ async function executePulse(
     }
 
     const cityToken = business.location.split(",")[0]?.trim() || business.location;
+    // ponytail: v1 is US-only; Yelp's find_loc wants the country and the
+    // cached Austin set was pulled with "Austin, TX, USA".
+    const findLoc = /\bUSA$/i.test(business.location.trim()) ? business.location.trim() : `${business.location.trim()}, USA`;
     const allPlaces = [you, ...peers];
-    const reviewLists = await Promise.all(allPlaces.map((p) => pullPlaceReviews(callFn, p, business.location, cityToken)));
+    const reviewLists = await Promise.all(allPlaces.map((p) => pullPlaceReviews(callFn, p, findLoc, cityToken)));
     const rawReviews = reviewLists.flat();
 
-    // Dedupe on (placeId, hash) -- the sorts (and sources) overlap.
-    // Reuses dedupe.ts's dedupeReviews via the generic `app_id` field.
-    const deduped = dedupeReviews(rawReviews.map((r) => ({ ...r, app_id: r.placeId })));
+    // Dedupe on (place, hash) -- the sorts (and sources) overlap. Keyed by
+    // the place's display title, not the per-source id, so breadth counts
+    // places, not (place × platform) pairs -- same as the Python reference.
+    const deduped = dedupeReviews(rawReviews.map((r) => ({ ...r, app_id: r.place })));
 
     await ctx.runMutation(internal.pulse.saveReviews, {
       runId,
       reviews: deduped.map((r) => ({
         source: r.source,
-        placeId: r.placeId,
+        placeId: r.place,
         hash: r.hash,
         text: r.text,
         rating: r.rating ?? undefined,
@@ -498,16 +511,16 @@ async function executePulse(
     });
 
     const classified: (ClassifiedLocalReview & { source: string })[] = deduped.map((r) => ({
-      ...classifyLocal({ app_id: r.placeId, rating: r.rating, text: r.text }),
+      ...classifyLocal({ app_id: r.place, rating: r.rating, text: r.text }),
       source: r.source,
     }));
 
     const appsById: Record<string, { title: string }> = {};
-    for (const p of allPlaces) appsById[p.dataId] = { title: p.title };
+    for (const p of allPlaces) appsById[p.title] = { title: p.title };
 
     const categoryGaps = rankGapsLocal(classified, appsById);
     const yourGaps = rankGapsLocal(
-      classified.filter((r) => r.app_id === you.dataId),
+      classified.filter((r) => r.app_id === you.title),
       appsById,
     );
     const topCategoryThemes = new Set(categoryGaps.slice(0, 5).map((g) => g.theme));
