@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 import { Topbar } from "../components/Topbar";
+import { Provenance } from "../components/Provenance";
+
 import { StatusBar } from "../components/StatusBar";
 import { TaskRow } from "../components/TaskRow";
 import { WeekStrip } from "../components/WeekStrip";
@@ -169,6 +171,11 @@ export function PulseHome() {
                   hitting you
                 </span>
               </Link>
+            )}
+            {home.latestRun && (
+              <div style={{ marginTop: 10 }}>
+                <Provenance liveCalls={home.latestRun.liveCalls} cachedCalls={home.latestRun.cachedCalls} at={home.latestRun.startedAt} />
+              </div>
             )}
           </div>
         </div>

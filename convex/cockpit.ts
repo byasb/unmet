@@ -176,6 +176,9 @@ export const pulseHome = query({
       gapsHitting,
       gapsTotal,
       latestRunId: latest?._id ?? null,
+      latestRun: latest
+        ? { liveCalls: latest.liveCalls ?? 0, cachedCalls: latest.cachedCalls ?? 0, startedAt: latest.startedAt }
+        : null,
       aiCited,
     };
   },

@@ -1,5 +1,7 @@
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { Topbar } from "../components/Topbar";
+import { Provenance } from "../components/Provenance";
+
 import { StatusBar } from "../components/StatusBar";
 import { Gauge } from "../components/Gauge";
 import { Pips } from "../components/Pips";
@@ -74,9 +76,7 @@ export function PulseBoard() {
               <div className="title">{you?.name ?? run.location ?? "Pulse"}</div>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 8 }}>
-              <span className="chip" style={{ color: "var(--orange)", borderColor: "var(--orange-soft)" }}>
-                {run.mode}
-              </span>
+              <Provenance liveCalls={run.liveCalls} cachedCalls={run.cachedCalls} at={run.startedAt} />
               <div className="mono" style={{ fontSize: 11.5, color: "var(--mute)", textAlign: "right", lineHeight: 1.6 }}>
                 {run.reviewCount} reviews · {places.length} places · this week
               </div>
@@ -223,7 +223,7 @@ export function PulseBoard() {
         items={[
           { content: <>RUN <b>{new Date(run.startedAt).toISOString()}</b></> },
           { content: <>SOURCE <b>google_maps_reviews</b></> },
-          { content: <>MODE <b style={{ color: "var(--orange)" }}>{run.mode}</b></> },
+          { content: <Provenance compact liveCalls={run.liveCalls} cachedCalls={run.cachedCalls} /> },
           {
             content: (
               <>

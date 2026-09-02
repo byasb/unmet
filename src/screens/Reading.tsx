@@ -1,6 +1,8 @@
 import { useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import { Topbar } from "../components/Topbar";
+import { Provenance } from "../components/Provenance";
+
 import { StatusBar } from "../components/StatusBar";
 import { CallLogLine } from "../components/CallLogLine";
 import { useCalls, useRun } from "../data/api";
@@ -146,7 +148,7 @@ export function Reading() {
       <StatusBar
         items={[
           { content: <>RUN <b>{new Date(run.startedAt).toISOString()}</b></> },
-          { content: <>MODE <b style={{ color: "var(--orange)" }}>{run.mode}</b></> },
+          { content: <Provenance compact liveCalls={calls.filter((c) => c.live).length} cachedCalls={calls.filter((c) => !c.live).length} /> },
           {
             content: (
               <>

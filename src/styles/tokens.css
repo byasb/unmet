@@ -2043,3 +2043,17 @@ a:hover {
   .proc, .proc-scan span, .proc-line, .proc-dot { animation: none; }
   .proc-scan span { left: 33%; }
 }
+
+/* ---- provenance chip ---- */
+.prov {
+  display: inline-flex; align-items: center; gap: 7px;
+  font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.1em;
+  padding: 4px 9px; border: 1px solid var(--line); white-space: nowrap;
+  color: var(--ink);
+}
+.prov b { color: var(--dim); font-weight: 400; }
+.prov i { width: 6px; height: 6px; border-radius: 50%; }
+.prov.replay { border-color: var(--green-soft); color: var(--green); }
+.prov.replay i { background: var(--green); }
+.prov.live { border-color: var(--orange-soft); color: var(--orange); }
+.prov.live i { background: var(--orange); }

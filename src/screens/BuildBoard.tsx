@@ -1,5 +1,7 @@
 import { Link, useNavigate, useParams } from "react-router-dom";
 import { Topbar } from "../components/Topbar";
+import { Provenance } from "../components/Provenance";
+
 import { StatusBar } from "../components/StatusBar";
 import { Gauge } from "../components/Gauge";
 import { Pips } from "../components/Pips";
@@ -193,7 +195,7 @@ export function BuildBoard() {
         items={[
           { content: <>RUN <b>{new Date(run.startedAt).toISOString()}</b></> },
           { content: <>SOURCE <b>apple_app_store</b></> },
-          { content: <>MODE <b>{run.mode}</b></> },
+          { content: <Provenance compact liveCalls={run.liveCalls} cachedCalls={run.cachedCalls} /> },
           {
             content: (
               <>
