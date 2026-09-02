@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
 
+// design-unmet-v2/Main.dc.html
 export function Landing() {
   return (
     <div className="root">
@@ -19,15 +20,11 @@ export function Landing() {
           </p>
         </div>
 
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(2, minmax(0, 1fr))", gap: 24, flexGrow: 1, minHeight: 0 }}>
-          <PathCard
+        <div className="doors">
+          <Door
+            accent="build"
             num="PATH 01 · BUILD"
-            icon={
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <rect x="6" y="2" width="12" height="20" rx="2" />
-                <path d="M11 18h2" />
-              </svg>
-            }
+            visual={<BuildVisual />}
             title="What should you build next?"
             body="Name a category. It reads hundreds of reviews across the apps already ranking for it and shows the gaps none of them have filled — before you write a line."
             engines={[
@@ -47,20 +44,27 @@ export function Landing() {
               term: "habit tracker",
               detail: (
                 <>
-                  302 reviews · 7 apps · top gap <b style={{ color: "var(--orange)", fontWeight: 500 }}>paywalls 119.6</b> in 5 of 7
+                  302 reviews · 7 apps · top gap <b style={{ color: "var(--blue)", fontWeight: 500 }}>paywalls 119.6</b> in 5 of 7
                 </>
               ),
             }}
             cta={{ label: "START · BUILD", sub: "for people who ship apps", to: "/build" }}
           />
-          <PathCard
+
+          <div className="seam">
+            <div className="seamline" />
+            <span className="pk l" />
+            <span className="pk r" />
+            <div className="core">
+              <i />
+            </div>
+            <span className="lab">one engine</span>
+          </div>
+
+          <Door
+            accent="pulse"
             num="PATH 02 · PULSE"
-            icon={
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 0 1 16 0z" />
-                <circle cx="12" cy="10" r="3" />
-              </svg>
-            }
+            visual={<PulseVisual />}
             title="What's breaking on your street?"
             body="Name a kind of business and a place. It reads this week's reviews across the businesses like yours nearby, ranks what's going wrong, and tells you whether it's reached you yet."
             engines={[
@@ -99,9 +103,75 @@ export function Landing() {
   );
 }
 
-function PathCard(props: {
+function BuildVisual() {
+  return (
+    <>
+      <div className="phone">
+        <svg width="120" height="236" viewBox="0 0 120 236" fill="none">
+          <rect className="frame" x="1" y="1" width="118" height="234" rx="18" />
+          <path className="line a" d="M24 60h72" />
+          <path className="line b" d="M24 92h58" />
+          <path className="line c" d="M24 124h66" />
+          <rect x="46" y="212" width="28" height="4" rx="2" fill="var(--blue-soft)" />
+        </svg>
+      </div>
+      <div className="stars">★★☆☆☆</div>
+      <div className="bub one">
+        <b>2★</b>"paywall after three days"
+      </div>
+      <div className="bub two">
+        <b>1★</b>"lost a 40-day streak"
+      </div>
+      <div className="bub three">
+        <b>3★</b>"widgets, please"
+      </div>
+    </>
+  );
+}
+
+function PulseVisual() {
+  return (
+    <>
+      <div className="street">
+        <svg viewBox="0 0 600 250" preserveAspectRatio="xMidYMid slice">
+          <path className="road" d="M0 60 L600 40" />
+          <path className="road" d="M0 150 L600 130" />
+          <path className="road" d="M0 230 L600 210" />
+          <path className="road" d="M120 0 L100 250" />
+          <path className="road" d="M480 0 L460 250" />
+          <path className="road main" d="M300 0 L300 250" />
+          <path className="road" d="M0 0 L600 250" />
+        </svg>
+      </div>
+      <span className="peer" style={{ left: "22%", top: "40%", animationDelay: "2.2s" }} />
+      <span className="peer hot" style={{ left: "31%", top: "66%", animationDelay: "2.4s" }} />
+      <span className="peer" style={{ left: "70%", top: "30%", animationDelay: "2.6s" }} />
+      <span className="peer hot" style={{ left: "76%", top: "72%", animationDelay: "2.8s" }} />
+      <span className="peer" style={{ left: "58%", top: "82%", animationDelay: "3s" }} />
+      <span className="peer hot" style={{ left: "40%", top: "20%", animationDelay: "3.2s" }} />
+      <div className="orbit">
+        <span className="g">G</span>
+        <span className="y">Y</span>
+        <span className="t">T</span>
+      </div>
+      <div className="pin">
+        <span className="ring a" />
+        <span className="ring b" />
+        <span className="ring c" />
+        <i />
+      </div>
+      <div className="hq">
+        <i />
+        SERPAPI HQ · 1.0 MI
+      </div>
+    </>
+  );
+}
+
+function Door(props: {
+  accent: "build" | "pulse";
   num: string;
-  icon: React.ReactNode;
+  visual: React.ReactNode;
   title: string;
   body: string;
   engines: [string, string][];
@@ -111,40 +181,40 @@ function PathCard(props: {
   cta: { label: string; sub: string; to: string };
 }) {
   return (
-    <div style={{ border: "1px solid var(--hairline3)", background: "var(--panel)", padding: "28px 30px 26px", display: "flex", flexDirection: "column", gap: 18, position: "relative" }}>
-      <span className="mono" style={{ position: "absolute", top: 22, right: 26, fontSize: 11, letterSpacing: "0.14em", color: "var(--dim)" }}>
-        {props.num}
-      </span>
-      <div style={{ width: 44, height: 44, border: "1px solid var(--hairline3)", display: "flex", alignItems: "center", justifyContent: "center" }}>{props.icon}</div>
-      <h2 style={{ margin: 0, fontSize: 26, fontWeight: 800, letterSpacing: "-0.015em", lineHeight: 1.1 }}>{props.title}</h2>
-      <p style={{ margin: 0, fontSize: 14.5, lineHeight: 1.5, color: "#b6bec7", maxWidth: "46ch" }}>{props.body}</p>
-      <div className="mono" style={{ display: "flex", flexDirection: "column", gap: 6, fontSize: 11.5, color: "var(--mute)" }}>
-        {props.engines.map(([name, desc]) => (
-          <div key={name} style={{ display: "flex", gap: 10, alignItems: "baseline" }}>
-            <b style={{ color: "var(--ink)", fontWeight: 500, width: 214, flexShrink: 0 }}>{name}</b>
-            <span>{desc}</span>
+    <div className={`door ${props.accent}`}>
+      <span className="num">{props.num}</span>
+      <div className="vis">{props.visual}</div>
+      <div className="copy">
+        <h2>{props.title}</h2>
+        <p>{props.body}</p>
+        <div className="eng">
+          {props.engines.map(([name, desc]) => (
+            <div key={name}>
+              <b>{name}</b>
+              <span>{desc}</span>
+            </div>
+          ))}
+        </div>
+        <div className="try">
+          <span className="lab">try</span>
+          {props.tries.map((t) => (
+            <span key={t.label} className="chip">
+              <i className={t.warm ? "warm" : undefined} />
+              {t.label}
+            </span>
+          ))}
+        </div>
+        <span className="mono" style={{ fontSize: 11, color: "var(--mute2)" }}>{props.alt}</span>
+        <div style={{ border: "1px solid var(--hairline2)", padding: "12px 14px", display: "flex", flexDirection: "column", gap: 6 }}>
+          <span className="lab" style={{ color: props.last.color }}>{props.last.label}</span>
+          <div style={{ display: "flex", gap: 14, alignItems: "baseline" }}>
+            <span style={{ fontSize: 15, fontWeight: 700 }}>{props.last.term}</span>
+            <span className="mono" style={{ fontSize: 11.5, color: "var(--mute2)" }}>{props.last.detail}</span>
           </div>
-        ))}
-      </div>
-      <div style={{ display: "flex", gap: 8, flexWrap: "wrap", alignItems: "center" }}>
-        <span className="lab">Try</span>
-        {props.tries.map((t) => (
-          <span key={t.label} className="chip">
-            <i className={t.warm ? "warm" : undefined} />
-            {t.label}
-          </span>
-        ))}
-      </div>
-      <span className="mono" style={{ fontSize: 11, color: "var(--mute2)" }}>{props.alt}</span>
-      <div style={{ border: "1px solid var(--hairline2)", padding: "12px 14px", display: "flex", flexDirection: "column", gap: 6 }}>
-        <span className="lab" style={{ color: props.last.color }}>{props.last.label}</span>
-        <div style={{ display: "flex", gap: 14, alignItems: "baseline" }}>
-          <span style={{ fontSize: 15, fontWeight: 700 }}>{props.last.term}</span>
-          <span className="mono" style={{ fontSize: 11.5, color: "var(--mute2)" }}>{props.last.detail}</span>
         </div>
       </div>
-      <Link to={props.cta.to} className="btn lg" style={{ marginTop: "auto", textDecoration: "none" }}>
-        <span>{props.cta.label}</span>
+      <Link to={props.cta.to} className="enter">
+        <span>{props.cta.label} →</span>
         <span>{props.cta.sub}</span>
       </Link>
     </div>

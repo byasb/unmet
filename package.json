@@ -15,7 +15,9 @@
   "dependencies": {
     "@auth/core": "^0.41.3",
     "@convex-dev/auth": "^0.0.95",
+    "@types/leaflet": "^1.9.22",
     "convex": "^1.45.0",
+    "leaflet": "^1.9.4",
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.3"

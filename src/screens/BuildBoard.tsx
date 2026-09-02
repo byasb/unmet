@@ -20,7 +20,7 @@ export function BuildBoard() {
 
   if (run === undefined || gaps === undefined || calls === undefined || apps === undefined || demand === undefined) {
     return (
-      <div className="root">
+      <div className="root" data-path="build">
         <Topbar activeSeg="build" showQuota />
         <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
           <span className="lab">Loading gap board…</span>
@@ -30,7 +30,7 @@ export function BuildBoard() {
   }
   if (run === null || apps === null || demand === null) {
     return (
-      <div className="root">
+      <div className="root" data-path="build">
         <Topbar activeSeg="build" showQuota />
         <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
           <span className="lab">Run not found.</span>
@@ -42,7 +42,7 @@ export function BuildBoard() {
   const top = gaps[0]?.score ?? 1;
 
   return (
-    <div className="root">
+    <div className="root" data-path="build">
       <Topbar activeSeg="build" showQuota>
         <div className="cmd">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
@@ -79,12 +79,29 @@ export function BuildBoard() {
             </div>
           </div>
 
+          {demand.length > 0 && (
+            <div className="demand">
+              <span className="lab">demand</span>
+              <span>
+                <b>{run.term}</b> · {demand.length} related quer{demand.length === 1 ? "y" : "ies"} rising
+              </span>
+              <div className="bars">
+                {demand.slice(0, 8).map((d, i) => (
+                  <i key={i} style={{ height: `${Math.max(4, (d.value / 100) * 18)}px` }} />
+                ))}
+              </div>
+            </div>
+          )}
+
           <div className="rows">
             {gaps.map((g, i) => (
               <div className="row" key={g._id}>
                 <div className="rowtop">
                   <span className="rank">{String(i + 1).padStart(2, "0")}</span>
-                  <span className="name">{g.label}</span>
+                  <span className="name">
+                    {g.label}
+                    {!!g.requests && <span className="req">{g.requests} EXPLICIT REQUESTS</span>}
+                  </span>
                   {i >= 2 && (
                     <span className="inl">
                       <b>{g.mentions}</b> mentions · <b>{g.requests}</b> requests · pain <b>{g.pain}</b> · <b>{g.breadth} / {apps.length}</b> apps

@@ -27,7 +27,7 @@ export function BuildPreflight() {
   }
 
   return (
-    <div className="root">
+    <div className="root" data-path="build">
       {busy && <Processing kind="build" title={`Reading the apps ranking for "${term.trim()}"`} />}
       <Topbar activeSeg="build" back={{ label: "paths", to: "/" }} />
 

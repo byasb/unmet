@@ -123,6 +123,17 @@ export function useBusiness(businessId?: string) {
   }, [businesses, businessId]);
 }
 
+// api.cockpit.latestPulseRun -- used by PulseTabs to link the BOARD tab from
+// screens (StreetMap, AIAnswer) that don't have a runId in their own URL.
+export function useLatestPulseRun(businessId: string | undefined) {
+  return useQuery(api.cockpit.latestPulseRun, skip(!!businessId, { businessId: businessId as Id<"businesses"> }));
+}
+
+// api.cockpit.street -- the Pulse street map
+export function useStreet(businessId: string | undefined) {
+  return useQuery(api.cockpit.street, skip(!!businessId, { businessId: businessId as Id<"businesses"> }));
+}
+
 // api.cockpit.pulseHome
 export function usePulseHome(businessId: string | undefined) {
   return useQuery(api.cockpit.pulseHome, skip(!!businessId, { businessId: businessId as Id<"businesses"> }));

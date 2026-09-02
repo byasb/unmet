@@ -8,6 +8,7 @@ import { Reading } from "./screens/Reading";
 import { BuildBoard } from "./screens/BuildBoard";
 import { PulseBoard } from "./screens/PulseBoard";
 import { PulseHome } from "./screens/PulseHome";
+import { StreetMap } from "./screens/StreetMap";
 import { AIAnswer } from "./screens/AIAnswer";
 import { ActionDetail } from "./screens/ActionDetail";
 import { ReplyDesk } from "./screens/ReplyDesk";
@@ -43,6 +44,7 @@ export default function App() {
           <Route path="/build/:runId/brief" element={<Brief />} />
           <Route path="/build/:runId" element={<BuildBoard />} />
           <Route path="/pulse/home" element={<PulseHome />} />
+          <Route path="/pulse/street" element={<StreetMap />} />
           <Route path="/pulse/ai" element={<AIAnswer />} />
           <Route path="/pulse/gap/:theme" element={<ActionDetail />} />
           <Route path="/pulse/replies" element={<ReplyDesk />} />

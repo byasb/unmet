@@ -29,7 +29,7 @@ export function Reading() {
 
   if (run === undefined || calls === undefined) {
     return (
-      <div className="root">
+      <div className="root" data-path={isPulse ? undefined : "build"}>
         <Topbar liveDot activeSeg={isPulse ? "pulse" : "build"} showQuota={false} />
         <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
           <span className="lab">Loading run…</span>
@@ -40,7 +40,7 @@ export function Reading() {
 
   if (run === null) {
     return (
-      <div className="root">
+      <div className="root" data-path={isPulse ? undefined : "build"}>
         <Topbar liveDot activeSeg={isPulse ? "pulse" : "build"} showQuota={false} />
         <div className="stage" style={{ alignItems: "center", justifyContent: "center" }}>
           <span className="lab">Run not found.</span>
@@ -50,7 +50,7 @@ export function Reading() {
   }
 
   return (
-    <div className="root">
+    <div className="root" data-path={isPulse ? undefined : "build"}>
       <Topbar liveDot activeSeg={isPulse ? "pulse" : "build"} showQuota={false}>
         <div className="cmd">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#4d5661" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">

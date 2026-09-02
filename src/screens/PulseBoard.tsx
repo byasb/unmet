@@ -7,6 +7,7 @@ import { Gauge } from "../components/Gauge";
 import { Pips } from "../components/Pips";
 import { SourceSquare } from "../components/SourceSquare";
 import { CallLogLine } from "../components/CallLogLine";
+import { PulseTabs } from "../components/PulseTabs";
 import { useAiAnswers, useCalls, useGaps, usePlacesRead, useRun, toSourceCode } from "../data/api";
 import type { SourceCode } from "../data/types";
 
@@ -59,6 +60,7 @@ export function PulseBoard() {
           <span className="chip">{places.length} places</span>
           <span className="chip">this week</span>
         </div>
+        <PulseTabs active="board" />
         <button type="button" className="run" onClick={() => navigate("/pulse")}>
           RUN ANALYSIS
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">

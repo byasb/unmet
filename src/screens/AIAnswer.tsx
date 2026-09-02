@@ -1,5 +1,6 @@
 import { Topbar } from "../components/Topbar";
 import { StatusBar } from "../components/StatusBar";
+import { PulseTabs } from "../components/PulseTabs";
 import { useAiAnswers, useBusiness } from "../data/api";
 
 // design-unmet/AIAnswer.dc.html
@@ -48,6 +49,7 @@ export function AIAnswer() {
           </>
         }
       >
+        <PulseTabs active="ai" />
         <span className="tag warm">live</span>
       </Topbar>
 

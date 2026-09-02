@@ -53,7 +53,7 @@ export function Brief() {
 
   if (run === undefined || md === undefined) {
     return (
-      <div className="root">
+      <div className="root" data-path="build">
         <Topbar>
           <span className="lab">Loading brief…</span>
         </Topbar>
@@ -62,7 +62,7 @@ export function Brief() {
   }
   if (run === null || md === null) {
     return (
-      <div className="root">
+      <div className="root" data-path="build">
         <Topbar>
           <span className="lab">Run not found.</span>
         </Topbar>
@@ -71,7 +71,7 @@ export function Brief() {
   }
 
   return (
-    <div className="root">
+    <div className="root" data-path="build">
       <Topbar
         crumb={
           <>

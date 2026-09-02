@@ -15,6 +15,7 @@ const STEPS: Step[] = [
   { action: "build", dwell: 9000, note: "Build board · the users' own words", waitFor: /^\/build\/[^/]+$/ },
   { to: "/pulse", dwell: 2200, note: "Pulse · Stiles Switch BBQ, Austin" },
   { action: "pulse", dwell: 9000, note: "Pulse board · already hitting you", waitFor: /^\/pulse\/[^/]+$/ },
+  { to: "/pulse/street", dwell: 7000, note: "The street · who else is hit" },
   { to: "/pulse/ai", dwell: 8000, note: "What Google's AI answer says" },
   { to: "/pulse/home", dwell: 8000, note: "Tomorrow morning's card" },
   { to: "/pulse/replies", dwell: 6000, note: "Reply desk · three checks, then a human" },
