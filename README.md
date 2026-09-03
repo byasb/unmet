@@ -80,13 +80,28 @@ All of these are regression tests now. None were visible until real data hit the
 ```bash
 npm install
 npx convex dev            # creates your deployment; set env vars in the dashboard:
-                          #   SERPAPI_KEY, OPENROUTER_API_KEY, OFFLINE (1 to replay only)
-npx @convex-dev/auth      # generates the auth keys
-npm run dev
+                          #   SERPAPI_KEY, OPENROUTER_API_KEY, OFFLINE (1 to replay only), SITE_URL
+npx @convex-dev/auth      # generates the auth keys (JWT_PRIVATE_KEY, JWKS)
+npm run seed              # loads the 91 cached SerpApi responses into serp_cache
+npm run dev               # cockpit on http://localhost:5179
 ```
 
-Sign in, then run **Build → habit tracker** (fully cached, zero live calls) or **Pulse → barbecue near
-Austin** (cached for the seven-place set; live for anything else).
+Sign up in the app (new accounts are `viewer`), then promote yourself:
+
+```bash
+npx convex run admin:setRole '{"email":"you@example.com","role":"admin"}'
+```
+
+Seed the two demo runs without a browser (zero live calls while OFFLINE=1):
+
+```bash
+npx convex run admin:runBuildAs '{"email":"you@example.com","term":"habit tracker"}'
+npx convex run admin:runPulseAs '{"email":"you@example.com","name":"Stiles Switch BBQ","category":"barbecue","location":"Austin, TX"}'
+```
+
+Then **Build → habit tracker** replays from cache, **Pulse → Stiles Switch BBQ** replays the seven-place
+Austin set, and ▶ DEMO walks every screen. `npm run deploy` builds and ships the frontend to
+Cloudflare Workers (edit `wrangler.jsonc` for your own account and domain).
 
 Tests: `npm test` — the ported analyzer tests, cache-key round-trip, critic rules, usage caps.
 
